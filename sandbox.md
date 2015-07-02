@@ -1,0 +1,28 @@
+Title: Linux - Anwendungen in einer Sandbox starten
+Date: 2011-08-22 00:35
+Author: Heiko
+Category: Video
+Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Sicherheit,CC by,gnome3,SELinux,sandbox,Security
+Slug: sandbox
+Album: http://www.openscreencast.de
+Duration: 212000
+License: http://creativecommons.org/licenses/by-sa/3.0/
+Youtube: RPsfcTRRJBU
+Vimeo: 27827591
+Tumblr: http://openscreencast.tumblr.com/post/9045465383/anwendungen-in-einer-sandbox-starten-selinux
+Oggfile: http://www.openscreencast.de/archive/sandbox_165.ogg
+Oggfileom: http://www.openscreencast.de/archive/sandbox_oM_165.ogg
+Webmfile: http://www.openscreencast.de/archive/sandbox_165.webm
+Mp4file: http://www.openscreencast.de/archive/sandbox_165.mp4
+Srtfile: http://www.openscreencast.de/archive/sandbox_165.srt
+Srtfile_om: http://www.openscreencast.de/archive/sandbox_oM_165.srt
+Image: http://www.openscreencast.de/archive/sandbox_165.png
+
+Ausgangspunkt: Fedora 15  
+Zielgruppe: Neueinsteiger  
+
+Links:
+
+  * [WP:SELinux](http://de.wikipedia.org/wiki/SELinux "SELinux" )
+  * [WP:Sandbox](http://de.wikipedia.org/wiki/Sandbox "Sandbox" )
+
