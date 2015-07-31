@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 127000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: QpNoZhF5J_I
+Vimeo: 132317466
 Tumblr: http://openscreencast.tumblr.com/post/80375492316/libreoffice-makros-fuer-den-import-herunterladen
 Diaspora: https://pod.geraspora.de/posts/2045431
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 143000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: F4IxUQ2bXkI
+Vimeo: 120825607
 Tumblr: http://openscreencast.tumblr.com/post/67781598652/firefox-nightly-classic-theme-restorer-lizenz
 Diaspora: https://pod.geraspora.de/posts/1710257
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 256000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: a_KEq6ecrl4
+Vimeo: 87058261
 Tumblr: http://openscreencast.tumblr.com/post/57012925525/libreoffice-calc-rechenleiste-linux-mint-15
 Diaspora: https://pod.geraspora.de/posts/1441745
 

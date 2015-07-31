@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bN2pJcs7KzY
+Vimeo: 132198556
 Tumblr: http://openscreencast.tumblr.com/post/73746359307/steamos-session-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/1851884
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 255000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Vpcif-Zy4bA
+Vimeo: 89473227
 Tumblr: http://openscreencast.tumblr.com/post/63650993192/grml-2013-09-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1602563
 

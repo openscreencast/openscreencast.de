@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 233000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: zyHFkgBQf7k
+Vimeo: 89473195
 Tumblr: http://openscreencast.tumblr.com/post/63571137331/ffmpeg-text-in-ein-video-zeichnen-videofilter
 Diaspora: https://pod.geraspora.de/posts/1600928
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 195000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 43SaD9bCZww
+Vimeo: 123624367
 Tumblr: http://openscreencast.tumblr.com/post/70411378366/webodf-odf-dokumente-in-webseiten-einbinden
 Diaspora: https://pod.geraspora.de/posts/1778304
 

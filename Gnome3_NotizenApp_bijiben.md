@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 105000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: -bcRiqWjZJA
+Vimeo: 86819908
 Tumblr: http://openscreencast.tumblr.com/post/57183843839/gnome3-notizen-app-bijiben-fedora-19-lizenz
 Diaspora: https://pod.geraspora.de/posts/1446480
 

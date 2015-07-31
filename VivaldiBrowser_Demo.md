@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 643000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hb1dSzT5EnA
+Vimeo: 133456528
 Tumblr: http://openscreencast.tumblr.com/post/111391524000/vivaldi-browser-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3273029
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 208000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: rBhO06EU3lo
+Vimeo: 132816662
 Tumblr: http://openscreencast.tumblr.com/post/82919326917/linux-fensterposition-herausfinden-lizenz
 Diaspora: https://pod.geraspora.de/posts/2135905
 

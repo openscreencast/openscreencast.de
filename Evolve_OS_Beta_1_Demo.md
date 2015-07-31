@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 244000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: tgu1xO1266k
+Vimeo: 132929695
 Tumblr: http://openscreencast.tumblr.com/post/109304393665/evolve-os-beta-1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3178306
 

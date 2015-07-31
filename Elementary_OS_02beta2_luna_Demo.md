@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 262000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ef1-X8rRsU4
+Vimeo: 87058268
 Tumblr: http://openscreencast.tumblr.com/post/57430162666/elementary-os-0-2beta2-luna-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1453516
 

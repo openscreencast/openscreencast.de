@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 195000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: edAxBU7qtR8
+Vimeo: 132914488
 Tumblr: http://openscreencast.tumblr.com/post/84233397760/firefox-29-mit-australis-fuer-linux-lizenz
 Diaspora: https://pod.geraspora.de/posts/2180822
 

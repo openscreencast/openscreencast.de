@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 196000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: FghIh7xIfl0
+Vimeo: 86819896
 Tumblr: http://openscreencast.tumblr.com/post/57362219661/firefox-os-dnt-do-not-track-nicht-verfolgen
 Diaspora: https://pod.geraspora.de/posts/1451550
 

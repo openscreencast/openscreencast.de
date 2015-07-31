@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 68000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 1oWcHkzS5-A
+Vimeo: 87981718
 Tumblr: http://openscreencast.tumblr.com/post/59099964297/firefox-os-die-bildschirmdeaktivierung
 Diaspora: https://pod.geraspora.de/posts/1493229
 

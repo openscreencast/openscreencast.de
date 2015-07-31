@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 217000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: OfKnjhK_4NM
+Vimeo: 119676741
 Tumblr: http://openscreencast.tumblr.com/post/66301551209/linux-die-hardwareparameter-im-proc-verzeichnis
 Diaspora: https://pod.geraspora.de/posts/1669401
 

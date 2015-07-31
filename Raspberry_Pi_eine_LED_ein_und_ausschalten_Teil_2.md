@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 384000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 9VSil7-1pBY
+Vimeo: 132917748
 Tumblr: http://openscreencast.tumblr.com/post/84532694015/raspberry-pi-eine-led-ein-und-ausschalten
 Diaspora: https://pod.geraspora.de/posts/2193349
 

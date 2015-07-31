@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 124000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: dTqDidkFU14
+Vimeo: 132930950
 Tumblr: http://openscreencast.tumblr.com/post/109493459575/libreoffice-writer-editiermodus-einfugen-und
 Diaspora: https://pod.geraspora.de/posts/3186785
 

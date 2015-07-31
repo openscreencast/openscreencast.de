@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 267000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: ERF6pj_X2H8
+Vimeo: 133491433
 Tumblr: http://openscreencast.tumblr.com/post/116291203905/bella-os-2-2-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3494952
 

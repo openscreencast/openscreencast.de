@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 274000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: DH-phIMqZ8s
+Vimeo: 132320708
 Tumblr: http://openscreencast.tumblr.com/post/80799792130/reveal-js-praesentation-betrachten-lizenz
 Diaspora: https://pod.geraspora.de/posts/2060517
 

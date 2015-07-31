@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 125000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 0aZOGnjR6jw
+Vimeo: 89473203
 Tumblr: http://openscreencast.tumblr.com/post/62612098765/gnome-3-10-uhren-clocks-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1577852
 

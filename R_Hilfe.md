@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 159000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: iLOFj06w6TY
+Vimeo: 90161121
 Tumblr: http://openscreencast.tumblr.com/post/64396269495/r-hilfe-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1620132
 

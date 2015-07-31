@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 414000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: K9BO5Gt53SU
+Vimeo: 121216510
 Tumblr: http://openscreencast.tumblr.com/post/67481342591/debian-das-grundlegende-prinzip-der-debian
 Diaspora: https://pod.geraspora.de/posts/1701338
 

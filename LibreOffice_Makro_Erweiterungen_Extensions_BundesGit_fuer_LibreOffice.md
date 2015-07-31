@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 384000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: -dvPH6Nh0KU
+Vimeo: 132331297
 Tumblr: http://openscreencast.tumblr.com/post/82321370198/libreoffice-makro-erweiterungen-extensions
 Diaspora: https://pod.geraspora.de/posts/2115248
 

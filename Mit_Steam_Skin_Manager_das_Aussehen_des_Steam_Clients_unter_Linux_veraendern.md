@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 263000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: smGNX6D1bnE
+Vimeo: 132929693
 Tumblr: http://openscreencast.tumblr.com/post/89165599935/mit-steam-skin-manager-das-aussehen-des-steam
 Diaspora: https://pod.geraspora.de/posts/2356658
 

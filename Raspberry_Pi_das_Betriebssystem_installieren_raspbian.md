@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 359000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: qX-galb36Ng
+Vimeo: 89473255
 Tumblr: http://openscreencast.tumblr.com/post/63486492495/raspberry-pi-das-betriebssystem-installieren
 Diaspora: https://pod.geraspora.de/posts/1598688
 

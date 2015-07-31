@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 112000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: nrS-piZP16s
+Vimeo: 86819886
 Tumblr: http://openscreencast.tumblr.com/post/57183786274/libreoffice-calc-tabellenregister-und
 Diaspora: https://pod.geraspora.de/posts/1446477
 

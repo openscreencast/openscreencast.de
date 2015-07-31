@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 632000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: vEwKuo1g5gc
+Vimeo: 123806324
 Tumblr: http://openscreencast.tumblr.com/post/70182451866/diesmal-mit-hintergrundmusik-steamos-1-0-beta
 Diaspora: https://pod.geraspora.de/posts/1772102
 

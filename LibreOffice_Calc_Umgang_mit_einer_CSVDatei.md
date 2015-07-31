@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 300000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: MZDeox4BSOk
+Vimeo: 88224780
 Tumblr: http://openscreencast.tumblr.com/post/57538858631/libreoffice-calc-umgang-mit-einer-csv-datei
 Diaspora: https://pod.geraspora.de/posts/1457023
 

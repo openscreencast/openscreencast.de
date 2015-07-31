@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 261000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: bdzQNBjUsw8
+Vimeo: 132323797
 Tumblr: http://openscreencast.tumblr.com/post/81097100675/ubuntu-touch-weitere-apps-lizenz
 Diaspora: https://pod.geraspora.de/posts/2071241
 

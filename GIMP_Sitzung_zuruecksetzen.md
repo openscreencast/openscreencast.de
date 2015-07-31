@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 229000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: sVbCvjR1XV4
+Vimeo: 132199960
 Tumblr: http://openscreencast.tumblr.com/post/76850316885/gimp-sitzung-zuruecksetzen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1933315
 

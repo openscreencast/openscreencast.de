@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 330000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VRSxdtN-_5c
+Vimeo: 119926939
 Tumblr: http://openscreencast.tumblr.com/post/66903122937/fedora-20-beta-lxde-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1684930
 

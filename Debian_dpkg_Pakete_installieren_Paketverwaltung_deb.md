@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 221000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hi5JgrQlCWw
+Vimeo: 122501927
 Tumblr: http://openscreencast.tumblr.com/post/69805847787/debian-dpkg-pakete-installieren
 Diaspora: https://pod.geraspora.de/posts/1763046
 

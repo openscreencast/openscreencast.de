@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 87000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: yWtRF7HIMaU
+Vimeo: 122235592
 Tumblr: http://openscreencast.tumblr.com/post/69805975081/debian-dpkg-informationen-ueber-installierte
 Diaspora: https://pod.geraspora.de/posts/1763052
 

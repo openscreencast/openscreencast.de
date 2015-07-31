@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 130000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: oACMzHm60FE
+Vimeo: 119676742
 Tumblr: http://openscreencast.tumblr.com/post/66301618605/linux-andere-hardwareinformationen-im
 Diaspora: https://pod.geraspora.de/posts/1669403
 

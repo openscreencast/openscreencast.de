@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 92000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: wvdX8smM_Io
+Vimeo: 120825610
 Tumblr: http://openscreencast.tumblr.com/post/67481262768/firefox-os-einstellungen-datum-und-uhrzeit
 Diaspora: https://pod.geraspora.de/posts/1701334
 

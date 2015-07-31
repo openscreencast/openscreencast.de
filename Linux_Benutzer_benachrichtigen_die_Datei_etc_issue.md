@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 358000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: LqJs8NR-sjM
+Vimeo: 121216513
 Tumblr: http://openscreencast.tumblr.com/post/67870120364/linux-benutzer-benachrichtigen-die-datei
 Diaspora: https://pod.geraspora.de/posts/1712167
 

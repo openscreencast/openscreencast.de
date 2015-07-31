@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 151000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VqZbCs5Hr3I
+Vimeo: 88224801
 Tumblr: http://openscreencast.tumblr.com/post/59310524732/linux-dstat-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1497461
 

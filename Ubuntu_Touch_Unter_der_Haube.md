@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 463000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: njV1mI3cJtM
+Vimeo: 132327497
 Tumblr: http://openscreencast.tumblr.com/post/81911588297/ubuntu-touch-unter-der-haube-lizenz
 Diaspora: https://pod.geraspora.de/posts/2099603
 

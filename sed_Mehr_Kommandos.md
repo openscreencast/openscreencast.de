@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 279000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: aQWODmFxxpo
+Vimeo: 121216516
 Tumblr: http://openscreencast.tumblr.com/post/67077716427/sed-mehr-kommandos-lizenz
 Diaspora: https://pod.geraspora.de/posts/1690320
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 367000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3NnT3cuJEK4
+Vimeo: 128161641
 Tumblr: http://openscreencast.tumblr.com/post/70913501396/tails-0-22-demo-the-amnesic-incognito-live
 Diaspora: https://pod.geraspora.de/posts/1788935
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 324000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: F2UHad-7QqE
+Vimeo: 88224773
 Tumblr: http://openscreencast.tumblr.com/post/59123031252/antergos-2013-08-20-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1493896
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 185000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: -JFC6J8rg5Q
+Vimeo: 133649271
 Tumblr: http://openscreencast.tumblr.com/post/122589242395/gnome-einfache-bildschirmaufnahmen-mit
 Diaspora: https://pod.geraspora.de/posts/3776084
 

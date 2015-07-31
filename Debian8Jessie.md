@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 309000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: yTHx78mQ9us
+Vimeo: 133493398
 Tumblr: http://openscreencast.tumblr.com/post/117519288440/debian-8-jessie-steht-zur-verfugung-lizenz
 Diaspora: https://pod.geraspora.de/posts/3554154
 

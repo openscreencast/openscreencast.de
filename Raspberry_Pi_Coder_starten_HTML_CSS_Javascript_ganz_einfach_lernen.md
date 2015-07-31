@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 489000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: uGbVr6O08cw
+Vimeo: 90719715
 Tumblr: http://openscreencast.tumblr.com/post/64124123608/raspberry-pi-coder-starten-html-css
 Diaspora: https://pod.geraspora.de/posts/1613043
 

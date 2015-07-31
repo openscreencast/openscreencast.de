@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 215000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: T9zT7zqu3pg
+Vimeo: 84442789
 Tumblr: http://openscreencast.tumblr.com/post/56148847723/taskwarrior-reports-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1420131
 

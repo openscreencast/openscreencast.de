@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 146000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: bKYgXPr3BnA
+Vimeo: 133484242
 Tumblr: http://openscreencast.tumblr.com/post/111860633145/python-programmierung-modul-webbrowser-lizenz
 Diaspora: https://pod.geraspora.de/posts/3291690
 

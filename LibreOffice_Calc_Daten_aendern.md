@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 234000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 6yd8TQdDYSo
+Vimeo: 133446615
 Tumblr: http://openscreencast.tumblr.com/post/110001303750/libreoffice-calc-daten-aendern-lizenz
 Diaspora: https://pod.geraspora.de/posts/3209967
 

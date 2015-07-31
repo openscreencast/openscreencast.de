@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 284000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: DyIFALa2XVs
+Vimeo: 132819271
 Tumblr: http://openscreencast.tumblr.com/post/83100007310/libreoffice-seitenleiste-und-erscheinungsbild
 Diaspora: https://pod.geraspora.de/posts/2141886
 

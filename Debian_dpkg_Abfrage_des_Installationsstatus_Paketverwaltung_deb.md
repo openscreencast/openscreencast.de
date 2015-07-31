@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 142000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: kkDVaCEiGts
+Vimeo: 122501929
 Tumblr: http://openscreencast.tumblr.com/post/69903914851/debian-dpkg-abfrage-des-installationsstatus
 Diaspora: https://pod.geraspora.de/posts/1765831
 

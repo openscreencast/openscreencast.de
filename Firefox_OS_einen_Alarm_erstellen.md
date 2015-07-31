@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 147000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: wSxC40mNMzs
+Vimeo: 87981703
 Tumblr: http://openscreencast.tumblr.com/post/58623007714/firefox-os-einen-alarm-erstellen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1482929
 

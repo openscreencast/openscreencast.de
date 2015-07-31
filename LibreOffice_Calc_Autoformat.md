@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 162000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: e96ob1K1iPo
+Vimeo: 133488632
 Tumblr: http://openscreencast.tumblr.com/post/114142072345/libreoffice-calc-autoformatierung-von
 Diaspora: https://pod.geraspora.de/posts/3397634
 

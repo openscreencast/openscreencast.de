@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 175000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: MJPoxAnO5KE
+Vimeo: 132213568
 Tumblr: http://openscreencast.tumblr.com/post/79366310921/ubuntu-touch-scopes-lizenz
 Diaspora: https://pod.geraspora.de/posts/2010239
 

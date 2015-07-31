@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 177000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: fx35uCpzndc
+Vimeo: 132930951
 Tumblr: http://openscreencast.tumblr.com/post/109593167455/linux-anwendungen-in-anderer-sprache-starten
 Diaspora: https://pod.geraspora.de/posts/3192279
 

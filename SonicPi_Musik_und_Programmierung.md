@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 256000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: PzKs31SjVQ0
+Vimeo: 133495889
 Tumblr: http://openscreencast.tumblr.com/post/120621381260/sonic-pi-musik-und-programmierung-raspberry-pi
 Diaspora: https://pod.geraspora.de/posts/3691462
 

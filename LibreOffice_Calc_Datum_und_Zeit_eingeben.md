@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 215000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hbWiDXxRvhE
+Vimeo: 132822990
 Tumblr: http://openscreencast.tumblr.com/post/83637642626/libreoffice-calc-datum-und-zeit-eingeben
 Diaspora: https://pod.geraspora.de/posts/2158866
 

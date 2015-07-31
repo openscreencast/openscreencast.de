@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 144000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: epVWDCqhU9Y
+Vimeo: 122235594
 Tumblr: http://openscreencast.tumblr.com/post/69805918682/debian-dpkg-pakete-deinstallieren
 Diaspora: https://pod.geraspora.de/posts/1763049
 

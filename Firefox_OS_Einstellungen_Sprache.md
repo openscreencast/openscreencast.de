@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 72000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: aa66mq2-1hA
+Vimeo: 87981709
 Tumblr: http://openscreencast.tumblr.com/post/58622891650/firefox-os-einstellungen-sprache-lizenz
 Diaspora: https://pod.geraspora.de/posts/1482927
 

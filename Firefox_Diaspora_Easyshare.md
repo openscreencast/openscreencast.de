@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 151000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: XMGxJaRa9ik
+Vimeo: 131876206
 Tumblr: http://openscreencast.tumblr.com/post/72882579993/firefox-diaspora-easyshare-lizenz
 Diaspora: https://pod.geraspora.de/posts/1830195
 

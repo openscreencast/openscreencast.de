@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 171000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 0YfY3HN2YjQ
+Vimeo: 133495888
 Tumblr: http://openscreencast.tumblr.com/post/119940485605/firefox-nur-in-bestimmten-bereichen-suchen
 Diaspora: https://pod.geraspora.de/posts/3661442
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 191000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 5k7rOEiimuI
+Vimeo: 132215259
 Tumblr: http://openscreencast.tumblr.com/post/79671167417/firefox-os-1-3-simulator-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2020627
 

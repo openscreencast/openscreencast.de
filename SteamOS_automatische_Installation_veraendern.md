@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 133000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 2Enwz5VQ-Zg
+Vimeo: 123624363
 Tumblr: http://openscreencast.tumblr.com/post/70200952347/steamos-automatische-installation-veraendern
 Diaspora: https://pod.geraspora.de/posts/1772860
 

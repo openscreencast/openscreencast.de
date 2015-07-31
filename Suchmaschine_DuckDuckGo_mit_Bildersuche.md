@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 161000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: -uSVv9AfB1E
+Vimeo: 132919989
 Tumblr: http://openscreencast.tumblr.com/post/85129657015/suchmaschine-duckduckgo-mit-bildersuche-lizenz
 Diaspora: https://pod.geraspora.de/posts/2215726
 

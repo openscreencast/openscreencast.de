@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 61000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: fiQwFdHNEvM
+Vimeo: 133454872
 Tumblr: http://openscreencast.tumblr.com/post/111363331465/firefox-os-zeit-bis-zum-abschalten-des
 Diaspora: https://pod.geraspora.de/posts/3271008
 

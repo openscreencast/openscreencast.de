@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 301000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 13vuh_BzzQQ
+Vimeo: 90719739
 Tumblr: http://openscreencast.tumblr.com/post/64050703244/libreoffice-calc-von-zelle-zu-zelle-bewegen
 Diaspora: https://pod.geraspora.de/posts/1611387
 

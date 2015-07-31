@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 303000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: tJAbJnPSW_4
+Vimeo: 132203388
 Tumblr: http://openscreencast.tumblr.com/post/77801828570/slitaz-gnu-linux-cooking-20140216-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1958845
 

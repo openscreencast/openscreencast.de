@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 194000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: vCuMhy_Qb-w
+Vimeo: 133446618
 Tumblr: http://openscreencast.tumblr.com/post/110258041640/r-rstudio-installieren-und-starten-lizenz
 Diaspora: https://pod.geraspora.de/posts/3221810
 

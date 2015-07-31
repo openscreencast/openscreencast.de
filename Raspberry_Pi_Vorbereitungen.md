@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 155000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: iKeVyB_DCwg
+Vimeo: 89300122
 Tumblr: http://openscreencast.tumblr.com/post/63172243049/raspberry-pi-vorbereitungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1591175
 

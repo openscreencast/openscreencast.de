@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 356000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: wEuGHdkINZo
+Vimeo: 132930955
 Tumblr: http://openscreencast.tumblr.com/post/110001218550/git-fuer-einsteiger-git-repository-anlegenlizenz
 Diaspora: https://pod.geraspora.de/posts/3209950
 

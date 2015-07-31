@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 77000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: uh1fa-NDIKc
+Vimeo: 122235595
 Tumblr: http://openscreencast.tumblr.com/post/69903975993/debian-dpkg-aus-welchem-paket-stammt-eine
 Diaspora: https://pod.geraspora.de/posts/1765842
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 122000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bEggio8X2ls
+Vimeo: 86819889
 Tumblr: http://openscreencast.tumblr.com/post/57084132156/libreoffice-calc-zellen-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1443436
 

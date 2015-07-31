@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 269000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: kSvJeXLgPls
+Vimeo: 132325016
 Tumblr: http://openscreencast.tumblr.com/post/81412302734/reveal-js-vertikale-navigation-und-links-lizenz
 Diaspora: https://pod.geraspora.de/posts/2084183
 

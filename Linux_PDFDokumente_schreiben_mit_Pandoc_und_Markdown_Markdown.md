@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 248000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: Yql8ZfhFURY
+Vimeo: 98225593
 Tumblr: http://openscreencast.tumblr.com/post/65720577136/linux-pdf-dokumente-schreiben-mit-pandoc-und
 Diaspora: https://pod.geraspora.de/posts/1654657
 

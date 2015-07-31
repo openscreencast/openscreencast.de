@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 257000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 1fHuNYHqv-Y
+Vimeo: 90161152
 Tumblr: http://openscreencast.tumblr.com/post/64570740169/xubuntu-13-10-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1623795
 

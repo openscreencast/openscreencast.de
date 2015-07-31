@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 100000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: JA0bZeZKx98
+Vimeo: 132815108
 Tumblr: http://openscreencast.tumblr.com/post/82505677081/firefox-os-apps-verschieben-lizenz
 Diaspora: https://pod.geraspora.de/posts/2122285
 

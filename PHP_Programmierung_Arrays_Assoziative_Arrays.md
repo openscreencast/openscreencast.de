@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: xpRL6PFItwo
+Vimeo: 89473233
 Tumblr: http://openscreencast.tumblr.com/post/63571084582/php-programmierung-arrays-assoziative-arrays
 Diaspora: https://pod.geraspora.de/posts/1600922
 

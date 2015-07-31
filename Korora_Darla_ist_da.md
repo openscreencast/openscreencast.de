@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 5G9x71_6MDk
+Vimeo: 133448591
 Tumblr: http://openscreencast.tumblr.com/post/110639069175/korora-21-darla-ist-da-lizenz
 Diaspora: https://pod.geraspora.de/posts/3238264
 

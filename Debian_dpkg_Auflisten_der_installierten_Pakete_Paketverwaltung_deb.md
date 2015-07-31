@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 97000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: OMd-UgD2TE8
+Vimeo: 122235590
 Tumblr: http://openscreencast.tumblr.com/post/69806076525/debian-dpkg-auflisten-der-installierten-pakete
 Diaspora: https://pod.geraspora.de/posts/1763056
 

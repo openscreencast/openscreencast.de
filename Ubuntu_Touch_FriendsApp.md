@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 162000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: UcI-l_CbKvg
+Vimeo: 132217984
 Tumblr: http://openscreencast.tumblr.com/post/79876034732/ubuntu-touch-friends-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2026557
 

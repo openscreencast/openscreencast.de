@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 183000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: WuYDbB6Mr3A
+Vimeo: 132917749
 Tumblr: http://openscreencast.tumblr.com/post/84751856390/privacy-badger-die-datenschutz-erweiterung-fuer
 Diaspora: https://pod.geraspora.de/posts/2200738
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 155000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: CQZztR9JZHU
+Vimeo: 91485629
 Tumblr: http://openscreencast.tumblr.com/post/65148493195/libreoffice-calc-bewegen-von-blatt-zu-blatt
 Diaspora: https://pod.geraspora.de/posts/1639538
 

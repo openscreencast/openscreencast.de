@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 230000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: TwUGk8lEQQ0
+Vimeo: 132213575
 Tumblr: http://openscreencast.tumblr.com/post/79474090281/ubuntu-touch-kalender-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2014385
 

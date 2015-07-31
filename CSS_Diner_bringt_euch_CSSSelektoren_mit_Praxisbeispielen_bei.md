@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 180000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 1Ja04Egqs_Y
+Vimeo: 132320707
 Tumblr: http://openscreencast.tumblr.com/post/80799723549/css-diner-bringt-euch-css-selektoren-mit
 Diaspora: https://pod.geraspora.de/posts/2060513
 

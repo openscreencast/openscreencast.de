@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 228000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: ToZXRgXgiNA
+Vimeo: 133446617
 Tumblr: http://openscreencast.tumblr.com/post/110374790015/komprimieren-von-css-und-javascript-lizenz
 Diaspora: https://pod.geraspora.de/posts/3227001
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 318000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: qONlNyZgsNk
+Vimeo: 132821532
 Tumblr: http://openscreencast.tumblr.com/post/83100182304/firefox-fuer-den-betrieb-in-der-gnome-shell
 Diaspora: https://pod.geraspora.de/posts/2141892
 

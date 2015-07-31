@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 301000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 01P_ymuqHCA
+Vimeo: 83659436
 Tumblr: http://openscreencast.tumblr.com/post/54304661957/taskwarrior-wiederkehrende-aufgaben-linux-mint
 Diaspora: https://pod.geraspora.de/posts/1373380
 

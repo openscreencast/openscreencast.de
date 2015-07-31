@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 384000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: h7YpHP3c2Tc
+Vimeo: 98222745
 Tumblr: http://openscreencast.tumblr.com/post/64964787960/coder-auf-dem-pc-installieren-html-css
 Diaspora: https://pod.geraspora.de/posts/1634697
 

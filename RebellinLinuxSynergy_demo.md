@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 413000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: T69olVqF-sM
+Vimeo: 133452109
 Tumblr: http://openscreencast.tumblr.com/post/110988004345/rebellin-linux-synergy-2-5-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3255375
 

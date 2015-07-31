@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 295000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: m56xN_cSjgc
+Vimeo: 133484244
 Tumblr: http://openscreencast.tumblr.com/post/111962514770/das-web-cockpit-aus-fedora-21-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3296421
 

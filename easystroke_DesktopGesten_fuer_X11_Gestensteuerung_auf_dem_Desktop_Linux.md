@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 512000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: B_ty42Sw1Ys
+Vimeo: 88224808
 Tumblr: http://openscreencast.tumblr.com/post/59024865575/easystroke-desktop-gesten-fuer-x11
 Diaspora: https://pod.geraspora.de/posts/1491511
 

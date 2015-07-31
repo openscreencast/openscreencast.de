@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 434000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: oFFOeOE-AeA
+Vimeo: 88224815
 Tumblr: http://openscreencast.tumblr.com/post/59123090539/lxle-12-04-3-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1493899
 

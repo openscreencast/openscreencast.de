@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 450000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: MsVReK6rf00
+Vimeo: 132917750
 Tumblr: http://openscreencast.tumblr.com/post/85026982860/voyager-live-14-04-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/2211342
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 343000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: oUZuyXYcoLQ
+Vimeo: 132926062
 Tumblr: http://openscreencast.tumblr.com/post/86832402655/angularjs-hallo-welt-teil-2-ng-init
 Diaspora: https://pod.geraspora.de/posts/2276415
 

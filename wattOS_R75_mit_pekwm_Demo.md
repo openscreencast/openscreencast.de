@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 386000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GpnCGQ2EMkw
+Vimeo: 89473272
 Tumblr: http://openscreencast.tumblr.com/post/63651060283/wattos-r7-5-mit-pekwm-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1602565
 

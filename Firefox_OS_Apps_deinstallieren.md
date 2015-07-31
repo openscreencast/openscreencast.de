@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 65000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: TsfgPWThOW8
+Vimeo: 132323798
 Tumblr: http://openscreencast.tumblr.com/post/81097038027/firefox-os-apps-deinstallieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2071236
 

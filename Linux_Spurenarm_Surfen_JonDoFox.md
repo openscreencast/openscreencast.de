@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 343000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 22_0jyj_K-o
+Vimeo: 132812406
 Tumblr: http://openscreencast.tumblr.com/post/82400077991/linux-spurenarm-surfen-jondofox-lizenz
 Diaspora: https://pod.geraspora.de/posts/2118545
 

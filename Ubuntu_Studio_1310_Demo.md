@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 618000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: dp3Nwqe9wJA
+Vimeo: 91485692
 Tumblr: http://openscreencast.tumblr.com/post/64570820845/ubuntu-studio-13-10-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1623798
 

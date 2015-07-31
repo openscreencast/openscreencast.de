@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 277000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: F1aoLGhEY-w
+Vimeo: 133495887
 Tumblr: http://openscreencast.tumblr.com/post/117848441515/libreoffice-calc-bedingte-formatierungen
 Diaspora: https://pod.geraspora.de/posts/3571301
 

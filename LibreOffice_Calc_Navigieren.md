@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 312000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: wMKTczQzkGM
+Vimeo: 88224788
 Tumblr: http://openscreencast.tumblr.com/post/59421564839/libreoffice-calc-navigieren-linux-mint-15
 Diaspora: https://pod.geraspora.de/posts/1499643
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 136000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: MDfmqBlfCR4
+Vimeo: 132213573
 Tumblr: http://openscreencast.tumblr.com/post/79474037925/ubuntu-klassisches-gnome-menue-installieren
 Diaspora: https://pod.geraspora.de/posts/2014382
 

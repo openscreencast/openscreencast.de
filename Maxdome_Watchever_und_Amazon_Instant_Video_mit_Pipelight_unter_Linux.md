@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 515000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: Sxm_IIURs78
+Vimeo: 132812404
 Tumblr: http://openscreencast.tumblr.com/post/82321417088/maxdome-watchever-und-amazon-instant-video-mit
 Diaspora: https://pod.geraspora.de/posts/2115250
 

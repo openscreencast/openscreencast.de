@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 421000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 0zUGrEFJbHE
+Vimeo: 119694109
 Tumblr: http://openscreencast.tumblr.com/post/66795273280/centrych-os-12-04-2-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1681482
 

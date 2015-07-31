@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 344000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: cpCBWuxcpig
+Vimeo: 133486758
 Tumblr: http://openscreencast.tumblr.com/post/112234184020/xubuntu-15-04-beta-1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3309261
 

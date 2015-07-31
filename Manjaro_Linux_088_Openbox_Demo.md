@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 347000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: WYhyqtvlB9k
+Vimeo: 120825612
 Tumblr: http://openscreencast.tumblr.com/post/68342993288/manjaro-linux-0-8-8-openbox-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1724046
 

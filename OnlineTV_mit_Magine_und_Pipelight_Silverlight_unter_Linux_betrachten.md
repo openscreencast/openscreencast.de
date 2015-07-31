@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 307000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dIyHCbx8Jrw
+Vimeo: 132914487
 Tumblr: http://openscreencast.tumblr.com/post/84233332465/online-tv-mit-magine-und-pipelight-silverlight
 Diaspora: https://pod.geraspora.de/posts/2180808
 

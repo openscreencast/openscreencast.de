@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 175000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: FRO3pzwvbOo
+Vimeo: 84442753
 Tumblr: http://openscreencast.tumblr.com/post/55988450502/linux-textverarbeitung-in-der-kommandozeile
 Diaspora: https://pod.geraspora.de/posts/1416178
 

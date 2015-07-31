@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 166000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 8XXGNZ_EScc
+Vimeo: 133497736
 Tumblr: http://openscreencast.tumblr.com/post/121673540295/firefox-leseansicht-lizenz
 Diaspora: https://pod.geraspora.de/posts/3736874
 

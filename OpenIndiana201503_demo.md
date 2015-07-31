@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 257000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: RxNdTurXnYQ
+Vimeo: 133491432
 Tumblr: http://openscreencast.tumblr.com/post/115211564725/openindiana-2015-03-hipster-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3447063
 

@@ -8,8 +8,11 @@ Album: http://www.openscreencast.de
 Duration: 341000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: _-eE1HDBGuI
+Vimeo: 98507711
 Tumblr: http://openscreencast.tumblr.com/post/66207274912/raspberry-pi-arkos-installieren-self-hosting
 Diaspora: https://pod.geraspora.de/posts/1666665
+Oggfile: http://www.openscreencast.de/archive/arkos_installieren.ogg
+Webmfile: http://www.openscreencast.de/archive/arkos_installieren.webm
 
 Raspberry Pi - arkos installieren (Self-Hosting ganz einfach)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

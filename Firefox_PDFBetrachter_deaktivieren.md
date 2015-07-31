@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 93000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: AlqKRnPKvuY
+Vimeo: 86819891
 Tumblr: http://openscreencast.tumblr.com/post/56697077582/firefox-javascript-pdf-betrachter-deaktivieren
 Diaspora: https://pod.geraspora.de/posts/1433018
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 372000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: RO9MT1yzbSA
+Vimeo: 132210710
 Tumblr: http://openscreencast.tumblr.com/post/79169420005/ubuntu-touch-emulator-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2003268
 

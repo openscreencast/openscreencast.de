@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 357000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: IP1tqD5_UN8
+Vimeo: 123624361
 Tumblr: http://openscreencast.tumblr.com/post/70200865840/steamos-1-0-beta-demo-steamos-alchemist-test
 Diaspora: https://pod.geraspora.de/posts/1772854
 

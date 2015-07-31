@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 394000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: jbJLVj1l9qI
+Vimeo: 90719723
 Tumblr: http://openscreencast.tumblr.com/post/64237283148/ghost-ghost-installieren-benutzerfreundliche
 Diaspora: https://pod.geraspora.de/posts/1616330
 

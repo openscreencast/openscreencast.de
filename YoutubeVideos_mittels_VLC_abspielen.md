@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 176000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: -fp0DeGUvhY
+Vimeo: 128161643
 Tumblr: http://openscreencast.tumblr.com/post/71198766635/youtube-videos-mittels-vlc-abspielen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1794255
 

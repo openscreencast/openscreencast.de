@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 224000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: f9FobgLEh5k
+Vimeo: 132819268
 Tumblr: http://openscreencast.tumblr.com/post/83015481388/libreoffice-calc-zahlen-und-text-eingeben
 Diaspora: https://pod.geraspora.de/posts/2139058
 

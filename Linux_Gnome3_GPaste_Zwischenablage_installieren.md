@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 294000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: rUoGh-WaW7g
+Vimeo: 121216512
 Tumblr: http://openscreencast.tumblr.com/post/67185947429/linux-gnome3-gpaste-zwischenablage
 Diaspora: https://pod.geraspora.de/posts/1693197
 

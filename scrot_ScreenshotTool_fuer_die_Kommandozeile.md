@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 124000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: RKO9hZdHK14
+Vimeo: 84442775
 Tumblr: http://openscreencast.tumblr.com/post/55901189409/scrot-screenshot-tool-fuer-die-kommandozeile
 Diaspora: https://pod.geraspora.de/posts/1414077
 

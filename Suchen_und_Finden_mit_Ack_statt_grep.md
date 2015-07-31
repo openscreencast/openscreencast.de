@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 375000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: wJc1izhskT8
+Vimeo: 132914490
 Tumblr: http://openscreencast.tumblr.com/post/84337529545/linux-suchen-und-finden-mit-ack-statt-grep
 Diaspora: https://pod.geraspora.de/posts/2185283
 

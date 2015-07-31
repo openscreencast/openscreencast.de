@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 247000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: JaKatL24upE
+Vimeo: 132926061
 Tumblr: http://openscreencast.tumblr.com/post/86832306150/python-programmierung-import-pwd-lizenz
 Diaspora: https://pod.geraspora.de/posts/2276409
 

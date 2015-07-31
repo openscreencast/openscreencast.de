@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 108000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dWQDbITfjtY
+Vimeo: 133649462
 Tumblr: http://openscreencast.tumblr.com/post/122678784950/linktipp-2-feine-tutorialsammlungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3779532
 

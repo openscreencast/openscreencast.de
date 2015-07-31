@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 276000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: UuKRfhPShsk
+Vimeo: 134711889
 Tumblr: http://openscreencast.tumblr.com/post/72675136514/firefox-bessere-verschluesselung-einstellen
 Diaspora: https://pod.geraspora.de/posts/1824446
 

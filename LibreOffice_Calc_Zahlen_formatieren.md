@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 209000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GGO-OBE8DXU
+Vimeo: 133448593
 Tumblr: http://openscreencast.tumblr.com/post/110731518950/libreoffice-calc-zahlen-formatieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3242945
 

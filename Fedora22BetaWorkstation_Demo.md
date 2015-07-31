@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 391000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: H-vRMrdTYb0
+Vimeo: 133493397
 Tumblr: http://openscreencast.tumblr.com/post/117165614370/fedora-22-beta-workstation-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3538599
 

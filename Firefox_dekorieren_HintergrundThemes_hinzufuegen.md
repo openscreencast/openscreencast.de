@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 111000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: OASipNrqBtA
+Vimeo: 122235596
 Tumblr: http://openscreencast.tumblr.com/post/69723100311/firefox-dekorieren-hintergrund-themes-hinzufuegen
 Diaspora: https://pod.geraspora.de/posts/1760529
 

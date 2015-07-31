@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 653000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: FD_m2nfEBjM
+Vimeo: 132822988
 Tumblr: http://openscreencast.tumblr.com/post/83432219956/geeksphone-revolution-und-andere-geraete-mit-dem
 Diaspora: https://pod.geraspora.de/posts/2151447
 

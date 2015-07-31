@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 313000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Ridp-GVXs8w
+Vimeo: 132201288
 Tumblr: http://openscreencast.tumblr.com/post/77498187900/linux-android-auf-dem-pc-lizenz
 Diaspora: https://pod.geraspora.de/posts/1950440
 

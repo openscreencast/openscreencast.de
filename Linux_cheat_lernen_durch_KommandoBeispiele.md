@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: pMR5F8IdDGI
+Vimeo: 132201287
 Tumblr: http://openscreencast.tumblr.com/post/77498157570/linux-cheat-lernen-durch-kommando-beispiele
 Diaspora: https://pod.geraspora.de/posts/1950439
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 212000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 4R3G2dKxl5w
+Vimeo: 133454876
 Tumblr: http://openscreencast.tumblr.com/post/111391336015/openstreetmap-ab-sofort-mit-routenplaner-lizenz
 Diaspora: https://pod.geraspora.de/posts/3272994
 

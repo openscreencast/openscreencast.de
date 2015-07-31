@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 298000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: V_FMev-Ab_A
+Vimeo: 133489838
 Tumblr: http://openscreencast.tumblr.com/post/114768892565/angularjs-schleifen-ng-repeat-lizenz
 Diaspora: https://pod.geraspora.de/posts/3427702
 

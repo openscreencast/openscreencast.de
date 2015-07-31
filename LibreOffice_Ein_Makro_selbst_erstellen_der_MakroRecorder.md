@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 249000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: k3E8SF9p8qg
+Vimeo: 132201285
 Tumblr: http://openscreencast.tumblr.com/post/77498094012/libreoffice-ein-makro-selbst-erstellen-der
 Diaspora: https://pod.geraspora.de/posts/1950434
 

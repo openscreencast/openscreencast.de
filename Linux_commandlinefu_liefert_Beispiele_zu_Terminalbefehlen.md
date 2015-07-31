@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 322000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 0CgsCO81faE
+Vimeo: 132327499
 Tumblr: http://openscreencast.tumblr.com/post/81912289678/linux-commandlinefu-liefert-beispiele-zu
 Diaspora: https://pod.geraspora.de/posts/2099606
 

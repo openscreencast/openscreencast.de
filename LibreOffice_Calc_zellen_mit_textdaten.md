@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 141000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: jBAiqEJ4U24
+Vimeo: 133486761
 Tumblr: http://openscreencast.tumblr.com/post/114142020605/libreoffice-calc-zellen-mit-textdaten-lizenz
 Diaspora: https://pod.geraspora.de/posts/3397631
 

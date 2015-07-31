@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 88000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Mqs-AGq1gkw
+Vimeo: 86819910
 Tumblr: http://openscreencast.tumblr.com/post/57084194070/gnome3-uhren-app-fedora-19-lizenz
 Diaspora: https://pod.geraspora.de/posts/1443440
 

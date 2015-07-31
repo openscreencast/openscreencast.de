@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 349000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 68bH8P-OlM4
+Vimeo: 131876212
 Tumblr: http://openscreencast.tumblr.com/post/72242451329/video-editor-openshot-transparente-bilder-ueber
 Diaspora: https://pod.geraspora.de/posts/1814498
 

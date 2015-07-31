@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 94000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: v9qdxjldNFQ
+Vimeo: 132198554
 Tumblr: http://openscreencast.tumblr.com/post/73429138401/libreoffice-calc-loeschen-von-tabellenblaettern
 Diaspora: https://pod.geraspora.de/posts/1843909
 

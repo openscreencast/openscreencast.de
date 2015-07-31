@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 173000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: UO2KWqwlkCk
+Vimeo: 122235597
 Tumblr: http://openscreencast.tumblr.com/post/69723025121/libreoffice-calc-spalten-und-zeilen-loeschen
 Diaspora: https://pod.geraspora.de/posts/1760527
 

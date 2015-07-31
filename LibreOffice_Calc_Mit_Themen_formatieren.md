@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 120000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: kmixCzEndRQ
+Vimeo: 133489840
 Tumblr: http://openscreencast.tumblr.com/post/114834501510/libreoffice-calc-tabellen-mit-themen
 Diaspora: https://pod.geraspora.de/posts/3430115
 

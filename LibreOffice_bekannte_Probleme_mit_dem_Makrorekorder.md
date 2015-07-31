@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 350000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hVSPM3Ez_hE
+Vimeo: 132215254
 Tumblr: http://openscreencast.tumblr.com/post/79566426022/libreoffice-bekannte-probleme-mit-dem
 Diaspora: https://pod.geraspora.de/posts/2017708
 

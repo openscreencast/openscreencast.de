@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 92000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 0HreexQ8Tdk
+Vimeo: 89473216
 Tumblr: http://openscreencast.tumblr.com/post/62612308427/gnome-3-10-software-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1577868
 

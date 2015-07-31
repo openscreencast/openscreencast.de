@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 265000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 9aUbuVohqaM
+Vimeo: 133456530
 Tumblr: http://openscreencast.tumblr.com/post/111660171165/git-fuer-einsteiger-der-erste-commit-teil-2
 Diaspora: https://pod.geraspora.de/posts/3284720
 

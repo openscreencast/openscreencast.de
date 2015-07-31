@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 305000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bkgJMBuHLkA
+Vimeo: 91485678
 Tumblr: http://openscreencast.tumblr.com/post/65172024347/python-programmierung-modul-random
 Diaspora: https://pod.geraspora.de/posts/1640289
 

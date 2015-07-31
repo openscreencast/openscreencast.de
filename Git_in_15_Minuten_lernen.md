@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 102000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: NmN2kIzG4XU
+Vimeo: 132922044
 Tumblr: http://openscreencast.tumblr.com/post/85239449385/git-in-15-minuten-lernen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2220312
 

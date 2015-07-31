@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 363000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3yAjv-ky8io
+Vimeo: 128161639
 Tumblr: http://openscreencast.tumblr.com/post/71880622817/sd-karte-des-raspberry-pi-mit-dd-sichern-lizenz
 Diaspora: https://pod.geraspora.de/posts/1807769
 

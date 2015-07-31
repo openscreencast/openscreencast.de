@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 494000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: wvpfUnOVug0
+Vimeo: 122501931
 Tumblr: http://openscreencast.tumblr.com/post/69389356109/easy-game-scripting-mit-lua-egsl-ein-beispiel
 Diaspora: https://pod.geraspora.de/posts/1751065
 

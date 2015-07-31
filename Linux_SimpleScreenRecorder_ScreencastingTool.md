@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bN2bqTcuEqE
+Vimeo: 119676748
 Tumblr: http://openscreencast.tumblr.com/post/66959320064/linux-simplescreenrecorder-screencasting-tool
 Diaspora: https://pod.geraspora.de/posts/1686307
 

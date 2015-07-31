@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 366000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Qq0EuYnZRSw
+Vimeo: 132826525
 Tumblr: http://openscreencast.tumblr.com/post/83927797070/libreoffice-calc-zellen-mit-auto-ausfuellen
 Diaspora: https://pod.geraspora.de/posts/2169759
 

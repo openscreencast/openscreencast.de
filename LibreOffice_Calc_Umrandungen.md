@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 165000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hsUbfOd87Gs
+Vimeo: 133484240
 Tumblr: http://openscreencast.tumblr.com/post/111660291405/libreoffice-calc-umrandungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3284726
 

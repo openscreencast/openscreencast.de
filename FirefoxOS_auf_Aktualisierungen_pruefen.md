@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 73000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: YaE2b2CIAsw
+Vimeo: 133454874
 Tumblr: http://openscreencast.tumblr.com/post/111363354540/firefox-os-auf-aktualisierungen-pruefen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3271010
 

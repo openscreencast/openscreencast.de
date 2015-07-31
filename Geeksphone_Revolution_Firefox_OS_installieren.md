@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 258000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: xbNqD9jUGuw
+Vimeo: 132815111
 Tumblr: http://openscreencast.tumblr.com/post/82505779546/geeksphone-revolution-firefox-os-installieren
 Diaspora: https://pod.geraspora.de/posts/2122283
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 361000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: U9uDblQ9SGk
+Vimeo: 132206544
 Tumblr: http://openscreencast.tumblr.com/post/78568573934/gimp-bildschirm-durchsichtig-machen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1984980
 

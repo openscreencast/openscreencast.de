@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 125000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: LhV8CyF7f4w
+Vimeo: 98225589
 Tumblr: http://openscreencast.tumblr.com/post/65811413146/firefox-ungefaehre-standortbestimmung
 Diaspora: https://pod.geraspora.de/posts/1656706
 

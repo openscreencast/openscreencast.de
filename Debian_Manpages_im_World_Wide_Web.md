@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 153000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: T31nQkXQMWA
+Vimeo: 132198555
 Tumblr: http://openscreencast.tumblr.com/post/73429207423/debian-manpages-im-world-wide-web-lizenz
 Diaspora: https://pod.geraspora.de/posts/1843912
 

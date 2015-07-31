@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 138000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 3T0rQReakUI
+Vimeo: 133485597
 Tumblr: http://openscreencast.tumblr.com/post/112153947810/linux-webbrowsing-in-der-konsole-mit-links2
 Diaspora: https://pod.geraspora.de/posts/3305541
 

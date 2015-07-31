@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 101000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: YGaBNCf2tls
+Vimeo: 89300142
 Tumblr: http://openscreencast.tumblr.com/post/59603636553/taskwarrior-dringlichkeit-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1503519
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 324000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: R95cEE6Ij6U
+Vimeo: 83659363
 Tumblr: http://openscreencast.tumblr.com/post/54635218511/fedora-19-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1382562
 

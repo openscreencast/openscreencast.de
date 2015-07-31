@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 223000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: I-SiKUoVFYQ
+Vimeo: 132822987
 Tumblr: http://openscreencast.tumblr.com/post/83431263274/fertige-virtuelle-maschinen-mit-zahlreichen-freien
 Diaspora: https://pod.geraspora.de/posts/2151443
 

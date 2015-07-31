@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 469000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: iNjChme_3s0
+Vimeo: 131876204
 Tumblr: http://openscreencast.tumblr.com/post/72574924766/av-linux-6-0-2-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1822025
 

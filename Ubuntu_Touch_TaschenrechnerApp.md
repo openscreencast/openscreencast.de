@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 85000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: KVTcDWxLHA0
+Vimeo: 132217987
 Tumblr: http://openscreencast.tumblr.com/post/80083796373/ubuntu-touch-taschenrechner-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2034692
 

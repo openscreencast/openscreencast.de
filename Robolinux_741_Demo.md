@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 363000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: WoeEDv0JRm0
+Vimeo: 132203387
 Tumblr: http://openscreencast.tumblr.com/post/77801804466/robolinux-7-4-1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1958844
 

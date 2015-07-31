@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 239000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: LqDNmRAz1k0
+Vimeo: 123624355
 Tumblr: http://openscreencast.tumblr.com/post/70411313230/linux-tr-translate-zeichen-eines
 Diaspora: https://pod.geraspora.de/posts/1778301
 

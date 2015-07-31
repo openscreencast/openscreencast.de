@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 161000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: Pkb8EugZ5As
+Vimeo: 132815112
 Tumblr: http://openscreencast.tumblr.com/post/82593602745/foxbleed-seiten-auf-bekannte-openssl-luecke
 Diaspora: https://pod.geraspora.de/posts/2124569
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 153000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: GdrTEQo8wSA
+Vimeo: 123624357
 Tumblr: http://openscreencast.tumblr.com/post/70816650844/linux-wc-word-count-zeichen-woerter-und
 Diaspora: https://pod.geraspora.de/posts/1787163
 

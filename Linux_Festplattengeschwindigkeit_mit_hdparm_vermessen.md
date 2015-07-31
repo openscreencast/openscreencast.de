@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 269000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: 7mDPnr-IDvE
+Vimeo: 132923579
 Tumblr: http://openscreencast.tumblr.com/post/86210672135/linux-festplattengeschwindigkeit-mit-hdparm
 Diaspora: https://pod.geraspora.de/posts/2254307
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 204000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Elgy5zfAf9Y
+Vimeo: 89473231
 Tumblr: http://openscreencast.tumblr.com/post/59502213820/imagemagick-bilder-mit-text-erstellen
 Diaspora: https://pod.geraspora.de/posts/1501146
 

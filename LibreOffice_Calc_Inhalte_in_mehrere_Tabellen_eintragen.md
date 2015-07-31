@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 123000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: JnNxtbMG-T4
+Vimeo: 132826528
 Tumblr: http://openscreencast.tumblr.com/post/84233272350/libreoffice-calc-inhalte-in-mehrere-tabellen
 Diaspora: https://pod.geraspora.de/posts/2180804
 

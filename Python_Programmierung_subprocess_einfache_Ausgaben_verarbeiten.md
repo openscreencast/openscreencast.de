@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 233000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: zZFg6-zTEYw
+Vimeo: 120825613
 Tumblr: http://openscreencast.tumblr.com/post/67310344140/python-programmierung-subprocess-einfache
 Diaspora: https://pod.geraspora.de/posts/1696113
 

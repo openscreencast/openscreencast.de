@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 153000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: _trAOuKfQNA
+Vimeo: 119676743
 Tumblr: http://openscreencast.tumblr.com/post/66604144028/linux-kernel-und-softwareinformationen-im
 Diaspora: https://pod.geraspora.de/posts/1676693
 

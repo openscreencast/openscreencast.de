@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 374000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: dLV0Z5VXjVs
+Vimeo: 133452110
 Tumblr: http://openscreencast.tumblr.com/post/111184092380/kde-plasma-5-2-demo-mit-kaos-und-netrunner-15
 Diaspora: https://pod.geraspora.de/posts/3263486
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 201000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: WVcnQgPTcK0
+Vimeo: 132325014
 Tumblr: http://openscreencast.tumblr.com/post/81801510830/reveal-js-automatische-praesentation-starten
 Diaspora: https://pod.geraspora.de/posts/2096349
 

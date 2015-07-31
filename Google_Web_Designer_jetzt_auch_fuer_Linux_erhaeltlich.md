@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 339000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: TAw6C-rC2i4
+Vimeo: 132826529
 Tumblr: http://openscreencast.tumblr.com/post/83927865100/google-web-designer-jetzt-auch-fuer-linux
 Diaspora: https://pod.geraspora.de/posts/2169762
 

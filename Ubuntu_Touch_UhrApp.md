@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 227000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: QyjWbuP6WAU
+Vimeo: 132213577
 Tumblr: http://openscreencast.tumblr.com/post/79474128761/ubuntu-touch-uhr-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2014389
 

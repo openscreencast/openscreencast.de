@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 131000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: cuh1h57PrfQ
+Vimeo: 132929696
 Tumblr: http://openscreencast.tumblr.com/post/109388583655/regulaere-ausdruecke-mit-regex-cross-word-lernen
 Diaspora: https://pod.geraspora.de/posts/3181406
 

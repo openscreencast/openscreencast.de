@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 103000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ZHDvp7KBAmM
+Vimeo: 119676744
 Tumblr: http://openscreencast.tumblr.com/post/66604222986/linux-weitere-wichtige-unterverzeichnisse-in
 Diaspora: https://pod.geraspora.de/posts/1676694
 

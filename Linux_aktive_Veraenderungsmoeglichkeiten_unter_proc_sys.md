@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 223000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: lEfqNCvptV8
+Vimeo: 119676745
 Tumblr: http://openscreencast.tumblr.com/post/66604295219/linux-aktive-veraenderungsmoeglichkeiten-unter
 Diaspora: https://pod.geraspora.de/posts/1676696
 

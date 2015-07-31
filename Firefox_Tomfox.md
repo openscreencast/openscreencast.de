@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 129000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: PD3eTi1YivI
+Vimeo: 133448590
 Tumblr: http://openscreencast.tumblr.com/post/110481247665/notizen-fur-tomboy-aus-firefox-heraus-erzeugen
 Diaspora: https://pod.geraspora.de/posts/3231057
 

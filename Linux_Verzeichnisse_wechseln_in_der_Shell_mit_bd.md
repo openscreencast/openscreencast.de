@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 242000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: WAGapFoJKjA
+Vimeo: 91485670
 Tumblr: http://openscreencast.tumblr.com/post/65242505549/linux-verzeichnisse-wechseln-in-der-shell-mit-bd
 Diaspora: https://pod.geraspora.de/posts/1641768
 

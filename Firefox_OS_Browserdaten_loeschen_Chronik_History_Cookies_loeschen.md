@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 81000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: QgWRWCzSjxw
+Vimeo: 98225590
 Tumblr: http://openscreencast.tumblr.com/post/65811490207/firefox-os-browserdaten-loeschen-chronik
 Diaspora: https://pod.geraspora.de/posts/1656708
 

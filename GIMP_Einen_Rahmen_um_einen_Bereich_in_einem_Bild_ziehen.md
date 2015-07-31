@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 247000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: mYJE59lh7GQ
+Vimeo: 132816664
 Tumblr: http://openscreencast.tumblr.com/post/82925051446/gimp-einen-rahmen-um-einen-bereich-in-einem-bild
 Diaspora: https://pod.geraspora.de/posts/2135910
 

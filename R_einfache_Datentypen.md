@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 276000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dnkUZTFvjrQ
+Vimeo: 132926059
 Tumblr: http://openscreencast.tumblr.com/post/86832237940/r-einfache-datentypen-numeric-logical
 Diaspora: https://pod.geraspora.de/posts/2276402
 

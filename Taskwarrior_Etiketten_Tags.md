@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 178000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: XvZssvb3wtc
+Vimeo: 83659429
 Tumblr: http://openscreencast.tumblr.com/post/54389543354/taskwarrior-etiketten-tags-linux-mint-15
 Diaspora: https://pod.geraspora.de/posts/1375951
 

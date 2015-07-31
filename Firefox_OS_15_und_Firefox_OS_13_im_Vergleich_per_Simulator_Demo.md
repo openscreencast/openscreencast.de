@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 539000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: aWx8K2idXjY
+Vimeo: 132812407
 Tumblr: http://openscreencast.tumblr.com/post/82328388107/firefox-os-1-5-und-firefox-os-1-3-im-vergleich
 Diaspora: https://pod.geraspora.de/posts/2115512
 

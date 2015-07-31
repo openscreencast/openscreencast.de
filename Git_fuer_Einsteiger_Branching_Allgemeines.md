@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 166000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: rvBXmjXqpN8
+Vimeo: 133489841
 Tumblr: http://openscreencast.tumblr.com/post/114950875895/git-fur-einsteiger-allgemeines-zum-branching
 Diaspora: https://pod.geraspora.de/posts/3434711
 

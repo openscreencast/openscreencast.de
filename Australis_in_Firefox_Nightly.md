@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 282000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: eTIGc5Duwi8
+Vimeo: 120825608
 Tumblr: http://openscreencast.tumblr.com/post/67576489716/australis-in-firefox-nightly-lizenz
 Diaspora: https://pod.geraspora.de/posts/1704004
 

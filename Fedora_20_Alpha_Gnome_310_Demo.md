@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 429000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Vy4b2oRC2GM
+Vimeo: 89473190
 Tumblr: http://openscreencast.tumblr.com/post/62526365141/fedora-20-alpha-gnome-3-10-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1576336
 

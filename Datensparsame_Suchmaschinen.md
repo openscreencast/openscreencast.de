@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 373000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: sJb7AN7cdoM
+Vimeo: 132819272
 Tumblr: http://openscreencast.tumblr.com/post/83100107271/datensparsame-suchmaschinen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2141888
 

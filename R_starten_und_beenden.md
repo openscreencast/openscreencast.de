@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 109000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 18PFLVZFKGA
+Vimeo: 89473246
 Tumblr: http://openscreencast.tumblr.com/post/63276420789/r-starten-und-beenden-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1593302
 

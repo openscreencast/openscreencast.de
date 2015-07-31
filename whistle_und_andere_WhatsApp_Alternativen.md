@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 152000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: i7TS8hfOdvw
+Vimeo: 132201284
 Tumblr: http://openscreencast.tumblr.com/post/77283562073/whistle-und-andere-whatsapp-alternativen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1944065
 

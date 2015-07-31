@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 456000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ImQhjors4T8
+Vimeo: 90719770
 Tumblr: http://openscreencast.tumblr.com/post/64305984281/slackel-5-0-openbox-edition-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1617828
 

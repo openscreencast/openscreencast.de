@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 469000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: gHMQKZGjjiw
+Vimeo: 90719751
 Tumblr: http://openscreencast.tumblr.com/post/63909816785/linux-liquid-prompt-lizenz
 Diaspora: https://pod.geraspora.de/posts/1608046
 

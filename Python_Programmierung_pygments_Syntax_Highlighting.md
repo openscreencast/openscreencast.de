@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 545000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: D7GtJ6JDNJU
+Vimeo: 132826524
 Tumblr: http://openscreencast.tumblr.com/post/83638172856/python-programmierung-pygments
 Diaspora: https://pod.geraspora.de/posts/2158876
 

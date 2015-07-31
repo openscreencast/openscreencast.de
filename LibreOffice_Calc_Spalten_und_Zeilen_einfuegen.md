@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 184000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: k_4ehQyuqe8
+Vimeo: 122501934
 Tumblr: http://openscreencast.tumblr.com/post/69722965450/libreoffice-calc-spalten-und-zeilen-einfuegen
 Diaspora: https://pod.geraspora.de/posts/1760524
 

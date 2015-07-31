@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 349000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: g6nHajx6Y6E
+Vimeo: 87058276
 Tumblr: http://openscreencast.tumblr.com/post/57362098293/os4-openlinux-13-6-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1451521
 

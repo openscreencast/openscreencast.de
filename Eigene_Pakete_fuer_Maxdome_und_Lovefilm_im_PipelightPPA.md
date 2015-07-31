@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 131000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: wtiF-NQKA4w
+Vimeo: 132821533
 Tumblr: http://openscreencast.tumblr.com/post/83121008280/eigene-pakete-fuer-maxdome-und-lovefilm-im
 Diaspora: https://pod.geraspora.de/posts/2142674
 

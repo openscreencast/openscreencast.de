@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 166000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: UKcov9kJbu0
+Vimeo: 84442746
 Tumblr: http://openscreencast.tumblr.com/post/55988369758/libreoffice-calc-titelleiste-menueleiste
 Diaspora: https://pod.geraspora.de/posts/1416165
 

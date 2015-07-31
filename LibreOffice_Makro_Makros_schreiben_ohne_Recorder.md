@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 275000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: g3dcm1kXPlw
+Vimeo: 132922041
 Tumblr: http://openscreencast.tumblr.com/post/85239398940/libreoffice-makro-makros-schreiben-ohne-recorder
 Diaspora: https://pod.geraspora.de/posts/2220305
 

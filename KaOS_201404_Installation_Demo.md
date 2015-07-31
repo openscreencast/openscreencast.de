@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 297000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: BN-67gu-Eh8
+Vimeo: 132821534
 Tumblr: http://openscreencast.tumblr.com/post/83311090751/kaos-2014-04-installation-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/2147839
 

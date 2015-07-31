@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 421000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: QvQuB0PfrBA
+Vimeo: 133456531
 Tumblr: http://openscreencast.tumblr.com/post/111660247950/angularjs-listen-ng-list-orderby-lizenz
 Diaspora: https://pod.geraspora.de/posts/3284724
 

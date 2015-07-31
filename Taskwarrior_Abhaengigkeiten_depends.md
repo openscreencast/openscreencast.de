@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 246000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: cp22NlXhK5Q
+Vimeo: 83659419
 Tumblr: http://openscreencast.tumblr.com/post/54389484704/taskwarrior-abhaengigkeiten-depends-linux-mint
 Diaspora: https://pod.geraspora.de/posts/1375950
 

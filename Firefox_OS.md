@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 173000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: KyvNlb1MOlk
+Vimeo: 86818274
 Tumblr: http://openscreencast.tumblr.com/post/56450961986/firefox-os-lizenz
 Diaspora: https://pod.geraspora.de/posts/1427449
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 381000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: qs5k2RVFyIQ
+Vimeo: 84744893
 Tumblr: http://openscreencast.tumblr.com/post/54961504379/simplicity-linux-13-7-beta-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1390322
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 276000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: WtRY2avyEHc
+Vimeo: 133486760
 Tumblr: http://openscreencast.tumblr.com/post/112517497860/ubuntu-mate-15-04-beta-1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3320529
 

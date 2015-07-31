@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 104000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: rmLssAmbrxE
+Vimeo: 122235598
 Tumblr: http://openscreencast.tumblr.com/post/69489907486/linux-explainshell-lizenz
 Diaspora: https://pod.geraspora.de/posts/1753556
 

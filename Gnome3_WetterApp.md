@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 100000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: vl3-YyBGvzE
+Vimeo: 86819911
 Tumblr: http://openscreencast.tumblr.com/post/57012752089/gnome3-wetter-app-fedora-19-lizenz
 Diaspora: https://pod.geraspora.de/posts/1441744
 

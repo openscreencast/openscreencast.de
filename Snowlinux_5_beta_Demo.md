@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 307000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: gGqfqQ6d58Q
+Vimeo: 90161139
 Tumblr: http://openscreencast.tumblr.com/post/64305920519/snowlinux-5-beta-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1617827
 

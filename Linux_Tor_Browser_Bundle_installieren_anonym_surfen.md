@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 219000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: bOdkJo8U3II
+Vimeo: 132219572
 Tumblr: http://openscreencast.tumblr.com/post/80279320194/linux-tor-browser-bundle-installieren-anonym
 Diaspora: https://pod.geraspora.de/posts/2042241
 

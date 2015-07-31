@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 78000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VpBBUqxlzPw
+Vimeo: 120825606
 Tumblr: http://openscreencast.tumblr.com/post/67946786366/firefox-schnelle-youtube-suche-add-on-search-in
 Diaspora: https://pod.geraspora.de/posts/1713920
 

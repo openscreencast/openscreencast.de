@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 76000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: byOfOmhN-tU
+Vimeo: 133497737
 Tumblr: http://openscreencast.tumblr.com/post/122338922635/linktipp-linux-the-art-of-command-line-lizenz
 Diaspora: https://pod.geraspora.de/posts/3765162
 

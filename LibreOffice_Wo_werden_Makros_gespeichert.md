@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 120000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: DoAbTuAzlo0
+Vimeo: 132219565
 Tumblr: http://openscreencast.tumblr.com/post/80176813960/libreoffice-wo-werden-makros-gespeichert
 Diaspora: https://pod.geraspora.de/posts/2038151
 

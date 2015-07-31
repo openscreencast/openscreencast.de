@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 248000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: zwZTTvnhZ-U
+Vimeo: 90719705
 Tumblr: http://openscreencast.tumblr.com/post/64123973732/raspberry-pi-coder-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/1613040
 

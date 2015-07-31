@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 200000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hoeDU_-FgPc
+Vimeo: 84442765
 Tumblr: http://openscreencast.tumblr.com/post/55901127218/libreoffice-was-ist-calc-linux-mint-15
 Diaspora: https://pod.geraspora.de/posts/1414073
 

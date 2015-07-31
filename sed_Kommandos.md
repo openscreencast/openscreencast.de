@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 144000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: tFgLpqBdwYQ
+Vimeo: 86819922
 Tumblr: http://openscreencast.tumblr.com/post/56890396603/sed-kommandos-linux-mint-15-lizenz
 Diaspora: https://pod.geraspora.de/posts/1438601
 

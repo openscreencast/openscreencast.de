@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 196000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 5YNXc5HKoAI
+Vimeo: 119676739
 Tumblr: http://openscreencast.tumblr.com/post/67185841761/linux-gnome3-text-translator-fedora-19
 Diaspora: https://pod.geraspora.de/posts/1693193
 

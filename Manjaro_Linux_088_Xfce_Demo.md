@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 447000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: j7Vfr7ArHu4
+Vimeo: 121216515
 Tumblr: http://openscreencast.tumblr.com/post/68342940520/manjaro-linux-0-8-8-xfce-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1724043
 

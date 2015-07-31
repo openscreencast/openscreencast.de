@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 128000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: LU7nEolJYiU
+Vimeo: 132919987
 Tumblr: http://openscreencast.tumblr.com/post/85027132945/gnome3-numlock-und-capslock-status-im-panel
 Diaspora: https://pod.geraspora.de/posts/2211351
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 273000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: 93lMGJBGsWM
+Vimeo: 132331296
 Tumblr: http://openscreencast.tumblr.com/post/82321290207/reveal-js-weitere-moeglichkeiten-folienuebergang
 Diaspora: https://pod.geraspora.de/posts/2115245
 

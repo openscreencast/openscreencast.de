@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 252000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: ehS1p4SEyOA
+Vimeo: 86819898
 Tumblr: http://openscreencast.tumblr.com/post/56451012267/firefox-os-bedienung-lizenz
 Diaspora: https://pod.geraspora.de/posts/1427451
 

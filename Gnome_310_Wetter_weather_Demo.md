@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 96000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hsNTRBaZHJQ
+Vimeo: 89473221
 Tumblr: http://openscreencast.tumblr.com/post/62612396403/gnome-3-10-wetter-weather-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1577873
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 121000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: i3odKpigPCo
+Vimeo: 89473187
 Tumblr: http://openscreencast.tumblr.com/post/63486638078/arduino-vorbereitungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1598695
 

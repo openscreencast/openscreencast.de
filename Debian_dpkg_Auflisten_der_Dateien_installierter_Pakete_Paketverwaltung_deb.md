@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 62000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: MxvYvFugV5o
+Vimeo: 122235591
 Tumblr: http://openscreencast.tumblr.com/post/69903835627/debian-dpkg-auflisten-der-dateien
 Diaspora: https://pod.geraspora.de/posts/1765827
 

@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 361000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GdpraAZcXW4
+Vimeo: 121216518
 Tumblr: http://openscreencast.tumblr.com/post/68443972724/solydx-201311-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1726799
 

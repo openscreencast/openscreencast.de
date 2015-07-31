@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 748000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 6wD60cFGVKw
+Vimeo: 91485662
 Tumblr: http://openscreencast.tumblr.com/post/65375188590/kwheezy-1-3-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1645397
 

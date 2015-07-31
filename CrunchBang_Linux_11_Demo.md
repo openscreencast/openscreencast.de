@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 460000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: _VSdyDjad34
+Vimeo: 84442748
 Tumblr: http://openscreencast.tumblr.com/post/55037042000/crunchbang-linux-11-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1392311
 

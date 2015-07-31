@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 262000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: HTK67skKYEY
+Vimeo: 132816663
 Tumblr: http://openscreencast.tumblr.com/post/82921784246/libreoffice-calc-fenster-teilen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2135907
 

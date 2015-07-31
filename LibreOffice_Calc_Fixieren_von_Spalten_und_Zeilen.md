@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 278000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: czJ6EpZRFGU
+Vimeo: 132331294
 Tumblr: http://openscreencast.tumblr.com/post/82130727170/libreoffice-calc-fixieren-von-spalten-und
 Diaspora: https://pod.geraspora.de/posts/2107773
 

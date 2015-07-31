@@ -8,6 +8,7 @@ Album: http://www.openscreencast.de
 Duration: 358000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: lCScxEAINn8
+Vimeo: 119676736
 Tumblr: http://openscreencast.tumblr.com/post/66974233876/raspberry-pi-arkos-genesis-terminal-und
 Diaspora: https://pod.geraspora.de/posts/1687028
 
