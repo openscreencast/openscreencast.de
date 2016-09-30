@@ -11,6 +11,7 @@ Youtube: 7YjKmFQhh4k
 Vimeo: 132923578
 Tumblr: http://openscreencast.tumblr.com/post/86132448545/angularjs-was-ist-angular-js-lizenz
 Diaspora: https://pod.geraspora.de/posts/2251859
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_was_ist_angularjs.ogg
 
 AngularJS - Was ist angular.js  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

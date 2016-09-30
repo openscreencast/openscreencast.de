@@ -11,6 +11,7 @@ Youtube: k_4ehQyuqe8
 Vimeo: 122501934
 Tumblr: http://openscreencast.tumblr.com/post/69722965450/libreoffice-calc-spalten-und-zeilen-einfuegen
 Diaspora: https://pod.geraspora.de/posts/1760524
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_spalten_und_zeilen_einfuegen.ogg
 
 LibreOffice - Calc - Spalten und Zeilen einfügen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

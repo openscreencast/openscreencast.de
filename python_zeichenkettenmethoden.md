@@ -11,6 +11,7 @@ Youtube: oPvSHZNBp2Q
 Vimeo: 81575432
 Tumblr: http://openscreencast.tumblr.com/post/43237078895/python-programmierung-zeichenkettenmethoden
 Diaspora: https://pod.geraspora.de/posts/1063958
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_str_methoden.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

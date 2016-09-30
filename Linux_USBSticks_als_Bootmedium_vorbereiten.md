@@ -11,6 +11,7 @@ Youtube: AcmlAMFIl_8
 Vimeo: 139800956
 Tumblr: http://openscreencast.tumblr.com/post/129432172890/linux-usb-sticks-als-bootmedium-vorbereiten
 Diaspora: https://pod.geraspora.de/posts/4054648
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_usbsticks_als_bootmedium.ogg
 
 Linux - USB-Sticks als Bootmedium vorbereiten, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

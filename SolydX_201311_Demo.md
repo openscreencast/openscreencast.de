@@ -11,6 +11,7 @@ Youtube: GdpraAZcXW4
 Vimeo: 121216518
 Tumblr: http://openscreencast.tumblr.com/post/68443972724/solydx-201311-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1726799
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/solydx.ogg
 
 SolydX 201311 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

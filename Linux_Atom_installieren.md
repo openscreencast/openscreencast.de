@@ -11,6 +11,7 @@ Youtube: 7Wv_UddMCjk
 Vimeo: 132922043
 Tumblr: http://openscreencast.tumblr.com/post/85239501125/linux-atom-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2220319
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_atom_installieren.ogg
 
 Linux - Atom installieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

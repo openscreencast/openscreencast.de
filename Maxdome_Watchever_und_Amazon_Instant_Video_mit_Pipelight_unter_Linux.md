@@ -11,6 +11,7 @@ Youtube: Sxm_IIURs78
 Vimeo: 132812404
 Tumblr: http://openscreencast.tumblr.com/post/82321417088/maxdome-watchever-und-amazon-instant-video-mit
 Diaspora: https://pod.geraspora.de/posts/2115250
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_pipelight.ogg
 
 Maxdome, Watchever und Amazon Instant Video mit Pipelight unter Linux  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

@@ -11,6 +11,7 @@ Youtube: _n5BdTNw2SE
 Vimeo: 128161637
 Tumblr: http://openscreencast.tumblr.com/post/72000531041/mit-gimp-ganz-einfach-pfeile-erzeugen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1809882
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gimp/gimp_arrow.ogg
 
 Mit Gimp ganz einfach Pfeile erzeugen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

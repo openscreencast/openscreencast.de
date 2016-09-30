@@ -11,6 +11,7 @@ Youtube: _EKe7yyKhkc
 Vimeo: 80029657
 Tumblr: http://openscreencast.tumblr.com/post/36286692019/php-programmierung-die-for-schleife-fedora-17
 Diaspora: https://pod.geraspora.de/posts/907301
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_for.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

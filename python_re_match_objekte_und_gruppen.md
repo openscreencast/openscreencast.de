@@ -11,6 +11,7 @@ Youtube: 8BgWk9d1hXo
 Vimeo: 82658034
 Tumblr: http://openscreencast.tumblr.com/post/49958607050/python-programmierung-regulaere-ausdruecke
 Diaspora: https://pod.geraspora.de/posts/1248668
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_re_match.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

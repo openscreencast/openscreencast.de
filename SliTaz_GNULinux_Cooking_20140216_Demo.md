@@ -11,6 +11,7 @@ Youtube: tJAbJnPSW_4
 Vimeo: 132203388
 Tumblr: http://openscreencast.tumblr.com/post/77801828570/slitaz-gnu-linux-cooking-20140216-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1958845
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/slitaz_demo.ogg
 
 SliTaz GNU/Linux Cooking 20140216 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

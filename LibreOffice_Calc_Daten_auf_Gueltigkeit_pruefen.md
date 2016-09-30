@@ -11,6 +11,7 @@ Youtube: AkEfHhhjhFk
 Vimeo: 132917751
 Tumblr: http://openscreencast.tumblr.com/post/85027057425/libreoffice-calc-daten-auf-gueltigkeit-pruefen
 Diaspora: https://pod.geraspora.de/posts/2211345
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_daten_gueltigkeit.ogg
 
 LibreOffice - Calc - Daten auf Gültigkeit prüfen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

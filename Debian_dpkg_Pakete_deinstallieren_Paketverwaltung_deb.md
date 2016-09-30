@@ -11,6 +11,7 @@ Youtube: epVWDCqhU9Y
 Vimeo: 122235594
 Tumblr: http://openscreencast.tumblr.com/post/69805918682/debian-dpkg-pakete-deinstallieren
 Diaspora: https://pod.geraspora.de/posts/1763049
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_dpkg_remove.ogg
 
 Debian - dpkg - Pakete deinstallieren (Paketverwaltung .deb)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

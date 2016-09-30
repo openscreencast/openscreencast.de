@@ -11,6 +11,7 @@ Youtube: 0GyYmiIB6IA
 Vimeo: 131876207
 Tumblr: http://openscreencast.tumblr.com/post/72882491719/firefox-os-die-version-anzeigen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1830190
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_version.ogg
 
 Firefox OS - die Version anzeigen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

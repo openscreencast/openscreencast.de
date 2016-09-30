@@ -11,6 +11,7 @@ Youtube: iJd3g_TNQjs
 Vimeo: 82658029
 Tumblr: http://openscreencast.tumblr.com/post/53153604231/python-programmierung-docopt-installation
 Diaspora: https://pod.geraspora.de/posts/1337784
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_docopt_install.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: GdrTEQo8wSA
 Vimeo: 123624357
 Tumblr: http://openscreencast.tumblr.com/post/70816650844/linux-wc-word-count-zeichen-woerter-und
 Diaspora: https://pod.geraspora.de/posts/1787163
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_wc.ogg
 
 Linux - wc (word count - Zeichen, Wörter und Zeilen einer Datei zählen)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

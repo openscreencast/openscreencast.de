@@ -11,6 +11,7 @@ Youtube: Sdpcq2nUYfU
 Vimeo: 79595735
 Tumblr: http://openscreencast.tumblr.com/post/34501703518/php-programmierung-funktionen-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/857306
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_funktionen.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

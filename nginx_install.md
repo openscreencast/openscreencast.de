@@ -11,6 +11,7 @@ Youtube: aynkdUcW6A8
 Vimeo: 52386670
 Tumblr: http://openscreencast.tumblr.com/post/33717050137/nginx-installation-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/834235
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/nginx_install.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: DyIFALa2XVs
 Vimeo: 132819271
 Tumblr: http://openscreencast.tumblr.com/post/83100007310/libreoffice-seitenleiste-und-erscheinungsbild
 Diaspora: https://pod.geraspora.de/posts/2141886
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_seitenleiste_thema.ogg
 
 LibreOffice - Seitenleiste und Erscheinungsbild  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

@@ -11,6 +11,7 @@ Youtube: HTK67skKYEY
 Vimeo: 132816663
 Tumblr: http://openscreencast.tumblr.com/post/82921784246/libreoffice-calc-fenster-teilen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2135907
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_fenster_teilen.ogg
 
 LibreOffice - Calc - Fenster teilen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

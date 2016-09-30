@@ -11,6 +11,7 @@ Youtube: qbuXVY-Coxo
 Vimeo: 52079361
 Tumblr: http://openscreencast.tumblr.com/post/33575039717/lighttpd-installation-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/832387
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/lighttpd_install.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

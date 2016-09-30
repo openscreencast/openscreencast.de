@@ -11,6 +11,7 @@ Youtube: byOfOmhN-tU
 Vimeo: 133497737
 Tumblr: http://openscreencast.tumblr.com/post/122338922635/linktipp-linux-the-art-of-command-line-lizenz
 Diaspora: https://pod.geraspora.de/posts/3765162
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/linux_theartofcommandline.ogg
 
 Linktipp: Linux - The Art of Command Line, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -18,7 +19,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 Textquelle:  
 [Linktipp: The Art of Command Line](http://linuxundich.de/gnu-linux/linktipp-
 the-art-of-command-line/) von [Christoph Langner](http://linuxundich.de/)
-Lizenz: CC by 4.0
+Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

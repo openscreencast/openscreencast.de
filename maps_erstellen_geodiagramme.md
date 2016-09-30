@@ -11,6 +11,7 @@ Youtube: 2c4c-KjCPJ0
 Vimeo: 83659370
 Tumblr: http://openscreencast.tumblr.com/post/53944647515/einfache-karten-maps-erstellen-geo-diagramme
 Diaspora: https://pod.geraspora.de/posts/1363443
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/geodiagramme.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

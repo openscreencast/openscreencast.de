@@ -11,6 +11,7 @@ Youtube: 5BiiOX7vOSg
 Vimeo: 80029654
 Tumblr: http://openscreencast.tumblr.com/post/41898843525/gnome-3-6-entf-taste-aktivieren-zum-loeschen-von
 Diaspora: https://pod.geraspora.de/posts/1032141
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome36_entf_aktivieren.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

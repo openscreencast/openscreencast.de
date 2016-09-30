@@ -11,13 +11,13 @@ Youtube: TsfgPWThOW8
 Vimeo: 132323798
 Tumblr: http://openscreencast.tumblr.com/post/81097038027/firefox-os-apps-deinstallieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2071236
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_apps_deinstallieren.ogg
 
 Firefox OS - Apps deinstallieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
   
 Weitere Videos in der FirefoxOS-Playlist:
 <https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR>  

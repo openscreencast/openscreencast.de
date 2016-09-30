@@ -11,6 +11,7 @@ Youtube: MJPoxAnO5KE
 Vimeo: 132213568
 Tumblr: http://openscreencast.tumblr.com/post/79366310921/ubuntu-touch-scopes-lizenz
 Diaspora: https://pod.geraspora.de/posts/2010239
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_scopes.ogg
 
 Ubuntu Touch - Scopes  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

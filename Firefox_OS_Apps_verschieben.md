@@ -11,13 +11,13 @@ Youtube: JA0bZeZKx98
 Vimeo: 132815108
 Tumblr: http://openscreencast.tumblr.com/post/82505677081/firefox-os-apps-verschieben-lizenz
 Diaspora: https://pod.geraspora.de/posts/2122285
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_app_move.ogg
 
 Firefox OS - Apps verschieben  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
 <http://de.wikipedia.org/wiki/Firefox_OS>  
   
 Weitere Videos in der FirefoxOS-Playlist:

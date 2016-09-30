@@ -11,6 +11,7 @@ Youtube: bJqiyOR8glg
 Vimeo: 52078247
 Tumblr: http://openscreencast.tumblr.com/post/33500475229/woof-webserver-mit-limit-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/830953
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/woof.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

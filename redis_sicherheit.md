@@ -11,6 +11,7 @@ Youtube: 7q_e9Z1TiVQ
 Vimeo: 81575439
 Tumblr: http://openscreencast.tumblr.com/post/43652016123/redis-sicherheit-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1074145
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_sicherheit.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

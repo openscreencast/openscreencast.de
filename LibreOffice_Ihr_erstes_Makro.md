@@ -11,6 +11,7 @@ Youtube: URIBxtc9PNk
 Vimeo: 132199966
 Tumblr: http://openscreencast.tumblr.com/post/77283489621/libreoffice-ihr-erstes-makro-lizenz
 Diaspora: https://pod.geraspora.de/posts/1944058
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_erstes_makro.ogg
 
 LibreOffice - Ihr erstes Makro  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: vEwKuo1g5gc
 Vimeo: 123806324
 Tumblr: http://openscreencast.tumblr.com/post/70182451866/diesmal-mit-hintergrundmusik-steamos-1-0-beta
 Diaspora: https://pod.geraspora.de/posts/1772102
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/steamos10beta_demo.ogg
 
 SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

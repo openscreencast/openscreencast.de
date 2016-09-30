@@ -11,6 +11,7 @@ Youtube: d1SiHgcmmpY
 Vimeo: 50927578
 Tumblr: http://openscreencast.tumblr.com/post/32334953307/taskwarrior-prioritaeten-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/808702
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_priority.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

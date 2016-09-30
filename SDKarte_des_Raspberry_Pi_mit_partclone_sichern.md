@@ -11,6 +11,7 @@ Youtube: GjUgVRRv8EI
 Vimeo: 132203390
 Tumblr: http://openscreencast.tumblr.com/post/78226786350/sd-karte-des-raspberry-pi-mit-partclone-sichern
 Diaspora: https://pod.geraspora.de/posts/1974605
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/raspberrypi_sdkarte_partclone.ogg
 
 SD-Karte des Raspberry Pi mit partclone sichern  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

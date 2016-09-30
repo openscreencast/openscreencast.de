@@ -11,6 +11,7 @@ Youtube: jpBr3my7OsE
 Vimeo: 132821535
 Tumblr: http://openscreencast.tumblr.com/post/83311151626/kaos-2014-04-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/2147842
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/kaos201404_demo.ogg
 
 KaOS 2014.04 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

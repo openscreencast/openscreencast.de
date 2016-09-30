@@ -11,6 +11,7 @@ Youtube: IP1tqD5_UN8
 Vimeo: 123624361
 Tumblr: http://openscreencast.tumblr.com/post/70200865840/steamos-1-0-beta-demo-steamos-alchemist-test
 Diaspora: https://pod.geraspora.de/posts/1772854
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/steamos10beta_teil2_demo.ogg
 
 SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test) - Teil 2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

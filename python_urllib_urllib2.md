@@ -11,6 +11,7 @@ Youtube: 3jT0PqmeqlA
 Vimeo: 52075716
 Tumblr: http://openscreencast.tumblr.com/post/33432524915/python-programmierung-ab-ins-netz-urllib-und
 Diaspora: https://pod.geraspora.de/posts/829699
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_urllib.ogg
 
 Ausgangspunkt: Ubuntu 12.04 LTS  
 Zielgruppe: Neueinsteiger  

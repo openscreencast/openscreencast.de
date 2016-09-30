@@ -11,6 +11,7 @@ Youtube: RO9MT1yzbSA
 Vimeo: 132210710
 Tumblr: http://openscreencast.tumblr.com/post/79169420005/ubuntu-touch-emulator-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2003268
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntuemulator_install.ogg
 
 Ubuntu Touch Emulator installieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

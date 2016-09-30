@@ -11,6 +11,7 @@ Youtube: cpCBWuxcpig
 Vimeo: 133486758
 Tumblr: http://openscreencast.tumblr.com/post/112234184020/xubuntu-15-04-beta-1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3309261
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/xubuntu1504_demo.ogg
 
 Xubuntu 15.04 Beta 1 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>
@@ -19,5 +20,5 @@ Links:
 
   * [Xubuntu](http://xubuntu.org/ "Link zu xubuntu.org" )
   * [WP:Xubuntu](http://de.wikipedia.org/wiki/Xubuntu "Link zu wikipedia.org" )
-  * Musik: Its Always Too Late to Start Over von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: CC by 4.0
+  * Musik: Its Always Too Late to Start Over von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 

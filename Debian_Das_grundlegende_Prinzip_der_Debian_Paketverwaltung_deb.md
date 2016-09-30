@@ -11,6 +11,7 @@ Youtube: K9BO5Gt53SU
 Vimeo: 121216510
 Tumblr: http://openscreencast.tumblr.com/post/67481342591/debian-das-grundlegende-prinzip-der-debian
 Diaspora: https://pod.geraspora.de/posts/1701338
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_deb_prinzip.ogg
 
 Debian - Das grundlegende Prinzip der Debian Paketverwaltung (.deb)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

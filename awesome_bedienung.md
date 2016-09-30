@@ -11,6 +11,7 @@ Youtube: 5fr8YEQa0tA
 Vimeo: 80423254
 Tumblr: http://openscreencast.tumblr.com/post/43042980714/awesome-ein-tiling-fenstermanager-bedienung
 Diaspora: https://pod.geraspora.de/posts/1059049
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/awesome_bedienung.ogg
 
 Ausgangspunkt: Linux Mint 14  
 Zielgruppe: Neueinsteiger  

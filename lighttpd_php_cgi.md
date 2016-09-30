@@ -11,6 +11,7 @@ Youtube: FkV-GNt8f5I
 Vimeo: 52387501
 Tumblr: http://openscreencast.tumblr.com/post/33843278292/lighttpd-php-cgi-den-webserver-lighttpd-durch
 Diaspora: https://pod.geraspora.de/posts/837813
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/lighttpd_php_cgi.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

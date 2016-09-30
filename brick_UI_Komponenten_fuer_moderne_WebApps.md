@@ -11,6 +11,7 @@ Youtube: Dxb-Oh-AYrM
 Vimeo: 
 Tumblr: http://openscreencast.tumblr.com/post/78655179510/brick-ui-komponenten-fuer-moderne-web-apps
 Diaspora: https://pod.geraspora.de/posts/1988068
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/brick.ogg
 
 brick - UI Komponenten für moderne Web-Apps  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

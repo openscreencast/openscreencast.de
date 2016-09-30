@@ -11,6 +11,7 @@ Youtube: aQWODmFxxpo
 Vimeo: 121216516
 Tumblr: http://openscreencast.tumblr.com/post/67077716427/sed-mehr-kommandos-lizenz
 Diaspora: https://pod.geraspora.de/posts/1690320
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/sed_mehr_kommandos.ogg
 
 sed - Mehr Kommandos  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

@@ -11,6 +11,7 @@ Youtube: _0GReQCqQ6Q
 Vimeo: 80423257
 Tumblr: http://openscreencast.tumblr.com/post/43164151590/blockdiag-beispieldiagramme-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1062528
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/blockdiag_bsp.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

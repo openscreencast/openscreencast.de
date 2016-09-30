@@ -11,13 +11,15 @@ Youtube: diiikCQbmlA
 Vimeo: 133493399
 Tumblr: http://openscreencast.tumblr.com/post/117768383095/html-und-css-ein-bild-einfugen-img-lizenz
 Diaspora: https://pod.geraspora.de/posts/3567702
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_html_und_css/htmlundcss_img.ogg
 
 HTML und CSS - Ein Bild einfügen (img), Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 Textquelle:  
 [HTML und CSS Tutorial](http://code.makery.ch/library/html-css/de/) von [Marco
-Jakob](http://code.makery.ch/about/) Lizenz: CC by 4.0
+Jakob](http://code.makery.ch/about/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

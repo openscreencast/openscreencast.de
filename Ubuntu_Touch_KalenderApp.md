@@ -11,6 +11,7 @@ Youtube: TwUGk8lEQQ0
 Vimeo: 132213575
 Tumblr: http://openscreencast.tumblr.com/post/79474090281/ubuntu-touch-kalender-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2014385
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_kalenderapp.ogg
 
 Ubuntu Touch - Kalender-App  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

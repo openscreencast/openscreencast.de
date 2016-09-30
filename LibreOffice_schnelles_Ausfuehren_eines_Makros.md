@@ -11,6 +11,7 @@ Youtube: rORJu-ZfPjE
 Vimeo: 132210707
 Tumblr: http://openscreencast.tumblr.com/post/78953835641/libreoffice-schnelles-ausfuehren-eines-makros
 Diaspora: https://pod.geraspora.de/posts/1997464
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makro_schnell_ausfuehren.ogg
 
 LibreOffice - schnelles Ausführen eines Makros  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: gXPPFQalfGM
 Vimeo: 132320703
 Tumblr: http://openscreencast.tumblr.com/post/80693297450/linux-makehuman-3d-charaktere-erstellen
 Diaspora: https://pod.geraspora.de/posts/2056152
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/makehuman.ogg
 
 Linux - MakeHuman - 3D Charaktere erstellen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

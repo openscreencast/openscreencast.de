@@ -11,6 +11,7 @@ Youtube: YaE2b2CIAsw
 Vimeo: 133454874
 Tumblr: http://openscreencast.tumblr.com/post/111363354540/firefox-os-auf-aktualisierungen-pruefen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3271010
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_update.ogg
 
 Firefox OS auf Aktualisierungen prüfen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

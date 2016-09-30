@@ -11,6 +11,7 @@ Youtube: Z4Vr0wkWEAM
 Vimeo: 135805359
 Tumblr: http://openscreencast.tumblr.com/post/126278536565/d3-einleitung-ein-balkendiagramm-erstellen
 Diaspora: https://pod.geraspora.de/posts/3920270
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_d3js/d3_einleitung.ogg
 
 d3 - Einleitung (ein Balkendiagramm erstellen), Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

@@ -11,6 +11,7 @@ Youtube: Qoy4XvEeJ54
 Vimeo: 79530038
 Tumblr: http://openscreencast.tumblr.com/post/34057006226/php-programmierung-escapen-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/842672
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_escapen.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

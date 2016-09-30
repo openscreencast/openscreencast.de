@@ -11,14 +11,15 @@ Youtube: CaCDWK5PdEI
 Vimeo: 133452106
 Tumblr: http://openscreencast.tumblr.com/post/110917769935/git-fuer-einsteiger-der-erste-commit-lizenz
 Diaspora: https://pod.geraspora.de/posts/3252418
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_erste_commit.ogg
 
 Git für Einsteiger - Der erste Commit, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  
   
 Textquelle:  
 [Git für Einsteiger - Teil 1](https://svij.org/blog/2014/10/25/git-fur-
-einsteiger-teil-1/) von [Sujeevan Vijayakumaran](http://svij.org/) Lizenz: CC
-by-sa 3.0
+einsteiger-teil-1/) von [Sujeevan Vijayakumaran](http://svij.org/) Lizenz: [CC
+by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Links:
 

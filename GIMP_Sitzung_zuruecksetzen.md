@@ -11,6 +11,7 @@ Youtube: sVbCvjR1XV4
 Vimeo: 132199960
 Tumblr: http://openscreencast.tumblr.com/post/76850316885/gimp-sitzung-zuruecksetzen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1933315
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gimp/gimp_sessionrc.ogg
 
 GIMP - Sitzung zurücksetzen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

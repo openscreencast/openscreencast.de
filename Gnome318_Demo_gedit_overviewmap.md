@@ -11,6 +11,7 @@ Youtube: jYRbDMyZEo8
 Vimeo: 140501148
 Tumblr: http://openscreencast.tumblr.com/post/129907443575/gnome-318-gedit-minikarte-overview-map
 Diaspora: https://pod.geraspora.de/posts/4074089
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome318_gedit_minikarte_demo.ogg
 
 Gnome 3.18 - gedit - Minimap (Overview Map) - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

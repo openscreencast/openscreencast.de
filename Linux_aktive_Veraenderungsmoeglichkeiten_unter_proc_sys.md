@@ -11,6 +11,7 @@ Youtube: lEfqNCvptV8
 Vimeo: 119676745
 Tumblr: http://openscreencast.tumblr.com/post/66604295219/linux-aktive-veraenderungsmoeglichkeiten-unter
 Diaspora: https://pod.geraspora.de/posts/1676696
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc_veraenderungsmoeglichkeiten.ogg
 
 Linux - aktive Veränderungsmöglichkeiten unter /proc/sys  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

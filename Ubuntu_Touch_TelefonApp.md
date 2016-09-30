@@ -11,6 +11,7 @@ Youtube: 86cChJy4-84
 Vimeo: 132215257
 Tumblr: http://openscreencast.tumblr.com/post/79671095577/ubuntu-touch-telefon-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2020622
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_telefonapp.ogg
 
 Ubuntu Touch - Telefon-App  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

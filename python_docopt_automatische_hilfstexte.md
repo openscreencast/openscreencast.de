@@ -11,6 +11,7 @@ Youtube: diBB4SGWKbM
 Vimeo: 82658026
 Tumblr: http://openscreencast.tumblr.com/post/53631233761/python-programmierung-docopt-automatische
 Diaspora: https://pod.geraspora.de/posts/1353514
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_docopt_hilfstexte.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

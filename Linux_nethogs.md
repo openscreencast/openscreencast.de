@@ -11,6 +11,7 @@ Youtube: oynPlZWgzzc
 Vimeo: 133486759
 Tumblr: http://openscreencast.tumblr.com/post/112517551755/mit-nethogs-ermitteln-wie-viel-bandbreite-die
 Diaspora: https://pod.geraspora.de/posts/3320543
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_nethogs.ogg
 
 Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse
 nutzen, Linux Mint 17.1  

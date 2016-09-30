@@ -11,6 +11,7 @@ Youtube: yEdfjEAz8k8
 Vimeo: 50927267
 Tumblr: http://openscreencast.tumblr.com/post/32267940185/gnome3-laufende-anwendungen-im-panel-anzeigen
 Diaspora: https://pod.geraspora.de/posts/807255
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_apps_im_panel.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: bdzQNBjUsw8
 Vimeo: 132323797
 Tumblr: http://openscreencast.tumblr.com/post/81097100675/ubuntu-touch-weitere-apps-lizenz
 Diaspora: https://pod.geraspora.de/posts/2071241
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_weitere_apps.ogg
 
 Ubuntu Touch - Weitere Apps  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

@@ -11,6 +11,7 @@ Youtube: 2gbtP9YtsYo
 Vimeo: 132210711
 Tumblr: http://openscreencast.tumblr.com/post/79169467928/ubuntu-touch-bedienung-lizenz
 Diaspora: https://pod.geraspora.de/posts/2003269
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_bedienung.ogg
 
 Ubuntu Touch - Bedienung  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

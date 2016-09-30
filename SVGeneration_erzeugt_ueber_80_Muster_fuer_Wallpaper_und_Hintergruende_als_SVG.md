@@ -11,6 +11,7 @@ Youtube: rMLnr0-QoSQ
 Vimeo: 132822989
 Tumblr: http://openscreencast.tumblr.com/post/83637740734/svgeneration-erzeugt-ueber-80-muster-fuer-wallpaper
 Diaspora: https://pod.geraspora.de/posts/2158873
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/svgeneration.ogg
 
 SVGeneration erzeugt über 80 Muster für Wallpaper und Hintergründe als SVG  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

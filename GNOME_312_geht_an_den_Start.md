@@ -11,6 +11,7 @@ Youtube: goT-nVQtM_k
 Vimeo: 132320709
 Tumblr: http://openscreencast.tumblr.com/post/80905063006/gnome-3-12-geht-an-den-start-lizenz
 Diaspora: https://pod.geraspora.de/posts/2064515
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome312_start.ogg
 
 GNOME 3.12 geht an den Start  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

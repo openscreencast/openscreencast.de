@@ -11,6 +11,7 @@ Youtube: qfS_prhpsUc
 Vimeo: 132196450
 Tumblr: http://openscreencast.tumblr.com/post/73114168587/python-programmierung-subprocess-pipes
 Diaspora: https://pod.geraspora.de/posts/1835354
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_subprocess_pipes.ogg
 
 Python-Programmierung - subprocess - Pipes verwenden  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

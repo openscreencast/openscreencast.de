@@ -11,6 +11,7 @@ Youtube: Dre0GPY_E88
 Vimeo: 137616674
 Tumblr: http://openscreencast.tumblr.com/post/127795157305/libreoffice-calc-filtern-welche-zellen
 Diaspora: https://pod.geraspora.de/posts/3981219
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_filtern.ogg
 
 LibreOffice - Calc - Filtern, welche Zellen sichtbar sind, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: njV1mI3cJtM
 Vimeo: 132327497
 Tumblr: http://openscreencast.tumblr.com/post/81911588297/ubuntu-touch-unter-der-haube-lizenz
 Diaspora: https://pod.geraspora.de/posts/2099603
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_unter_der_haube.ogg
 
 Ubuntu Touch - Unter der Haube  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

@@ -11,6 +11,7 @@ Youtube: OqgfZviKnrw
 Vimeo: 83659397
 Tumblr: http://openscreencast.tumblr.com/post/53944435554/tabellen-von-webseiten-kopieren-linux-mint-15
 Diaspora: https://pod.geraspora.de/posts/1363437
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/html_table_cp.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

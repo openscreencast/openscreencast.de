@@ -11,11 +11,13 @@ Youtube: jBAiqEJ4U24
 Vimeo: 133486761
 Tumblr: http://openscreencast.tumblr.com/post/114142020605/libreoffice-calc-zellen-mit-textdaten-lizenz
 Diaspora: https://pod.geraspora.de/posts/3397631
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_zellen_mit_textdaten.ogg
 
 LibreOffice - Calc - Zellen mit Textdaten, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
   
 Textquelle:  
-[http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by
-3.0)](http://de.libreoffice.org/hilfe-kontakt/handbuecher/)
+[http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)](http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/)
 

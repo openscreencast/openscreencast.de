@@ -10,6 +10,7 @@ License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 139474764
 Tumblr: http://openscreencast.tumblr.com/post/129224985560/django-das-django-projekt-beginnen-lizenz
 Diaspora: https://pod.geraspora.de/posts/4045816
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_django/django_projekt_beginnen.ogg
 
 Django - Das Django-Projekt beginnen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

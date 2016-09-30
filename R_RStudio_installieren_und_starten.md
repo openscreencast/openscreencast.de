@@ -11,6 +11,7 @@ Youtube: vCuMhy_Qb-w
 Vimeo: 133446618
 Tumblr: http://openscreencast.tumblr.com/post/110258041640/r-rstudio-installieren-und-starten-lizenz
 Diaspora: https://pod.geraspora.de/posts/3221810
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_rstudio.ogg
 
 R - RStudio installieren und starten, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

@@ -11,6 +11,7 @@ Youtube: V_FMev-Ab_A
 Vimeo: 133489838
 Tumblr: http://openscreencast.tumblr.com/post/114768892565/angularjs-schleifen-ng-repeat-lizenz
 Diaspora: https://pod.geraspora.de/posts/3427702
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_schleifen.ogg
 
 AngularJS - Schleifen (ng-repeat), Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

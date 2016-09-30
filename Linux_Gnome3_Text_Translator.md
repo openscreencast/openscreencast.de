@@ -11,6 +11,7 @@ Youtube: 5YNXc5HKoAI
 Vimeo: 119676739
 Tumblr: http://openscreencast.tumblr.com/post/67185841761/linux-gnome3-text-translator-fedora-19
 Diaspora: https://pod.geraspora.de/posts/1693193
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_texttranslator.ogg
 
 Linux - Gnome3 - Text Translator, Fedora 19  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

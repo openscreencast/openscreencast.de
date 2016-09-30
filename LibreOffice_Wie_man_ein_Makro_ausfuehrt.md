@@ -11,6 +11,7 @@ Youtube: znycX4Q8AZE
 Vimeo: 132327495
 Tumblr: https://pod.geraspora.de/posts/2099600
 Diaspora: http://openscreencast.tumblr.com/post/81911503464/libreoffice-wie-man-ein-makro-ausfuehrt-lizenz
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makro_run_anpassen.ogg
 
 LibreOffice - Wie man ein Makro ausführt  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -16,10 +16,10 @@ R - Webscraping mit rvest, Fedora 22
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  
   
 Textquelle:  
-[Web Scraping mit R - freiesmagazin.de](http://freiesmagazin.de/mobil/freiesMa
-gazin-2015-08-bilder.html#fm_15_08_webscraping) von Markus Herrmann und
-Barbara Wolf Lizenz: [CC by-sa 4.0](http://creativecommons.org/licenses/by-
-sa/4.0/)
+[Web Scraping mit R -
+freiesmagazin.de](http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping)
+von Markus Herrmann und Barbara Wolf Lizenz: [CC by-sa
+4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Links:
 

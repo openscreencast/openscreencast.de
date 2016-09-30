@@ -11,6 +11,7 @@ Youtube: hi5JgrQlCWw
 Vimeo: 122501927
 Tumblr: http://openscreencast.tumblr.com/post/69805847787/debian-dpkg-pakete-installieren
 Diaspora: https://pod.geraspora.de/posts/1763046
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_dpkg_install.ogg
 
 Debian - dpkg - Pakete installieren (Paketverwaltung .deb)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

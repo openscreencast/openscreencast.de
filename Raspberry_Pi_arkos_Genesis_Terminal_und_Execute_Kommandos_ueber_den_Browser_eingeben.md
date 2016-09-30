@@ -11,6 +11,7 @@ Youtube: lCScxEAINn8
 Vimeo: 119676736
 Tumblr: http://openscreencast.tumblr.com/post/66974233876/raspberry-pi-arkos-genesis-terminal-und
 Diaspora: https://pod.geraspora.de/posts/1687028
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/arkos_terminal.ogg
 
 Raspberry Pi - arkos - Genesis - Terminal und Execute (Kommandos über den
 Browser eingeben)  

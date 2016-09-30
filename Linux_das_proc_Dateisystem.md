@@ -11,6 +11,7 @@ Youtube: xPR_eKkDoLo
 Vimeo: 119926942
 Tumblr: http://openscreencast.tumblr.com/post/66301437806/linux-das-proc-dateisystem-lizenz
 Diaspora: https://pod.geraspora.de/posts/1669400
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc.ogg
 
 Linux - das /proc-Dateisystem  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

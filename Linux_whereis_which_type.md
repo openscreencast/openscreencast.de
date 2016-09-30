@@ -11,6 +11,7 @@ Youtube: pgnpEI3QGiU
 Vimeo: 137260683
 Tumblr: http://openscreencast.tumblr.com/post/127562307205/linux-programme-finden-which-whereis-und-type
 Diaspora: https://pod.geraspora.de/posts/3971238
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_whereis.ogg
 
 Linux - Programme finden - which, whereis und type, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

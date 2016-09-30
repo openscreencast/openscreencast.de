@@ -11,6 +11,7 @@ Youtube: fiQwFdHNEvM
 Vimeo: 133454872
 Tumblr: http://openscreencast.tumblr.com/post/111363331465/firefox-os-zeit-bis-zum-abschalten-des
 Diaspora: https://pod.geraspora.de/posts/3271008
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_bildschirm_abschalten.ogg
 
 Firefox OS - Zeit bis zum Abschalten des Bildschirms bestimmen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

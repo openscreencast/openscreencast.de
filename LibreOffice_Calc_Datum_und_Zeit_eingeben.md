@@ -11,6 +11,7 @@ Youtube: hbWiDXxRvhE
 Vimeo: 132822990
 Tumblr: http://openscreencast.tumblr.com/post/83637642626/libreoffice-calc-datum-und-zeit-eingeben
 Diaspora: https://pod.geraspora.de/posts/2158866
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_datumzeit_eingeben.ogg
 
 LibreOffice - Calc - Datum und Zeit eingeben  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: -dvPH6Nh0KU
 Vimeo: 132331297
 Tumblr: http://openscreencast.tumblr.com/post/82321370198/libreoffice-makro-erweiterungen-extensions
 Diaspora: https://pod.geraspora.de/posts/2115248
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makro_extensions.ogg
 
 LibreOffice Makro - Erweiterungen (Extensions), BundesGit für LibreOffice  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -23,9 +24,8 @@ bundesgit-Erweiterung funktioniert.
 libreoffice-einbinden.html>  
 <http://skyfromme.wordpress.com/2014/04/07/announcing-bundesgit-for-
 libreoffice/>  
-<https://gerrit.libreoffice.org/gitweb?p=sdk-examples.git;a=tree;f=BundesGit;h
-=2f5700e7687f5506c729c29f8a306591314647e0;hb=42523afbd67b1f9ac3f7cece8ce93fed8
-e3f3435>  
+<https://gerrit.libreoffice.org/gitweb?p=sdk-
+examples.git;a=tree;f=BundesGit;h=2f5700e7687f5506c729c29f8a306591314647e0;hb=42523afbd67b1f9ac3f7cece8ce93fed8e3f3435>  
   
 Textquelle:  
 <http://de.libreoffice.org/hilfe-kontakt/handbuecher/>  

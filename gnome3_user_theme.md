@@ -11,6 +11,7 @@ Youtube: eL1YdM5yqss
 Vimeo: 52072538
 Tumblr: http://openscreencast.tumblr.com/post/32549864111/gnome3-ein-eigenes-user-theme-thema-design
 Diaspora: https://pod.geraspora.de/posts/813660
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_usertheme.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

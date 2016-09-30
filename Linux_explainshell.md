@@ -11,6 +11,7 @@ Youtube: rmLssAmbrxE
 Vimeo: 122235598
 Tumblr: http://openscreencast.tumblr.com/post/69489907486/linux-explainshell-lizenz
 Diaspora: https://pod.geraspora.de/posts/1753556
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_explainshell.ogg
 
 Linux - explainshell  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

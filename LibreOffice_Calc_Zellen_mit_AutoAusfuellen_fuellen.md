@@ -11,6 +11,7 @@ Youtube: Qq0EuYnZRSw
 Vimeo: 132826525
 Tumblr: http://openscreencast.tumblr.com/post/83927797070/libreoffice-calc-zellen-mit-auto-ausfuellen
 Diaspora: https://pod.geraspora.de/posts/2169759
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_autoausfuellen.ogg
 
 LibreOffice - Calc - Zellen mit Auto-Ausfüllen füllen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

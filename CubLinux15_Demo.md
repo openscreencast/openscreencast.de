@@ -11,6 +11,7 @@ Youtube: 3rjgydqdCZ0
 Vimeo: 152876074
 Tumblr: http://openscreencast.tumblr.com/post/137947164385/cub-linux-15-chromium-ubuntu-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/4428425
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/cub_linux_15_demo.ogg
 
 Cub Linux 1.5 (Chromium + Ubuntu) - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

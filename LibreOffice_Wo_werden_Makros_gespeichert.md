@@ -11,6 +11,7 @@ Youtube: DoAbTuAzlo0
 Vimeo: 132219565
 Tumblr: http://openscreencast.tumblr.com/post/80176813960/libreoffice-wo-werden-makros-gespeichert
 Diaspora: https://pod.geraspora.de/posts/2038151
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makro_speicherort.ogg
 
 LibreOffice - Wo werden Makros gespeichert ?  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

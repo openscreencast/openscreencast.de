@@ -11,6 +11,7 @@ Youtube: czJ6EpZRFGU
 Vimeo: 132331294
 Tumblr: http://openscreencast.tumblr.com/post/82130727170/libreoffice-calc-fixieren-von-spalten-und
 Diaspora: https://pod.geraspora.de/posts/2107773
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_fixieren.ogg
 
 LibreOffice - Calc - Fixieren von Spalten und Zeilen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

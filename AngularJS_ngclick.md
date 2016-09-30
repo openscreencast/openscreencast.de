@@ -11,6 +11,7 @@ Youtube: qrRlIl1E6xw
 Vimeo: 135066890
 Tumblr: http://openscreencast.tumblr.com/post/125528076785/angularjs-ereignisdirektiven-event-ng-click
 Diaspora: https://pod.geraspora.de/posts/3891117
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_ngclick.ogg
 
 AngularJS - Ereignisdirektiven (Event: ng-click), Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

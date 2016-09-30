@@ -11,6 +11,7 @@ Youtube: OMd-UgD2TE8
 Vimeo: 122235590
 Tumblr: http://openscreencast.tumblr.com/post/69806076525/debian-dpkg-auflisten-der-installierten-pakete
 Diaspora: https://pod.geraspora.de/posts/1763056
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_dpkg_list.ogg
 
 Debian - dpkg - Auflisten der installierten Pakete (Paketverwaltung .deb)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

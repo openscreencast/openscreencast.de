@@ -11,6 +11,7 @@ Youtube: Gcc_ZprYt3I
 Vimeo: 82657987
 Tumblr: http://openscreencast.tumblr.com/post/48699916380/linux-dateiueberpruefung-mit-iwatch-einfuehrung
 Diaspora: https://pod.geraspora.de/posts/1212349
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/iwatch.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: MDfmqBlfCR4
 Vimeo: 132213573
 Tumblr: http://openscreencast.tumblr.com/post/79474037925/ubuntu-klassisches-gnome-menue-installieren
 Diaspora: https://pod.geraspora.de/posts/2014382
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/ubuntu_classicmenuindicator.ogg
 
 Ubuntu - klassisches Gnome-Menü installieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

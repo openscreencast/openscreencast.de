@@ -11,6 +11,7 @@ Youtube: UhKT7StOANU
 Vimeo: 52388542
 Tumblr: http://openscreencast.tumblr.com/post/33843303706/lighttpd-php-fastcgi-hier-wird-erlaeutert-wie
 Diaspora: https://pod.geraspora.de/posts/837815
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/lighttpd_php_fastcgi.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

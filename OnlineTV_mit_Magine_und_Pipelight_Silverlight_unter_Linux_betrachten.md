@@ -11,6 +11,7 @@ Youtube: dIyHCbx8Jrw
 Vimeo: 132914487
 Tumblr: http://openscreencast.tumblr.com/post/84233332465/online-tv-mit-magine-und-pipelight-silverlight
 Diaspora: https://pod.geraspora.de/posts/2180808
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_magine.ogg
 
 Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

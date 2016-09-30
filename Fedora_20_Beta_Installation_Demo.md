@@ -11,6 +11,7 @@ Youtube: yoCNjIOiMBg
 Vimeo: 119694107
 Tumblr: http://openscreencast.tumblr.com/post/66902872271/fedora-20-beta-installation-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1684927
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora20install.ogg
 
 Fedora 20 Beta - Installation - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

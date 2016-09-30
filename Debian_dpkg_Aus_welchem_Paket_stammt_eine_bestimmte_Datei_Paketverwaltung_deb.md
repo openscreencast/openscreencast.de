@@ -11,6 +11,7 @@ Youtube: uh1fa-NDIKc
 Vimeo: 122235595
 Tumblr: http://openscreencast.tumblr.com/post/69903975993/debian-dpkg-aus-welchem-paket-stammt-eine
 Diaspora: https://pod.geraspora.de/posts/1765842
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_dpkg_search.ogg
 
 Debian - dpkg - Aus welchem Paket stammt eine bestimmte Datei ?
 (Paketverwaltung .deb)  

@@ -11,6 +11,7 @@ Youtube: 68bH8P-OlM4
 Vimeo: 131876212
 Tumblr: http://openscreencast.tumblr.com/post/72242451329/video-editor-openshot-transparente-bilder-ueber
 Diaspora: https://pod.geraspora.de/posts/1814498
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_videobearbeitung/openshot_png_over_video.ogg
 
 Video-Editor OpenShot - Transparente Bilder über Video legen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

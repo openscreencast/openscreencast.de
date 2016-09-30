@@ -11,6 +11,7 @@ Youtube: 9xd2rpNPoE8
 Vimeo: 132327498
 Tumblr: http://openscreencast.tumblr.com/post/81911673167/linux-bropages-liefern-beispiele-zu
 Diaspora: https://pod.geraspora.de/posts/2099604
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/bropages.ogg
 
 Linux - Bropages liefern Beispiele zu Terminalbefehlen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

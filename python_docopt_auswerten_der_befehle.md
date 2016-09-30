@@ -11,6 +11,7 @@ Youtube: H6th0iOj4AM
 Vimeo: 82658012
 Tumblr: http://openscreencast.tumblr.com/post/53631304892/python-programmierung-docopt-auswerten-der
 Diaspora: https://pod.geraspora.de/posts/1353516
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_docopt_auswerten.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

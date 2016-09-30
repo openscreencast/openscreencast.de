@@ -11,6 +11,7 @@ Youtube: 43SaD9bCZww
 Vimeo: 123624367
 Tumblr: http://openscreencast.tumblr.com/post/70411378366/webodf-odf-dokumente-in-webseiten-einbinden
 Diaspora: https://pod.geraspora.de/posts/1778304
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/webodf_odfdokumente_in_webseite_einbinden.ogg
 
 WebODF - ODF-Dokumente in Webseiten einbinden (.odt-Datei mittels Browser
 anschauen)  

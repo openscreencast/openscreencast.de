@@ -11,13 +11,13 @@ Youtube: Gpq7ZV57IMI
 Vimeo: 132323796
 Tumblr: http://openscreencast.tumblr.com/post/81096868691/firefox-einstellungen-im-tab-lizenz
 Diaspora: https://pod.geraspora.de/posts/2071231
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefox_einstellungen_im_tab.ogg
 
 Firefox - Einstellungen im Tab  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

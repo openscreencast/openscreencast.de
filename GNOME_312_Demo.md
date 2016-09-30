@@ -11,6 +11,7 @@ Youtube: 38KutCbrNsc
 Vimeo: 132322124
 Tumblr: http://openscreencast.tumblr.com/post/80906066422/gnome-3-12-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/2064517
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome312_demo.ogg
 
 GNOME 3.12 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

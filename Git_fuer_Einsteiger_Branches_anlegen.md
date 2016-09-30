@@ -11,6 +11,7 @@ Youtube: _g8ItehO7gA
 Vimeo: 134985750
 Tumblr: http://openscreencast.tumblr.com/post/125456194665/git-f&uuml;r-einsteiger-branches-anlegen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3888030
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_branches_anlegen.ogg
 
 Git für Einsteiger - Branches anlegen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

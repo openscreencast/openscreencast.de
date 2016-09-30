@@ -11,6 +11,7 @@ Youtube: gb1IYzofAAc
 Vimeo: 136390433
 Tumblr: http://openscreencast.tumblr.com/post/126762340670/libreoffice-5-installieren-linux-lizenz
 Diaspora: https://pod.geraspora.de/posts/3940694
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice5_installieren.ogg
 
 LibreOffice 5 installieren, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

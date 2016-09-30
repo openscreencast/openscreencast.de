@@ -11,6 +11,7 @@ Youtube: VRSxdtN-_5c
 Vimeo: 119926939
 Tumblr: http://openscreencast.tumblr.com/post/66903122937/fedora-20-beta-lxde-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1684930
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora20lxde.ogg
 
 Fedora 20 Beta LXDE - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

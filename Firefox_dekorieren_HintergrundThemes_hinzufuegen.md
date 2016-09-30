@@ -11,6 +11,7 @@ Youtube: OASipNrqBtA
 Vimeo: 122235596
 Tumblr: http://openscreencast.tumblr.com/post/69723100311/firefox-dekorieren-hintergrund-themes-hinzufuegen
 Diaspora: https://pod.geraspora.de/posts/1760529
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefox_themes.ogg
 
 Firefox dekorieren - Hintergrund-Themes hinzufügen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -19,8 +20,7 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 <https://addons.mozilla.org/de/developers/docs/themes>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

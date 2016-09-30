@@ -11,6 +11,7 @@ Youtube: xoH5G8Tqfow
 Vimeo: 52073520
 Tumblr: http://openscreencast.tumblr.com/post/33093852833/taskwarrior-abkuerzungen-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/823807
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_abkuerzungen.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

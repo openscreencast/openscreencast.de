@@ -11,6 +11,7 @@ Youtube: OfKnjhK_4NM
 Vimeo: 119676741
 Tumblr: http://openscreencast.tumblr.com/post/66301551209/linux-die-hardwareparameter-im-proc-verzeichnis
 Diaspora: https://pod.geraspora.de/posts/1669401
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc_hardwareparameter.ogg
 
 Linux - die Hardwareparameter im /proc-Verzeichnis  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

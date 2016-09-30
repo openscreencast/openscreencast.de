@@ -11,6 +11,7 @@ Youtube: gZz3rFfzKIU
 Vimeo: 132929692
 Tumblr: http://openscreencast.tumblr.com/post/87588734965/jugend-hackt-2014-lizenz
 Diaspora: https://pod.geraspora.de/posts/2301327
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/jugendhackt2014.ogg
 
 Jugend hackt 2014  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

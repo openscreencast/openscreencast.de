@@ -11,6 +11,7 @@ Youtube: pMR5F8IdDGI
 Vimeo: 132201287
 Tumblr: http://openscreencast.tumblr.com/post/77498157570/linux-cheat-lernen-durch-kommando-beispiele
 Diaspora: https://pod.geraspora.de/posts/1950439
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_cheat.ogg
 
 Linux - cheat (lernen durch Kommando-Beispiele)  
 <http://creativecommons.org/licenses/by/4.0/>  

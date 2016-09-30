@@ -11,6 +11,7 @@ Youtube: PzKs31SjVQ0
 Vimeo: 133495889
 Tumblr: http://openscreencast.tumblr.com/post/120621381260/sonic-pi-musik-und-programmierung-raspberry-pi
 Diaspora: https://pod.geraspora.de/posts/3691462
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/sonic_pi.ogg
 
 Sonic Pi - Musik und Programmierung (Raspberry Pi)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

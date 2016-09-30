@@ -11,6 +11,7 @@ Youtube: 3xiI_v9TopE
 Vimeo: 136945571
 Tumblr: http://openscreencast.tumblr.com/post/127247132940/openlayers-3-eine-karte-auf-eine-webseite-setzen
 Diaspora: https://pod.geraspora.de/posts/3959630
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_openlayers/openlayers3_quickstart.ogg
 
 OpenLayers 3 - eine Karte auf eine Webseite setzen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

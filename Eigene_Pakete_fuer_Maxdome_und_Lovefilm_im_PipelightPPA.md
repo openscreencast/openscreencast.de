@@ -11,6 +11,7 @@ Youtube: wtiF-NQKA4w
 Vimeo: 132821533
 Tumblr: http://openscreencast.tumblr.com/post/83121008280/eigene-pakete-fuer-maxdome-und-lovefilm-im
 Diaspora: https://pod.geraspora.de/posts/2142674
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/pipelightppa.ogg
 
 Eigene Pakete für Maxdome und Lovefilm im Pipelight-PPA  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

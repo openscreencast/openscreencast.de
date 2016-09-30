@@ -11,6 +11,7 @@ Youtube: 0Oqdwi_vdBw
 Vimeo: 50923775
 Tumblr: http://openscreencast.tumblr.com/post/32267903832/couchdb-eine-datei-an-ein-dokument-haengen
 Diaspora: https://pod.geraspora.de/posts/807254
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_couchdb/couchdb_attachments.ogg
 
 Ausgangspunkt: Fedora 17 beta  
 Zielgruppe: Neueinsteiger  

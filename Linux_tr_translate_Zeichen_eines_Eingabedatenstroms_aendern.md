@@ -11,6 +11,7 @@ Youtube: LqDNmRAz1k0
 Vimeo: 123624355
 Tumblr: http://openscreencast.tumblr.com/post/70411313230/linux-tr-translate-zeichen-eines
 Diaspora: https://pod.geraspora.de/posts/1778301
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_tr.ogg
 
 Linux - tr (translate - Zeichen eines Eingabedatenstroms ändern)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

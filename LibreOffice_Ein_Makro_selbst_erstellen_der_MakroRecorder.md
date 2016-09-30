@@ -11,6 +11,7 @@ Youtube: k3E8SF9p8qg
 Vimeo: 132201285
 Tumblr: http://openscreencast.tumblr.com/post/77498094012/libreoffice-ein-makro-selbst-erstellen-der
 Diaspora: https://pod.geraspora.de/posts/1950434
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makrorecorder.ogg
 
 LibreOffice - Ein Makro selbst erstellen (der Makro-Recorder)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: EJ8Ikba5mxY
 Vimeo: 79529794
 Tumblr: http://openscreencast.tumblr.com/post/33951032964/redis-allgemeine-befehle-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/840847
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_allgemeine_befehle.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

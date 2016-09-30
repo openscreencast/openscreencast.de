@@ -11,6 +11,7 @@ Youtube: YKCqPYPI8vQ
 Vimeo: 133446616
 Tumblr: http://openscreencast.tumblr.com/post/110077760245/linux-speicherplatzverbrauch-fuer-ordner-und
 Diaspora: https://pod.geraspora.de/posts/3213179
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_ncdu.ogg
 
 Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln, Linux Mint
 17.1  
@@ -20,7 +21,8 @@ Textquelle:
 [Speicherplatzverbrauch für Ordner und Dateien unter Linux
 ermitteln](http://linuxundich.de/gnu-linux/speicherplatzverbrauch-ordner-
 dateien-linux-terminal-ermitteln/) von [Christoph
-Langner](http://linuxundich.de/) Lizenz: CC by 4.0
+Langner](http://linuxundich.de/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

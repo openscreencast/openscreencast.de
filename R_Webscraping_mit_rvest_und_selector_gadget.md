@@ -10,15 +10,16 @@ License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 138640900
 Tumblr: http://openscreencast.tumblr.com/post/128644034150/web-scraping-mit-r-webscraping-mit-rvest-und-dem
 Diaspora: https://pod.geraspora.de/posts/4019580
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_webscraping_mit_rvest_selectorgadget.ogg
 
 R - Webscraping mit rvest und dem Selector Gadget, Fedora 22  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  
   
 Textquelle:  
-[Web Scraping mit R - freiesmagazin.de](http://freiesmagazin.de/mobil/freiesMa
-gazin-2015-08-bilder.html#fm_15_08_webscraping) von Markus Herrmann und
-Barbara Wolf Lizenz: [CC by-sa 4.0](http://creativecommons.org/licenses/by-
-sa/4.0/)
+[Web Scraping mit R -
+freiesmagazin.de](http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping)
+von Markus Herrmann und Barbara Wolf Lizenz: [CC by-sa
+4.0](http://creativecommons.org/licenses/by-sa/4.0/)
 
 Links:
 

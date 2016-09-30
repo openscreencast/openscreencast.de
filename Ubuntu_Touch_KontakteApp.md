@@ -11,6 +11,7 @@ Youtube: ysnGG6IWmCI
 Vimeo: 132215256
 Tumblr: http://openscreencast.tumblr.com/post/79566531392/ubuntu-touch-kontakte-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2017712
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_kontakteapp.ogg
 
 Ubuntu Touch - Kontakte-App  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

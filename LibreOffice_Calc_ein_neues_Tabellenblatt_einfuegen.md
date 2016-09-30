@@ -11,6 +11,7 @@ Youtube: 1zRCoZ4p1vw
 Vimeo: 128161638
 Tumblr: http://openscreencast.tumblr.com/post/71997950338/libreoffice-calc-ein-neues-tabellenblatt
 Diaspora: https://pod.geraspora.de/posts/1809825
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_newtab.ogg
 
 LibreOffice - Calc - ein neues Tabellenblatt einfügen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

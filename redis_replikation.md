@@ -11,6 +11,7 @@ Youtube: 07DM7XAZ-dc
 Vimeo: 80029664
 Tumblr: http://openscreencast.tumblr.com/post/37338674874/redis-replikation-fedora-17
 Diaspora: https://pod.geraspora.de/posts/936054
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_replikation.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

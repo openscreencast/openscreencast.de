@@ -11,14 +11,15 @@ Youtube: rvBXmjXqpN8
 Vimeo: 133489841
 Tumblr: http://openscreencast.tumblr.com/post/114950875895/git-fur-einsteiger-allgemeines-zum-branching
 Diaspora: https://pod.geraspora.de/posts/3434711
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_branching_allgemeines.ogg
 
 Git für Einsteiger - Allgemeines zum Branching, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  
   
 Textquelle:  
 [Git für Einsteiger - Teil 2](https://svij.org/blog/2014/11/01/git-fur-
-einsteiger-teil-2/) von [Sujeevan Vijayakumaran](http://svij.org/) Lizenz: CC
-by-sa 3.0
+einsteiger-teil-2/) von [Sujeevan Vijayakumaran](http://svij.org/) Lizenz: [CC
+by-sa 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Links:
 

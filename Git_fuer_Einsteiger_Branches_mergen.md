@@ -11,6 +11,7 @@ Youtube: ChSt1ozMlVA
 Vimeo: 137696877
 Tumblr: http://openscreencast.tumblr.com/post/127874752210/git-f&uuml;r-einsteiger-branches-mergen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3984695
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_git/git_branches_mergen.ogg
 
 Git für Einsteiger - Branches mergen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

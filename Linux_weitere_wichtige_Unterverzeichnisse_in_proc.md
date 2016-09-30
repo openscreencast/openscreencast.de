@@ -11,6 +11,7 @@ Youtube: ZHDvp7KBAmM
 Vimeo: 119676744
 Tumblr: http://openscreencast.tumblr.com/post/66604222986/linux-weitere-wichtige-unterverzeichnisse-in
 Diaspora: https://pod.geraspora.de/posts/1676694
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc_weitere_unterverzeichnisse.ogg
 
 Linux - weitere wichtige Unterverzeichnisse in /proc  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

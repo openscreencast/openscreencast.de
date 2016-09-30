@@ -11,6 +11,7 @@ Youtube: j7Vfr7ArHu4
 Vimeo: 121216515
 Tumblr: http://openscreencast.tumblr.com/post/68342940520/manjaro-linux-0-8-8-xfce-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1724043
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/manjaroxfce.ogg
 
 Manjaro Linux 0.8.8 Xfce - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

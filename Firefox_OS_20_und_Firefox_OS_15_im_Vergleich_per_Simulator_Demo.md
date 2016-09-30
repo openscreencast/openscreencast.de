@@ -11,13 +11,13 @@ Youtube: dp_rGiGY59A
 Vimeo: 132923581
 Tumblr: http://openscreencast.tumblr.com/post/86547065545/firefox-os-2-0-und-firefox-os-1-5-im-vergleich
 Diaspora: https://pod.geraspora.de/posts/2267077
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos20u15simulator_demo.ogg
 
 Firefox OS 2.0 und Firefox OS 1.5 im Vergleich (per Simulator) - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
   
 Musik:  
 The Life and Death of a Certain K. Zabriskie, Patriarch by Chris Zabriskie

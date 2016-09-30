@@ -11,6 +11,7 @@ Youtube: zM8JTQVtf3k
 Vimeo: 140501149
 Tumblr: http://openscreencast.tumblr.com/post/129907425625/gnome-318-datei-kopieren-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/4074089
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome318_datei_kopieren_demo.ogg
 
 Gnome 3.18 - Datei kopieren - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

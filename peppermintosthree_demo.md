@@ -11,6 +11,7 @@ Youtube: MboIdRyWCx0
 Vimeo: 79595736
 Tumblr: http://openscreencast.tumblr.com/post/35710351191/peppermint-os-three-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/892149
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/peppermintos.ogg
 
 Ausgangspunkt: Peppermint OS Three  
 Zielgruppe: Neueinsteiger  

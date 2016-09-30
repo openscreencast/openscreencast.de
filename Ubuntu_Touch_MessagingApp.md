@@ -11,6 +11,7 @@ Youtube: sYkBDNZKxDY
 Vimeo: 132217986
 Tumblr: http://openscreencast.tumblr.com/post/80083709945/ubuntu-touch-messaging-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2034690
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_messagingapp.ogg
 
 Ubuntu Touch - Messaging-App  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

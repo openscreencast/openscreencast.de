@@ -11,6 +11,7 @@ Youtube: qkn4HbKP5Ro
 Vimeo: 131876209
 Tumblr: http://openscreencast.tumblr.com/post/72974190760/gnome3-gnome2-look-verwenden
 Diaspora: https://pod.geraspora.de/posts/1832147
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_gnome2look.ogg
 
 Gnome3 - Gnome2-Look verwenden (gnome-classic-session)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

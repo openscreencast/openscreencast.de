@@ -11,6 +11,7 @@ Youtube: smGNX6D1bnE
 Vimeo: 132929693
 Tumblr: http://openscreencast.tumblr.com/post/89165599935/mit-steam-skin-manager-das-aussehen-des-steam
 Diaspora: https://pod.geraspora.de/posts/2356658
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/steam-skin-manager.ogg
 
 Mit Steam Skin Manager das Aussehen des Steam Clients unter Linux verändern  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

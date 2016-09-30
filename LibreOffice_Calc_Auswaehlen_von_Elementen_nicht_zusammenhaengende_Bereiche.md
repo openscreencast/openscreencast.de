@@ -11,6 +11,7 @@ Youtube: wakFgEy4y_0
 Vimeo: 119694106
 Tumblr: http://openscreencast.tumblr.com/post/67077556387/libreoffice-calc-auswaehlen-von-elementen
 Diaspora: https://pod.geraspora.de/posts/1690319
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_auswaehlen_von_elementen_nicht_zusammenhaengende_bereiche.ogg
 
 LibreOffice - Calc - Auswählen von Elementen - nicht zusammenhängende Bereiche  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

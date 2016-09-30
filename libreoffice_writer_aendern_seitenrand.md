@@ -11,6 +11,7 @@ Youtube: er12qLLm3OE
 Vimeo: 81575408
 Tumblr: http://openscreencast.tumblr.com/post/43570713935/libreoffice-writer-aendern-von-seitenraendern
 Diaspora: https://pod.geraspora.de/posts/1071900
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_writer_seitenrand.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: bN2bqTcuEqE
 Vimeo: 119676748
 Tumblr: http://openscreencast.tumblr.com/post/66959320064/linux-simplescreenrecorder-screencasting-tool
 Diaspora: https://pod.geraspora.de/posts/1686307
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/simplescreenrecorder.ogg
 
 Linux - SimpleScreenRecorder (Screencasting-Tool)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

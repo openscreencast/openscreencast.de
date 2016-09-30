@@ -11,6 +11,7 @@ Youtube: IhhsfMwp6JM
 Vimeo: 50927779
 Tumblr: http://openscreencast.tumblr.com/post/32334979710/taskwarrior-projekte-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/808703
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_project.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

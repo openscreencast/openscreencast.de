@@ -11,6 +11,7 @@ Youtube: JaKatL24upE
 Vimeo: 132926061
 Tumblr: http://openscreencast.tumblr.com/post/86832306150/python-programmierung-import-pwd-lizenz
 Diaspora: https://pod.geraspora.de/posts/2276409
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_pwd.ogg
 
 Python-Programmierung - import pwd  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

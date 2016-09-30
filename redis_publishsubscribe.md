@@ -11,6 +11,7 @@ Youtube: ZV-eDtNsyJU
 Vimeo: 79595738
 Tumblr: http://openscreencast.tumblr.com/post/34713568775/redis-publish-subscribe-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/863839
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_pubsub.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

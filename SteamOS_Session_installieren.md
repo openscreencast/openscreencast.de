@@ -11,6 +11,7 @@ Youtube: bN2pJcs7KzY
 Vimeo: 132198556
 Tumblr: http://openscreencast.tumblr.com/post/73746359307/steamos-session-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/1851884
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/steamos_session_installieren.ogg
 
 SteamOS Session installieren  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

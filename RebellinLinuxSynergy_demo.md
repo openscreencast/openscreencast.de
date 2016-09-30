@@ -11,6 +11,7 @@ Youtube: T69olVqF-sM
 Vimeo: 133452109
 Tumblr: http://openscreencast.tumblr.com/post/110988004345/rebellin-linux-synergy-2-5-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3255375
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/rebellin_linux.ogg
 
 Rebellin Linux Synergy 2.5 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

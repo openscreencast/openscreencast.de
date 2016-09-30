@@ -11,6 +11,7 @@ Youtube: dLV0Z5VXjVs
 Vimeo: 133452110
 Tumblr: http://openscreencast.tumblr.com/post/111184092380/kde-plasma-5-2-demo-mit-kaos-und-netrunner-15
 Diaspora: https://pod.geraspora.de/posts/3263486
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/plasma52_demo.ogg
 
 KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

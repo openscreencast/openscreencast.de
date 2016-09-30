@@ -11,6 +11,7 @@ Youtube: PcvkjQdqV1Q
 Vimeo: 80029668
 Tumblr: http://openscreencast.tumblr.com/post/37193818735/taskwarrior-datum-und-uhrzeit-faelligkeit
 Diaspora: https://pod.geraspora.de/posts/931780
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_faelligkeit.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

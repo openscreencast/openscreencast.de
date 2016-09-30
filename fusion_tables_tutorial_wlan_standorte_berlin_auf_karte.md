@@ -11,6 +11,7 @@ Youtube: RIaJlRzwqeM
 Vimeo: 83659375
 Tumblr: http://openscreencast.tumblr.com/post/54142934991/google-fusion-tables-tutorial-beispiel
 Diaspora: https://pod.geraspora.de/posts/1369519
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/google_fusion_tables.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: 1Ja04Egqs_Y
 Vimeo: 132320707
 Tumblr: http://openscreencast.tumblr.com/post/80799723549/css-diner-bringt-euch-css-selektoren-mit
 Diaspora: https://pod.geraspora.de/posts/2060513
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/cssdiner.ogg
 
 CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

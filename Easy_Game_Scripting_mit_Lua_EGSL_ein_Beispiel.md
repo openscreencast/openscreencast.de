@@ -11,6 +11,7 @@ Youtube: wvpfUnOVug0
 Vimeo: 122501931
 Tumblr: http://openscreencast.tumblr.com/post/69389356109/easy-game-scripting-mit-lua-egsl-ein-beispiel
 Diaspora: https://pod.geraspora.de/posts/1751065
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/egsl_bsp.ogg
 
 Easy Game Scripting mit Lua (EGSL) - ein Beispiel  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/deed.de>  

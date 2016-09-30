@@ -11,6 +11,7 @@ Youtube: AkjFQ1NPv2g
 Vimeo: 79489136
 Tumblr: http://openscreencast.tumblr.com/post/33919379067/libreoffice-writer-seiten-nummerieren-fedora
 Diaspora: https://pod.geraspora.de/posts/840335
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_writer_seiten_nummerieren.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

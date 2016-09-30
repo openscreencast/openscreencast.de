@@ -11,6 +11,7 @@ Youtube: WFXia1a7zS8
 Vimeo: 133495890
 Tumblr: http://openscreencast.tumblr.com/post/120019364230/gimp-moderne-und-schicke-splashscreens-lizenz
 Diaspora: https://pod.geraspora.de/posts/3665000
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gimp/gimp_splashscreen.ogg
 
 GIMP - moderne und schicke Splashscreens, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -18,7 +19,8 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 Textquelle:  
 [Moderne und schicke Splashscreens für Gimp](http://linuxundich.de/gnu-linux
 /moderne-und-schicke-splashscreens-fur-gimp/) von [Christoph
-Langner](http://linuxundich.de/) Lizenz: CC by 4.0
+Langner](http://linuxundich.de/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

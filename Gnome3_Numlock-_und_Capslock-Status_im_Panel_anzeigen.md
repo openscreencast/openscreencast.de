@@ -11,6 +11,7 @@ Youtube: LU7nEolJYiU
 Vimeo: 132919987
 Tumblr: http://openscreencast.tumblr.com/post/85027132945/gnome3-numlock-und-capslock-status-im-panel
 Diaspora: https://pod.geraspora.de/posts/2211351
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_lockkeys.ogg
 
 Gnome3 - Numlock- und Capslock-Status im Panel anzeigen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

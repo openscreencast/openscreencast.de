@@ -11,6 +11,7 @@ Youtube: qk-fgVhTphI
 Vimeo: 132812408
 Tumblr: http://openscreencast.tumblr.com/post/82400145747/linux-bildschirm-mit-einem-klick-ausschalten
 Diaspora: https://pod.geraspora.de/posts/2118547
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_xset_dpms.ogg
 
 Linux - Bildschirm mit einem Klick ausschalten  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

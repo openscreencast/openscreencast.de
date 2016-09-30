@@ -11,13 +11,13 @@ Youtube: xbNqD9jUGuw
 Vimeo: 132815111
 Tumblr: http://openscreencast.tumblr.com/post/82505779546/geeksphone-revolution-firefox-os-installieren
 Diaspora: https://pod.geraspora.de/posts/2122283
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/geeksphonerevolution_firefoxos.ogg
 
 Geeksphone Revolution - Firefox OS installieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
 <http://de.wikipedia.org/wiki/Firefox_OS>  
 <http://www.soeren-hentzschel.at/mozilla/firefox-os/2014/04/10/geeksphone-
 revolution-kann-ueber-amazon-zum-sonderpreis-erworben-werden/>  

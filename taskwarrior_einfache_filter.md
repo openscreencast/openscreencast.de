@@ -11,6 +11,7 @@ Youtube: uTylKgaTINw
 Vimeo: 50928544
 Tumblr: http://openscreencast.tumblr.com/post/32335003959/taskwarrior-einfache-filter-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/808704
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_filter.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: ToZXRgXgiNA
 Vimeo: 133446617
 Tumblr: http://openscreencast.tumblr.com/post/110374790015/komprimieren-von-css-und-javascript-lizenz
 Diaspora: https://pod.geraspora.de/posts/3227001
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/compress_css_js.ogg
 
 Komprimieren von CSS und Javascript, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

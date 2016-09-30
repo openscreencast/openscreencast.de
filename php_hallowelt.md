@@ -11,6 +11,7 @@ Youtube: ylRhRdIYOlc
 Vimeo: 79530034
 Tumblr: http://openscreencast.tumblr.com/post/34056923814/php-programmierung-hallo-welt-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/842669
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_hallowelt.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

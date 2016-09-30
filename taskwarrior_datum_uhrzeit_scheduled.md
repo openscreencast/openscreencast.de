@@ -11,6 +11,7 @@ Youtube: iqu_wadiYFs
 Vimeo: 81105605
 Tumblr: http://openscreencast.tumblr.com/post/44740164970/taskwarrior-datum-und-uhrzeit-scheduled
 Diaspora: https://pod.geraspora.de/posts/1102802
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_scheduled.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

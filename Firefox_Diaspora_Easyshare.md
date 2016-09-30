@@ -11,6 +11,7 @@ Youtube: XMGxJaRa9ik
 Vimeo: 131876206
 Tumblr: http://openscreencast.tumblr.com/post/72882579993/firefox-diaspora-easyshare-lizenz
 Diaspora: https://pod.geraspora.de/posts/1830195
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefox_diaspora_easyshare.ogg
 
 Firefox - Diaspora Easyshare  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -21,8 +22,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 <http://de.wikipedia.org/wiki/Firefox>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

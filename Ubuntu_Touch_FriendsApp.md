@@ -11,6 +11,7 @@ Youtube: UcI-l_CbKvg
 Vimeo: 132217984
 Tumblr: http://openscreencast.tumblr.com/post/79876034732/ubuntu-touch-friends-app-lizenz
 Diaspora: https://pod.geraspora.de/posts/2026557
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_friendsapp.ogg
 
 Ubuntu Touch - Friends-App  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

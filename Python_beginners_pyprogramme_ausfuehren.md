@@ -10,6 +10,7 @@ License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 138085115
 Tumblr: http://openscreencast.tumblr.com/post/128261946995/python-f&uuml;r-anf&auml;nger-python-programme-ausf&uuml;hren
 Diaspora: https://pod.geraspora.de/posts/4002772
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python_fuer_anfaenger/python_beginners_pyprogramme_ausfuehren.ogg
 
 Python für Anfänger - Python-Programme ausführen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

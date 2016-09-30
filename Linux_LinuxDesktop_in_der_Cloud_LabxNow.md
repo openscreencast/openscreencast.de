@@ -11,6 +11,7 @@ Youtube: dZKfFs3qoR4
 Vimeo: 140507651
 Tumblr: http://openscreencast.tumblr.com/post/129907525180/linux-kostenloser-linux-desktop-in-der-cloud
 Diaspora: https://pod.geraspora.de/posts/4074090
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_linuxdesktop_in_der_cloud_labxnow.ogg
 
 Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

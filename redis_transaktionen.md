@@ -11,6 +11,7 @@ Youtube: 12l9jkVRz6g
 Vimeo: 79529739
 Tumblr: http://openscreencast.tumblr.com/post/33951015638/redis-transaktionen-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/840846
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_transaktionen.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

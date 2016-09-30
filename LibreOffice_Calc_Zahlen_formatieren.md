@@ -11,11 +11,13 @@ Youtube: GGO-OBE8DXU
 Vimeo: 133448593
 Tumblr: http://openscreencast.tumblr.com/post/110731518950/libreoffice-calc-zahlen-formatieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3242945
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_zahlen_formatieren.ogg
 
 LibreOffice - Calc - Zahlen formatieren, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
   
 Textquelle:  
-[http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by
-3.0)](http://de.libreoffice.org/hilfe-kontakt/handbuecher/)
+[http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)](http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/)
 

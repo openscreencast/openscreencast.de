@@ -11,6 +11,7 @@ Youtube: b78FOC85R6I
 Vimeo: 132322123
 Tumblr: http://openscreencast.tumblr.com/post/80693451103/praesentationen-mit-html-und-reveal-js
 Diaspora: https://pod.geraspora.de/posts/2056165
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/revealjs_install.ogg
 
 Präsentationen mit HTML und reveal.js - Installation und Grundgerüst  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

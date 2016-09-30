@@ -11,6 +11,7 @@ Youtube: t2-pe0IGhj4
 Vimeo: 81575391
 Tumblr: http://openscreencast.tumblr.com/post/43502340976/awesome-konfiguration-layouts-linux-mint-14
 Diaspora: https://pod.geraspora.de/posts/1069957
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/awesome_config_layouts.ogg
 
 Ausgangspunkt: Linux Mint 14  
 Zielgruppe: Neueinsteiger  

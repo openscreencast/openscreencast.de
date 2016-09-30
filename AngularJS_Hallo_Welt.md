@@ -11,6 +11,7 @@ Youtube: 66opQphBDkI
 Vimeo: 132926060
 Tumblr: http://openscreencast.tumblr.com/post/86714655830/angularjs-hallo-welt-ng-model-ng-show
 Diaspora: https://pod.geraspora.de/posts/2272954
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_hallowelt.ogg
 
 AngularJS - Hallo Welt (ng-model, ng-show, ng-hide, .length, limitTo)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

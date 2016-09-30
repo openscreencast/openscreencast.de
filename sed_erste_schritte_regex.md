@@ -11,6 +11,7 @@ Youtube: _JqALpNvDoY
 Vimeo: 83603271
 Tumblr: http://openscreencast.tumblr.com/post/53473426791/sed-erste-schritte-mit-regulaeren-ausdruecken
 Diaspora: https://pod.geraspora.de/posts/1348606
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/sed_regex.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  
@@ -18,5 +19,5 @@ Zielgruppe: Neueinsteiger
 Links:
 
   * [WP:sed](http://de.wikipedia.org/wiki/Sed_%28Unix%29 "sed" )
-  * [Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0)](http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/ "opendatacity.de" )
+  * [Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/ "opendatacity.de" )
 

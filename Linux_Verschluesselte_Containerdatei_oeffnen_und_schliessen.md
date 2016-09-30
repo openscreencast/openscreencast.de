@@ -11,6 +11,7 @@ Youtube: SwxJQh_21A0
 Vimeo: 132206551
 Tumblr: http://openscreencast.tumblr.com/post/78751038981/linux-verschluesselte-containerdatei-oeffnen-und
 Diaspora: https://pod.geraspora.de/posts/1991515
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_luksformat_hard_openclose.ogg
 
 Linux - Verschlüsselte Containerdatei öffnen und schließen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

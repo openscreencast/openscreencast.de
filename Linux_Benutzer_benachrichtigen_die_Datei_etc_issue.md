@@ -11,6 +11,7 @@ Youtube: LqJs8NR-sjM
 Vimeo: 121216513
 Tumblr: http://openscreencast.tumblr.com/post/67870120364/linux-benutzer-benachrichtigen-die-datei
 Diaspora: https://pod.geraspora.de/posts/1712167
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_issue.ogg
 
 Linux - Benutzer benachrichtigen - die Datei /etc/issue, Linux Mint 15  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

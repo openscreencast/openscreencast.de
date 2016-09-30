@@ -11,6 +11,7 @@ Youtube: IvlyV32wYTE
 Vimeo: 80029648
 Tumblr: http://openscreencast.tumblr.com/post/42937957037/gnome3-ordner-vor-dateien-anzeigen-fedora-18
 Diaspora: https://pod.geraspora.de/posts/1056226
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_sortdirfirst.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

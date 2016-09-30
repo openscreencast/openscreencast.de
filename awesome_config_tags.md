@@ -11,6 +11,7 @@ Youtube: yatOwhzdRE0
 Vimeo: 81575395
 Tumblr: http://openscreencast.tumblr.com/post/43502297708/awesome-konfiguration-tags-linux-mint-14
 Diaspora: https://pod.geraspora.de/posts/1069956
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/awesome_config_tags.ogg
 
 Ausgangspunkt: Linux Mint 14  
 Zielgruppe: Neueinsteiger  

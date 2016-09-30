@@ -11,6 +11,7 @@ Youtube: oeSS6v3TUsw
 Vimeo: 140085091
 Tumblr: http://openscreencast.tumblr.com/post/129651205345/firefox-os-ein-bildschirmfoto-screenshot
 Diaspora: https://pod.geraspora.de/posts/4062744
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos_screenshot.ogg
 
 Firefox OS - ein Bildschirmfoto (Screenshot) machen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

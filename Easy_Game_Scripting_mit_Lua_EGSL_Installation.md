@@ -11,6 +11,7 @@ Youtube: GeGeQWEMf8I
 Vimeo: 122501932
 Tumblr: http://openscreencast.tumblr.com/post/69387846214/easy-game-scripting-mit-lua-egsl-installation
 Diaspora: https://pod.geraspora.de/posts/1751062
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/egsl_install.ogg
 
 Easy Game Scripting mit Lua (EGSL) - Installation  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/deed.de>  

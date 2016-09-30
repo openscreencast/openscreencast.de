@@ -11,6 +11,7 @@ Youtube: kBslQm5fUkk
 Vimeo: 132210708
 Tumblr: http://openscreencast.tumblr.com/post/78953900210/linux-verschluesselte-containerdatei-passwoerter
 Diaspora: https://pod.geraspora.de/posts/1997465
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_luksformat_hard_passwortmanager.ogg
 
 Linux - Verschlüsselte Containerdatei - Passwörter verwalten  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

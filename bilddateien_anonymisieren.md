@@ -11,6 +11,7 @@ Youtube: 9oX-3MgkXi8
 Vimeo: 82657977
 Tumblr: http://openscreencast.tumblr.com/post/47408811432/fotos-und-bilddateien-anonymisieren-linux
 Diaspora: https://pod.geraspora.de/posts/1175031
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/bild_anonym.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

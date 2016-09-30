@@ -11,6 +11,7 @@ Youtube: rUoGh-WaW7g
 Vimeo: 121216512
 Tumblr: http://openscreencast.tumblr.com/post/67185947429/linux-gnome3-gpaste-zwischenablage
 Diaspora: https://pod.geraspora.de/posts/1693197
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome_gpaste.ogg
 
 Linux - Gnome3 - GPaste (Zwischenablage installieren), Fedora 19  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

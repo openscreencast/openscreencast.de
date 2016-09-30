@@ -11,17 +11,16 @@ Youtube: 5k7rOEiimuI
 Vimeo: 132215259
 Tumblr: http://openscreencast.tumblr.com/post/79671167417/firefox-os-1-3-simulator-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/2020627
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos13simulator_installieren.ogg
 
 Firefox OS 1.3 Simulator installieren  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

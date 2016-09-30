@@ -11,6 +11,7 @@ Youtube: vEEo4QUwTs0
 Vimeo: 154343736
 Tumblr: http://openscreencast.tumblr.com/post/138740652845/tails-20-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/4471321
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/tails20_demo.ogg
 
 Tails 2.0 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

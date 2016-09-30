@@ -11,6 +11,7 @@ Youtube: dus1TdgvqnI
 Vimeo: 79530036
 Tumblr: http://openscreencast.tumblr.com/post/34056966026/php-programmierung-variablen-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/842671
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_variablen.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

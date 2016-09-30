@@ -11,6 +11,7 @@ Youtube: 93lMGJBGsWM
 Vimeo: 132331296
 Tumblr: http://openscreencast.tumblr.com/post/82321290207/reveal-js-weitere-moeglichkeiten-folienuebergang
 Diaspora: https://pod.geraspora.de/posts/2115245
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/revealjs_weitere_moeglichkeiten.ogg
 
 reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund
 beeinflussen)  

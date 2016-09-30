@@ -11,6 +11,7 @@ Youtube: LfoqdHS8LKI
 Vimeo: 123624358
 Tumblr: http://openscreencast.tumblr.com/post/70614919538/python-programmierung-subprocess-communicate
 Diaspora: https://pod.geraspora.de/posts/1783331
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_subprocess4.ogg
 
 Python-Programmierung - subprocess - communicate  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

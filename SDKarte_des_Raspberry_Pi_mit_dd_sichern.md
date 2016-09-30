@@ -11,6 +11,7 @@ Youtube: 3yAjv-ky8io
 Vimeo: 128161639
 Tumblr: http://openscreencast.tumblr.com/post/71880622817/sd-karte-des-raspberry-pi-mit-dd-sichern-lizenz
 Diaspora: https://pod.geraspora.de/posts/1807769
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/raspberry_dd.ogg
 
 SD-Karte des Raspberry Pi mit dd sichern  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

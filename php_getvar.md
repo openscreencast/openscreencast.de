@@ -11,6 +11,7 @@ Youtube: ROMLVFacIco
 Vimeo: 79530039
 Tumblr: http://openscreencast.tumblr.com/post/34436804959/php-programmierung-get-variablen-fedora-17
 Diaspora: https://pod.geraspora.de/posts/855610
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_get.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

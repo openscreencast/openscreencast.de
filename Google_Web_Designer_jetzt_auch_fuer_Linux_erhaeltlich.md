@@ -11,6 +11,7 @@ Youtube: TAw6C-rC2i4
 Vimeo: 132826529
 Tumblr: http://openscreencast.tumblr.com/post/83927865100/google-web-designer-jetzt-auch-fuer-linux
 Diaspora: https://pod.geraspora.de/posts/2169762
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_webdesigner.ogg
 
 Google Web Designer jetzt auch für Linux erhältlich  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

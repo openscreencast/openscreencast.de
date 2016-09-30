@@ -11,6 +11,7 @@ Youtube: MZF7uWcwqv0
 Vimeo: 134985751
 Tumblr: http://openscreencast.tumblr.com/post/125456090700/libreoffice-calc-ausblenden-und-anzeigen-von
 Diaspora: https://pod.geraspora.de/posts/3888008
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_ausblenden_und_anzeigen_von_daten.ogg
 
 LibreOffice - Calc - Ausblenden und Anzeigen von Daten, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

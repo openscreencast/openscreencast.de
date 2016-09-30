@@ -11,6 +11,7 @@ Youtube: RX6sqkzHz9k
 Vimeo: 52072960
 Tumblr: http://openscreencast.tumblr.com/post/32549916925/taskwarrior-zusammenfassung-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/813661
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_zusammenfassung.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

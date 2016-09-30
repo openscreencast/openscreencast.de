@@ -11,6 +11,7 @@ Youtube: OCJ6fs-DIm4
 Vimeo: 80423256
 Tumblr: http://openscreencast.tumblr.com/post/43221720027/blockdiag-actdiag-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1063664
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/blockdiag_actdiag.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

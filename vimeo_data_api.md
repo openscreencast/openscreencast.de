@@ -11,6 +11,7 @@ Youtube: kuGn0dRMyYo
 Vimeo: 79581041
 Tumblr: http://openscreencast.tumblr.com/post/34357420073/informationen-ueber-ein-vimeo-video-ermitteln
 Diaspora: https://pod.geraspora.de/posts/853072
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/vimeo_data_api.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: dWQDbITfjtY
 Vimeo: 133649462
 Tumblr: http://openscreencast.tumblr.com/post/122678784950/linktipp-2-feine-tutorialsammlungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3779532
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/linktipp_feine_tutorialsammlungen.ogg
 
 Linktipp: 2 feine Tutorialsammlungen, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

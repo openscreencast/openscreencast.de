@@ -11,6 +11,7 @@ Youtube: vQ-hoQN1NV4
 Vimeo: 81105610
 Tumblr: http://openscreencast.tumblr.com/post/45301550527/taskwarrior-aufgaben-beginnen-und-beenden
 Diaspora: https://pod.geraspora.de/posts/1118337
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_taskwarrior/taskwarrior_start.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

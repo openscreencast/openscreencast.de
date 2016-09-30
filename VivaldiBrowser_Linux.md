@@ -11,6 +11,7 @@ Youtube: zGdD0NcQCOw
 Vimeo: 133456529
 Tumblr: http://openscreencast.tumblr.com/post/111391413145/vivaldi-browser-linux-lizenz
 Diaspora: https://pod.geraspora.de/posts/3273018
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/vivaldibrowser.ogg
 
 Vivaldi Browser - Linux, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -18,7 +19,7 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 Textquelle:  
 [Vivaldi Browser nun auch für 32-Bit-Linux](https://www.bitblokes.de/2015/02
 /vivaldi-browser-nun-auch-fuer-32-bit-linux/) von <https://www.bitblokes.de/>
-Lizenz: CC by 3.0
+Lizenz: [CC by 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Links:
 

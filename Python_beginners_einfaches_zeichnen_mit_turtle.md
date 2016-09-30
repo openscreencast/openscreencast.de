@@ -10,6 +10,7 @@ License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 140204552
 Tumblr: http://openscreencast.tumblr.com/post/129718583495/python-f&uuml;r-anf&auml;nger-einfaches-zeichnen-mit
 Diaspora: https://pod.geraspora.de/posts/4065663
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python_fuer_anfaenger/python_beginners_einfaches_zeichnen_mit_turtle.ogg
 
 Python für Anfänger - Einfaches Zeichnen mit turtle, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

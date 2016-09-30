@@ -11,13 +11,15 @@ Youtube: 4zF55X9iK1E
 Vimeo: 133485596
 Tumblr: http://openscreencast.tumblr.com/post/112154006520/html-und-css-die-notwendigen-tools-lizenz
 Diaspora: https://pod.geraspora.de/posts/3305549
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_html_und_css/htmlundcss_intro_tools.ogg
 
 HTML und CSS - Die notwendigen Tools, Fedora Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 Textquelle:  
 [HTML und CSS Tutorial](http://code.makery.ch/library/html-css/de/) von [Marco
-Jakob](http://code.makery.ch/about/) Lizenz: CC by 4.0
+Jakob](http://code.makery.ch/about/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

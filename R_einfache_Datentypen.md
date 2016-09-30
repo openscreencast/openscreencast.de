@@ -11,6 +11,7 @@ Youtube: dnkUZTFvjrQ
 Vimeo: 132926059
 Tumblr: http://openscreencast.tumblr.com/post/86832237940/r-einfache-datentypen-numeric-logical
 Diaspora: https://pod.geraspora.de/posts/2276402
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_einfache_datentypen.ogg
 
 R - einfache Datentypen (numeric, logical, complex, character, raw)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

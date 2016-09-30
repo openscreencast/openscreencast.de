@@ -19,6 +19,5 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
   
 <http://www.r-project.org>  
 <https://de.wikipedia.org/wiki/Modulo>  
-<https://de.wikipedia.org/wiki/Potenz_%28Mathematik%29>#Nat.C3.BCrliche_Expone
-nten
+<https://de.wikipedia.org/wiki/Potenz_%28Mathematik%29>#Nat.C3.BCrliche_Exponenten
 

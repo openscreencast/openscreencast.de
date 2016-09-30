@@ -11,6 +11,7 @@ Youtube: zU1oSK1x17g
 Vimeo: 79491464
 Tumblr: http://openscreencast.tumblr.com/post/33950984252/redis-datentypen-sorted-sets-fedora-17
 Diaspora: https://pod.geraspora.de/posts/840844
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_datentypen_sorted_sets.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

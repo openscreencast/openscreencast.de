@@ -11,6 +11,7 @@ Youtube: jcgrUJv7qGc
 Vimeo: 135376056
 Tumblr: http://openscreencast.tumblr.com/post/125855714640/docker-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3903680
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_docker/docker_install.ogg
 
 docker installieren, Fedora 22  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

@@ -11,6 +11,7 @@ Youtube: 4j80Yyrb-V0
 Vimeo: 122501935
 Tumblr: http://openscreencast.tumblr.com/post/69489832907/python-programmierung-subprocess-die-klasse
 Diaspora: https://pod.geraspora.de/posts/1753552
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_subprocess_popen.ogg
 
 Python-Programmierung - subprocess - die Klasse Popen  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

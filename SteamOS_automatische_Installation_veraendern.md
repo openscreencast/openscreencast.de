@@ -11,6 +11,7 @@ Youtube: 2Enwz5VQ-Zg
 Vimeo: 123624363
 Tumblr: http://openscreencast.tumblr.com/post/70200952347/steamos-automatische-installation-veraendern
 Diaspora: https://pod.geraspora.de/posts/1772860
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/steamos_automatische_installation_veraendern.ogg
 
 SteamOS - automatische Installation verändern (Datei default.preseed
 modifizieren)  

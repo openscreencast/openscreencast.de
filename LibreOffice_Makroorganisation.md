@@ -11,6 +11,7 @@ Youtube: oWBuByfdW-E
 Vimeo: 132217985
 Tumblr: http://openscreencast.tumblr.com/post/80083626787/libreoffice-makroorganisation-lizenz
 Diaspora: https://pod.geraspora.de/posts/2034687
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makroorganisation.ogg
 
 LibreOffice - Makroorganisation  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

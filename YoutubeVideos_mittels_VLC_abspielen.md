@@ -11,6 +11,7 @@ Youtube: -fp0DeGUvhY
 Vimeo: 128161643
 Tumblr: http://openscreencast.tumblr.com/post/71198766635/youtube-videos-mittels-vlc-abspielen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1794255
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/youtube_vlc_play.ogg
 
 Youtube-Videos mittels VLC abspielen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

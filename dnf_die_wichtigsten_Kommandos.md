@@ -11,6 +11,7 @@ Youtube: ZG3gs28_hmk
 Vimeo: 134985752
 Tumblr: http://openscreencast.tumblr.com/post/125456137110/dnf-die-wichtigsten-kommandos-fedora-lizenz
 Diaspora: https://pod.geraspora.de/posts/3888016
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/dnf_kommandos.ogg
 
 dnf - die wichtigsten Kommandos, Fedora 22  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

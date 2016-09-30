@@ -11,13 +11,15 @@ Youtube: Gb_BwvlixKw
 Vimeo: 133485594
 Tumblr: http://openscreencast.tumblr.com/post/112153701235/html-und-css-was-sind-html-und-css-lizenz
 Diaspora: https://pod.geraspora.de/posts/3305515
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora_cockpit.ogg
 
 HTML und CSS - Was sind HTML und CSS ?, Fedora Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 Textquelle:  
 [HTML und CSS Tutorial](http://code.makery.ch/library/html-css/de/) von [Marco
-Jakob](http://code.makery.ch/about/) Lizenz: CC by 4.0
+Jakob](http://code.makery.ch/about/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

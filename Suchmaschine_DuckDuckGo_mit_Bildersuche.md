@@ -11,6 +11,7 @@ Youtube: -uSVv9AfB1E
 Vimeo: 132919989
 Tumblr: http://openscreencast.tumblr.com/post/85129657015/suchmaschine-duckduckgo-mit-bildersuche-lizenz
 Diaspora: https://pod.geraspora.de/posts/2215726
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/nextduckduckgo.ogg
 
 Suchmaschine DuckDuckGo mit Bildersuche  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

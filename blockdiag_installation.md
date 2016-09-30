@@ -11,6 +11,7 @@ Youtube: -pzq6BX0d0A
 Vimeo: 80423356
 Tumblr: http://openscreencast.tumblr.com/post/43164006184/blockdiag-installation-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1062524
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/blockdiag_install.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

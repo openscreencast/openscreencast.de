@@ -11,6 +11,7 @@ Youtube: 4R3G2dKxl5w
 Vimeo: 133454876
 Tumblr: http://openscreencast.tumblr.com/post/111391336015/openstreetmap-ab-sofort-mit-routenplaner-lizenz
 Diaspora: https://pod.geraspora.de/posts/3272994
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/osm_routenplaner.ogg
 
 OpenStreetMap ab sofort mit Routenplaner, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -18,7 +19,7 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 Textquelle:  
 [OpenStreetMap ab sofort mit Routenplaner](https://www.bitblokes.de/2015/02
 /openstreetmap-ab-sofort-mit-routenplaner/) von <https://www.bitblokes.de/>
-Lizenz: CC by 3.0
+Lizenz: [CC by 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Links:
 

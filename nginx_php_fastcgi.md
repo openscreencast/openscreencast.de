@@ -11,6 +11,7 @@ Youtube: gppdmWBa0uc
 Vimeo: 52389828
 Tumblr: http://openscreencast.tumblr.com/post/33843328993/nginx-php-fastcgi-es-wird-gezeigt-wie-php
 Diaspora: https://pod.geraspora.de/posts/837816
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/nginx_php.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

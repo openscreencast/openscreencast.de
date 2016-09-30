@@ -11,6 +11,7 @@ Youtube: M53XRxu-tJI
 Vimeo: 82658023
 Tumblr: http://openscreencast.tumblr.com/post/53631357732/python-programmierung-docopt-befehle
 Diaspora: https://pod.geraspora.de/posts/1353517
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_docopt_befehle.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  

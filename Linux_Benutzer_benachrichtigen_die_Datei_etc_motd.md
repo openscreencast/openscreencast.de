@@ -11,6 +11,7 @@ Youtube: q5SsPrg9pXY
 Vimeo: 121216514
 Tumblr: http://openscreencast.tumblr.com/post/67872021026/linux-benutzer-benachrichtigen-die-datei
 Diaspora: https://pod.geraspora.de/posts/1712172
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_motd.ogg
 
 Linux - Benutzer benachrichtigen - die Datei /etc/motd, Linux Mint 15  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

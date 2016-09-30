@@ -11,6 +11,7 @@ Youtube: EWIHT74RMts
 Vimeo: 138400429
 Tumblr: http://openscreencast.tumblr.com/post/128414831115/fedora-powerline-die-eingabeaufforderung
 Diaspora: https://pod.geraspora.de/posts/4010775
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora_powerline.ogg
 
 Fedora - powerline - die Eingabeaufforderung verändern, Fedora 22  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

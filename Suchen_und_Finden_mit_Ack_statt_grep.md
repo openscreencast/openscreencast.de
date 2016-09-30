@@ -11,6 +11,7 @@ Youtube: wJc1izhskT8
 Vimeo: 132914490
 Tumblr: http://openscreencast.tumblr.com/post/84337529545/linux-suchen-und-finden-mit-ack-statt-grep
 Diaspora: https://pod.geraspora.de/posts/2185283
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_ack.ogg
 
 Linux - Suchen und Finden mit Ack, statt grep  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

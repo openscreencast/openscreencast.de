@@ -11,6 +11,7 @@ Youtube: Wzs8KOTtsCI
 Vimeo: 82657996
 Tumblr: http://openscreencast.tumblr.com/post/53696242107/crashkurs-libreoffice-calc-fuer-datenjournalismus
 Diaspora: https://pod.geraspora.de/posts/1355476
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_crashkurs_datenquellen.ogg
 
 Ausgangspunkt: Linux Mint 15  
 Zielgruppe: Neueinsteiger  
@@ -19,5 +20,5 @@ Links:
 
   * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice" )
   * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice" )
-  * [Tutorial: Crashkurs Excel für Datenjournalismus von Michael Kreil (CC by 3.0)](http://www.opendatacity.de/tutorial-crashkurs-excel-fur-datenjournalismus/ "opendatacity.de" )
+  * [Tutorial: Crashkurs Excel für Datenjournalismus von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/tutorial-crashkurs-excel-fur-datenjournalismus/ "opendatacity.de" )
 

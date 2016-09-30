@@ -11,6 +11,7 @@ Youtube: s06p6HnDBG8
 Vimeo: 80423318
 Tumblr: http://openscreencast.tumblr.com/post/43221744213/blockdiag-nwdiag-und-seqdiag-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1063668
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/blockdiag_nwdiag.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

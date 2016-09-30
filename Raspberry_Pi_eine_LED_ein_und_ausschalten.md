@@ -11,6 +11,7 @@ Youtube: iFewgCdIdMU
 Vimeo: 132914489
 Tumblr: http://openscreencast.tumblr.com/post/84462453110/raspberry-pi-eine-led-ein-und-ausschalten
 Diaspora: https://pod.geraspora.de/posts/2190666
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/raspberrypi_led_onoff.ogg
 
 Raspberry Pi - eine LED ein- und ausschalten  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

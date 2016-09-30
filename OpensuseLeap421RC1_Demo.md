@@ -11,6 +11,7 @@ Youtube: MOE6ATvnltU
 Vimeo: 142776685
 Tumblr: http://openscreencast.tumblr.com/post/131414787565/opensuse-leap-421-rc1-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/4140305
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/opensuse_leap_421rc1_demo.ogg
 
 Opensuse Leap 42.1 RC1 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

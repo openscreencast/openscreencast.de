@@ -11,6 +11,7 @@ Youtube: U9uDblQ9SGk
 Vimeo: 132206544
 Tumblr: http://openscreencast.tumblr.com/post/78568573934/gimp-bildschirm-durchsichtig-machen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1984980
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gimp/gimp_durchsichtige_bildschirme.ogg
 
 GIMP - Bildschirm durchsichtig machen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

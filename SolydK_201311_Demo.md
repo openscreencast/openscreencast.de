@@ -11,6 +11,7 @@ Youtube: Soqb-XRdYw8
 Vimeo: 121216517
 Tumblr: http://openscreencast.tumblr.com/post/68442922340/solydk-201311-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1726795
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/solydk.ogg
 
 SolydK 201311 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

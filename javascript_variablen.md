@@ -11,6 +11,7 @@ Youtube: MK_CLfI-_ew
 Vimeo: 82657993
 Tumblr: http://openscreencast.tumblr.com/post/47408753692/javascript-variablen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1175027
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_javascript/javascript_var.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

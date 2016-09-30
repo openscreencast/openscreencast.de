@@ -11,6 +11,7 @@ Youtube: DH-phIMqZ8s
 Vimeo: 132320708
 Tumblr: http://openscreencast.tumblr.com/post/80799792130/reveal-js-praesentation-betrachten-lizenz
 Diaspora: https://pod.geraspora.de/posts/2060517
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/revealjs_keyboard.ogg
 
 reveal.js - Präsentation betrachten  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

@@ -11,6 +11,7 @@ Youtube: T31nQkXQMWA
 Vimeo: 132198555
 Tumblr: http://openscreencast.tumblr.com/post/73429207423/debian-manpages-im-world-wide-web-lizenz
 Diaspora: https://pod.geraspora.de/posts/1843912
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/debian_manpages_www.ogg
 
 Debian Manpages im World Wide Web  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

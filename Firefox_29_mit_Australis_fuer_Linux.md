@@ -11,6 +11,7 @@ Youtube: edAxBU7qtR8
 Vimeo: 132914488
 Tumblr: http://openscreencast.tumblr.com/post/84233397760/firefox-29-mit-australis-fuer-linux-lizenz
 Diaspora: https://pod.geraspora.de/posts/2180822
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefox29_mit_australis.ogg
 
 Firefox 29 mit Australis für Linux  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -25,10 +26,11 @@ ist-downloadbar-ist-dank-australis-richtig-klasse-geworden/) von
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
-Lizenz: Mozilla Public License Version 2  
+Lizenz: Mozilla Public License Version 2, [MPL
+1.1](https://www.mozilla.org/MPL/1.1/), [CC by
+3.0](https://creativecommons.org/licenses/by/3.0/deed.de)  
   
 Thumbnail-Lizenz: Mozilla Public License Version 2  
   

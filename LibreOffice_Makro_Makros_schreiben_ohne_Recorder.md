@@ -11,6 +11,7 @@ Youtube: g3dcm1kXPlw
 Vimeo: 132922041
 Tumblr: http://openscreencast.tumblr.com/post/85239398940/libreoffice-makro-makros-schreiben-ohne-recorder
 Diaspora: https://pod.geraspora.de/posts/2220305
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_makros_schreiben.ogg
 
 LibreOffice Makro - Makros schreiben ohne Recorder  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

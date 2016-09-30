@@ -11,6 +11,7 @@ Youtube: aqKMryxUeZs
 Vimeo: 140518860
 Tumblr: http://openscreencast.tumblr.com/post/129924507745/screencasting-auf-dem-linux-desktop-in-der-cloud
 Diaspora: https://pod.geraspora.de/posts/4097441
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/screencasting_auf_dem_linuxdesktop_in_der_cloud_demo.ogg
 
 Screencasting auf dem Linux-Desktop in der Cloud - Demo, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

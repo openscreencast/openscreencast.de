@@ -11,6 +11,7 @@ Youtube: eTIGc5Duwi8
 Vimeo: 120825608
 Tumblr: http://openscreencast.tumblr.com/post/67576489716/australis-in-firefox-nightly-lizenz
 Diaspora: https://pod.geraspora.de/posts/1704004
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefoxnightly.ogg
 
 Australis in Firefox Nightly  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
@@ -25,8 +26,7 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 in-den-nightly-builds-an.html>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

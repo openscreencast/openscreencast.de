@@ -11,6 +11,7 @@ Youtube: kSvJeXLgPls
 Vimeo: 132325016
 Tumblr: http://openscreencast.tumblr.com/post/81412302734/reveal-js-vertikale-navigation-und-links-lizenz
 Diaspora: https://pod.geraspora.de/posts/2084183
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/revealjs_links.ogg
 
 reveal.js - vertikale Navigation und Links  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

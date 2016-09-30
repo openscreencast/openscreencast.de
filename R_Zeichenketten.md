@@ -11,6 +11,7 @@ Youtube: 53Q4s6MLCfM
 Vimeo: 133488635
 Tumblr: http://openscreencast.tumblr.com/post/114316707580/r-zeichenketten-lizenz
 Diaspora: https://pod.geraspora.de/posts/3404794
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_zeichenketten.ogg
 
 R - Zeichenketten, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

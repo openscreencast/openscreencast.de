@@ -11,6 +11,7 @@ Youtube: wEoh_z4_rMQ
 Vimeo: 79595737
 Tumblr: http://openscreencast.tumblr.com/post/36159955801/php-programmierung-die-while-schleife-fedora-17
 Diaspora: https://pod.geraspora.de/posts/903968
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_while.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

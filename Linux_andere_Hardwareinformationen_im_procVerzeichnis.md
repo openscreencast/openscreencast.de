@@ -11,6 +11,7 @@ Youtube: oACMzHm60FE
 Vimeo: 119676742
 Tumblr: http://openscreencast.tumblr.com/post/66301618605/linux-andere-hardwareinformationen-im
 Diaspora: https://pod.geraspora.de/posts/1669403
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc_andere_hardwareinfos.ogg
 
 Linux - andere Hardwareinformationen im /proc-Verzeichnis  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

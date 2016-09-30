@@ -11,6 +11,7 @@ Youtube: i-T_rX8vw_w
 Vimeo: 135574162
 Tumblr: http://openscreencast.tumblr.com/post/126013135395/r-vektoren-ein-balkendiagramm-erstellen-und-als
 Diaspora: https://pod.geraspora.de/posts/3910039
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_vektoren_barplot.ogg
 
 R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern, Linux Mint
 17.2  

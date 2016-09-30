@@ -11,6 +11,7 @@ Youtube: l3IoSinZ61k
 Vimeo: 136110401
 Tumblr: http://openscreencast.tumblr.com/post/126512545870/libreoffice-calc-gruppen-und-gliederung
 Diaspora: https://pod.geraspora.de/posts/3929674
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_gruppen_und_gliederung.ogg
 
 LibreOffice - Calc - Gruppen und Gliederung, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

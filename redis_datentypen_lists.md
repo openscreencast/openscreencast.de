@@ -11,6 +11,7 @@ Youtube: Pqb4uiKZy5I
 Vimeo: 52074016
 Tumblr: http://openscreencast.tumblr.com/post/33093910839/redis-datentypen-lists-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/823808
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_lists.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

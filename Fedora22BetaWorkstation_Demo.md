@@ -11,6 +11,7 @@ Youtube: H-vRMrdTYb0
 Vimeo: 133493397
 Tumblr: http://openscreencast.tumblr.com/post/117165614370/fedora-22-beta-workstation-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/3538599
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora22beta_demo.ogg
 
 Fedora 22 Beta Workstation - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>
@@ -19,5 +20,5 @@ Links:
 
   * [Fedora](https://getfedora.org/en/ "Link zu getfedora.org" )
   * [Fedoramagazine](http://fedoramagazine.org/fedora-22-beta-released/ "Link zu fedoramagazine.org" )
-  * Musik: Candlepower von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: CC by 4.0
+  * Musik: Candlepower von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 

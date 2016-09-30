@@ -11,6 +11,7 @@ Youtube: WYhyqtvlB9k
 Vimeo: 120825612
 Tumblr: http://openscreencast.tumblr.com/post/68342993288/manjaro-linux-0-8-8-openbox-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1724046
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/manjaroopenbox.ogg
 
 Manjaro Linux 0.8.8 Openbox - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

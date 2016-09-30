@@ -11,6 +11,7 @@ Youtube: 7mDPnr-IDvE
 Vimeo: 132923579
 Tumblr: http://openscreencast.tumblr.com/post/86210672135/linux-festplattengeschwindigkeit-mit-hdparm
 Diaspora: https://pod.geraspora.de/posts/2254307
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/hdparm_offset.ogg
 
 Linux - Festplattengeschwindigkeit mit hdparm vermessen  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

@@ -11,6 +11,7 @@ Youtube: AW1762zr4qE
 Vimeo: 155150986
 Tumblr: http://openscreencast.tumblr.com/post/139181484110/lumina-087-lumina-desktop-on-ubuntu-1510
 Diaspora: https://pod.geraspora.de/posts/4494763
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/lumina_087_demo.ogg
 
 Lumina 0.8.7 (Lumina-Desktop on Ubuntu 15.10) - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

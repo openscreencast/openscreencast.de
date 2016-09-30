@@ -11,6 +11,7 @@ Youtube: Pkb8EugZ5As
 Vimeo: 132815112
 Tumblr: http://openscreencast.tumblr.com/post/82593602745/foxbleed-seiten-auf-bekannte-openssl-luecke
 Diaspora: https://pod.geraspora.de/posts/2124569
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/foxbleed.ogg
 
 FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -21,8 +22,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 <http://heartbleed.com/>  
   
 Firefox-Logo in Thumbnail:  
-<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang
-=de>  
+<https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de>  
 Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar  
 Lizenz: Mozilla Public License Version 2  
   

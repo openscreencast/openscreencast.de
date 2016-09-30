@@ -11,6 +11,7 @@ Youtube: PD3eTi1YivI
 Vimeo: 133448590
 Tumblr: http://openscreencast.tumblr.com/post/110481247665/notizen-fur-tomboy-aus-firefox-heraus-erzeugen
 Diaspora: https://pod.geraspora.de/posts/3231057
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/tomfox.ogg
 
 Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -18,7 +19,8 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 Textquelle:  
 [Notizen für Tomboy aus Firefox heraus erzeugen](http://linuxundich.de/gnu-
 linux/notizen-fur-tomboy-aus-firefox-heraus-erzeugen/) von [Christoph
-Langner](http://linuxundich.de/) Lizenz: CC by 4.0
+Langner](http://linuxundich.de/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

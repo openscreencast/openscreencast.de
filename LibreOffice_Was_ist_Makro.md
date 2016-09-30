@@ -11,6 +11,7 @@ Youtube: qQErf8pu3Ms
 Vimeo: 132199964
 Tumblr: http://openscreencast.tumblr.com/post/77283444458/libreoffice-was-ist-makro-lizenz
 Diaspora: https://pod.geraspora.de/posts/1944057
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_was_ist_makro.ogg
 
 LibreOffice - Was ist Makro ?  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

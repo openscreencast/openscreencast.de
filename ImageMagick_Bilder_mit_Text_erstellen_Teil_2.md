@@ -11,6 +11,7 @@ Youtube: wFu-f4LwUtQ
 Vimeo: 132816665
 Tumblr: http://openscreencast.tumblr.com/post/83014089097/imagemagick-bilder-mit-text-erstellen-teil-2
 Diaspora: https://pod.geraspora.de/posts/2139053
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_imagemagick/imagemagick_convert_caption.ogg
 
 ImageMagick - Bilder mit Text erstellen - Teil 2 (Bildbearbeitung in der
 Kommandozeile mit dem Tool convert), Linux Mint 16  

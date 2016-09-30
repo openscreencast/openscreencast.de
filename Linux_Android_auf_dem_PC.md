@@ -11,6 +11,7 @@ Youtube: Ridp-GVXs8w
 Vimeo: 132201288
 Tumblr: http://openscreencast.tumblr.com/post/77498187900/linux-android-auf-dem-pc-lizenz
 Diaspora: https://pod.geraspora.de/posts/1950440
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_android_x86.ogg
 
 Linux - Android auf dem PC  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

@@ -11,6 +11,7 @@ Youtube: SRBAJBxAEjY
 Vimeo: 82658011
 Tumblr: http://openscreencast.tumblr.com/post/49086363321/php-programmierung-die-switch-abfrage-fedora-18
 Diaspora: https://pod.geraspora.de/posts/1223149
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_php/php_switch.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

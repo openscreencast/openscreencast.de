@@ -11,6 +11,7 @@ Youtube: eoTZuCYClvk
 Vimeo: 79529659
 Tumblr: http://openscreencast.tumblr.com/post/33950997771/redis-lebensdauer-von-schluesseln-fedora-17
 Diaspora: https://pod.geraspora.de/posts/840845
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_redis/redis_expire.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

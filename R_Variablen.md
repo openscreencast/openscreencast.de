@@ -11,6 +11,7 @@ Youtube: BwcO05z_0uI
 Vimeo: 132919988
 Tumblr: http://openscreencast.tumblr.com/post/85129553375/r-variablen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2215722
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_R/r_variablen.ogg
 
 R - Variablen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

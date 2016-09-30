@@ -11,6 +11,7 @@ Youtube: I-SiKUoVFYQ
 Vimeo: 132822987
 Tumblr: http://openscreencast.tumblr.com/post/83431263274/fertige-virtuelle-maschinen-mit-zahlreichen-freien
 Diaspora: https://pod.geraspora.de/posts/2151443
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_virtualboxesorg.ogg
 
 Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

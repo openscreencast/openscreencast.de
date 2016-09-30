@@ -11,6 +11,7 @@ Youtube: dfV2xV3bAws
 Vimeo: 132325012
 Tumblr: http://openscreencast.tumblr.com/post/81800369894/reveal-js-text-einblenden-lizenz
 Diaspora: https://pod.geraspora.de/posts/2096342
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/revealjs_fragment.ogg
 
 reveal.js - Text einblenden  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

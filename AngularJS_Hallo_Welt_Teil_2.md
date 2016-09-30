@@ -11,6 +11,7 @@ Youtube: oUZuyXYcoLQ
 Vimeo: 132926062
 Tumblr: http://openscreencast.tumblr.com/post/86832402655/angularjs-hallo-welt-teil-2-ng-init
 Diaspora: https://pod.geraspora.de/posts/2276415
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_hallowelt_part2.ogg
 
 AngularJS - Hallo Welt - Teil 2 (ng-init, required, number:n)  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

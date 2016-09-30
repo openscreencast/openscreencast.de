@@ -11,6 +11,7 @@ Youtube: 0zUGrEFJbHE
 Vimeo: 119694109
 Tumblr: http://openscreencast.tumblr.com/post/66795273280/centrych-os-12-04-2-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/1681482
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/centrych.ogg
 
 Centrych OS 12.04.2 - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

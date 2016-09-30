@@ -11,6 +11,7 @@ Youtube: 3W41GRAx0lQ
 Vimeo: 79581015
 Tumblr: http://openscreencast.tumblr.com/post/34302895755/informationen-ueber-ein-youtube-video-auslesen
 Diaspora: https://pod.geraspora.de/posts/850456
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/youtube_data_api.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

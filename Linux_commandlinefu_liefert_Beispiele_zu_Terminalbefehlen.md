@@ -11,6 +11,7 @@ Youtube: 0CgsCO81faE
 Vimeo: 132327499
 Tumblr: http://openscreencast.tumblr.com/post/81912289678/linux-commandlinefu-liefert-beispiele-zu
 Diaspora: https://pod.geraspora.de/posts/2099606
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/commandlinefu.ogg
 
 Linux - commandlinefu liefert Beispiele zu Terminalbefehlen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

@@ -11,6 +11,7 @@ Youtube: _trAOuKfQNA
 Vimeo: 119676743
 Tumblr: http://openscreencast.tumblr.com/post/66604144028/linux-kernel-und-softwareinformationen-im
 Diaspora: https://pod.geraspora.de/posts/1676693
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_proc_kernel_und_softwareinfos.ogg
 
 Linux - Kernel- und Softwareinformationen im /proc-Verzeichnis  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

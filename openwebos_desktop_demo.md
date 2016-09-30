@@ -11,6 +11,7 @@ Youtube: 6_Rn3TXEf5o
 Vimeo: 52387087
 Tumblr: http://openscreencast.tumblr.com/post/33772491062/open-webos-desktop-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/834829
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/openwebos.ogg
 
 Ausgangspunkt: Open webOS  
 Zielgruppe: Neueinsteiger  

@@ -11,6 +11,7 @@ Youtube: mYJE59lh7GQ
 Vimeo: 132816664
 Tumblr: http://openscreencast.tumblr.com/post/82925051446/gimp-einen-rahmen-um-einen-bereich-in-einem-bild
 Diaspora: https://pod.geraspora.de/posts/2135910
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gimp/gimp_rahmen_ziehen.ogg
 
 GIMP - Einen Rahmen um einen Bereich in einem Bild ziehen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

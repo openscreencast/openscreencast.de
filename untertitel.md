@@ -23,8 +23,8 @@ Möglichkeit den Untertitel einzublenden. Neulich habe ich den Dienst
 Übersetzung der Untertitel ist bei
 [http://www.universalsubtitles.org/](http://www.universalsubtitles.org/de/
 "Link zu universalsubtitles.org" ) durch freiwillige Besucher realisierbar.
-Alle Untertitel (deutschsprachig) von [openscreencast](http://www.universalsub
-titles.org/de/profiles/profile/openscreencast/ "Link zu universalsubtitles.org
-openscreencast" ) habe ich dort hochgeladen und können nun in andere Sprachen
-übersetzt werden.
+Alle Untertitel (deutschsprachig) von
+[openscreencast](http://www.universalsubtitles.org/de/profiles/profile/openscreencast/
+"Link zu universalsubtitles.org openscreencast" ) habe ich dort hochgeladen
+und können nun in andere Sprachen übersetzt werden.
 

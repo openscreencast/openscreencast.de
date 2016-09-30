@@ -11,13 +11,13 @@ Youtube: aWx8K2idXjY
 Vimeo: 132812407
 Tumblr: http://openscreencast.tumblr.com/post/82328388107/firefox-os-1-5-und-firefox-os-1-3-im-vergleich
 Diaspora: https://pod.geraspora.de/posts/2115512
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefoxos/firefoxos13u15simulator_demo.ogg
 
 Firefox OS 1.5 und Firefox OS 1.3 im Vergleich (per Simulator) - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 <https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/>  
-<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Ma
-nagers>  
+<https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers>  
   
 Musik:  
 The Life and Death of a Certain K. Zabriskie, Patriarch by Chris Zabriskie

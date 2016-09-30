@@ -11,6 +11,7 @@ Youtube: 1RScPXVq7P4
 Vimeo: 132198560
 Tumblr: http://openscreencast.tumblr.com/post/76850264090/libreoffice-calc-tabellen-umbenennen-lizenz
 Diaspora: https://pod.geraspora.de/posts/1933311
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_tab_ren.ogg
 
 LibreOffice - Calc - Tabellen umbenennen  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

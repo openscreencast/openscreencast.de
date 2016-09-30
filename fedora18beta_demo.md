@@ -11,6 +11,7 @@ Youtube: E9w8Q2L56wM
 Vimeo: 80029646
 Tumblr: http://openscreencast.tumblr.com/post/36757244146/fedora-18-beta-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/919813
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora18beta.ogg
 
 Ausgangspunkt: Fedora 18 Beta  
 Zielgruppe: Neueinsteiger  

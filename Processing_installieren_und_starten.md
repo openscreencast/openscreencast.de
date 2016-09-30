@@ -11,6 +11,7 @@ Youtube: OF4nZfgfdiE
 Vimeo: 139836287
 Tumblr: http://openscreencast.tumblr.com/post/129482846285/processing-installieren-und-starten-lizenz
 Diaspora: https://pod.geraspora.de/posts/4056011
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_processing/processing_installieren_und_starten.ogg
 
 Processing installieren und starten, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

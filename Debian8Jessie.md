@@ -11,6 +11,7 @@ Youtube: yTHx78mQ9us
 Vimeo: 133493398
 Tumblr: http://openscreencast.tumblr.com/post/117519288440/debian-8-jessie-steht-zur-verfugung-lizenz
 Diaspora: https://pod.geraspora.de/posts/3554154
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/debian8.ogg
 
 Debian 8 Jessie steht zur Verfügung  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

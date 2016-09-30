@@ -11,6 +11,7 @@ Youtube: QvQuB0PfrBA
 Vimeo: 133456531
 Tumblr: http://openscreencast.tumblr.com/post/111660247950/angularjs-listen-ng-list-orderby-lizenz
 Diaspora: https://pod.geraspora.de/posts/3284724
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_angularjs/angularjs_listen.ogg
 
 AngularJS - Listen (ng-list, orderBy), Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

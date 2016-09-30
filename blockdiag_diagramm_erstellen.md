@@ -11,6 +11,7 @@ Youtube: hIEeHLRnOzc
 Vimeo: 80423317
 Tumblr: http://openscreencast.tumblr.com/post/43164057291/blockdiag-diagramm-erstellen-fedora-18-lizenz
 Diaspora: https://pod.geraspora.de/posts/1062526
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/blockdiag_diagramm_erstellen.ogg
 
 Ausgangspunkt: Fedora 18  
 Zielgruppe: Neueinsteiger  

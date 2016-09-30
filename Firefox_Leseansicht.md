@@ -11,6 +11,7 @@ Youtube: 8XXGNZ_EScc
 Vimeo: 133497736
 Tumblr: http://openscreencast.tumblr.com/post/121673540295/firefox-leseansicht-lizenz
 Diaspora: https://pod.geraspora.de/posts/3736874
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_firefox/firefox_leseansicht.ogg
 
 Firefox - Leseansicht, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

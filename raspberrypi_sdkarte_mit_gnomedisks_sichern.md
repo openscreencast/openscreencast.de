@@ -11,6 +11,7 @@ Youtube: IO25A5YopvE
 Vimeo: 139365319
 Tumblr: http://openscreencast.tumblr.com/post/129153286790/raspberry-pi-sd-karte-mit-gnome-disks-sichern
 Diaspora: https://pod.geraspora.de/posts/4042255
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_raspberrypi/raspberrypi_sdkarte_sichern_gnome-disks.ogg
 
 Raspberry Pi - SD-Karte mit gnome-disks sichern, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>

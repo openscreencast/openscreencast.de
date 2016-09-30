@@ -11,6 +11,7 @@ Youtube: m56xN_cSjgc
 Vimeo: 133484244
 Tumblr: http://openscreencast.tumblr.com/post/111962514770/das-web-cockpit-aus-fedora-21-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3296421
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_fedora/fedora_cockpit.ogg
 
 Das Web-Cockpit aus Fedora 21 installieren, Fedora 21 WS  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
@@ -19,7 +20,8 @@ Textquelle:
 [Das Web-Cockpit aus Fedora 21 in der Workstation-Version
 installieren](http://linuxundich.de/gnu-linux/das-web-cockpit-aus-fedora-21
 -der-workstation-version-installieren/) von [Christoph
-Langner](http://linuxundich.de/) Lizenz: CC by 4.0
+Langner](http://linuxundich.de/) Lizenz: [CC by
+4.0](http://creativecommons.org/licenses/by/4.0/)
 
 Links:
 

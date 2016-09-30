@@ -11,6 +11,7 @@ Youtube: RhKs3qqOG0M
 Vimeo: 52075155
 Tumblr: http://openscreencast.tumblr.com/post/33093994046/python-programmierung-generator-funktion
 Diaspora: https://pod.geraspora.de/posts/823810
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_generatorfunktion_uebung.ogg
 
 Ausgangspunkt: Ubuntu 12.04 LTS  
 Zielgruppe: Neueinsteiger  

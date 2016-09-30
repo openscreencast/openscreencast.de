@@ -11,6 +11,7 @@ Youtube: lD8nNJf73lA
 Vimeo: 133452107
 Tumblr: http://openscreencast.tumblr.com/post/110917515240/python-programmierung-quelltextanalyse-mit
 Diaspora: https://pod.geraspora.de/posts/3252428
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_pylint.ogg
 
 Python-Programmierung - Quelltextanalyse mit pylint, Linux Mint 17.1  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

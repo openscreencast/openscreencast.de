@@ -11,6 +11,7 @@ Youtube: NmN2kIzG4XU
 Vimeo: 132922044
 Tumblr: http://openscreencast.tumblr.com/post/85239449385/git-in-15-minuten-lernen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2220312
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/git_15min.ogg
 
 Git in 15 Minuten lernen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

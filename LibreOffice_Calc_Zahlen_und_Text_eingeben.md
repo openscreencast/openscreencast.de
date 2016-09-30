@@ -11,6 +11,7 @@ Youtube: f9FobgLEh5k
 Vimeo: 132819268
 Tumblr: http://openscreencast.tumblr.com/post/83015481388/libreoffice-calc-zahlen-und-text-eingeben
 Diaspora: https://pod.geraspora.de/posts/2139058
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_libreoffice/libreoffice_calc_zahlen_eingeben.ogg
 
 LibreOffice - Calc - Zahlen und Text eingeben  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

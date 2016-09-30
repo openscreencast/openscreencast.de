@@ -11,6 +11,7 @@ Youtube: Fjtw5QjQwxE
 Vimeo: 136433526
 Tumblr: http://openscreencast.tumblr.com/post/126831140215/linux-cut-schneiden-lizenz
 Diaspora: https://pod.geraspora.de/posts/3943202
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/linux_cut.ogg
 
 Linux - cut (schneiden), Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

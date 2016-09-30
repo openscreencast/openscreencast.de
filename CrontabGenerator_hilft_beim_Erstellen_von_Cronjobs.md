@@ -11,6 +11,7 @@ Youtube: 3glAwwRhgQk
 Vimeo: 132923580
 Tumblr: http://openscreencast.tumblr.com/post/86434300265/crontab-generator-hilft-beim-erstellen-von
 Diaspora: https://pod.geraspora.de/posts/2262487
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/crontabgenerator.ogg
 
 Crontab-Generator hilft beim Erstellen von Cronjobs  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

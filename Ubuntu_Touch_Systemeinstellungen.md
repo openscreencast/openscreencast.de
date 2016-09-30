@@ -11,6 +11,7 @@ Youtube: -Prov_g1_Ss
 Vimeo: 132317469
 Tumblr: http://openscreencast.tumblr.com/post/80375561109/ubuntu-touch-systemeinstellungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2045433
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_ubuntutouch/ubuntutouch_systemeinstellungen.ogg
 
 Ubuntu Touch - Systemeinstellungen  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

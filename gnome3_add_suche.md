@@ -11,6 +11,7 @@ Youtube: nZuFE13adYE
 Vimeo: 50928702
 Tumblr: http://openscreencast.tumblr.com/post/32398648237/gnome3-eine-neue-suche-hinzufuegen-fedora-17
 Diaspora: https://pod.geraspora.de/posts/810315
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_gnome/gnome3_search.ogg
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

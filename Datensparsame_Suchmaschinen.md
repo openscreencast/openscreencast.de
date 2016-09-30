@@ -11,6 +11,7 @@ Youtube: sJb7AN7cdoM
 Vimeo: 132819272
 Tumblr: http://openscreencast.tumblr.com/post/83100107271/datensparsame-suchmaschinen-lizenz
 Diaspora: https://pod.geraspora.de/posts/2141888
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/datensparsame_suchmaschinen.ogg
 
 Datensparsame Suchmaschinen  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

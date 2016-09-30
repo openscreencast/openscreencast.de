@@ -11,6 +11,7 @@ Youtube: QgQDTMsLnfc
 Vimeo: 142776684
 Tumblr: http://openscreencast.tumblr.com/post/131414755320/opensuse-leap-421-rc1-installation-demo
 Diaspora: https://pod.geraspora.de/posts/4140301
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_demos/opensuse_leap_421rc1_install_demo.ogg
 
 Opensuse Leap 42.1 RC1 - Installation - Demo  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  

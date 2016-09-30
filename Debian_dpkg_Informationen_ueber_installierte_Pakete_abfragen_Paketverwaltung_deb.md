@@ -11,6 +11,7 @@ Youtube: yWtRF7HIMaU
 Vimeo: 122235592
 Tumblr: http://openscreencast.tumblr.com/post/69805975081/debian-dpkg-informationen-ueber-installierte
 Diaspora: https://pod.geraspora.de/posts/1763052
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_debian/debian_dpkg_print.ogg
 
 Debian - dpkg - Informationen über installierte Pakete abfragen
 (Paketverwaltung .deb)  
