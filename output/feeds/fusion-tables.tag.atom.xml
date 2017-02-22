@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/fusion-tables.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2014-03-26T21:48:00+01:00</updated><entry><title>Google Fusion Tables Tutorial - Beispiel WLAN-Standorte in Berlin auf Karte eintragen</title><link href="http://www.openscreencast.de/blog/fusion_tables_tutorial_wlan_standorte_berlin_auf_karte.html" rel="alternate"></link><published>2014-03-26T21:48:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/fusion_tables_tutorial_wlan_standorte_berlin_auf_karte.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datenjournalist.de/postfilialen-in-berlin-auf-karte-eintragen-google-fusion-table-tutorial/" title="datenjournalist.de"&gt;Postfilialen in Berlin auf Karte eintragen: Google Fusion Tables Tutorial von Lorenz Matzat (CC by-sa 3.0)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://daten.berlin.de/datensaetze/wlan-standorte-berlin/" title="daten.berlin.de"&gt;http://daten.berlin.de/datensaetze/wlan-standorte-berlin (CC by)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tables.googlelabs.com/"&gt;https://tables.googlelabs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Linux Mint"></category><category term="cinnamon"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Daten"></category><category term="LibreOffice"></category><category term="Calc"></category><category term="Fusion Tables"></category></entry></feed>

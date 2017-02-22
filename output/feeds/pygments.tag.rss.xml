@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/pygments.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 23 Apr 2014 18:54:00 +0200</lastBuildDate><item><title>Python-Programmierung - pygments - Syntax-Highlighting</title><link>http://www.openscreencast.de/blog/Python_Programmierung_pygments_Syntax_Highlighting.html</link><description>&lt;p&gt;Python-Programmierung - pygments - Syntax-Highlighting&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pygments.org/"&gt;http://pygments.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Syntaxhervorhebung"&gt;http://de.wikipedia.org/wiki/Syntaxhervorhebung&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/ubuntu/cat-und-less-in-farbe-mit-pygmentize/"&gt;http://linuxundich.de/ubuntu/cat-und-less-in-farbe-mit-pygmentize/&lt;/a&gt;&lt;br /&gt;
+Syntax-Highlighting für cat und less mit pygmentize von Christoph Langner
+&lt;a href="http://linuxundich.de"&gt;http://linuxundich.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Python-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLD20BEE125C1FC7B1"&gt;https://www.youtube.com/playlist?list=PLD20BEE125C1FC7B1&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 23 Apr 2014 18:54:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-23:blog/Python_Programmierung_pygments_Syntax_Highlighting.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Python</category><category>pygments</category></item></channel></rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/kino.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2007-08-09T00:31:00+02:00</updated><entry><title>Kino kennenlernen</title><link href="http://www.openscreencast.de/blog/Kino_kennenlernen.html" rel="alternate"></link><published>2007-08-09T00:31:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-09:blog/Kino_kennenlernen.html</id><summary type="html">&lt;p&gt;Wer sich einen ersten Eindruck verschaffen will welche Möglichkeiten das
+Programm Kino bietet kann folgende Adresse in seinen Browser eintippen und
+sich den Screencast (in Englisch) anschauen. (&lt;a href="http://www.kinodv.org"&gt;http://www.kinodv.org&lt;/a&gt;) Kino
+ist ein unter der Lizenz
+&lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt; stehendes
+Videobearbeitungsprogramm.&lt;/p&gt;</summary><category term="Englisch"></category><category term="GPL"></category><category term="Kino"></category><category term="linux"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry></feed>

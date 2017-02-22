@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/ack.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2014-04-30T17:57:00+02:00</updated><entry><title>Suchen und Finden mit Ack, statt grep</title><link href="http://www.openscreencast.de/blog/Suchen_und_Finden_mit_Ack_statt_grep.html" rel="alternate"></link><published>2014-04-30T17:57:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-30:blog/Suchen_und_Finden_mit_Ack_statt_grep.html</id><summary type="html">&lt;p&gt;Linux - Suchen und Finden mit Ack, statt grep&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://svij.org/blog/2014/04/27/suchen-und-finden-mit-ack-statt-
+grep/"&gt;http://svij.org/blog/2014/04/27/suchen-und-finden-mit-ack-statt-
+grep/&lt;/a&gt;&lt;br /&gt;
+Suchen und Finden mit Ack, statt grep von Sujeevan Vijayakumaran
+&lt;a href="http://svij.org/"&gt;http://svij.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://beyondgrep.com/documentation/"&gt;http://beyondgrep.com/documentation/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/svijee/taskwarrior-androidapp"&gt;https://github.com/svijee/taskwarrior-androidapp&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Linux-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="grep"></category><category term="ack"></category></entry></feed>

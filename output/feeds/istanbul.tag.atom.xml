@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/istanbul.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2009-02-24T04:00:00+01:00</updated><entry><title>Istanbul</title><link href="http://www.openscreencast.de/blog/istanbul.html" rel="alternate"></link><published>2009-02-24T04:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-24:blog/istanbul.html</id><summary type="html">&lt;p&gt;Istanbul macht Aufnahmen von Bildschirmaktivitäten und speichert die Aufnahme
+als Ogg Theora Video-Datei. Istanbul funktioniert bei Gnome, KDE und Xfce. Man
+findet das Programm auf der Seite &lt;a href="http://live.gnome.org/Istanbul"&gt;http://live.gnome.org/Istanbul&lt;/a&gt;. Aktuell
+ist die Version 0.2.2 vom 23.02.2007.&lt;/p&gt;</summary><category term="istanbul"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>ScreencastTools im Vergleich</title><link href="http://www.openscreencast.de/blog/ScreencastTools_im_Vergleich.html" rel="alternate"></link><published>2007-02-07T02:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-07:blog/ScreencastTools_im_Vergleich.html</id><summary type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
+Übersicht einiger Screencast-Tools. Die Eigenschaften der Screencast-Tools
+byzanz, Istanbul, cankiri, ffmpeg, recordMyDesktop, Wink und XVidCap werden in
+einer Tabelle verglichen. Außerdem wurden die wichtigsten Fakten jedes
+Programmes in einigen Sätzen festgehalten. Wer kurz davor ist ein
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; aufzunehmen, er aber
+noch nicht weiß welches Tool er dafür brauch, ist
+&lt;a href="http://wiki.ubuntuusers.de/Screencasts"&gt;hier&lt;/a&gt; an der richtigen Adresse.&lt;/p&gt;</summary><category term="byzanz"></category><category term="cankiri"></category><category term="ffmpeg"></category><category term="istanbul"></category><category term="linux"></category><category term="News"></category><category term="recordmydesktop"></category><category term="Screencast-Tool"></category><category term="Wink"></category><category term="XVidCap"></category></entry><entry><title>Istanbul und byzanz</title><link href="http://www.openscreencast.de/blog/Istanbul_und_byzanz.html" rel="alternate"></link><published>2006-11-02T04:04:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-02:blog/Istanbul_und_byzanz.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: firefox, xwininfo, byzanz-record&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://live.gnome.org/Istanbul"&gt;Istanbul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.advogato.org/person/company/diary.html?start=18"&gt;byzanz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Webbrowser"&gt;Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Totem_%28Programm%29"&gt;totem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gif"&gt;gif&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Browser"></category><category term="byzanz"></category><category term="CC by-nc-sa"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Firefox"></category><category term="gif"></category><category term="Gnome"></category><category term="istanbul"></category><category term="Linux"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pirut"></category><category term="screencast"></category><category term="Terminal"></category><category term="totem"></category><category term="xwininfo"></category></entry></feed>

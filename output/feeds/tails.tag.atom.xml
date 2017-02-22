@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/tails.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2016-02-06T19:30:00+01:00</updated><entry><title>Tails 2.0 - Demo</title><link href="http://www.openscreencast.de/blog/Tails20_Demo.html" rel="alternate"></link><published>2016-02-06T19:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-02-06:blog/Tails20_Demo.html</id><summary type="html">&lt;p&gt;Tails 2.0 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://tails.boum.org/"&gt;Tails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Tor"></category><category term="Tails"></category></entry><entry><title>Tails 0.22 - Demo (The Amnesic Incognito Live System)</title><link href="http://www.openscreencast.de/blog/Tails_022_Demo_The_Amnesic_Incognito_Live_System.html" rel="alternate"></link><published>2013-12-22T21:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-12-22:blog/Tails_022_Demo_The_Amnesic_Incognito_Live_System.html</id><summary type="html">&lt;p&gt;Tails 0.22 - Demo (The Amnesic Incognito Live System)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Tails_%28Betriebssystem%29"&gt;http://de.wikipedia.org/wiki/Tails_%28Betriebssystem%29&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+Mario Bava Sleeps In a Little Later Than He Expected To by Chris Zabriskie
+&lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Tails"></category></entry></feed>

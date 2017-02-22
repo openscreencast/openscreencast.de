@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/django.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 20 Sep 2015 13:40:00 +0200</lastBuildDate><item><title>Django - Das Django-Projekt beginnen</title><link>http://www.openscreencast.de/blog/Django_projekt_beginnen.html</link><description>&lt;p&gt;Django - Das Django-Projekt beginnen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 20 Sep 2015 13:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-09-20:blog/Django_projekt_beginnen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item><item><title>Django - Django installieren</title><link>http://www.openscreencast.de/blog/Django_django_install.html</link><description>&lt;p&gt;Django - Django installieren, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 15:56:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Django_django_install.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item><item><title>Django - Vorbereitungen</title><link>http://www.openscreencast.de/blog/Django_Vorbereitungen.html</link><description>&lt;p&gt;Django - Vorbereitungen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:56:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-01:blog/Django_Vorbereitungen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item></channel></rss>

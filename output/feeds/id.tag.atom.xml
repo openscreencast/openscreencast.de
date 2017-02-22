@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/id.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2007-09-26T00:49:00+02:00</updated><entry><title>groups</title><link href="http://www.openscreencast.de/blog/groups.html" rel="alternate"></link><published>2007-09-26T00:49:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-09-26:blog/groups.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: groups, id&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.linwiki.org/index.php/Linuxfibel_-_Nutzerkommandos_-_Nutzer-Informationen"&gt;Nutzerinformationen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/information_basic01.html#d56e50"&gt;Nutzerinformationen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="groups"></category><category term="id"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="short"></category><category term="system-config-users"></category></entry></feed>

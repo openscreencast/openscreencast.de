@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/aiglx.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-11-01T00:21:00+01:00</updated><entry><title>Desktop Effects Tastenkombinationen</title><link href="http://www.openscreencast.de/blog/Desktop_Effects_Tastenkombinationen.html" rel="alternate"></link><published>2006-11-01T00:21:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-01:blog/Desktop_Effects_Tastenkombinationen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Compiz"&gt;Compiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AIGLX"&gt;Aiglx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fedorawiki.de/index.php/Aiglx"&gt;Aiglx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.opensuse.org/Compiz"&gt;Compiz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="aiglx"></category><category term="CC by-nc-sa"></category><category term="compiz"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Tastenkombination"></category></entry><entry><title>Desktop Effects</title><link href="http://www.openscreencast.de/blog/Desktop_Effects.html" rel="alternate"></link><published>2006-10-30T02:43:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-30:blog/Desktop_Effects.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Desktop_%28EDV%29"&gt;Desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Fedora_Core"&gt;Fedora Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf"&gt;Gconf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Compiz"&gt;Compiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AIGLX"&gt;Aiglx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fedorawiki.de/index.php/Aiglx"&gt;Aiglx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.opensuse.org/Compiz"&gt;Compiz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="aiglx"></category><category term="CC by-nc-sa"></category><category term="compiz"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="gconf"></category><category term="gconf-editor"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pirut"></category><category term="screencast"></category></entry></feed>

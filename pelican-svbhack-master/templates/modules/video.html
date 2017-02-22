@@ -1,0 +1,263 @@
+{% if article.youtube %}
+
+<p>
+<iframe width="880" height="495" src="https://www.youtube-nocookie.com/embed/{{ article.youtube }}" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<p>
+{% if article.duration %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% endif %}
+
+{% if article.license %}
+	{% if article.license == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.licenseom %}
+	{% if article.licenseom == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.oggfile %}
+	| <i class="fa fa-download"></i> <i class="fa fa-file-movie-o"></i> <a href="{{ article.oggfile }}" title="Link zur ogg-Datei">(.ogg)</a>
+{% endif %}
+
+{% if article.webmfile %}
+	<a href="{{ article.webmfile }}" title="Link zur webm-Datei">(.webm)</a>
+{% endif %}
+
+{% if article.mp4file %}
+	<a href="{{ article.mp4file }}" title="Link zur mp4-Datei">(.mp4)</a>
+{% endif %}
+
+{% if article.mkvfile %}
+	<a href="{{ article.mkvfile }}" title="Link zur mkv-Datei">(.mkv)</a>
+{% endif %}
+
+{% if article.srtfile %}
+	(.srt <a href="{{ article.srtfile }}" title="Link zur srt-Datei dt">de</a>
+	{% if article.srtfileeo %}
+	<a href="{{ article.srtfileeo }}" title="Link zur srt-Datei eo">eo</a>
+	{% endif %}
+	{% if article.srtfileen %}
+	<a href="{{ article.srtfileen }}" title="Link zur srt-Datei en">en</a>
+	{% endif %}
+	)
+{% endif %}
+
+{% if article.oggfileom %}
+	| oM: <a href="{{ article.oggfileom }}" title="Link zur ogg-Datei oM">(.ogg)</a>
+	{% if article.srtfileom %}
+	(.srt <a href="{{ article.srtfileom }}" title="Link zur srt-Datei dt oM">de</a>
+	{% if article.srtfileomeo %}
+	<a href="{{ article.srtfileomeo }}" title="Link zur srt-Datei eo oM">eo</a>
+	{% endif %}
+	{% if article.srtfileomen %}
+	<a href="{{ article.srtfileomen }}" title="Link zur srt-Datei en oM">en</a>
+	{% endif %}
+	)
+	{% endif %}
+{% endif %}
+
+</p>
+
+{% elif article.vimeo %}	
+
+<p>
+<iframe src="https://player.vimeo.com/video/{{ article.vimeo }}" width="880" height="495" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
+
+<p>
+{% if article.duration %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% endif %}
+
+{% if article.license %}
+	{% if article.license == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.licenseom %}
+	{% if article.licenseom == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.oggfile %}
+	| <i class="fa fa-download"></i> <i class="fa fa-file-movie-o"></i> <a href="{{ article.oggfile }}" title="Link zur ogg-Datei">(.ogg)</a>
+{% endif %}
+
+{% if article.webmfile %}
+	<a href="{{ article.webmfile }}" title="Link zur webm-Datei">(.webm)</a>
+{% endif %}
+
+{% if article.mp4file %}
+	<a href="{{ article.mp4file }}" title="Link zur mp4-Datei">(.mp4)</a>
+{% endif %}
+
+{% if article.mkvfile %}
+	<a href="{{ article.mkvfile }}" title="Link zur mkv-Datei">(.mkv)</a>
+{% endif %}
+
+{% if article.srtfile %}
+	(.srt <a href="{{ article.srtfile }}" title="Link zur srt-Datei dt">de</a>
+	{% if article.srtfileeo %}
+	<a href="{{ article.srtfileeo }}" title="Link zur srt-Datei eo">eo</a>
+	{% endif %}
+	{% if article.srtfileen %}
+	<a href="{{ article.srtfileen }}" title="Link zur srt-Datei en">en</a>
+	{% endif %}
+	)
+{% endif %}
+
+{% if article.oggfileom %}
+	| oM: <a href="{{ article.oggfileom }}" title="Link zur ogg-Datei oM">(.ogg)</a>
+	{% if article.srtfileom %}
+	(.srt <a href="{{ article.srtfileom }}" title="Link zur srt-Datei dt oM">de</a>
+	{% if article.srtfileomeo %}
+	<a href="{{ article.srtfileomeo }}" title="Link zur srt-Datei eo oM">eo</a>
+	{% endif %}
+	{% if article.srtfileomen %}
+	<a href="{{ article.srtfileomen }}" title="Link zur srt-Datei en oM">en</a>
+	{% endif %}
+	)
+	{% endif %}
+{% endif %}
+
+</p>
+
+
+{% elif article.oggfile %}	
+
+<p>
+<video src="{{ article.oggfile }}" controls="true" width="880px" poster="{{ article.image }}" preload="none"><img src="{{ article.image }}" alt="Screenshot vom Video" /></video>
+</p>
+
+<p>
+{% if article.duration %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% endif %}
+
+{% if article.license %}
+	{% if article.license == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.license == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.licenseom %}
+	{% if article.licenseom == "http://creativecommons.org/licenses/by/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/2.0/" %}	
+	<a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by/4.0/"><img src="http://www.openscreencast.de/by_.png" width="85px" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/2.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/2.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/3.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% elif article.licenseom == "http://creativecommons.org/licenses/by-sa/4.0/" %}
+	<a href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="http://www.openscreencast.de/by-sa.png" /></a>
+	{% endif %}
+{% endif %}
+
+{% if article.oggfile %}
+	| <i class="fa fa-download"></i> <i class="fa fa-file-movie-o"></i> <a href="{{ article.oggfile }}" title="Link zur ogg-Datei">(.ogg)</a>
+{% endif %}
+
+{% if article.webmfile %}
+	<a href="{{ article.webmfile }}" title="Link zur webm-Datei">(.webm)</a>
+{% endif %}
+
+{% if article.mp4file %}
+	<a href="{{ article.mp4file }}" title="Link zur mp4-Datei">(.mp4)</a>
+{% endif %}
+
+{% if article.mkvfile %}
+	<a href="{{ article.mkvfile }}" title="Link zur mkv-Datei">(.mkv)</a>
+{% endif %}
+
+{% if article.srtfile %}
+	(.srt <a href="{{ article.srtfile }}" title="Link zur srt-Datei dt">de</a>
+	{% if article.srtfileeo %}
+	<a href="{{ article.srtfileeo }}" title="Link zur srt-Datei eo">eo</a>
+	{% endif %}
+	{% if article.srtfileen %}
+	<a href="{{ article.srtfileen }}" title="Link zur srt-Datei en">en</a>
+	{% endif %}
+	)
+{% endif %}
+
+{% if article.oggfileom %}
+	| oM: <a href="{{ article.oggfileom }}" title="Link zur ogg-Datei oM">(.ogg)</a>
+	{% if article.srtfileom %}
+	(.srt <a href="{{ article.srtfileom }}" title="Link zur srt-Datei dt oM">de</a>
+	{% if article.srtfileomeo %}
+	<a href="{{ article.srtfileomeo }}" title="Link zur srt-Datei eo oM">eo</a>
+	{% endif %}
+	{% if article.srtfileomen %}
+	<a href="{{ article.srtfileomen }}" title="Link zur srt-Datei en oM">en</a>
+	{% endif %}
+	)
+	{% endif %}
+{% endif %}
+
+</p>
+
+
+{% endif %}
+
+

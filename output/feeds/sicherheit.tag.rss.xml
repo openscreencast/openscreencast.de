@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/sicherheit.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 27 Oct 2013 19:22:00 +0100</lastBuildDate><item><title>Medusa - Sicherheitsüberprüfung von Netzwerken</title><link>http://www.openscreencast.de/blog/medusa_sicherheitsueberpruefung_von_netzwerken.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-08" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 08/2012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 27 Oct 2013 19:22:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-10-27:blog/medusa_sicherheitsueberpruefung_von_netzwerken.html</guid><category>Fedora</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by-sa</category><category>Gnome</category><category>Gnome3</category><category>Medusa</category><category>Sicherheit</category></item><item><title>Linux - Anwendungen in einer Sandbox starten</title><link>http://www.openscreencast.de/blog/sandbox.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/SELinux" title="SELinux"&gt;WP:SELinux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Sandbox" title="Sandbox"&gt;WP:Sandbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 22 Aug 2011 00:35:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-08-22:blog/sandbox.html</guid><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>Sicherheit</category><category>CC by</category><category>gnome3</category><category>SELinux</category><category>sandbox</category><category>Security</category></item><item><title>Pidgin - Nachrichtenverschlüsselung mit OTR</title><link>http://www.openscreencast.de/blog/pidgin_otr.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.yalmagazine.org/homepage/docs/messengerverschluesselung_mit_otr"&gt;yalm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 23 Apr 2009 05:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2009-04-23:blog/pidgin_otr.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>Sicherheit</category><category>ubuntu</category><category>pidgin</category><category>otr</category><category>Verschlüsselung</category></item><item><title>Passwort aendern</title><link>http://www.openscreencast.de/blog/Passwort_aendern.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: passwd&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/passwoerter.html"&gt;Sicherheit von Passwörtern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-praxis.de/lpic1/manpages/passwd.html"&gt;passwd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Nov 2008 23:56:00 +0100</pubDate><guid>tag:www.openscreencast.de,2008-11-01:blog/Passwort_aendern.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>short</category><category>Sicherheit</category><category>ubuntu</category><category>passwd</category><category>Passwort</category></item><item><title>Verzeichnis mit encfs verschluesseln</title><link>http://www.openscreencast.de/blog/Verzeichnis_mit_encfs_verschluesseln.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: encfs, encfsctl, man, fusermount&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://arg0.net/wiki/encfs"&gt;encfs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fedorablog.de/archives/180-Dateien-verschluesseln-mit-encfs.html"&gt;encfs anwenden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_in_Userspace"&gt;FUSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Passwort"&gt;Passwort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.gentoo-wiki.com/Encfs"&gt;encfs anwenden&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 25 Jul 2007 02:08:00 +0200</pubDate><guid>tag:www.openscreencast.de,2007-07-25:blog/Verzeichnis_mit_encfs_verschluesseln.html</guid><category>Anfänger</category><category>CC by-nc-sa</category><category>encfs</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Ogg Theora</category><category>screencast</category><category>Sicherheit</category></item></channel></rss>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/fuse.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2007-08-18T22:15:00+02:00</updated><entry><title>SSHFS im Einsatz</title><link href="http://www.openscreencast.de/blog/SSHFS_im_Einsatz.html" rel="alternate"></link><published>2007-08-18T22:15:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-18:blog/SSHFS_im_Einsatz.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: su, mount, mkdir, sshfs, yum, gpasswd&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_in_Userspace"&gt;FUSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Passwort"&gt;Passwort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/SSHFS"&gt;SSHFS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fedorawiki.de/index.php/SSHFS"&gt;SSHFS benutzen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.contentschmiede.de/archiv/2007/08/15/linux_entferntes_dateisystem_per_sshfs_mounten/"&gt;SSHFS benutzen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Anfänger"></category><category term="CC by-nc-sa"></category><category term="Fedora"></category><category term="fuse"></category><category term="Gnome"></category><category term="gpasswd"></category><category term="Linux"></category><category term="mkdir"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="sshfs"></category><category term="su"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="yum"></category></entry></feed>

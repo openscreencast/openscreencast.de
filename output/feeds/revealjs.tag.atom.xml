@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/revealjs.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2014-04-10T17:25:00+02:00</updated><entry><title>reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund beeinflussen)</title><link href="http://www.openscreencast.de/blog/revealjs_Weitere_Moeglichkeiten_Folienuebergang_und_Hintergrund_beeinflussen.html" rel="alternate"></link><published>2014-04-10T17:25:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-10:blog/revealjs_Weitere_Moeglichkeiten_Folienuebergang_und_Hintergrund_beeinflussen.html</id><summary type="html">&lt;p&gt;reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund
+beeinflussen)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://imakewebthings.com/deck.js/"&gt;http://imakewebthings.com/deck.js/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://bartaz.github.io/impress.js/"&gt;http://bartaz.github.io/impress.js/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - Theme wechseln</title><link href="http://www.openscreencast.de/blog/revealjs_Theme_wechseln.html" rel="alternate"></link><published>2014-04-08T21:04:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-08:blog/revealjs_Theme_wechseln.html</id><summary type="html">&lt;p&gt;reveal.js - Theme wechseln&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - automatische Präsentation starten</title><link href="http://www.openscreencast.de/blog/revealjs_automatische_Praesentation_starten.html" rel="alternate"></link><published>2014-04-05T19:01:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_automatische_Praesentation_starten.html</id><summary type="html">&lt;p&gt;reveal.js - automatische Präsentation starten&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="revealjs"></category><category term="Web"></category><category term="HTML"></category></entry><entry><title>reveal.js - Einbinden von Markdown-Syntax</title><link href="http://www.openscreencast.de/blog/revealjs_Einbinden_von_MarkdownSyntax.html" rel="alternate"></link><published>2014-04-05T18:44:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_Einbinden_von_MarkdownSyntax.html</id><summary type="html">&lt;p&gt;reveal.js - Einbinden von Markdown-Syntax&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Markdown"&gt;http://de.wikipedia.org/wiki/Markdown&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category><category term="Markdown"></category></entry><entry><title>reveal.js - Text einblenden</title><link href="http://www.openscreencast.de/blog/revealjs_Text_einblenden.html" rel="alternate"></link><published>2014-04-05T18:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_Text_einblenden.html</id><summary type="html">&lt;p&gt;reveal.js - Text einblenden&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - vertikale Navigation und Links</title><link href="http://www.openscreencast.de/blog/revealjs_vertikale_Navigation_und_Links.html" rel="alternate"></link><published>2014-04-01T19:35:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-01:blog/revealjs_vertikale_Navigation_und_Links.html</id><summary type="html">&lt;p&gt;reveal.js - vertikale Navigation und Links&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Folie 1 = SlideNumber 0&lt;br /&gt;
+Folie 2 = SlideNumber 1&lt;br /&gt;
+Folie 2 Unterfolie 1 = SlideNumber 1-1&lt;br /&gt;
+Folie 2 Unterfolie 2 = SlideNumber 1-2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - Präsentation betrachten</title><link href="http://www.openscreencast.de/blog/revealjs_Praesentation_betrachten.html" rel="alternate"></link><published>2014-03-26T19:14:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/revealjs_Praesentation_betrachten.html</id><summary type="html">&lt;p&gt;reveal.js - Präsentation betrachten&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>Präsentationen mit HTML und reveal.js - Installation und Grundgerüst</title><link href="http://www.openscreencast.de/blog/Praesentationen_mit_HTML_und_revealjs_Installation_und_Grundgeruest.html" rel="alternate"></link><published>2014-03-25T17:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-25:blog/Praesentationen_mit_HTML_und_revealjs_Installation_und_Grundgeruest.html</id><summary type="html">&lt;p&gt;Präsentationen mit HTML und reveal.js - Installation und Grundgerüst&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="HTML"></category><category term="Web"></category><category term="revealjs"></category></entry></feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/xterm.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 11 Jul 2006 02:18:00 +0200</lastBuildDate><item><title>bash-Tastenkürzel</title><link>http://www.openscreencast.de/blog/bash_Tastenkuerzel.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: xterm, echo&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/bash_basic02.html#d27e146"&gt;bash-Tastenkürzel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bash"&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Kommandozeileninterpreter"&gt;Kommandointerpreter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tastenkombination"&gt;Tastenkombination&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 02:18:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/bash_Tastenkuerzel.html</guid><category>bash</category><category>CC by-nc-sa</category><category>echo</category><category>Fedora Core</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Tastenkombination</category><category>Terminal</category><category>Textmodus</category><category>xterm</category></item><item><title>history</title><link>http://www.openscreencast.de/blog/history.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: xterm, history, tail, cat&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/bash_basic02.html#d27e100"&gt;history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bash"&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Kommandozeileninterpreter"&gt;Kommandointerpreter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Xterm"&gt;xterm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Fedora_Core"&gt;Fedora Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Umgebungsvariable"&gt;Umgebungsvariable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gedit"&gt;gedit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 02:00:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/history.html</guid><category>.bash_history</category><category>.bash_profile</category><category>/etc/profile</category><category>bash</category><category>cat</category><category>CC by-nc-sa</category><category>Fedora Core</category><category>gedit</category><category>Gnome</category><category>history</category><category>HISTSIZE</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>tail</category><category>Textmodus</category><category>Umgebungsvariable</category><category>xterm</category></item></channel></rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/zcat.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2007-09-02T19:13:00+02:00</updated><entry><title>zcat, zless und zmore</title><link href="http://www.openscreencast.de/blog/zcat_zless_und_zmore.html" rel="alternate"></link><published>2007-09-02T19:13:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-09-02:blog/zcat_zless_und_zmore.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: ls, cat, zcat, less, gzip&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tar"&gt;tar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gzip"&gt;gzip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxseiten.kg-it.de/index.php?index=bash_Der_Befehl_less#Der_Befehl_zcat"&gt;zcat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="cat"></category><category term="CC by-nc-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="gz"></category><category term="gzip"></category><category term="less"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Terminal"></category><category term="Textdatei"></category><category term="zcat"></category><category term="zless"></category><category term="zmore"></category></entry></feed>

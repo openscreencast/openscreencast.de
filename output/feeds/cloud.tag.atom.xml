@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/cloud.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2016-01-13T16:47:00+01:00</updated><entry><title>Screencasting auf dem Linux-Desktop in der Cloud - Demo</title><link href="http://www.openscreencast.de/blog/Screencasting_in_der_cloud_labxnow_demo.html" rel="alternate"></link><published>2016-01-13T16:47:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-01-13:blog/Screencasting_in_der_cloud_labxnow_demo.html</id><summary type="html">&lt;p&gt;Screencasting auf dem Linux-Desktop in der Cloud - Demo, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Cloud"></category><category term="LabxNow"></category><category term="Web"></category><category term="Screencasting"></category><category term="Demo"></category></entry><entry><title>Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow</title><link href="http://www.openscreencast.de/blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html" rel="alternate"></link><published>2015-10-04T16:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-10-04:blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html</id><summary type="html">&lt;p&gt;Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/kostenloser-linux-desktop-in-der-cloud-labxnow/"&gt;Kostenloser Linux-Desktop in der Cloud: LabxNow&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Cloud"></category><category term="LabxNow"></category><category term="Web"></category></entry></feed>

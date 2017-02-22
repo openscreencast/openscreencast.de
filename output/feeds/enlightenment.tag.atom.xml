@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/enlightenment.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2013-11-26T01:20:00+01:00</updated><entry><title>Elive 2.1.27 - Demo</title><link href="http://www.openscreencast.de/blog/elive2127_demo.html" rel="alternate"></link><published>2013-11-26T01:20:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-26:blog/elive2127_demo.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Elive 2.1.27&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.elivecd.org/"&gt;http://www.elivecd.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="demo"></category><category term="elive"></category><category term="Enlightenment"></category></entry></feed>

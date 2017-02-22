@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/pdf.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 02 Nov 2013 19:18:00 +0100</lastBuildDate><item><title>Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - PDF erzeugen</title><link>http://www.openscreencast.de/blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_PDF_erzeugen.html</link><description>&lt;p&gt;Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - PDF erzeugen,&lt;br /&gt;
+per unoconv odt-Dateien in pdf-Dateien umwandeln&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc"&gt;http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc&lt;/a&gt;&lt;br /&gt;
+PDF-Dokumente schreiben mit Pandoc und Markdown von Daniel Stender
+&lt;a href="http://www.danielstender.com/blog"&gt;http://www.danielstender.com/blog&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://markdown.de/syntax"&gt;http://markdown.de/syntax&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Markdown"&gt;https://de.wikipedia.org/wiki/Markdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://johnmacfarlane.net/pandoc/"&gt;http://johnmacfarlane.net/pandoc/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://dag.wieers.com/home-made/unoconv/"&gt;http://dag.wieers.com/home-made/unoconv/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 02 Nov 2013 19:18:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-02:blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_PDF_erzeugen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Pandoc</category><category>Markdown</category><category>PDF</category></item><item><title>Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - Markdown</title><link>http://www.openscreencast.de/blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_Markdown.html</link><description>&lt;p&gt;Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - Markdown&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc"&gt;http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc&lt;/a&gt;&lt;br /&gt;
+PDF-Dokumente schreiben mit Pandoc und Markdown von Daniel Stender
+&lt;a href="http://www.danielstender.com/blog"&gt;http://www.danielstender.com/blog&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://markdown.de/syntax"&gt;http://markdown.de/syntax&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Markdown"&gt;https://de.wikipedia.org/wiki/Markdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://johnmacfarlane.net/pandoc/"&gt;http://johnmacfarlane.net/pandoc/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 01 Nov 2013 20:57:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-01:blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_Markdown.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Pandoc</category><category>Markdown</category><category>PDF</category></item><item><title>Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - pandoc installieren</title><link>http://www.openscreencast.de/blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_pandoc_installieren.html</link><description>&lt;p&gt;Linux - PDF-Dokumente schreiben mit Pandoc und Markdown - pandoc installieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc"&gt;http://www.freiesmagazin.de/mobil/freiesMagazin-2013-06.html#fm_13_06_pandoc&lt;/a&gt;&lt;br /&gt;
+PDF-Dokumente schreiben mit Pandoc und Markdown von Daniel Stender
+&lt;a href="http://www.danielstender.com/blog"&gt;http://www.danielstender.com/blog&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/LaTeX"&gt;https://de.wikipedia.org/wiki/LaTeX&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/WYSIWYG"&gt;https://de.wikipedia.org/wiki/WYSIWYG&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Markdown"&gt;https://de.wikipedia.org/wiki/Markdown&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://johnmacfarlane.net/pandoc/"&gt;http://johnmacfarlane.net/pandoc/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 01 Nov 2013 20:47:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-01:blog/Linux_PDFDokumente_schreiben_mit_Pandoc_und_Markdown_pandoc_installieren.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>PDF</category><category>Pandoc</category><category>Markdown</category></item><item><title>Firefox - PDF-Betrachter deaktivieren</title><link>http://www.openscreencast.de/blog/Firefox_PDFBetrachter_deaktivieren.html</link><description>&lt;p&gt;Firefox - Javascript PDF-Betrachter deaktivieren, mit Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 28 Jul 2013 16:01:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-28:blog/Firefox_PDFBetrachter_deaktivieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>PDF</category><category>Linux Mint</category></item><item><title>PDF-Seiten in Bilder umwandeln</title><link>http://www.openscreencast.de/blog/pdf_seiten_in_bilder_umwandeln.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Portable_Document_Format" title="Link zu WP:pdf"&gt;WP:pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/PDF" title="Link zu PDF"&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 06 Dec 2012 16:26:00 +0100</pubDate><guid>tag:www.openscreencast.de,2012-12-06:blog/pdf_seiten_in_bilder_umwandeln.html</guid><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>Gnome3</category><category>pdf</category><category>pdftoppm</category><category>pdftocairo</category><category>pdfimages</category></item><item><title>mehrere PDF-Dateien verbinden - pdftk und pdfunite</title><link>http://www.openscreencast.de/blog/pdftk_pdfunite.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Portable_Document_Format" title="Link zu WP:pdf"&gt;WP:pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/pdftk" title="Link zu pdftk"&gt;pdftk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 31 Oct 2012 19:26:00 +0100</pubDate><guid>tag:www.openscreencast.de,2012-10-31:blog/pdftk_pdfunite.html</guid><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>Gnome3</category><category>pdf</category><category>pdftk</category><category>pdfunite</category></item><item><title>Seiten aus einem PDF-Dokument herausschneiden - pdftk und pdfseparate</title><link>http://www.openscreencast.de/blog/pdftk_pdfseparate.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Portable_Document_Format" title="Link zu WP:pdf"&gt;WP:pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/pdftk" title="Link zu pdftk"&gt;pdftk&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Oct 2012 17:02:00 +0200</pubDate><guid>tag:www.openscreencast.de,2012-10-26:blog/pdftk_pdfseparate.html</guid><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>Gnome3</category><category>pdf</category><category>pdftk</category><category>pdfseparate</category></item><item><title>pdfinfo - Informationen über ein PDF-Dokument</title><link>http://www.openscreencast.de/blog/pdfinfo.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/PDF" title="Link zu pdf"&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 12 May 2012 01:26:00 +0200</pubDate><guid>tag:www.openscreencast.de,2012-05-12:blog/pdfinfo.html</guid><category>CC by-sa</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>pdf</category><category>pdfinfo</category></item><item><title>Ubuntu - html in pdf umwandeln</title><link>http://www.openscreencast.de/blog/ubuntu_htmltopdf.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://code.google.com/p/wkhtmltopdf/" title="wkhtmltopdf"&gt;wkhtmltopdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 22 Jul 2011 04:39:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-07-22:blog/ubuntu_htmltopdf.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>Unity</category><category>pdf</category><category>wkhtmltopdf</category></item><item><title>Fedora - html in pdf umwandeln</title><link>http://www.openscreencast.de/blog/fedora_htmltopdf.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://fedoraproject.org/de/" title="Link zu fedoraproject.org"&gt;Fedora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.htmldoc.org/" title="Link zu htmldoc.org"&gt;htmldoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 17 Jul 2011 04:47:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-07-17:blog/fedora_htmltopdf.html</guid><category>CC by-sa</category><category>Fedora</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>pdf</category><category>htmldoc</category></item></channel></rss>

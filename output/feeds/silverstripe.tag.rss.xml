@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/silverstripe.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 04 Mar 2009 04:39:00 +0100</lastBuildDate><item><title>silverstripe screencasts</title><link>http://www.openscreencast.de/blog/silverstripe_screencasts.html</link><description>&lt;p&gt;&lt;a href="http://silverstripe.com/"&gt;Silverstripe&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt; &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content Management
+System&lt;/a&gt; und wurde vom
+gleichnamigen Unternehmen in Neuseeland entwickelt. Silverstripe steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/BSD_Lizenz"&gt;BSD-Lizenz&lt;/a&gt; und macht die
+Installation durch ein paar &lt;a href="http://www.silverstripe.com
+/screencast-tutorials-contributed/"&gt;Screencasts&lt;/a&gt; leichter.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 04 Mar 2009 04:39:00 +0100</pubDate><guid>tag:www.openscreencast.de,2009-03-04:blog/silverstripe_screencasts.html</guid><category>CMS</category><category>News</category><category>screencast</category><category>silverstripe</category></item></channel></rss>

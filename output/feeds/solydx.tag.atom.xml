@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/solydx.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2013-11-29T07:25:00+01:00</updated><entry><title>SolydX 201311 - Demo</title><link href="http://www.openscreencast.de/blog/SolydX_201311_Demo.html" rel="alternate"></link><published>2013-11-29T07:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-29:blog/SolydX_201311_Demo.html</id><summary type="html">&lt;p&gt;SolydX 201311 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+Heliograph by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/SolydXK"&gt;https://de.wikipedia.org/wiki/SolydXK&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="SolydX"></category><category term="Demo"></category><category term="xfce"></category></entry></feed>

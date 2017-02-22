@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/cbr.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-07-11T03:04:00+02:00</updated><entry><title>oggdec, oggenc und ogginfo</title><link href="http://www.openscreencast.de/blog/oggdec_oggenc_ogginfo.html" rel="alternate"></link><published>2006-07-11T03:04:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:blog/oggdec_oggenc_ogginfo.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: ls, oggdec, oggenc, ogginfo&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Wav"&gt;wav&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;ogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vorbis"&gt;ogg Vorbis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Manpage"&gt;man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Konstante_Datenrate"&gt;CBR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Variable_Datenrate"&gt;VBR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Metadaten"&gt;Metadaten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://soundconverter.berlios.de/"&gt;Soundconverter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CBR"></category><category term="CC by-nc-sa"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="info"></category><category term="Linux"></category><category term="ls"></category><category term="man"></category><category term="Metadaten"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="Ogg Vorbis"></category><category term="oggdec"></category><category term="oggenc"></category><category term="ogginfo"></category><category term="screencast"></category><category term="Soundconverter"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="VBR"></category><category term="wav"></category></entry></feed>

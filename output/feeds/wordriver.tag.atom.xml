@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/wordriver.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2012-11-22T14:49:00+01:00</updated><entry><title>popcorn.js - wordriver</title><link href="http://www.openscreencast.de/blog/popcornjs_wordriver.html" rel="alternate"></link><published>2012-11-22T14:49:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-22:blog/popcornjs_wordriver.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="wordriver"></category></entry></feed>

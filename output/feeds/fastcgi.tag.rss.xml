@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/fastcgi.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 17 Nov 2013 01:30:00 +0100</lastBuildDate><item><title>nginx - PHP - FastCGI</title><link>http://www.openscreencast.de/blog/nginx_php_fastcgi.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Nginx" title="Link zu WP:nginx"&gt;WP:nginx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 17 Nov 2013 01:30:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-17:blog/nginx_php_fastcgi.html</guid><category>Fedora</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by</category><category>webserver</category><category>web</category><category>www</category><category>nginx</category><category>php</category><category>fastcgi</category></item><item><title>lighttpd - PHP - FastCGI</title><link>http://www.openscreencast.de/blog/lighttpd_php_fastcgi.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Lighttpd" title="Link zu WP:lighttpd"&gt;WP:lighttpd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 17 Nov 2013 01:26:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-17:blog/lighttpd_php_fastcgi.html</guid><category>Fedora</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by</category><category>webserver</category><category>web</category><category>www</category><category>lighttpd</category><category>php</category><category>fastcgi</category></item></channel></rss>

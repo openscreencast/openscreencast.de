@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/openlayers.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 23 Aug 2015 16:51:00 +0200</lastBuildDate><item><title>OpenLayers 3 - eine Karte auf eine Webseite setzen</title><link>http://www.openscreencast.de/blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html</link><description>&lt;p&gt;OpenLayers 3 - eine Karte auf eine Webseite setzen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://openlayers.org/en/v3.8.2/doc/quickstart.html"&gt;Quick Start&lt;/a&gt; von
+&lt;a href="http://openlayers.org/"&gt;http://openlayers.org/&lt;/a&gt; Lizenz: http://creativecommons.org/licenses/by/3.0/
+&lt;a href="https://github.com/openlayers/ol3/blob/master/doc/quickstart.hbs"&gt;(contributors github.com: tschaub fredj ThomasG77
+bartvde)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/" title="Link zu openlayers.org/"&gt;http://openlayers.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.html" title="Link zu openlayers.org/"&gt;ol.source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.MapQuest.html" title="Link zu openlayers.org/"&gt;ol.source.MapQuest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 23 Aug 2015 16:51:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-23:blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>OpenLayers</category><category>Mapping</category></item></channel></rss>
