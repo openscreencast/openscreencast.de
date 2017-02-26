@@ -20,5 +20,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Mandriva](http://www.mandriva.com/de)
+  * [Mandriva Linux](https://de.wikipedia.org/wiki/Mandriva_Linux)
 

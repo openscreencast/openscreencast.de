@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/video.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2016-11-09T13:26:00+01:00</updated><entry><title>GeckoLinux 999.161031.0 Rolling Cinnamon - Demo</title><link href="http://www.openscreencast.de/blog/geckolinux_cinnamon_demo.html" rel="alternate"></link><published>2016-11-09T13:26:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-11-09:blog/geckolinux_cinnamon_demo.html</id><summary type="html">&lt;p&gt;GeckoLinux 999.161031.0 Rolling Cinnamon - Demo&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/video.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2017-02-26T11:58:00+01:00</updated><entry><title>TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)</title><link href="http://www.openscreencast.de/blog/trueos_20170222_demo.html" rel="alternate"></link><published>2017-02-26T11:58:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-02-26:blog/trueos_20170222_demo.html</id><summary type="html">&lt;p&gt;TrueOS 2017-02-22 - Demo (based on FreeBSD, Lumina Desktop)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.trueos.org/"&gt;TrueOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musik: Sprite by &lt;a href="http://freemusicarchive.org/music/Michett/"&gt;Michett&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/nl"&gt;http://creativecommons.org/licenses/by/3.0/nl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="BSD"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="FreeBSD"></category><category term="TrueOS"></category><category term="Lumina"></category></entry><entry><title>GeckoLinux 999.161031.0 Rolling Cinnamon - Demo</title><link href="http://www.openscreencast.de/blog/geckolinux_cinnamon_demo.html" rel="alternate"></link><published>2016-11-09T13:26:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-11-09:blog/geckolinux_cinnamon_demo.html</id><summary type="html">&lt;p&gt;GeckoLinux 999.161031.0 Rolling Cinnamon - Demo&lt;br /&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
@@ -5037,12 +5043,12 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.mandriva.com/de"&gt;Mandriva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mandriva_Linux"&gt;Mandriva Linux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Mandriva"></category></entry><entry><title>Mandriva Linux One 2009 KDE4</title><link href="http://www.openscreencast.de/blog/mandrivalinuxone2009kde4.html" rel="alternate"></link><published>2009-02-01T03:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-01:blog/mandrivalinuxone2009kde4.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Mandriva Linux One 2009 KDE4&lt;br /&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.mandriva.com/de"&gt;Mandriva&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mandriva_Linux"&gt;Mandriva Linux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Mandriva"></category></entry><entry><title>wallpaper-tray</title><link href="http://www.openscreencast.de/blog/wallpapertray.html" rel="alternate"></link><published>2009-01-27T02:49:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-01-27:blog/wallpapertray.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
