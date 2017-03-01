@@ -126,8 +126,8 @@ stehen unter der [Creative Commons by 4.0 Lizenz](http://creativecommons.org/lic
 
 [GPG PubKey](http://www.openscreencast.de/gpg-key.asc)
 
-Theme der Webseite: https://github.com/giulivo/pelican-svbhack Released under MIT License, 
-pelican-svbhack is authored by Giulio Fidente.    
+Theme der Webseite: <https://github.com/giulivo/pelican-svbhack> Released under MIT License, 
+pelican-svbhack is authored by [Giulio Fidente](https://github.com/gfidente).    
 Software der Webseite: http://blog.getpelican.com/ [github](https://github.com/getpelican/pelican) [Lizenz](https://github.com/getpelican/pelican/blob/master/LICENSE), http://fontawesome.io/ [github](https://github.com/FortAwesome/Font-Awesome) by [Dave Gandy](https://twitter.com/davegandy) [Lizenz](http://fontawesome.io/license/), http://lesscss.org/ [github](https://github.com/less/less.js) by [Alexis Sellier](http://cloudhead.io/)  [Lizenz](https://github.com/less/less.js/blob/3.x/LICENSE)
 
   [text2383]: http://www.openscreencast.de/text2383.png
