@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/terminix.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2017-03-06T12:59:00+01:00</updated><entry><title>Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;Drop und Transparenz</title><link href="http://www.openscreencast.de/blog/linux_terminix.html" rel="alternate"></link><published>2017-03-06T12:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-06:blog/linux_terminix.html</id><summary type="html">&lt;p&gt;Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;amp;Drop; und Transparenz&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://gnunn1.github.io/terminix-web/"&gt;terminix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gnunn1/terminix"&gt;github terminix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Textquelle: &lt;a href="https://linuxundich.de/gnu-linux/terminix-gtk3-terminal-mit-tiling-funktion-dragdrop-und-transparenz/"&gt;Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;amp;Drop; und Transparenz&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph Langner&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="terminix"></category><category term="terminal"></category></entry></feed>
