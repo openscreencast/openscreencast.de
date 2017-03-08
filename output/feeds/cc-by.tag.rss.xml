@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/cc-by.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 06 Mar 2017 12:59:00 +0100</lastBuildDate><item><title>Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;Drop und Transparenz</title><link>http://www.openscreencast.de/blog/linux_terminix.html</link><description>&lt;p&gt;Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;amp;Drop; und Transparenz&lt;br /&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/cc-by.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 08 Mar 2017 12:40:00 +0100</lastBuildDate><item><title>HTML und CSS - Farben</title><link>http://www.openscreencast.de/blog/HTMLundCSS_Farben.html</link><description>&lt;p&gt;HTML und CSS - Farben, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://html-color-codes.info/"&gt;http://html-color-codes.info/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colorpicker.com/"&gt;http://www.colorpicker.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colourlovers.com/palettes"&gt;http://www.colourlovers.com/palettes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.google.com/design/spec/style/color.html"&gt;http://www.google.com/design/spec/style/color.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kuler.adobe.com/"&gt;https://kuler.adobe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.paletton.com/"&gt;http://www.paletton.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://colourco.de/"&gt;http://colourco.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 08 Mar 2017 12:40:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-08:blog/HTMLundCSS_Farben.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Web</category><category>www</category><category>HTML</category><category>CSS</category></item><item><title>Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;Drop und Transparenz</title><link>http://www.openscreencast.de/blog/linux_terminix.html</link><description>&lt;p&gt;Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;amp;Drop; und Transparenz&lt;br /&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
