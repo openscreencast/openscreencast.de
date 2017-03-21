@@ -38,6 +38,8 @@ DISQUS_SITENAME = 'openscreencast'
 #          ('openclipart', 'http://www.openclipart.org/user-detail/redccshirt'),
 #          ('tumblr', 'http://redcctshirt.tumblr.com/'),
 #	  ('pixabay', 'http://www.pixabay.com/de/users/redcctshirt'),)
+LINKS =  (('Videotutorials', 'http://www.openscreencast.de/videotutorials/'),)
+
 
 # Social widget
 #SOCIAL = (('twitter', 'https://twitter.com/redcctshirt'),

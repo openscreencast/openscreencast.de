@@ -56,15 +56,15 @@
     <a href="https://github.com/openscreencast"><i class="fa fa-github fa-lg"></i></a>
       
       <ul>
+	{% for name, link in LINKS %}
+        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+        {% endfor %}
         {% for title, link in MENUITEMS %}
         <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}{% for p in pages %}
         <li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}{% endif %}
-        {% for name, link in LINKS %}
-        <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
-        {% endfor %}
         {% for name, link in SOCIAL %}
         <li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
         {% endfor %}
