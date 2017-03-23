@@ -1,3 +1,4 @@
+{% import 'pcs/comments.html' as pcs with context %}
 {% extends "base.html" %}
 {% block head %}
 <meta name="keywords" content="{{ article.tags|join(', ')  }}">
@@ -34,6 +35,7 @@
     {% endif %}
   </div>
 
+  {{ pcs.comments_quickstart("info", "openscreencast.de") }}
   {% if DISQUS_SITENAME %}
     <div id="article_comments" style="display:{%if COLLAPSE_COMMENTS %}none{% else %}block{% endif %}">
         <div id="disqus_thread"></div>

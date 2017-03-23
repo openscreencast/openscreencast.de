@@ -14,6 +14,9 @@ DEFAULT_LANG = u'de'
 
 THEME = "./pelican-svbhack-master"
 
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['pelican_comment_system']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'blog/atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
@@ -31,7 +34,9 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 TAG_URL = 'tag/{slug}tag.html'
 TAG_SAVE_AS = 'tag/{slug}tag.html'
 
-DISQUS_SITENAME = 'openscreencast'
+# DISQUS_SITENAME = 'openscreencast'
+PELICAN_COMMENT_SYSTEM = True
+PELICAN_COMMENT_SYSTEM_IDENTICON_DATA = ('author',)
 
 # Blogroll
 #LINKS =  (('Flickr', 'http://www.flickr.com/photos/redcctshirt'),
