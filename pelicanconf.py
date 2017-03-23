@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os  # for PATH - PELICAN_COMMENT_SYSTEM_DIR
+PATH = os.getcwd()  # for PATH - PELICAN_COMMENT_SYSTEM_DIR
 
 AUTHOR = u'heiko'
 SITENAME = u'openscreencast'
@@ -38,10 +40,7 @@ TAG_SAVE_AS = 'tag/{slug}tag.html'
 PELICAN_COMMENT_SYSTEM = True
 PELICAN_COMMENT_SYSTEM_IDENTICON_DATA = ('heiko',)
 
-import os
-PATH = os.getcwd()
 PELICAN_COMMENT_SYSTEM_DIR = PATH + "/comments"
-
 
 # Blogroll
 #LINKS =  (('Flickr', 'http://www.flickr.com/photos/redcctshirt'),
