@@ -36,7 +36,12 @@ TAG_SAVE_AS = 'tag/{slug}tag.html'
 
 # DISQUS_SITENAME = 'openscreencast'
 PELICAN_COMMENT_SYSTEM = True
-PELICAN_COMMENT_SYSTEM_IDENTICON_DATA = ('author',)
+PELICAN_COMMENT_SYSTEM_IDENTICON_DATA = ('heiko',)
+
+import os
+PATH = os.getcwd()
+PELICAN_COMMENT_SYSTEM_DIR = PATH + "/comments"
+
 
 # Blogroll
 #LINKS =  (('Flickr', 'http://www.flickr.com/photos/redcctshirt'),
