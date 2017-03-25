@@ -11,7 +11,6 @@ Angaben gemäß § 5 TMG:
 Kontakt:
 --------
 
-Jabber: openscreencast(at)jabber.ccc.de
 E-Mail: info(at)openscreencast.de
 
 </p>
