@@ -16,6 +16,8 @@ Diaspora: [https://pod.geraspora.de/u/openscreencast](https://pod.geraspora.de/u
 
 Identi.ca: [http://identi.ca/openscreencast](http://identi.ca/openscreencast)
 
+gnusocial.de: [https://gnusocial.de/openscreencast](https://gnusocial.de/openscreencast)
+
 Github: [https://github.com/openscreencast](https://github.com/openscreencast)
 
 Twitter: [http://twitter.com/openscreencast](http://twitter.com/openscreencast)
