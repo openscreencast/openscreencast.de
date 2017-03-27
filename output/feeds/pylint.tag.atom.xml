@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/pylint.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2015-02-15T14:04:00+01:00</updated><entry><title>Python-Programmierung - Quelltextanalyse mit pylint</title><link href="http://www.openscreencast.de/blog/python_quelltextanalyse_pylint.html" rel="alternate"></link><published>2015-02-15T14:04:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:blog/python_quelltextanalyse_pylint.html</id><summary type="html">&lt;p&gt;Python-Programmierung - Quelltextanalyse mit pylint, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pylint.org/" title="Link zu pylint.org"&gt;pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.python.org/dev/peps/pep-0008/" title="Link zu python.org"&gt;Python PEP8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pychecker.sourceforge.net/" title="Link zu sourceforge.net"&gt;Pychecker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/flake8" title="Link zu python.org"&gt;Flake8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/frosted/" title="Link zu python.org"&gt;Frosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/pep8" title="Link zu ubuntuusers.de"&gt;Ubuntuusers:Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/pep8" title="Link zu python.org"&gt;Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29" title="Link zu wikipedia.org"&gt;WP:Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Python"></category><category term="Programmierung"></category><category term="pylint"></category></entry></feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/foxbleed.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 13 Apr 2014 16:41:00 +0200</lastBuildDate><item><title>FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen</title><link>http://www.openscreencast.de/blog/FoxBleed_Seiten_auf_bekannte_OpenSSLLuecke_Heartbleed_pruefen.html</link><description>&lt;p&gt;FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/foxbleed/"&gt;https://addons.mozilla.org/en-US/firefox/addon/foxbleed/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=NmuRNAUwdK4"&gt;https://www.youtube.com/watch?v=NmuRNAUwdK4&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://filippo.io/Heartbleed/"&gt;http://filippo.io/Heartbleed/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://heartbleed.com/"&gt;http://heartbleed.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 13 Apr 2014 16:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-13:blog/FoxBleed_Seiten_auf_bekannte_OpenSSLLuecke_Heartbleed_pruefen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Heartbleed</category><category>FoxBleed</category><category>OpenSSL</category><category>Web</category></item></channel></rss>

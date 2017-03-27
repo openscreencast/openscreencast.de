@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/video-tag.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2009-03-19T16:25:00+01:00</updated><entry><title>video-Tag testen</title><link href="http://www.openscreencast.de/blog/videotag_testen.html" rel="alternate"></link><published>2009-03-19T16:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-19:blog/videotag_testen.html</id><summary type="html">&lt;p&gt;Mit &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox 3.1b3&lt;/a&gt; (später Firefox 3.5)
+ist nun das direkte Einbinden von Ogg
+&lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Theora&lt;/a&gt;-Videos in die Webseite per
+video-Tag möglich. Screencast 067 - Sweeper enthält nun zum testen dieses
+video-Tag. Bei mir hat es leider noch nicht so gut funktioniert. &lt;a href="http://web205.login-69.hoststar.ch/?p=433"&gt;Paketquelle
+für Firefox 3.1b3 bei Ubuntu&lt;/a&gt;&lt;/p&gt;</summary><category term="Firefox"></category><category term="News"></category><category term="video-tag"></category></entry></feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/sound-juicer.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 11 Jul 2006 02:44:00 +0200</lastBuildDate><item><title>Audio-CD auslesen (Desktopmodus)</title><link>http://www.openscreencast.de/blog/Audio_CD_auslesen_Desktopmodus.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Audio-CD"&gt;Audio-CD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Sound_Juicer"&gt;Sound Juicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Rippen"&gt;Rippen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vorbis"&gt;Ogg Vorbis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GRIP"&gt;grip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fedorawiki.de/index.php?title=Pirut"&gt;pirut&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 02:44:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Audio_CD_auslesen_Desktopmodus.html</guid><category>Audio-CD</category><category>CC by-nc-sa</category><category>cd</category><category>Desktop</category><category>Fedora Core</category><category>Gnome</category><category>grip</category><category>Linux</category><category>Multimedia</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>Ogg Vorbis</category><category>pirut</category><category>Rippen</category><category>screencast</category><category>Sound Juicer</category></item><item><title>Audio-CD abspielen</title><link>http://www.openscreencast.de/blog/Audio_CD_abspielen.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: eject, totem, sound-juicer, gnome-cd, rhythmbox, gnome-
+volume-control, gnome-volume-properties&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Audio-CD"&gt;Audio-CD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Lautst%C3%A4rke"&gt;Lautstärke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/CD-Player"&gt;CD-Player&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Rhythmbox"&gt;Rhythmbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Sound_Juicer"&gt;Sound Juicer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Totem_%28media_player%29"&gt;Totem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf-editor"&gt;gconf-editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 02:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Audio_CD_abspielen.html</guid><category>Audio-CD</category><category>CC by-nc-sa</category><category>cd</category><category>Desktop</category><category>eject</category><category>Fedora Core</category><category>gconf</category><category>gconf-editor</category><category>Gnome</category><category>gnome-cd</category><category>gnome-volume-control</category><category>gnome-volume-properties</category><category>Linux</category><category>Multimedia</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>rhythmbox</category><category>screencast</category><category>Sound Juicer</category><category>Terminal</category><category>Textmodus</category><category>totem</category></item></channel></rss>

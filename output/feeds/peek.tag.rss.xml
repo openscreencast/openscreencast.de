@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/peek.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Mar 2017 13:10:00 +0100</lastBuildDate><item><title>Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild</title><link>http://www.openscreencast.de/blog/peek_screencasts_als_gif.html</link><description>&lt;p&gt;Linux - Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/phw/peek"&gt;peek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/GNOME/byzanz"&gt;byzanz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Textquelle: &lt;a href="https://linuxundich.de/gnu-linux/peek-erstellt-auf-einfache-art-screencasts-als-animiertes-gif-bild-und-demaechst-als-webm-video/"&gt;Peek erstellt auf einfache Art Screencasts als animiertes GIF-Bild und demächst als WebM-Video&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph Langner&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 01 Mar 2017 13:10:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-01:blog/peek_screencasts_als_gif.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>gif</category><category>byzanz</category><category>peek</category><category>Screencasting</category></item></channel></rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/hexdump.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-07-10T17:20:00+02:00</updated><entry><title>Textdateien anschauen Teil2</title><link href="http://www.openscreencast.de/blog/Textdateien_anschauen_Teil2.html" rel="alternate"></link><published>2006-07-10T17:20:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-10:blog/Textdateien_anschauen_Teil2.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gnome-terminal, head, tail, od, hexdump, man&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Desktop_(EDV)"&gt;Desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Man_page"&gt;man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Texinfo"&gt;info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-ag.de/linux/LHB/node61.html"&gt;head&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-ag.de/linux/LHB/node112.html"&gt;tail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hexadezimalsystem"&gt;Hexdezimal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dezimalsystem"&gt;Dezimal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Oktalsystem"&gt;Oktal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-ag.de/linux/LHB/node62.html"&gt;hexdump&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-nc-sa"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="gnome-terminal"></category><category term="head"></category><category term="hexdump"></category><category term="info"></category><category term="Linux"></category><category term="man"></category><category term="Neueinsteiger"></category><category term="od"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="tail"></category><category term="Textdatei"></category><category term="Textmodus"></category></entry></feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/remarkjs.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2015-03-30T12:53:00+02:00</updated><entry><title>Präsentationen mit Markdown und remark.js</title><link href="http://www.openscreencast.de/blog/remarkjs_slideshow.html" rel="alternate"></link><published>2015-03-30T12:53:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/remarkjs_slideshow.html</id><summary type="html">&lt;p&gt;Präsentationen mit Markdown und remark.js, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://remarkjs.com/" title="Link zu remarkjs.com/"&gt;remark.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Markdown" title="Link zu wikipedia.org"&gt;WP:Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://markdown.de/syntax/" title="Link zu markdown.de"&gt;Markdown.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://imakewebthings.com/deck.js/" title="Link zu imakewebthings.com/deck.js/"&gt;deck.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lab.hakim.se/reveal-js/#/" title="Link zu lab.hakim.se/reveal-js/"&gt;reveal.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bartaz.github.io/impress.js/#/bored" title="Link zu bartaz.github.io/impress.js/"&gt;impress.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="remarkjs"></category><category term="Markdown"></category><category term="slideshow"></category></entry></feed>

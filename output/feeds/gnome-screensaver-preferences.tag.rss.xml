@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/gnome-screensaver-preferences.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 11 Jul 2006 01:52:00 +0200</lastBuildDate><item><title>Bildschirmschoner</title><link>http://www.openscreencast.de/blog/Bildschirmschoner.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gnome-screensaver-preferences, gnome-screensaver-
+command&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bildschirmschoner"&gt;Bildschirmschoner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf"&gt;gconf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 01:52:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Bildschirmschoner.html</guid><category>Bildschirmschoner</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>Gnome</category><category>gnome-screensaver-command</category><category>gnome-screensaver-preferences</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Terminal</category><category>Textmodus</category></item></channel></rss>

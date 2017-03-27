@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/gnome-keybinding-properties.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-07-11T01:48:00+02:00</updated><entry><title>mal ohne Maus</title><link href="http://www.openscreencast.de/blog/mal_ohne_Maus.html" rel="alternate"></link><published>2006-07-11T01:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:blog/mal_ohne_Maus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gnome-keybinding-properties, gnome-terminal&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tastenkombination"&gt;Tastenkombination&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Maus_%28EDV%29"&gt;Maus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tastatur"&gt;Tastatur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf"&gt;gconf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-nc-sa"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="gconf"></category><category term="gedit"></category><category term="Gnome"></category><category term="gnome-keybinding-properties"></category><category term="gnome-terminal"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Tastenkombination"></category><category term="Terminal"></category></entry></feed>

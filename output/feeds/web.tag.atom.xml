@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/web.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2017-03-20T16:47:00+01:00</updated><entry><title>Scratch-Tutorial (Teil 2) - Anlegen der vier Sprites</title><link href="http://www.openscreencast.de/blog/scratch_anlegen_der_vier_spritesn.html" rel="alternate"></link><published>2017-03-20T16:47:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-20:blog/scratch_anlegen_der_vier_spritesn.html</id><summary type="html">&lt;p&gt;Scratch-Tutorial (Teil 2) - Anlegen der vier Sprites, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Textquelle: &lt;a href="http://spielend-programmieren.at/de:ris:001"&gt;RIS Journal Ausgabe 001 - Scratch 2 Tutorial&lt;/a&gt;, &lt;a href="http://www.freiesmagazin.de/mobil/freiesMagazin-2014-03-bilder.html#fm_14_03_scratch2_tutorial"&gt;freiesMagazin 03/2014 - Scratch 2 Tutorial&lt;/a&gt; von &lt;a href="http://spielend-programmieren.at/"&gt;Horst Jens&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scratch-Anwendung: Scratch wird von der Lifelong-Kindergarten-Group am MIT-Media-Lab entwickelt. Siehe http://scratch.mit.edu (Ausgenommen von der Lizenz sind lediglich das Scratch-Logo, die Scratch-Katze und Gobo (Scratch-Markenzeichen)), Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/"&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/LLK/scratch-flash"&gt;github:Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/scratch2download/"&gt;Scratch 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/scratch_1.4/"&gt;Scratch 1.4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Scratch"></category><category term="Web"></category></entry><entry><title>Scratch-Tutorial - Was ist Scratch ?</title><link href="http://www.openscreencast.de/blog/scratch_was_ist_scratch.html" rel="alternate"></link><published>2017-03-16T13:03:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-16:blog/scratch_was_ist_scratch.html</id><summary type="html">&lt;p&gt;Scratch-Tutorial - Was ist Scratch ?, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Textquelle: &lt;a href="http://spielend-programmieren.at/de:ris:001"&gt;RIS Journal Ausgabe 001 - Scratch 2 Tutorial&lt;/a&gt;, &lt;a href="http://www.freiesmagazin.de/mobil/freiesMagazin-2014-03-bilder.html#fm_14_03_scratch2_tutorial"&gt;freiesMagazin 03/2014 - Scratch 2 Tutorial&lt;/a&gt; von &lt;a href="http://spielend-programmieren.at/"&gt;Horst Jens&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Scratch-Anwendung: Scratch wird von der Lifelong-Kindergarten-Group am MIT-Media-Lab entwickelt. Siehe http://scratch.mit.edu (Ausgenommen von der Lizenz sind lediglich das Scratch-Logo, die Scratch-Katze und Gobo (Scratch-Markenzeichen)), Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/"&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/LLK/scratch-flash"&gt;github:Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/scratch2download/"&gt;Scratch 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scratch.mit.edu/scratch_1.4/"&gt;Scratch 1.4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Scratch"></category><category term="Web"></category></entry><entry><title>HTML und CSS - Farben</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_Farben.html" rel="alternate"></link><published>2017-03-08T12:40:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-08:blog/HTMLundCSS_Farben.html</id><summary type="html">&lt;p&gt;HTML und CSS - Farben, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://html-color-codes.info/"&gt;http://html-color-codes.info/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colorpicker.com/"&gt;http://www.colorpicker.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colourlovers.com/palettes"&gt;http://www.colourlovers.com/palettes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.google.com/design/spec/style/color.html"&gt;http://www.google.com/design/spec/style/color.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kuler.adobe.com/"&gt;https://kuler.adobe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.paletton.com/"&gt;http://www.paletton.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://colourco.de/"&gt;http://colourco.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Screencasting auf dem Linux-Desktop in der Cloud - Demo</title><link href="http://www.openscreencast.de/blog/Screencasting_in_der_cloud_labxnow_demo.html" rel="alternate"></link><published>2016-01-13T16:47:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-01-13:blog/Screencasting_in_der_cloud_labxnow_demo.html</id><summary type="html">&lt;p&gt;Screencasting auf dem Linux-Desktop in der Cloud - Demo, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Cloud"></category><category term="LabxNow"></category><category term="Web"></category><category term="Screencasting"></category><category term="Demo"></category></entry><entry><title>Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow</title><link href="http://www.openscreencast.de/blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html" rel="alternate"></link><published>2015-10-04T16:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-10-04:blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html</id><summary type="html">&lt;p&gt;Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/kostenloser-linux-desktop-in-der-cloud-labxnow/"&gt;Kostenloser Linux-Desktop in der Cloud: LabxNow&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Cloud"></category><category term="LabxNow"></category><category term="Web"></category></entry><entry><title>Firefox OS - ein Bildschirmfoto (Screenshot) machen</title><link href="http://www.openscreencast.de/blog/FirefoxOS_screenshots_machen.html" rel="alternate"></link><published>2015-10-04T16:13:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-10-04:blog/FirefoxOS_screenshots_machen.html</id><summary type="html">&lt;p&gt;Firefox OS - ein Bildschirmfoto (Screenshot) machen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox_OS" title="Link zu wikipedia.org"&gt;WP:FirefoxOS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="FirefoxOS"></category><category term="Web"></category></entry><entry><title>Processing installieren und starten</title><link href="http://www.openscreencast.de/blog/Processing_installieren_und_starten.html" rel="alternate"></link><published>2015-09-20T13:59:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:blog/Processing_installieren_und_starten.html</id><summary type="html">&lt;p&gt;Processing installieren und starten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://processing.org/" title="Link zu processing.org/"&gt;https://processing.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://p5js.org/" title="Link zu p5js.org"&gt;http://p5js.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://processingjs.org/" title="Link zu processingjs.org"&gt;http://processingjs.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sketchpad.cc/" title="Link zu sketchpad.cc"&gt;http://sketchpad.cc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://processing.org/tutorials/"&gt;https://processing.org/tutorials/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lernprocessing.wordpress.com/" title="Link zu lernprocessing.wordpress.com"&gt;https://lernprocessing.wordpress.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://funprogramming.org/" title="Link zu funprogramming.org"&gt;http://funprogramming.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg?uselang=de" title="Link zu commons.wikimedia.org"&gt;Thumbnail: Urheber: Woodmath&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Processing"></category><category term="Visualisierung"></category><category term="Web"></category></entry><entry><title>R - Webscraping mit rvest und dem Selector Gadget</title><link href="http://www.openscreencast.de/blog/R_Webscraping_mit_rvest_und_selector_gadget.html" rel="alternate"></link><published>2015-09-20T13:27:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:blog/R_Webscraping_mit_rvest_und_selector_gadget.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest und dem Selector Gadget, Fedora 22&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
+freiesmagazin.de&lt;/a&gt;
+von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html" title="Link zu r-project.org"&gt;Selector Gadget&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category><category term="Selector Gadget"></category></entry><entry><title>Linktipp - Lerne X in Y Minuten</title><link href="http://www.openscreencast.de/blog/linktipp_learnxinyminutes.html" rel="alternate"></link><published>2015-09-06T15:32:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-06:blog/linktipp_learnxinyminutes.html</id><summary type="html">&lt;p&gt;Linktipp - Lerne X in Y Minuten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://learnxinyminutes.com/" title="Link zu learnxinyminutes.com"&gt;http://learnxinyminutes.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/adambard/learnxinyminutes-docs"&gt;https://github.com/adambard/learnxinyminutes-docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Linktipp"></category><category term="Programmierung"></category></entry><entry><title>Linktipp: Browserunterstützung für HTML- und CSS-Elemente prüfen</title><link href="http://www.openscreencast.de/blog/linktipp_caniusecom.html" rel="alternate"></link><published>2015-08-30T16:09:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-30:blog/linktipp_caniusecom.html</id><summary type="html">&lt;p&gt;Linktipp: Browserunterstützung für HTML- und CSS-Elemente prüfen, Linux Mint
+17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://caniuse.com/"&gt;http://caniuse.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="Linktipp"></category></entry><entry><title>HTML und CSS - Eine CSS-Datei einbinden</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_cssdatei_einbinden.html" rel="alternate"></link><published>2015-08-30T16:07:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-30:blog/HTMLundCSS_cssdatei_einbinden.html</id><summary type="html">&lt;p&gt;HTML und CSS - Eine CSS-Datei einbinden, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>OpenLayers 3 - eine Karte auf eine Webseite setzen</title><link href="http://www.openscreencast.de/blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html" rel="alternate"></link><published>2015-08-23T16:51:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-23:blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html</id><summary type="html">&lt;p&gt;OpenLayers 3 - eine Karte auf eine Webseite setzen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://openlayers.org/en/v3.8.2/doc/quickstart.html"&gt;Quick Start&lt;/a&gt; von
+&lt;a href="http://openlayers.org/"&gt;http://openlayers.org/&lt;/a&gt; Lizenz: http://creativecommons.org/licenses/by/3.0/
+&lt;a href="https://github.com/openlayers/ol3/blob/master/doc/quickstart.hbs"&gt;(contributors github.com: tschaub fredj ThomasG77
+bartvde)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/" title="Link zu openlayers.org/"&gt;http://openlayers.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.html" title="Link zu openlayers.org/"&gt;ol.source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.MapQuest.html" title="Link zu openlayers.org/"&gt;ol.source.MapQuest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="OpenLayers"></category><category term="Mapping"></category></entry><entry><title>Javascript - Zahlen (numerische Werte)</title><link href="http://www.openscreencast.de/blog/Javascript_Zahlen_numerischeWerte.html" rel="alternate"></link><published>2015-08-23T16:41:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-23:blog/Javascript_Zahlen_numerischeWerte.html</id><summary type="html">&lt;p&gt;Javascript - Zahlen (numerische Werte), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://eloquentjavascript.net/1st_edition/contents.html"&gt;Eloquent JavaScript&lt;/a&gt;
+von &lt;a href="http://eloquentjavascript.net/"&gt;Marijn Haverbeke&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JavaScript" title="Link zu wikipedia.org"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Javascript"></category><category term="Web"></category></entry><entry><title>d3 - Einleitung (ein Balkendiagramm erstellen)</title><link href="http://www.openscreencast.de/blog/d3_einleitung.html" rel="alternate"></link><published>2015-08-11T18:06:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-11:blog/d3_einleitung.html</id><summary type="html">&lt;p&gt;d3 - Einleitung (ein Balkendiagramm erstellen), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://d3js.org/" title="Link zu d3js.org/"&gt;d3js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mbostock/d3/wiki/Tutorials" title="Link zu github.com"&gt;d3 Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codecademy.com/courses/web-beginner-en-kcP9b/0/1" title="Link zu codecademy.com"&gt;codecademy - d3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="d3"></category><category term="web"></category><category term="visualisierung"></category><category term="d3js"></category></entry><entry><title>R - Webscraping mit rvest</title><link href="http://www.openscreencast.de/blog/R_Webscraping_mit_rvest.html" rel="alternate"></link><published>2015-08-06T17:09:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-06:blog/R_Webscraping_mit_rvest.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest, Fedora 22&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
+freiesmagazin.de&lt;/a&gt;
+von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland" title="Link zu wikipedia.org"&gt;WP:Liste der Groß- und Mittelstädte in Deutschland&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&amp;amp;action=history" title="Link zu wikipedia.org"&gt;Versionsgeschichte&lt;/a&gt; Lizenz: &lt;a href="http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category></entry><entry><title>HTML und CSS - Webseite veröffentlichen (Hosting)</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_Hosting.html" rel="alternate"></link><published>2015-08-04T19:27:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-04:blog/HTMLundCSS_Hosting.html</id><summary type="html">&lt;p&gt;HTML und CSS - Webseite veröffentlichen (Hosting), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitballoon.com/" title="Link zu bitballoon.com/"&gt;Bitballoon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://drive.google.com/" title="Link zu google.com/"&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pancake.io/" title="Link zu pancake.io/"&gt;pancake.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://droppages.com/" title="Link zu droppages.com/"&gt;Droppages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pages.github.com/" title="Link zu github.com/"&gt;Github Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://goo.gl/" title="Link zu goo.gl/"&gt;goo.gl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitly.com/" title="Link zu bitly.com/"&gt;bitly.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tiny.cc/" title="Link zu tiny.cc/"&gt;tiny.cc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="Hosting"></category></entry><entry><title>AngularJS - Ereignisdirektiven (Event: ng-click)</title><link href="http://www.openscreencast.de/blog/AngularJS_ngclick.html" rel="alternate"></link><published>2015-08-01T09:53:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-01:blog/AngularJS_ngclick.html</id><summary type="html">&lt;p&gt;AngularJS - Ereignisdirektiven (Event: ng-click), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="Javascript"></category><category term="AngularJS"></category></entry><entry><title>Linktipp: 2 feine Tutorialsammlungen</title><link href="http://www.openscreencast.de/blog/Linktipp_feine_Tutorialsammlungen.html" rel="alternate"></link><published>2015-07-01T16:46:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-07-01:blog/Linktipp_feine_Tutorialsammlungen.html</id><summary type="html">&lt;p&gt;Linktipp: 2 feine Tutorialsammlungen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.bento.io/"&gt;bento.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hackr.io/"&gt;hackr.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Tutorialsammlung"></category><category term="Web"></category><category term="www"></category></entry><entry><title>HTML und CSS - Ein Bild einfügen (img)</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_Bildeinfuegen.html" rel="alternate"></link><published>2015-06-26T15:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-06-26:blog/HTMLundCSS_Bildeinfuegen.html</id><summary type="html">&lt;p&gt;HTML und CSS - Ein Bild einfügen (img), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Grundgerüst einer HTML-Seite</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_htmlgrundgeruest.html" rel="alternate"></link><published>2015-04-28T16:28:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-04-28:blog/HTMLundCSS_htmlgrundgeruest.html</id><summary type="html">&lt;p&gt;HTML und CSS - Grundgerüst einer HTML-Seite, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>AngularJS - Schleifen (ng-repeat)</title><link href="http://www.openscreencast.de/blog/AngularJS_ngrepeat.html" rel="alternate"></link><published>2015-03-30T13:02:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/AngularJS_ngrepeat.html</id><summary type="html">&lt;p&gt;AngularJS - Schleifen (ng-repeat), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.angularjs.org/api/ng/directive/ngRepeat" title="Link zu docs.angularjs.org/"&gt;ng-repeat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="Javascript"></category><category term="AngularJS"></category></entry><entry><title>Präsentationen mit Markdown und remark.js</title><link href="http://www.openscreencast.de/blog/remarkjs_slideshow.html" rel="alternate"></link><published>2015-03-30T12:53:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/remarkjs_slideshow.html</id><summary type="html">&lt;p&gt;Präsentationen mit Markdown und remark.js, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://remarkjs.com/" title="Link zu remarkjs.com/"&gt;remark.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Markdown" title="Link zu wikipedia.org"&gt;WP:Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://markdown.de/syntax/" title="Link zu markdown.de"&gt;Markdown.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://imakewebthings.com/deck.js/" title="Link zu imakewebthings.com/deck.js/"&gt;deck.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lab.hakim.se/reveal-js/#/" title="Link zu lab.hakim.se/reveal-js/"&gt;reveal.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bartaz.github.io/impress.js/#/bored" title="Link zu bartaz.github.io/impress.js/"&gt;impress.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="remarkjs"></category><category term="Markdown"></category><category term="slideshow"></category></entry><entry><title>HTML und CSS - HTML-Elemente</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_htmlelemente.html" rel="alternate"></link><published>2015-03-30T12:51:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/HTMLundCSS_htmlelemente.html</id><summary type="html">&lt;p&gt;HTML und CSS - HTML-Elemente, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Ein HTML-Dokument erstellen</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_htmldokument_erstellen.html" rel="alternate"></link><published>2015-03-30T12:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/HTMLundCSS_htmldokument_erstellen.html</id><summary type="html">&lt;p&gt;HTML und CSS - Ein HTML-Dokument erstellen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Die notwendigen Tools</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_die_notwendigen_Tools.html" rel="alternate"></link><published>2015-03-01T14:09:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/HTMLundCSS_die_notwendigen_Tools.html</id><summary type="html">&lt;p&gt;HTML und CSS - Die notwendigen Tools, Fedora Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brackets.io/" title="Link zu brackets.io/"&gt;Brackets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atom.io/" title="Link zu atom.io"&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://googlecreativelab.github.io/coder/" title="Link zu googlecreativelab.github.io"&gt;Coder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Linux - Webbrowsing in der Konsole mit links2</title><link href="http://www.openscreencast.de/blog/Linux_Webbrowsing_in_der_Konsole_mit_links2.html" rel="alternate"></link><published>2015-03-01T14:02:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/Linux_Webbrowsing_in_der_Konsole_mit_links2.html</id><summary type="html">&lt;p&gt;Linux - Webbrowsing in der Konsole mit links2, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/tipps-und-tricks-fur-den-alltag-mit-linux-iii/"&gt;Tipps und Tricks für den Alltag mit Linux (III)&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/links2" title="Link zu ubuntuusers.de"&gt;links2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/w3m" title="Link zu ubuntuusers.de"&gt;w3m&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Lynx" title="Link zu ubuntuusers.de"&gt;Lynx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/ELinks" title="Link zu ubuntuusers.de"&gt;elinks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="links2"></category><category term="Konsole"></category></entry><entry><title>HTML und CSS - Was sind HTML und CSS ?</title><link href="http://www.openscreencast.de/blog/HTMLundCSS_Was_sind_HTML_und_CSS.html" rel="alternate"></link><published>2015-03-01T13:51:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/HTMLundCSS_Was_sind_HTML_und_CSS.html</id><summary type="html">&lt;p&gt;HTML und CSS - Was sind HTML und CSS ?, Fedora Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Python-Programmierung - Modul webbrowser</title><link href="http://www.openscreencast.de/blog/python_modul_webbrowser.html" rel="alternate"></link><published>2015-03-01T13:39:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/python_modul_webbrowser.html</id><summary type="html">&lt;p&gt;Python-Programmierung - Modul webbrowser, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.python.org/2/library/webbrowser.html" title="Link zu python.org"&gt;Modul webbrowser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29" title="Link zu wikipedia.org"&gt;WP:Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Python"></category><category term="Programmierung"></category><category term="webbrowser"></category><category term="web"></category></entry><entry><title>AngularJS - Listen (ng-list, orderBy)</title><link href="http://www.openscreencast.de/blog/AngularJS_Listen.html" rel="alternate"></link><published>2015-02-22T20:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/AngularJS_Listen.html</id><summary type="html">&lt;p&gt;AngularJS - Listen (ng-list, orderBy), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="Javascript"></category><category term="AngularJS"></category></entry><entry><title>Vivaldi Browser - Demo</title><link href="http://www.openscreencast.de/blog/VivaldiBrowser_Demo.html" rel="alternate"></link><published>2015-02-22T20:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/VivaldiBrowser_Demo.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Demo, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.net/blogs/teamblog/" title="Link zu vivaldi.net"&gt;Vivaldi Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musik: We Always Thought the Future Would Be Kind of Fun von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: CC by 3.0&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category><category term="Demo"></category></entry><entry><title>Vivaldi Browser - Linux</title><link href="http://www.openscreencast.de/blog/VivaldiBrowser_Linux.html" rel="alternate"></link><published>2015-02-22T20:09:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/VivaldiBrowser_Linux.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Linux, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://www.bitblokes.de/2015/02
+/vivaldi-browser-nun-auch-fuer-32-bit-linux/"&gt;Vivaldi Browser nun auch für 32-Bit-Linux&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.net/blogs/teamblog/" title="Link zu vivaldi.net"&gt;Vivaldi Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category></entry><entry><title>OpenStreetMap ab sofort mit Routenplaner</title><link href="http://www.openscreencast.de/blog/OpenStreetMap_mit_Routenplaner.html" rel="alternate"></link><published>2015-02-22T20:02:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/OpenStreetMap_mit_Routenplaner.html</id><summary type="html">&lt;p&gt;OpenStreetMap ab sofort mit Routenplaner, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://www.bitblokes.de/2015/02
+/openstreetmap-ab-sofort-mit-routenplaner/"&gt;OpenStreetMap ab sofort mit Routenplaner&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.openstreetmap.org/" title="Link zu openstreetmap.org"&gt;OSM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://map.project-osrm.org/" title="Link zu map.project-osrm.org/"&gt;OSRM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://open.mapquest.de/" title="Link zu open.mapquest.de/"&gt;Mapquest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cyclestreets.net/" title="Link zu cyclestreets.net"&gt;Cyclestreets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="OpenStreetMap"></category><category term="OSM"></category><category term="Routenplaner"></category></entry><entry><title>Komprimieren von CSS und Javascript</title><link href="http://www.openscreencast.de/blog/compress_css_js.html" rel="alternate"></link><published>2015-02-15T13:32:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:blog/compress_css_js.html</id><summary type="html">&lt;p&gt;Komprimieren von CSS und Javascript, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.google.com/closure/compiler/" title="Link zu closure-compiler/"&gt;closure-compiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bootstrap_%28Framework%29" title="Link zu wikipedia.org"&gt;WP:Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/JavaScript" title="Link zu wikipedia.org"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Datenkompression" title="Link zu wikipedia.org"&gt;WP:Datenkompression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="CSS"></category><category term="Javascript"></category></entry><entry><title>Reguläre Ausdrücke mit Regex Cross­word lernen</title><link href="http://www.openscreencast.de/blog/Regex_Cross%C2%ADword.html" rel="alternate"></link><published>2015-01-29T19:13:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-01-29:blog/Regex_Cross­word.html</id><summary type="html">&lt;p&gt;Reguläre Ausdrücke mit Regex Cross­word lernen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://regexcrossword.com/"&gt;http://regexcrossword.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" title="Link zu Wikipedia"&gt;WP:RegEx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.danielfett.de/internet-und-opensource,artikel,regulaere-ausdruecke" title="Link zu danielfett.de"&gt;RegEx Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxundich.de/gnu-linux/regulare-ausdruecke-lernen-regex-crossword/" title="Link zu linuxundich.de"&gt;Reguläre Ausdrücke mit Regex Cross­word lernen von Christoph Langner (CC by 4.0)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="RegEx"></category><category term="Web"></category><category term="www"></category></entry><entry><title>AngularJS - Hallo Welt - Teil 2</title><link href="http://www.openscreencast.de/blog/AngularJS_Hallo_Welt_Teil_2.html" rel="alternate"></link><published>2014-05-25T18:55:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-25:blog/AngularJS_Hallo_Welt_Teil_2.html</id><summary type="html">&lt;p&gt;AngularJS - Hallo Welt - Teil 2 (ng-init, required, number:n)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://angularjs.org/"&gt;https://angularjs.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/AngularJS"&gt;http://de.wikipedia.org/wiki/AngularJS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;AngularJS - Was ist angular.js: &lt;a href="http://youtu.be/7YjKmFQhh4k"&gt;http://youtu.be/7YjKmFQhh4k&lt;/a&gt;&lt;br /&gt;
+AngularJS - Hallo Welt: &lt;a href="http://youtu.be/66opQphBDkI"&gt;http://youtu.be/66opQphBDkI&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der AngularJS-Playlist:&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="Javascript"></category><category term="angularjs"></category></entry><entry><title>AngularJS - Hallo Welt</title><link href="http://www.openscreencast.de/blog/AngularJS_Hallo_Welt.html" rel="alternate"></link><published>2014-05-24T18:32:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-24:blog/AngularJS_Hallo_Welt.html</id><summary type="html">&lt;p&gt;AngularJS - Hallo Welt (ng-model, ng-show, ng-hide, .length, limitTo)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://angularjs.org/"&gt;https://angularjs.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/AngularJS"&gt;http://de.wikipedia.org/wiki/AngularJS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;AngularJS - Was ist angular.js: &lt;a href="http://youtu.be/7YjKmFQhh4k"&gt;http://youtu.be/7YjKmFQhh4k&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der AngularJS-Playlist:&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="Javascript"></category><category term="angularjs"></category></entry><entry><title>AngularJS - Was ist angular.js</title><link href="http://www.openscreencast.de/blog/AngularJS_Was_ist_angularjs.html" rel="alternate"></link><published>2014-05-18T18:52:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-18:blog/AngularJS_Was_ist_angularjs.html</id><summary type="html">&lt;p&gt;AngularJS - Was ist angular.js&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://angularjs.org/"&gt;https://angularjs.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/AngularJS"&gt;http://de.wikipedia.org/wiki/AngularJS&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Model_View_Controller"&gt;http://de.wikipedia.org/wiki/Model_View_Controller&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/CRUD"&gt;http://de.wikipedia.org/wiki/CRUD&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der AngularJS-Playlist:&lt;br /&gt;
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV2gYxcXZxRupzGKOnQTfE90&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="Javascript"></category><category term="angularjs"></category></entry><entry><title>Git in 15 Minuten lernen</title><link href="http://www.openscreencast.de/blog/Git_in_15_Minuten_lernen.html" rel="alternate"></link><published>2014-05-09T19:10:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-09:blog/Git_in_15_Minuten_lernen.html</id><summary type="html">&lt;p&gt;Git in 15 Minuten lernen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://try.github.io"&gt;https://try.github.io&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://git-scm.com/documentation"&gt;http://git-scm.com/documentation&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://git-scm.com/book/de"&gt;http://git-scm.com/book/de&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Web-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="git"></category><category term="Web"></category></entry><entry><title>Suchmaschine DuckDuckGo mit Bildersuche</title><link href="http://www.openscreencast.de/blog/Suchmaschine_DuckDuckGo_mit_Bildersuche.html" rel="alternate"></link><published>2014-05-08T16:08:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-08:blog/Suchmaschine_DuckDuckGo_mit_Bildersuche.html</id><summary type="html">&lt;p&gt;Suchmaschine DuckDuckGo mit Bildersuche&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://duckduckgo.com/"&gt;https://duckduckgo.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://next.duckduckgo.com/"&gt;https://next.duckduckgo.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2014/05/suchmaschine-duckduckgo-mit-bildersuche-
+beta/"&gt;http://www.bitblokes.de/2014/05/suchmaschine-duckduckgo-mit-bildersuche-
+beta/&lt;/a&gt;&lt;br /&gt;
+Suchmaschine DuckDuckGo mit Bildersuche (Beta) von &lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Web-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="DuckDuckGo"></category><category term="Suchmaschine"></category><category term="Web"></category></entry><entry><title>Privacy Badger - die Datenschutz-Erweiterung für Firefox</title><link href="http://www.openscreencast.de/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html" rel="alternate"></link><published>2014-05-04T20:16:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-04:blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html</id><summary type="html">&lt;p&gt;Privacy Badger - die Datenschutz-Erweiterung für Firefox&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.eff.org/privacybadger"&gt;https://www.eff.org/privacybadger&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;br /&gt;
+Privacy Badger - A project of the Electronic Frontier Foundation&lt;br /&gt;
+&lt;a href="https://github.com/EFForg/"&gt;https://github.com/EFForg/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Web_Analytics"&gt;http://de.wikipedia.org/wiki/Web_Analytics&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2, &lt;a href="https://www.mozilla.org/MPL/1.1/"&gt;MPL
+1.1&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by/3.0/deed.de"&gt;CC by
+3.0&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Datenschutz"></category><category term="Privacy"></category><category term="Firefox"></category><category term="Web"></category><category term="Privacy Badger"></category></entry><entry><title>Google Web Designer jetzt auch für Linux erhältlich</title><link href="http://www.openscreencast.de/blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html" rel="alternate"></link><published>2014-04-26T16:50:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-26:blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html</id><summary type="html">&lt;p&gt;Google Web Designer jetzt auch für Linux erhältlich&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.google.com/webdesigner/"&gt;http://www.google.com/webdesigner/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://aur.archlinux.org/packages/google-webdesigner/"&gt;https://aur.archlinux.org/packages/google-webdesigner/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/allgemein/google-web-designer-jetzt-auch-
+fuer-linux/"&gt;http://linuxundich.de/allgemein/google-web-designer-jetzt-auch-
+fuer-linux/&lt;/a&gt;&lt;br /&gt;
+Google Web Designer jetzt auch für Linux erhältlich von Christoph Langner
+&lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Linux-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="Webdesigner"></category><category term="HTML"></category></entry><entry><title>SVGeneration erzeugt über 80 Muster für Wallpaper und Hintergründe als SVG</title><link href="http://www.openscreencast.de/blog/SVGeneration_erzeugt_ueber_80_Muster_fuer_Wallpaper_und_Hintergruende_als_SVG.html" rel="alternate"></link><published>2014-04-23T17:52:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-23:blog/SVGeneration_erzeugt_ueber_80_Muster_fuer_Wallpaper_und_Hintergruende_als_SVG.html</id><summary type="html">&lt;p&gt;SVGeneration erzeugt über 80 Muster für Wallpaper und Hintergründe als SVG&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.svgeneration.com/"&gt;http://www.svgeneration.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://qrohlf.com/trianglify/"&gt;http://qrohlf.com/trianglify/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://nixterrimus.github.io/Triangle-Play-App/"&gt;http://nixterrimus.github.io/Triangle-Play-App/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/qrohlf/trianglify"&gt;https://github.com/qrohlf/trianglify&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/webhosting/svgeneration-svg-muster-erzeugen/"&gt;http://linuxundich.de/webhosting/svgeneration-svg-muster-erzeugen/&lt;/a&gt;&lt;br /&gt;
+Linktipp: SVGeneration erzeugt über 80 Muster für Wallpaper und Hintergründe
+als SVG von Christoph Langner &lt;a href="http://linuxundich.de"&gt;http://linuxundich.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Web-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="SVG"></category><category term="Wallpaper"></category><category term="SVGeneration"></category><category term="Web"></category></entry><entry><title>Trianglify erzeugt Wallpaper im Nexus-Stil</title><link href="http://www.openscreencast.de/blog/Trianglify_erzeugt_Wallpaper_im_NexusStil.html" rel="alternate"></link><published>2014-04-17T18:49:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-17:blog/Trianglify_erzeugt_Wallpaper_im_NexusStil.html</id><summary type="html">&lt;p&gt;Trianglify erzeugt Wallpaper im Nexus-Stil&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://qrohlf.com/trianglify/"&gt;http://qrohlf.com/trianglify/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://nixterrimus.github.io/Triangle-Play-App/"&gt;http://nixterrimus.github.io/Triangle-Play-App/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/qrohlf/trianglify"&gt;https://github.com/qrohlf/trianglify&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/webhosting/linktipp-trianglify/"&gt;http://linuxundich.de/webhosting/linktipp-trianglify/&lt;/a&gt;&lt;br /&gt;
+Linktipp: Trianglify erzeugt Wallpaper im Nexus-Stil von Christoph Langner
+&lt;a href="http://linuxundich.de"&gt;http://linuxundich.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Web-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="Trianglify"></category><category term="Wallpaper"></category></entry><entry><title>FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen</title><link href="http://www.openscreencast.de/blog/FoxBleed_Seiten_auf_bekannte_OpenSSLLuecke_Heartbleed_pruefen.html" rel="alternate"></link><published>2014-04-13T16:41:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-13:blog/FoxBleed_Seiten_auf_bekannte_OpenSSLLuecke_Heartbleed_pruefen.html</id><summary type="html">&lt;p&gt;FoxBleed - Seiten auf bekannte OpenSSL-Lücke Heartbleed prüfen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/foxbleed/"&gt;https://addons.mozilla.org/en-US/firefox/addon/foxbleed/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=NmuRNAUwdK4"&gt;https://www.youtube.com/watch?v=NmuRNAUwdK4&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://filippo.io/Heartbleed/"&gt;http://filippo.io/Heartbleed/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://heartbleed.com/"&gt;http://heartbleed.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Heartbleed"></category><category term="FoxBleed"></category><category term="OpenSSL"></category><category term="Web"></category></entry><entry><title>Linux - Spurenarm Surfen - JonDoFox</title><link href="http://www.openscreencast.de/blog/Linux_Spurenarm_Surfen_JonDoFox.html" rel="alternate"></link><published>2014-04-11T17:38:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-11:blog/Linux_Spurenarm_Surfen_JonDoFox.html</id><summary type="html">&lt;p&gt;Linux - Spurenarm Surfen - JonDoFox&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://anonym-surfen.de/"&gt;http://anonym-surfen.de/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: Privacy-Handbuch (Public Domain)  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Privacy-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV18sJBcQdLculWEHiJxPKmX"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV18sJBcQdLculWEHiJxPKmX&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Surfen"></category><category term="JonDoFox"></category><category term="Web"></category></entry><entry><title>reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund beeinflussen)</title><link href="http://www.openscreencast.de/blog/revealjs_Weitere_Moeglichkeiten_Folienuebergang_und_Hintergrund_beeinflussen.html" rel="alternate"></link><published>2014-04-10T17:25:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-10:blog/revealjs_Weitere_Moeglichkeiten_Folienuebergang_und_Hintergrund_beeinflussen.html</id><summary type="html">&lt;p&gt;reveal.js - Weitere Möglichkeiten (Folienübergang und Hintergrund
+beeinflussen)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://imakewebthings.com/deck.js/"&gt;http://imakewebthings.com/deck.js/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://bartaz.github.io/impress.js/"&gt;http://bartaz.github.io/impress.js/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - Theme wechseln</title><link href="http://www.openscreencast.de/blog/revealjs_Theme_wechseln.html" rel="alternate"></link><published>2014-04-08T21:04:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-08:blog/revealjs_Theme_wechseln.html</id><summary type="html">&lt;p&gt;reveal.js - Theme wechseln&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - automatische Präsentation starten</title><link href="http://www.openscreencast.de/blog/revealjs_automatische_Praesentation_starten.html" rel="alternate"></link><published>2014-04-05T19:01:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_automatische_Praesentation_starten.html</id><summary type="html">&lt;p&gt;reveal.js - automatische Präsentation starten&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="revealjs"></category><category term="Web"></category><category term="HTML"></category></entry><entry><title>reveal.js - Einbinden von Markdown-Syntax</title><link href="http://www.openscreencast.de/blog/revealjs_Einbinden_von_MarkdownSyntax.html" rel="alternate"></link><published>2014-04-05T18:44:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_Einbinden_von_MarkdownSyntax.html</id><summary type="html">&lt;p&gt;reveal.js - Einbinden von Markdown-Syntax&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Markdown"&gt;http://de.wikipedia.org/wiki/Markdown&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category><category term="Markdown"></category></entry><entry><title>reveal.js - Text einblenden</title><link href="http://www.openscreencast.de/blog/revealjs_Text_einblenden.html" rel="alternate"></link><published>2014-04-05T18:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-05:blog/revealjs_Text_einblenden.html</id><summary type="html">&lt;p&gt;reveal.js - Text einblenden&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>reveal.js - vertikale Navigation und Links</title><link href="http://www.openscreencast.de/blog/revealjs_vertikale_Navigation_und_Links.html" rel="alternate"></link><published>2014-04-01T19:35:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-01:blog/revealjs_vertikale_Navigation_und_Links.html</id><summary type="html">&lt;p&gt;reveal.js - vertikale Navigation und Links&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Folie 1 = SlideNumber 0&lt;br /&gt;
+Folie 2 = SlideNumber 1&lt;br /&gt;
+Folie 2 Unterfolie 1 = SlideNumber 1-1&lt;br /&gt;
+Folie 2 Unterfolie 2 = SlideNumber 1-2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der reveal.js-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1ieDYloafr43qy5NnY5WT5&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>einfache Karten (Maps) erstellen - Geo-diagramme</title><link href="http://www.openscreencast.de/blog/maps_erstellen_geodiagramme.html" rel="alternate"></link><published>2014-03-26T21:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/maps_erstellen_geodiagramme.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Google_Spreadsheet" title="Link zu WP"&gt;WP:Google_Spreadsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Linux Mint"></category><category term="cinnamon"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="html"></category><category term="web"></category><category term="Daten"></category><category term="Karten"></category><category term="Geodiagramm"></category><category term="Maps"></category></entry><entry><title>reveal.js - Präsentation betrachten</title><link href="http://www.openscreencast.de/blog/revealjs_Praesentation_betrachten.html" rel="alternate"></link><published>2014-03-26T19:14:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/revealjs_Praesentation_betrachten.html</id><summary type="html">&lt;p&gt;reveal.js - Präsentation betrachten&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="HTML"></category><category term="revealjs"></category></entry><entry><title>CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei</title><link href="http://www.openscreencast.de/blog/CSS_Diner_bringt_euch_CSSSelektoren_mit_Praxisbeispielen_bei.html" rel="alternate"></link><published>2014-03-26T18:36:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/CSS_Diner_bringt_euch_CSSSelektoren_mit_Praxisbeispielen_bei.html</id><summary type="html">&lt;p&gt;CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/webhosting/linktipp-css-diner-bringt-euch-
+css-selektoren-mit-praxisbeispielen-bei/"&gt;http://linuxundich.de/webhosting/linktipp-css-diner-bringt-euch-
+css-selektoren-mit-praxisbeispielen-bei/&lt;/a&gt;&lt;br /&gt;
+Linktipp: CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei von
+Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://flukeout.github.io/"&gt;http://flukeout.github.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/flukeout/restaurant"&gt;https://github.com/flukeout/restaurant&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://wiki.selfhtml.org/wiki/CSS/Selektoren"&gt;http://wiki.selfhtml.org/wiki/CSS/Selektoren&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="CSS"></category><category term="CSSDiner"></category></entry><entry><title>Präsentationen mit HTML und reveal.js - Installation und Grundgerüst</title><link href="http://www.openscreencast.de/blog/Praesentationen_mit_HTML_und_revealjs_Installation_und_Grundgeruest.html" rel="alternate"></link><published>2014-03-25T17:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-25:blog/Praesentationen_mit_HTML_und_revealjs_Installation_und_Grundgeruest.html</id><summary type="html">&lt;p&gt;Präsentationen mit HTML und reveal.js - Installation und Grundgerüst&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2014-03"&gt;http://www.freiesmagazin.de/freiesMagazin-2014-03&lt;/a&gt;&lt;br /&gt;
+Präsentationen mit HTML und reveal.js von Jochen Schnelle &lt;a href="http://noisefloor-
+net.blogspot.de/"&gt;http://noisefloor-
+net.blogspot.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/hakimel/reveal.js/releases"&gt;https://github.com/hakimel/reveal.js/releases&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="HTML"></category><category term="Web"></category><category term="revealjs"></category></entry><entry><title>brick - UI Komponenten für moderne Web-Apps</title><link href="http://www.openscreencast.de/blog/brick_UI_Komponenten_fuer_moderne_WebApps.html" rel="alternate"></link><published>2014-03-05T15:37:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-05:blog/brick_UI_Komponenten_fuer_moderne_WebApps.html</id><summary type="html">&lt;p&gt;brick - UI Komponenten für moderne Web-Apps&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://mozilla.github.io/brick/index.html"&gt;http://mozilla.github.io/brick/index.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/mozilla/brick/"&gt;https://github.com/mozilla/brick/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://x-tags.org/index"&gt;http://x-tags.org/index&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="brick"></category><category term="Web"></category></entry><entry><title>Tabellen von Webseiten kopieren</title><link href="http://www.openscreencast.de/blog/tabellen_von_webseiten_kopieren.html" rel="alternate"></link><published>2014-01-18T01:56:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-01-18:blog/tabellen_von_webseiten_kopieren.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Linux Mint"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="LibreOffice"></category><category term="Gnome3"></category><category term="html"></category><category term="web"></category></entry><entry><title>nginx - PHP - FastCGI</title><link href="http://www.openscreencast.de/blog/nginx_php_fastcgi.html" rel="alternate"></link><published>2013-11-17T01:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-17:blog/nginx_php_fastcgi.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Nginx" title="Link zu WP:nginx"&gt;WP:nginx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="webserver"></category><category term="web"></category><category term="www"></category><category term="nginx"></category><category term="php"></category><category term="fastcgi"></category></entry><entry><title>lighttpd - PHP - FastCGI</title><link href="http://www.openscreencast.de/blog/lighttpd_php_fastcgi.html" rel="alternate"></link><published>2013-11-17T01:26:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-17:blog/lighttpd_php_fastcgi.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Lighttpd" title="Link zu WP:lighttpd"&gt;WP:lighttpd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="webserver"></category><category term="web"></category><category term="www"></category><category term="lighttpd"></category><category term="php"></category><category term="fastcgi"></category></entry><entry><title>lighttpd - PHP - CGI</title><link href="http://www.openscreencast.de/blog/lighttpd_php_cgi.html" rel="alternate"></link><published>2013-11-17T01:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-17:blog/lighttpd_php_cgi.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Lighttpd" title="Link zu WP:lighttpd"&gt;WP:lighttpd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="webserver"></category><category term="web"></category><category term="www"></category><category term="lighttpd"></category><category term="php"></category><category term="cgi"></category></entry><entry><title>nginx - Installation</title><link href="http://www.openscreencast.de/blog/nginx_install.html" rel="alternate"></link><published>2013-11-13T01:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-13:blog/nginx_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Nginx" title="Link zu WP:nginx"&gt;WP:nginx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="webserver"></category><category term="web"></category><category term="www"></category><category term="nginx"></category></entry><entry><title>lighttpd - Installation</title><link href="http://www.openscreencast.de/blog/lighttpd_install.html" rel="alternate"></link><published>2013-11-13T01:23:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-13:blog/lighttpd_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Lighttpd" title="Link zu WP:lighttpd"&gt;WP:lighttpd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="webserver"></category><category term="web"></category><category term="www"></category><category term="lighttpd"></category></entry><entry><title>woof - Webserver mit Limit</title><link href="http://www.openscreencast.de/blog/python_woof.html" rel="alternate"></link><published>2013-11-13T01:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-13:blog/python_woof.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.home.unix-ag.org/simon/woof.html" title="Link zu woof"&gt;woof&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="woof"></category><category term="webserver"></category><category term="web"></category><category term="www"></category></entry><entry><title>Coder auf dem PC installieren (HTML, CSS, Javascript ganz einfach lernen)</title><link href="http://www.openscreencast.de/blog/Coder_auf_dem_PC_installieren_HTML_CSS_Javascript_ganz_einfach_lernen.html" rel="alternate"></link><published>2013-10-24T16:41:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-24:blog/Coder_auf_dem_PC_installieren_HTML_CSS_Javascript_ganz_einfach_lernen.html</id><summary type="html">&lt;p&gt;Coder auf dem PC installieren (HTML, CSS, Javascript ganz einfach lernen),
+Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://googlecreativelab.github.io/coder/"&gt;http://googlecreativelab.github.io/coder/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Coder"></category><category term="HTML"></category><category term="Web"></category></entry><entry><title>Raspberry Pi - Coder starten (HTML, CSS, Javascript ganz einfach lernen)</title><link href="http://www.openscreencast.de/blog/Raspberry_Pi_Coder_starten_HTML_CSS_Javascript_ganz_einfach_lernen.html" rel="alternate"></link><published>2013-10-15T16:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-15:blog/Raspberry_Pi_Coder_starten_HTML_CSS_Javascript_ganz_einfach_lernen.html</id><summary type="html">&lt;p&gt;Raspberry Pi - Coder starten (HTML, CSS, Javascript ganz einfach lernen)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: BITblokes.de&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/"&gt;http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://googlecreativelab.github.io/coder/"&gt;http://googlecreativelab.github.io/coder/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Coder"></category><category term="Raspberry Pi"></category><category term="Web"></category><category term="HTML"></category></entry><entry><title>jQuery - ready- und click-Methode</title><link href="http://www.openscreencast.de/blog/jquery_ready_click.html" rel="alternate"></link><published>2013-10-13T22:32:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-13:blog/jquery_ready_click.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JQuery" title="Link zu WP:jquery"&gt;WP:jquery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="jquery"></category><category term="javascript"></category></entry><entry><title>Bottle - HTTP Header Daten</title><link href="http://www.openscreencast.de/blog/bottle_httpheaderdaten.html" rel="alternate"></link><published>2013-10-13T22:30:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-13:blog/bottle_httpheaderdaten.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>HTML5 - Verschachtelung, strong und Kommentar</title><link href="http://www.openscreencast.de/blog/html5_strong_comment.html" rel="alternate"></link><published>2013-08-05T23:08:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-08-05:blog/html5_strong_comment.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/HTML5" title="Link zu WP:HTML5"&gt;WP:HTML5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="www"></category><category term="web"></category><category term="html"></category><category term="strong"></category></entry><entry><title>Bottle - Cookies</title><link href="http://www.openscreencast.de/blog/bottle_cookies.html" rel="alternate"></link><published>2013-07-28T22:15:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-28:blog/bottle_cookies.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Javascript - Hallo Welt</title><link href="http://www.openscreencast.de/blog/javascript_hallo_welt.html" rel="alternate"></link><published>2013-07-28T22:15:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-28:blog/javascript_hallo_welt.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Javascript" title="Link zu WP:Javascript"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="Javascript"></category><category term="www"></category><category term="web"></category></entry><entry><title>HTML5 - Grundgerüst</title><link href="http://www.openscreencast.de/blog/html_grundgeruest.html" rel="alternate"></link><published>2013-07-24T21:18:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-24:blog/html_grundgeruest.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/HTML5" title="Link zu WP:HTML5"&gt;WP:HTML5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="html"></category><category term="html5"></category></entry><entry><title>jQuery einbinden</title><link href="http://www.openscreencast.de/blog/jquery_einbinden.html" rel="alternate"></link><published>2013-07-24T21:18:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-24:blog/jquery_einbinden.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JQuery" title="Link zu WP:jquery"&gt;WP:jquery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="jquery"></category><category term="javascript"></category></entry><entry><title>Bottle - abort, eine Error Page generieren</title><link href="http://www.openscreencast.de/blog/bottle_abort.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_abort.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - Dynamisches Routing</title><link href="http://www.openscreencast.de/blog/bottle_dynamisches_routing.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_dynamisches_routing.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - GET- und POST-Daten Abfragen</title><link href="http://www.openscreencast.de/blog/bottle_get_post_abfragen.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_get_post_abfragen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - redirect (HTTP Status Code 303)</title><link href="http://www.openscreencast.de/blog/bottle_redirect.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_redirect.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - Simple Template</title><link href="http://www.openscreencast.de/blog/bottle_simple_template.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_simple_template.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - statische Inhalte</title><link href="http://www.openscreencast.de/blog/bottle_statische_inhalte.html" rel="alternate"></link><published>2013-07-19T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-19:blog/bottle_statische_inhalte.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>Bottle - Ein WSGI-Microframework für Python</title><link href="http://www.openscreencast.de/blog/bottle_wsgi_microframework_python.html" rel="alternate"></link><published>2013-07-18T19:37:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-18:blog/bottle_wsgi_microframework_python.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bottlepy.org" title="Link zu bottlepy.org"&gt;bottlepy.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-02" title="Link zu freiesmagazin.de"&gt;freiesmagazin.de 02/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Python"></category><category term="Programmierung"></category><category term="web"></category><category term="www"></category><category term="wsgi"></category><category term="bottle"></category></entry><entry><title>jQuery - Hallo Welt</title><link href="http://www.openscreencast.de/blog/jquery_hallo_welt.html" rel="alternate"></link><published>2013-07-18T19:37:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-18:blog/jquery_hallo_welt.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JQuery" title="Link zu WP:jquery"&gt;WP:jquery&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="jquery"></category><category term="javascript"></category></entry><entry><title>Linux - SimpleHTTPServer</title><link href="http://www.openscreencast.de/blog/simplehttpserver.html" rel="alternate"></link><published>2013-02-17T16:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-02-17:blog/simplehttpserver.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 beta&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Instant_Webserver" title="SimpleHTTPServer"&gt;SimpleHTTPServer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="simplehttpserver"></category><category term="www"></category><category term="web"></category><category term="Python"></category></entry><entry><title>textualizer.js - Textanimationen auf der Webseite</title><link href="http://www.openscreencast.de/blog/textualizerjs.html" rel="alternate"></link><published>2012-11-07T13:49:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-07:blog/textualizerjs.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JQuery" title="Link zu WP:jQuery"&gt;WP:jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kiro.me/projects/textualizer.html" title="Link zu textualizer"&gt;textualizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="www"></category><category term="web"></category><category term="textualizer"></category></entry></feed>

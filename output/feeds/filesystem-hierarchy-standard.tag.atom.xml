@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/filesystem-hierarchy-standard.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-07-11T01:43:00+02:00</updated><entry><title>Ordner (Textmodus)</title><link href="http://www.openscreencast.de/blog/Ordner_Textmodus.html" rel="alternate"></link><published>2006-07-11T01:43:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:blog/Ordner_Textmodus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: man, info, cd, pwd, echo, ls, mkdir, rmdir&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Verzeichnisstruktur"&gt;Verzeichnisstruktur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateisystem"&gt;Dateisystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard"&gt;Filesystem Hierarchy Standard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateimanager"&gt;Dateimanager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Textmodus"&gt;Textmodus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Unix-Kommandos"&gt;Unix-Kommandos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Midnight_Commander"&gt;Midnight Commander&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-nc-sa"></category><category term="cd"></category><category term="Dateimanager"></category><category term="Dateisystem"></category><category term="echo"></category><category term="Fedora Core"></category><category term="Filesystem Hierarchy Standard"></category><category term="Gnome"></category><category term="info"></category><category term="Linux"></category><category term="ls"></category><category term="man"></category><category term="mkdir"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="Ordner"></category><category term="pwd"></category><category term="rmdir"></category><category term="screencast"></category><category term="Terminal"></category><category term="Textmodus"></category></entry><entry><title>Ordner (Desktopmodus)</title><link href="http://www.openscreencast.de/blog/Ordner_Desktopmodus.html" rel="alternate"></link><published>2006-07-11T01:36:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:blog/Ordner_Desktopmodus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: nautilus&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Verzeichnisstruktur"&gt;Verzeichnisstruktur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateisystem"&gt;Dateisystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard"&gt;Filesystem Hierarchy Standard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Datentr%C3%A4ger"&gt;Datenträger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Systemadministrator"&gt;Administrator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateimanager"&gt;Dateimanager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Nautilus_%28Dateimanager%29"&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Textmodus"&gt;Textmodus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kommentare:&lt;/p&gt;
+&lt;p&gt;Karsten Horsmann am Jul 22, 2006 @ 02:58 PM: (07/15/2007 - 10:52)  &lt;/p&gt;
+&lt;p&gt;Hallo,&lt;br /&gt;
+sehr schöner Videoblog der einem die elementaren Bedienelemente zu Ordner
+näherbringt. Obwohl ich schon ein erfahrener Benutzer bin fand ich es doch
+sehr unterhaltsam und gut gemacht. Weiterso.&lt;br /&gt;
+Gruß ! Karsten&lt;/p&gt;</summary><category term="Browser"></category><category term="CC by-nc-sa"></category><category term="Dateimanager"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Filesystem Hierarchy Standard"></category><category term="Firefox"></category><category term="Gnome"></category><category term="Linux"></category><category term="nautilus"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="Ordner"></category><category term="screencast"></category><category term="Terminal"></category><category term="Wikipedia"></category></entry></feed>

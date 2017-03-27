@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/linux-mint.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 13 Mar 2017 13:54:00 +0100</lastBuildDate><item><title>Python-Programmierung - docstring und pydoc (Dokumentation)</title><link>http://www.openscreencast.de/blog/python_docstring_pydoc.html</link><description>&lt;p&gt;Python-Programmierung - docstring und pydoc (Dokumentation), Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://docs.python-guide.org/en/latest/writing/documentation/" title="Link zu python-guide.org"&gt;Python - Dokumentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Docstring" title="Link zu wikipedia.org"&gt;WP:docstring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.python.org/moin/DocumentationTools" title="Link zu python.org"&gt;Python - DocumentationTools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://python.swaroopch.com/" title="Link zu swaroopch.com/"&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 13 Mar 2017 13:54:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-13:blog/python_docstring_pydoc.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>Python für Anfänger - ein Rechteck zeichnen</title><link>http://www.openscreencast.de/blog/Python_beginners_ein_rechteck_zeichnen.html</link><description>&lt;p&gt;Python für Anfänger - ein Rechteck zeichnen, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 11 Mar 2017 15:03:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-11:blog/Python_beginners_ein_rechteck_zeichnen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>turtle</category></item><item><title>LibreOffice - Calc - Sonderzeichen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Sonderzeichen.html</link><description>&lt;p&gt;LibreOffice - Calc - Sonderzeichen, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://de.libreoffice.org/get-help/documentation/"&gt;LibreOffice - Handbücher&lt;/a&gt;
+(Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 11 Mar 2017 11:39:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-11:blog/LibreOffice_Calc_Sonderzeichen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Screencasting auf dem Linux-Desktop in der Cloud - Demo</title><link>http://www.openscreencast.de/blog/Screencasting_in_der_cloud_labxnow_demo.html</link><description>&lt;p&gt;Screencasting auf dem Linux-Desktop in der Cloud - Demo, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 13 Jan 2016 16:47:00 +0100</pubDate><guid>tag:www.openscreencast.de,2016-01-13:blog/Screencasting_in_der_cloud_labxnow_demo.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Cloud</category><category>LabxNow</category><category>Web</category><category>Screencasting</category><category>Demo</category></item><item><title>Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow</title><link>http://www.openscreencast.de/blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html</link><description>&lt;p&gt;Linux - Kostenloser Linux-Desktop in der Cloud: LabxNow, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/kostenloser-linux-desktop-in-der-cloud-labxnow/"&gt;Kostenloser Linux-Desktop in der Cloud: LabxNow&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.labxnow.org/"&gt;labxnow.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 04 Oct 2015 16:48:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-10-04:blog/Linux_LinuxDesktop_in_der_Cloud_LabxNow.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Cloud</category><category>LabxNow</category><category>Web</category></item><item><title>Python für Anfänger - Einfaches Zeichnen mit turtle</title><link>http://www.openscreencast.de/blog/Python_beginners_einfaches_zeichnen_mit_turtle.html</link><description>&lt;p&gt;Python für Anfänger - Einfaches Zeichnen mit turtle, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 04 Oct 2015 16:19:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-10-04:blog/Python_beginners_einfaches_zeichnen_mit_turtle.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>LibreOffice - Calc - Sortieren von Zellen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Sortieren_von_Zellen.html</link><description>&lt;p&gt;LibreOffice - Calc - Sortieren von Zellen, welche Zellen sichtbar sind, Linux
+Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org
+/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+(http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 20 Sep 2015 13:43:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-09-20:blog/LibreOffice_Calc_Sortieren_von_Zellen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Django - Das Django-Projekt beginnen</title><link>http://www.openscreencast.de/blog/Django_projekt_beginnen.html</link><description>&lt;p&gt;Django - Das Django-Projekt beginnen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 20 Sep 2015 13:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-09-20:blog/Django_projekt_beginnen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item><item><title>Python für Anfänger - Python-Programme ausführen</title><link>http://www.openscreencast.de/blog/Python_beginners_pyprogramme_ausfuehren.html</link><description>&lt;p&gt;Python für Anfänger - Python-Programme ausführen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 06 Sep 2015 15:27:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-09-06:blog/Python_beginners_pyprogramme_ausfuehren.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>Git für Einsteiger - Branches mergen</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_mergen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches mergen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/11/01/git-fur-
+einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:16:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Git_fuer_Einsteiger_Branches_mergen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>LibreOffice - Calc - Filtern, welche Zellen sichtbar sind</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Filtern_Zellen.html</link><description>&lt;p&gt;LibreOffice - Calc - Filtern, welche Zellen sichtbar sind, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org
+/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+(http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:13:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/LibreOffice_Calc_Filtern_Zellen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Linux - Programme finden - which, whereis und type</title><link>http://www.openscreencast.de/blog/Linux_whereis_which_type.html</link><description>&lt;p&gt;Linux - Programme finden - which, whereis und type, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linux-praxis.de/lpic1/lpi101/1.104.8.html"&gt;Auffinden von Systemdateien und Platzieren von Dateien an den korrekten
+Ort&lt;/a&gt;&lt;br /&gt;
+von F.Kalhammer &lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:02:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Linux_whereis_which_type.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>whereis</category><category>which</category><category>type</category><category>Linux Mint</category></item><item><title>Django - Django installieren</title><link>http://www.openscreencast.de/blog/Django_django_install.html</link><description>&lt;p&gt;Django - Django installieren, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 15:56:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Django_django_install.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item><item><title>docker - Images auflisten</title><link>http://www.openscreencast.de/blog/linux_docker_images_auflisten.html</link><description>&lt;p&gt;docker - Images auflisten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.docker.com/" title="Link zu docker.com/"&gt;docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Docker_%28Software%29" title="Link zu wikipedia.org"&gt;WP:docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 23 Aug 2015 16:59:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-23:blog/linux_docker_images_auflisten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>docker</category><category>Linux Mint</category></item><item><title>OpenLayers 3 - eine Karte auf eine Webseite setzen</title><link>http://www.openscreencast.de/blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html</link><description>&lt;p&gt;OpenLayers 3 - eine Karte auf eine Webseite setzen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://openlayers.org/en/v3.8.2/doc/quickstart.html"&gt;Quick Start&lt;/a&gt; von
+&lt;a href="http://openlayers.org/"&gt;http://openlayers.org/&lt;/a&gt; Lizenz: http://creativecommons.org/licenses/by/3.0/
+&lt;a href="https://github.com/openlayers/ol3/blob/master/doc/quickstart.hbs"&gt;(contributors github.com: tschaub fredj ThomasG77
+bartvde)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/" title="Link zu openlayers.org/"&gt;http://openlayers.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.html" title="Link zu openlayers.org/"&gt;ol.source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://openlayers.org/en/v3.8.2/apidoc/ol.source.MapQuest.html" title="Link zu openlayers.org/"&gt;ol.source.MapQuest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 23 Aug 2015 16:51:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-23:blog/OpenLayers3_Karte_auf_eine_Webseite_setzen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>OpenLayers</category><category>Mapping</category></item><item><title>Javascript - Zahlen (numerische Werte)</title><link>http://www.openscreencast.de/blog/Javascript_Zahlen_numerischeWerte.html</link><description>&lt;p&gt;Javascript - Zahlen (numerische Werte), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://eloquentjavascript.net/1st_edition/contents.html"&gt;Eloquent JavaScript&lt;/a&gt;
+von &lt;a href="http://eloquentjavascript.net/"&gt;Marijn Haverbeke&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/JavaScript" title="Link zu wikipedia.org"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 23 Aug 2015 16:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-23:blog/Javascript_Zahlen_numerischeWerte.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Javascript</category><category>Web</category></item><item><title>Python für Anfänger - Mit Python interagieren</title><link>http://www.openscreencast.de/blog/Python_beginners_mit_python_interagieren.html</link><description>&lt;p&gt;Python für Anfänger - Mit Python interagieren, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 23 Aug 2015 16:37:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-23:blog/Python_beginners_mit_python_interagieren.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>Linux - cut (schneiden)</title><link>http://www.openscreencast.de/blog/Linux_cut.html</link><description>&lt;p&gt;Linux - cut (schneiden), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html"&gt;http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html&lt;/a&gt;&lt;br /&gt;
+Texte mittels Filterprogrammen bearbeiten von F.Kalhammer &lt;a href="http://www.linux-
+praxis.de"&gt;http://www.linux-
+praxis.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 16 Aug 2015 17:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-16:blog/Linux_cut.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>cut</category><category>Linux Mint</category></item><item><title>LibreOffice 5 installieren</title><link>http://www.openscreencast.de/blog/LibreOffice5_installieren.html</link><description>&lt;p&gt;LibreOffice 5 installieren, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://www.bitblokes.de/2015/08/wie-man-libreoffice-5-0-unter-
+ubuntu-linux-mint-installiert/"&gt;Wie man LibreOffice 5.0 unter Ubuntu / Linux Mint
+installiert&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt; Lizenz:
+&lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;Creative Commons by 3.0&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 16 Aug 2015 17:35:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-16:blog/LibreOffice5_installieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category></item><item><title>LibreOffice - Calc - Gruppen und Gliederung</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Gruppen_und_Gliederung.html</link><description>&lt;p&gt;LibreOffice - Calc - Gruppen und Gliederung, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org
+/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+(http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 16 Aug 2015 17:20:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-16:blog/LibreOffice_Calc_Gruppen_und_Gliederung.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>d3 - Einleitung (ein Balkendiagramm erstellen)</title><link>http://www.openscreencast.de/blog/d3_einleitung.html</link><description>&lt;p&gt;d3 - Einleitung (ein Balkendiagramm erstellen), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://d3js.org/" title="Link zu d3js.org/"&gt;d3js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mbostock/d3/wiki/Tutorials" title="Link zu github.com"&gt;d3 Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.codecademy.com/courses/web-beginner-en-kcP9b/0/1" title="Link zu codecademy.com"&gt;codecademy - d3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Aug 2015 18:06:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-11:blog/d3_einleitung.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>d3</category><category>web</category><category>visualisierung</category><category>d3js</category></item><item><title>Python für Anfänger - Was ist Python</title><link>http://www.openscreencast.de/blog/Python_beginners_was_ist_python.html</link><description>&lt;p&gt;Python für Anfänger - Was ist Python, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Aug 2015 17:59:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-11:blog/Python_beginners_was_ist_python.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern</title><link>http://www.openscreencast.de/blog/R_Vektoren_barplot.html</link><description>&lt;p&gt;R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern, Linux Mint
+17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 06 Aug 2015 17:22:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-06:blog/R_Vektoren_barplot.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>R</category><category>barplot</category></item><item><title>Django - Vorbereitungen</title><link>http://www.openscreencast.de/blog/Django_Vorbereitungen.html</link><description>&lt;p&gt;Django - Vorbereitungen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://django-marcador.keimlink.de/de/"&gt;django-marcador Tutorial&lt;/a&gt; von &lt;a href="http://www.keimlink.de/"&gt;Markus
+Zapke-Gründemann&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/4.0/&lt;br /&gt;
+Weitere Autoren: Andreas Hug, Dave Brotherstone, Dinu Gherman, Ernesto Rico-
+Schmidt, Florian Apolloner, Markus Holtermann, Max Brauer, Raphael Ackermann,
+Sean Hammond&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;https://www.djangoproject.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:56:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-01:blog/Django_Vorbereitungen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Django</category></item><item><title>AngularJS - Ereignisdirektiven (Event: ng-click)</title><link>http://www.openscreencast.de/blog/AngularJS_ngclick.html</link><description>&lt;p&gt;AngularJS - Ereignisdirektiven (Event: ng-click), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:53:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-01:blog/AngularJS_ngclick.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>Javascript</category><category>AngularJS</category></item><item><title>Git für Einsteiger - Branches anlegen - Teil 2</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen- Teil 2, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/11/01/git-fur-
+einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:49:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-01:blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Python für Anfänger - Was brauchst du</title><link>http://www.openscreencast.de/blog/Python_beginners_was_brauchst_du.html</link><description>&lt;p&gt;Python für Anfänger - Was brauchst du, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://opentechschool.github.io/python-
+beginners/de/index.html"&gt;Programmiereinführung mit Python&lt;/a&gt; von &lt;a href="http://www.opentechschool.org/"&gt;OpenTechSchool and
+contributors&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners"&gt;https://github.com/OpenTechSchool/python-beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/OpenTechSchool/python-beginners/graphs/contributors" title="Link zu github.com"&gt;(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bild: &lt;a href="https://thenounproject.com/search/?q=snake&amp;amp;i=24037" title="Link zu thenounproject.com"&gt;https://thenounproject.com/search/?q=snake&amp;amp;i;=24037&lt;/a&gt; von &lt;a href="https://thenounproject.com/olamoller" title="Link zu thenounproject.com"&gt;Ola Möller&lt;/a&gt; (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 31 Jul 2015 10:23:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-31:blog/Python_beginners_was_brauchst_du.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category></item><item><title>Git für Einsteiger - Branches anlegen</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/11/01/git-fur-
+einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
+http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 30 Jul 2015 23:47:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-30:blog/Git_fuer_Einsteiger_Branches_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>LibreOffice - Calc - Ausblenden und Anzeigen von Daten</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Ausblenden_von_Daten.html</link><description>&lt;p&gt;LibreOffice - Calc - Ausblenden und Anzeigen von Daten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org
+/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/
+(http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 30 Jul 2015 23:38:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-30:blog/LibreOffice_Calc_Ausblenden_von_Daten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Linktipp: 2 feine Tutorialsammlungen</title><link>http://www.openscreencast.de/blog/Linktipp_feine_Tutorialsammlungen.html</link><description>&lt;p&gt;Linktipp: 2 feine Tutorialsammlungen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.bento.io/"&gt;bento.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hackr.io/"&gt;hackr.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 01 Jul 2015 16:46:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-01:blog/Linktipp_feine_Tutorialsammlungen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Tutorialsammlung</category><category>Web</category><category>www</category></item><item><title>Linktipp: Linux - The Art of Command Line</title><link>http://www.openscreencast.de/blog/Linktipp_Linux_TheArtofCommandLine.html</link><description>&lt;p&gt;Linktipp: Linux - The Art of Command Line, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-linux/linktipp-
+the-art-of-command-line/"&gt;Linktipp: The Art of Command Line&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph Langner&lt;/a&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by 4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/jlevy/the-art-of-command-line"&gt;github:the art of command line&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:57:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/Linktipp_Linux_TheArtofCommandLine.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>bash</category></item><item><title>Firefox - Leseansicht</title><link>http://www.openscreencast.de/blog/Firefox_Leseansicht.html</link><description>&lt;p&gt;Firefox - Leseansicht, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://support.mozilla.org/de/kb/Uebersichtliche-Darstellung-
+von-Webseiten-mit-der-Leseansicht"&gt;Leseansicht&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:54:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/Firefox_Leseansicht.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Firefox</category></item><item><title>GIMP - moderne und schicke Splashscreens</title><link>http://www.openscreencast.de/blog/GIMP_moderne_und_schicke_Splashscreens.html</link><description>&lt;p&gt;GIMP - moderne und schicke Splashscreens, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-linux
+/moderne-und-schicke-splashscreens-fur-gimp/"&gt;Moderne und schicke Splashscreens für Gimp&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://imgur.com/a/7xcpb" title="Link zu imgur.com"&gt;Imgur - Splashscreens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gnome-look.org/" title="Link zu gnome-look.org"&gt;http://gnome-look.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/GIMP_moderne_und_schicke_Splashscreens.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Gimp</category></item><item><title>Firefox - nur in bestimmten Bereichen suchen</title><link>http://www.openscreencast.de/blog/Firefox_nur_in_bestimmten_Bereichen_suchen.html</link><description>&lt;p&gt;Firefox - nur in bestimmten Bereichen suchen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.soeren-hentzschel.at/mozilla/firefox/2015/05/20
+/firefox-tipp-in-adressleiste-nur-nach-bestimmter-art-von-ergebnissen-suchen/"&gt;Firefox-Tipp&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/Firefox_nur_in_bestimmten_Bereichen_suchen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Firefox</category></item><item><title>LibreOffice - Calc - Bedingte Formatierungen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Bedingte_Formatierungen.html</link><description>&lt;p&gt;LibreOffice - Calc - Bedingte Formatierungen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:32:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/LibreOffice_Calc_Bedingte_Formatierungen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Linux - gelöschte Dateien wiederherstellen</title><link>http://www.openscreencast.de/blog/Linux_extundelete.html</link><description>&lt;p&gt;Linux - gelöschte Dateien wiederherstellen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/L%C3%B6schen_%28Datei%29" title="Link zu wikipedia.org/"&gt;WP:Löschen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sourceforge.net/projects/extundelete/" title="Link zu sourceforge.net/"&gt;extundelete&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sourceforge.net/projects/ext4magic/" title="Link zu sourceforge.net/"&gt;ext4magic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:13:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/Linux_extundelete.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>extundelete</category><category>ext4magic</category></item><item><title>Git für Einsteiger - Allgemeines zum Branching</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</link><description>&lt;p&gt;Git für Einsteiger - Allgemeines zum Branching, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/11/01/git-fur-
+einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:09:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>LibreOffice - Calc - Tabellen mit Themen formatieren</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Mit_Themen_formatieren.html</link><description>&lt;p&gt;LibreOffice - Calc - Tabellen mit Themen formatieren, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:05:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/LibreOffice_Calc_Mit_Themen_formatieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category><category>Themen</category></item><item><title>AngularJS - Schleifen (ng-repeat)</title><link>http://www.openscreencast.de/blog/AngularJS_ngrepeat.html</link><description>&lt;p&gt;AngularJS - Schleifen (ng-repeat), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.angularjs.org/api/ng/directive/ngRepeat" title="Link zu docs.angularjs.org/"&gt;ng-repeat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:02:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/AngularJS_ngrepeat.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>Javascript</category><category>AngularJS</category></item><item><title>R - Zeichenketten</title><link>http://www.openscreencast.de/blog/R_Zeichenketten.html</link><description>&lt;p&gt;R - Zeichenketten, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 12:44:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/R_Zeichenketten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>R</category></item><item><title>LibreOffice - Calc - Autoformatierung von Tabellenbereichen (Autoformat)</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Autoformat.html</link><description>&lt;p&gt;LibreOffice - Calc - Autoformatierung von Tabellenbereichen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 12:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/LibreOffice_Calc_Autoformat.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>LibreOffice - Calc - Zellen mit Textdaten</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_zellen_mit_textdaten.html</link><description>&lt;p&gt;LibreOffice - Calc - Zellen mit Textdaten, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 12:39:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/LibreOffice_Calc_zellen_mit_textdaten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse nutzen</title><link>http://www.openscreencast.de/blog/Linux_nethogs.html</link><description>&lt;p&gt;Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse
+nutzen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://nethogs.sourceforge.net/" title="Link zu nethogs.sourceforge.net"&gt;nethogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Netzwerk-Monitoring" title="Link zu ubuntuusers.de"&gt;Netzwerk-Monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Mar 2015 14:50:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-03-15:blog/Linux_nethogs.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>nethogs</category></item><item><title>Linux - Webbrowsing in der Konsole mit links2</title><link>http://www.openscreencast.de/blog/Linux_Webbrowsing_in_der_Konsole_mit_links2.html</link><description>&lt;p&gt;Linux - Webbrowsing in der Konsole mit links2, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/tipps-und-tricks-fur-den-alltag-mit-linux-iii/"&gt;Tipps und Tricks für den Alltag mit Linux (III)&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/links2" title="Link zu ubuntuusers.de"&gt;links2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/w3m" title="Link zu ubuntuusers.de"&gt;w3m&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Lynx" title="Link zu ubuntuusers.de"&gt;Lynx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/ELinks" title="Link zu ubuntuusers.de"&gt;elinks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 01 Mar 2015 14:02:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-03-01:blog/Linux_Webbrowsing_in_der_Konsole_mit_links2.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>links2</category><category>Konsole</category></item><item><title>LibreOffice - Calc - Zellhintergrund</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Zellhintergrund.html</link><description>&lt;p&gt;LibreOffice - Calc - Zellhintergrund, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 01 Mar 2015 13:58:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-03-01:blog/LibreOffice_Calc_Zellhintergrund.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Python-Programmierung - Modul webbrowser</title><link>http://www.openscreencast.de/blog/python_modul_webbrowser.html</link><description>&lt;p&gt;Python-Programmierung - Modul webbrowser, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://docs.python.org/2/library/webbrowser.html" title="Link zu python.org"&gt;Modul webbrowser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29" title="Link zu wikipedia.org"&gt;WP:Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 01 Mar 2015 13:39:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-03-01:blog/python_modul_webbrowser.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Programmierung</category><category>webbrowser</category><category>web</category></item><item><title>LibreOffice - Calc - Umrandungen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Umrandungen.html</link><description>&lt;p&gt;LibreOffice - Calc - Umrandungen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 01 Mar 2015 13:36:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-03-01:blog/LibreOffice_Calc_Umrandungen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>AngularJS - Listen (ng-list, orderBy)</title><link>http://www.openscreencast.de/blog/AngularJS_Listen.html</link><description>&lt;p&gt;AngularJS - Listen (ng-list, orderBy), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://angularjs.org/" title="Link zu angularjs.org"&gt;angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/AngularJS" title="Link zu wikipedia.org"&gt;WP:angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 22 Feb 2015 20:27:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-22:blog/AngularJS_Listen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>Javascript</category><category>AngularJS</category></item><item><title>Git für Einsteiger - Der erste Commit - Teil 2</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit - Teil 2, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/10/25/git-fur-
+einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 22 Feb 2015 20:23:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-22:blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>LibreOffice - Calc - Schrift formatieren</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Schrift_formatieren.html</link><description>&lt;p&gt;LibreOffice - Calc - Schrift formatieren, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 22 Feb 2015 19:59:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-22:blog/LibreOffice_Calc_Schrift_formatieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Python-Programmierung - Quelltextanalyse mit pylint</title><link>http://www.openscreencast.de/blog/python_quelltextanalyse_pylint.html</link><description>&lt;p&gt;Python-Programmierung - Quelltextanalyse mit pylint, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pylint.org/" title="Link zu pylint.org"&gt;pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.python.org/dev/peps/pep-0008/" title="Link zu python.org"&gt;Python PEP8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pychecker.sourceforge.net/" title="Link zu sourceforge.net"&gt;Pychecker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/flake8" title="Link zu python.org"&gt;Flake8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/frosted/" title="Link zu python.org"&gt;Frosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/pep8" title="Link zu ubuntuusers.de"&gt;Ubuntuusers:Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/pep8" title="Link zu python.org"&gt;Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29" title="Link zu wikipedia.org"&gt;WP:Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 14:04:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/python_quelltextanalyse_pylint.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Programmierung</category><category>pylint</category></item><item><title>Git für Einsteiger - Der erste Commit</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/10/25/git-fur-
+einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 14:01:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_der_erste_Commit.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - den ersten Commit vorbereiten</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</link><description>&lt;p&gt;Git für Einsteiger - den ersten Commit vorbereiten, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/10/25/git-fur-
+einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:58:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>LibreOffice - Calc - Zahlen formatieren</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Zahlen_formatieren.html</link><description>&lt;p&gt;LibreOffice - Calc - Zahlen formatieren, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:54:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/LibreOffice_Calc_Zahlen_formatieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Notizen für Tomboy aus Firefox heraus erzeugen</title><link>http://www.openscreencast.de/blog/Firefox_Tomfox.html</link><description>&lt;p&gt;Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/notizen-fur-tomboy-aus-firefox-heraus-erzeugen/"&gt;Notizen für Tomboy aus Firefox heraus erzeugen&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wiki.gnome.org/Apps/Tomboy" title="Link zu gnome.org"&gt;Tomboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox/" title="Link zu mozilla.org"&gt;Tomfox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox-1/" title="Link zu mozilla.org"&gt;Tomfox+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:42:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Firefox_Tomfox.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Tomboy</category><category>Firefox</category><category>Tomfox</category></item><item><title>Komprimieren von CSS und Javascript</title><link>http://www.openscreencast.de/blog/compress_css_js.html</link><description>&lt;p&gt;Komprimieren von CSS und Javascript, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.google.com/closure/compiler/" title="Link zu closure-compiler/"&gt;closure-compiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bootstrap_%28Framework%29" title="Link zu wikipedia.org"&gt;WP:Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/JavaScript" title="Link zu wikipedia.org"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Datenkompression" title="Link zu wikipedia.org"&gt;WP:Datenkompression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:32:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/compress_css_js.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Web</category><category>CSS</category><category>Javascript</category></item><item><title>R - RStudio installieren und starten</title><link>http://www.openscreencast.de/blog/R_RStudio_installieren_und_starten.html</link><description>&lt;p&gt;R - RStudio installieren und starten, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.rstudio.com/" title="Link zu rstudio"&gt;RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.statistiklabor.de/" title="Link zu statistiklabor"&gt;statistiklabor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://rkward.kde.org/" title="Link zu rkward.kde.org/"&gt;RKWard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rcommander.com/" title="Link zu rcommander.com/"&gt;R-Commander&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cran.r-project.org/web/packages/relax/index.html" title="Link zu relax"&gt;relax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:21:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/R_RStudio_installieren_und_starten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>R</category><category>RStudio</category></item><item><title>Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln</title><link>http://www.openscreencast.de/blog/Speicherplatzverbrauch_ermitteln_ncdu.html</link><description>&lt;p&gt;Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln, Linux Mint
+17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-linux/speicherplatzverbrauch-ordner-
+dateien-linux-terminal-ermitteln/"&gt;Speicherplatzverbrauch für Ordner und Dateien unter Linux
+ermitteln&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dev.yorhel.nl/ncdu" title="Link zu ncdu"&gt;ncdu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:16:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Speicherplatzverbrauch_ermitteln_ncdu.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>ncdu</category></item><item><title>LibreOffice - Calc - Daten ändern</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Daten_aendern.html</link><description>&lt;p&gt;LibreOffice - Calc - Daten ändern, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:13:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/LibreOffice_Calc_Daten_aendern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>Git für Einsteiger - Git-Repository anlegen</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Git-Repository anlegen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/10/25/git-fur-
+einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:09:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Was ist Git ?</title><link>http://www.openscreencast.de/blog/Git_fuer_Einsteiger_Was_ist_Git.html</link><description>&lt;p&gt;Git für Einsteiger - Was ist Git ?, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="https://svij.org/blog/2014/10/25/git-fur-
+einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
+by-sa 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:02:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_Was_ist_Git.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Linux - Anwendungen in anderer Sprache starten</title><link>http://www.openscreencast.de/blog/Anwendungen_in_anderer_Sprache_starten.html</link><description>&lt;p&gt;Linux - Anwendungen in anderer Sprache starten, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/anwendungen-in-alternativer-sprache-ausfuhren/"&gt;Anwendungen in alternativer Sprache ausführen&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Locale" title="Link zu wikipedia.org/"&gt;WP:locale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 12:49:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Anwendungen_in_anderer_Sprache_starten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>locale</category></item><item><title>LibreOffice - Writer - Editiermodus Einfügen und Überschreiben</title><link>http://www.openscreencast.de/blog/LibreOffice_Writer_Editiermodus.html</link><description>&lt;p&gt;LibreOffice - Writer - Editiermodus Einfügen und Überschreiben, Linux Mint
+17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-
+kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/ (CC by 3.0 -
+http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 29 Jan 2015 19:28:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-01-29:blog/LibreOffice_Writer_Editiermodus.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Writer</category></item><item><title>ImageMagick - Bilder mit Text erstellen - Teil 2</title><link>http://www.openscreencast.de/blog/ImageMagick_Bilder_mit_Text_erstellen_Teil_2.html</link><description>&lt;p&gt;ImageMagick - Bilder mit Text erstellen - Teil 2 (Bildbearbeitung in der
+Kommandozeile mit dem Tool convert), Linux Mint 16&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.imagemagick.org/"&gt;http://www.imagemagick.org/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Link zu Teil 1: &lt;a href="http://youtu.be/Elgy5zfAf9Y"&gt;http://youtu.be/Elgy5zfAf9Y&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der ImageMagick-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV2SWIdTgD19IHW1l4SaTyQw"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV2SWIdTgD19IHW1l4SaTyQw&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 17 Apr 2014 18:21:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-17:blog/ImageMagick_Bilder_mit_Text_erstellen_Teil_2.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Imagemagick</category><category>Linux Mint</category><category>convert</category></item><item><title>Google Fusion Tables Tutorial - Beispiel WLAN-Standorte in Berlin auf Karte eintragen</title><link>http://www.openscreencast.de/blog/fusion_tables_tutorial_wlan_standorte_berlin_auf_karte.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datenjournalist.de/postfilialen-in-berlin-auf-karte-eintragen-google-fusion-table-tutorial/" title="datenjournalist.de"&gt;Postfilialen in Berlin auf Karte eintragen: Google Fusion Tables Tutorial von Lorenz Matzat (CC by-sa 3.0)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://daten.berlin.de/datensaetze/wlan-standorte-berlin/" title="daten.berlin.de"&gt;http://daten.berlin.de/datensaetze/wlan-standorte-berlin (CC by)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tables.googlelabs.com/"&gt;https://tables.googlelabs.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 26 Mar 2014 21:48:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-26:blog/fusion_tables_tutorial_wlan_standorte_berlin_auf_karte.html</guid><category>Linux Mint</category><category>cinnamon</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by-sa</category><category>Daten</category><category>LibreOffice</category><category>Calc</category><category>Fusion Tables</category></item><item><title>LibreOffice Calc - Datensätze säubern, vereinheitlichen und automatisch ausfüllen</title><link>http://www.openscreencast.de/blog/libreoffice_calc_datensaetze_saeubern.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/excel-datensatze-saubern-vereinheitlichen-und-automatisch-ausfullen/" title="opendatacity.de"&gt;Excel: Datensätze säubern, vereinheitlichen und automatisch ausfüllen von Marco Maas (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 26 Mar 2014 21:40:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-26:blog/libreoffice_calc_datensaetze_saeubern.html</guid><category>Linux Mint</category><category>cinnamon</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>Daten</category><category>LibreOffice</category><category>Calc</category></item><item><title>einfache Karten (Maps) erstellen - Geo-diagramme</title><link>http://www.openscreencast.de/blog/maps_erstellen_geodiagramme.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Google_Spreadsheet" title="Link zu WP"&gt;WP:Google_Spreadsheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 26 Mar 2014 21:30:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-26:blog/maps_erstellen_geodiagramme.html</guid><category>Linux Mint</category><category>cinnamon</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>html</category><category>web</category><category>Daten</category><category>Karten</category><category>Geodiagramm</category><category>Maps</category></item><item><title>Tabellen von Webseiten kopieren</title><link>http://www.openscreencast.de/blog/tabellen_von_webseiten_kopieren.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:56:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/tabellen_von_webseiten_kopieren.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by-sa</category><category>LibreOffice</category><category>Gnome3</category><category>html</category><category>web</category></item><item><title>Crashkurs LibreOffice Calc für Datenjournalismus - Ausgabemöglichkeit: HTML</title><link>http://www.openscreencast.de/blog/crashkurs_libreoffice_calc_datenjournalismus_ausgabe_html.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-crashkurs-excel-fur-datenjournalismus/" title="opendatacity.de"&gt;Tutorial: Crashkurs Excel für Datenjournalismus von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:52:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/crashkurs_libreoffice_calc_datenjournalismus_ausgabe_html.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>LibreOffice</category><category>Gnome3</category><category>html</category></item><item><title>Crashkurs LibreOffice Calc für Datenjournalismus - nutzbare Datenquellen</title><link>http://www.openscreencast.de/blog/crashkurs_libreoffice_calc_datenjournalismus_nutzbare_datenquellen.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-crashkurs-excel-fur-datenjournalismus/" title="opendatacity.de"&gt;Tutorial: Crashkurs Excel für Datenjournalismus von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:49:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/crashkurs_libreoffice_calc_datenjournalismus_nutzbare_datenquellen.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>LibreOffice</category><category>Gnome3</category></item><item><title>Python-Programmierung - docopt - Befehle, Argumente und Optionen</title><link>http://www.openscreencast.de/blog/python_docopt_befehle_optionen.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-04" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:46:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/python_docopt_befehle_optionen.html</guid><category>Linux Mint</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by-sa</category><category>Python</category><category>Programmierung</category><category>docopt</category></item><item><title>Python-Programmierung - docopt - Auswerten der Befehle, Argumente und Optionen</title><link>http://www.openscreencast.de/blog/python_docopt_auswerten_der_befehle.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-04" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:44:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/python_docopt_auswerten_der_befehle.html</guid><category>Linux Mint</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by-sa</category><category>Python</category><category>Programmierung</category><category>docopt</category></item><item><title>Python-Programmierung - docopt - automatische Hilfstexte</title><link>http://www.openscreencast.de/blog/python_docopt_automatische_hilfstexte.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-04" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:40:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/python_docopt_automatische_hilfstexte.html</guid><category>Linux Mint</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by-sa</category><category>Python</category><category>Programmierung</category><category>docopt</category></item><item><title>Crashkurs LibreOffice Calc für Datenjournalismus - Calc-Funktionen</title><link>http://www.openscreencast.de/blog/crashkurs_libreoffice_calc_datenjournalismus_calcfunktionen.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-crashkurs-excel-fur-datenjournalismus/" title="opendatacity.de"&gt;Tutorial: Crashkurs Excel für Datenjournalismus von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:35:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/crashkurs_libreoffice_calc_datenjournalismus_calcfunktionen.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>LibreOffice</category><category>Gnome3</category></item><item><title>sed - Erste Schritte mit regulären Ausdrücken</title><link>http://www.openscreencast.de/blog/sed_erste_schritte_regex.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Sed_%28Unix%29" title="sed"&gt;WP:sed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/" title="opendatacity.de"&gt;Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:29:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/sed_erste_schritte_regex.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>sed</category><category>Gnome3</category><category>regex</category></item><item><title>LibreOffice Writer - Erste Schritte mit regulären Ausdrücken</title><link>http://www.openscreencast.de/blog/libreoffice_erste_schritte_regex.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/" title="opendatacity.de"&gt;Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 01:24:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/libreoffice_erste_schritte_regex.html</guid><category>Linux Mint</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>CC by</category><category>LibreOffice</category><category>Gnome3</category><category>regex</category></item><item><title>Python-Programmierung - docopt - Installation</title><link>http://www.openscreencast.de/blog/python_docopt_installation.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-04" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-04&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 14 Jan 2014 23:00:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-14:blog/python_docopt_installation.html</guid><category>Linux Mint</category><category>Gnome</category><category>Gnome3</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by-sa</category><category>Python</category><category>Programmierung</category><category>docopt</category></item><item><title>awesome - Konfiguration - Layouts</title><link>http://www.openscreencast.de/blog/awesome_config_layouts.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-02" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://awesome.naquadah.org/" title="Link zu awesome"&gt;awesome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Dec 2013 17:22:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-19:blog/awesome_config_layouts.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>cinnamon</category><category>Linux Mint</category><category>awesome</category></item><item><title>awesome - Konfiguration - Tags</title><link>http://www.openscreencast.de/blog/awesome_config_tags.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-02" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://awesome.naquadah.org/" title="Link zu awesome"&gt;awesome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Dec 2013 17:20:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-19:blog/awesome_config_tags.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>cinnamon</category><category>Linux Mint</category><category>awesome</category></item><item><title>awesome - ein Tiling-Fenstermanager - Steuerung</title><link>http://www.openscreencast.de/blog/awesome_steuerung.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-02" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://awesome.naquadah.org/" title="Link zu awesome"&gt;awesome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Dec 2013 15:57:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-19:blog/awesome_steuerung.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>cinnamon</category><category>Linux Mint</category><category>awesome</category></item><item><title>awesome - ein Tiling-Fenstermanager - Bedienung</title><link>http://www.openscreencast.de/blog/awesome_bedienung.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-02" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://awesome.naquadah.org/" title="Link zu awesome"&gt;awesome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Dec 2013 15:43:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-19:blog/awesome_bedienung.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>cinnamon</category><category>Linux Mint</category><category>awesome</category></item><item><title>awesome - ein Tiling-Fenstermanager - Installation</title><link>http://www.openscreencast.de/blog/awesome_installation.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-02" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-02&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://awesome.naquadah.org/" title="Link zu awesome"&gt;awesome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Dec 2013 15:28:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-19:blog/awesome_installation.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>cinnamon</category><category>Linux Mint</category><category>awesome</category></item><item><title>Linux - Benutzer benachrichtigen - die Datei /etc/motd</title><link>http://www.openscreencast.de/blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_motd.html</link><description>&lt;p&gt;Linux - Benutzer benachrichtigen - die Datei /etc/motd, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;br /&gt;
+Korrektur: Blender wurde installiert !  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html"&gt;http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html&lt;/a&gt;&lt;br /&gt;
+Benachrichtigen von Benutzern über systemrelevante Ereignisse von F.Kalhammer
+&lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 23 Nov 2013 19:25:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-23:blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_motd.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category></item><item><title>Linux - Benutzer benachrichtigen - die Datei /etc/issue.net</title><link>http://www.openscreencast.de/blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_issuenet.html</link><description>&lt;p&gt;Linux - Benutzer benachrichtigen - die Datei /etc/issue.net, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html"&gt;http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html&lt;/a&gt;&lt;br /&gt;
+Benachrichtigen von Benutzern über systemrelevante Ereignisse von F.Kalhammer
+&lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 23 Nov 2013 19:13:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-23:blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_issuenet.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category></item><item><title>Linux - Benutzer benachrichtigen - die Datei /etc/issue</title><link>http://www.openscreencast.de/blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_issue.html</link><description>&lt;p&gt;Linux - Benutzer benachrichtigen - die Datei /etc/issue, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html"&gt;http://www.linux-praxis.de/lpic1/lpi102/1.108.5.html&lt;/a&gt;&lt;br /&gt;
+Benachrichtigen von Benutzern über systemrelevante Ereignisse von F.Kalhammer
+&lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 23 Nov 2013 18:59:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-23:blog/Linux_Benutzer_benachrichtigen_die_Datei_etc_issue.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category></item><item><title>LibreOffice - Calc - Auswählen von Elementen - zusammenhängende Bereiche auswählen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Auswaehlen_von_Elementen_zusammenhaengende_Bereiche_auswaehlen.html</link><description>&lt;p&gt;LibreOffice - Calc - Auswählen von Elementen - zusammenhängende Bereiche
+auswählen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 06 Nov 2013 19:39:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-06:blog/LibreOffice_Calc_Auswaehlen_von_Elementen_zusammenhaengende_Bereiche_auswaehlen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>Coder - Passwortreset (Passwort vergessen, was nun ? - Passwort neu setzen)</title><link>http://www.openscreencast.de/blog/Coder_Passwortreset_Passwort_vergessen_was_nun_Passwort_neu_setzen.html</link><description>&lt;p&gt;Coder - Passwortreset (Passwort vergessen, was nun ? - Passwort neu setzen),
+Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://googlecreativelab.github.io/coder/"&gt;http://googlecreativelab.github.io/coder/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 03 Nov 2013 16:38:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-03:blog/Coder_Passwortreset_Passwort_vergessen_was_nun_Passwort_neu_setzen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Coder</category><category>Linux Mint</category></item><item><title>R - einfache Rechenfunktionen durchführen</title><link>http://www.openscreencast.de/blog/R_einfache_Rechenfunktionen_durchfuehren.html</link><description>&lt;p&gt;R - einfache Rechenfunktionen durchführen, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.r-project.org"&gt;http://www.r-project.org&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Modulo"&gt;https://de.wikipedia.org/wiki/Modulo&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Potenz_%28Mathematik%29"&gt;https://de.wikipedia.org/wiki/Potenz_%28Mathematik%29&lt;/a&gt;#Nat.C3.BCrliche_Exponenten&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 03 Nov 2013 16:31:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-03:blog/R_einfache_Rechenfunktionen_durchfuehren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>R</category><category>Linux Mint</category></item><item><title>Firefox - ungefähre Standortbestimmung deaktivieren - geo.enabled deaktivieren</title><link>http://www.openscreencast.de/blog/Firefox_ungefaehre_Standortbestimmung_deaktivieren_geoenabled_deaktivieren.html</link><description>&lt;p&gt;Firefox - ungefähre Standortbestimmung (standortbezogenes Surfen) deaktivieren
+- geo.enabled deaktivieren, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Geotargeting"&gt;https://de.wikipedia.org/wiki/Geotargeting&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.mozilla.org/de/firefox/geolocation/"&gt;https://www.mozilla.org/de/firefox/geolocation/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 02 Nov 2013 18:53:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-02:blog/Firefox_ungefaehre_Standortbestimmung_deaktivieren_geoenabled_deaktivieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Linux Mint</category></item><item><title>sed - Adressen - Teil 2</title><link>http://www.openscreencast.de/blog/sed_Adressen_Teil_2.html</link><description>&lt;p&gt;sed - Adressen - Teil 2, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-erste-schritte.html"&gt;http://www.tty1.net/sed-tutorium/sec-erste-schritte.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 30 Oct 2013 17:46:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-10-30:blog/sed_Adressen_Teil_2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>sed</category><category>Linux Mint</category></item><item><title>Python-Programmierung - Modul random - Zufallszahlen generieren</title><link>http://www.openscreencast.de/blog/Python_Programmierung_Modul_random_Zufallszahlen_generieren.html</link><description>&lt;p&gt;Python-Programmierung - Modul random - Zufallszahlen generieren, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Python_%28Programmiersprache%29"&gt;https://de.wikipedia.org/wiki/Python_%28Programmiersprache%29&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://docs.python.org/2/library/random.html"&gt;http://docs.python.org/2/library/random.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://openbook.galileocomputing.de/python/python_kapitel_14_002.htm"&gt;http://openbook.galileocomputing.de/python/python_kapitel_14_002.htm&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 26 Oct 2013 21:55:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-26:blog/Python_Programmierung_Modul_random_Zufallszahlen_generieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Python</category><category>Programmierung</category><category>Linux Mint</category><category>random</category></item><item><title>LibreOffice - Calc - Bewegen von Blatt zu Blatt</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Bewegen_von_Blatt_zu_Blatt.html</link><description>&lt;p&gt;LibreOffice - Calc - Bewegen von Blatt zu Blatt, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 26 Oct 2013 17:09:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-26:blog/LibreOffice_Calc_Bewegen_von_Blatt_zu_Blatt.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>Libreoffice</category><category>Calc</category></item><item><title>Taskwarrior - Spezielle Reports</title><link>http://www.openscreencast.de/blog/Taskwarrior_Spezielle_Reports.html</link><description>&lt;p&gt;Taskwarrior - Spezielle Reports, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/)&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Logo: Taskwarrior &lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 20 Oct 2013 20:24:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-20:blog/Taskwarrior_Spezielle_Reports.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>task</category><category>Taskwarrior</category></item><item><title>R - Hilfe</title><link>http://www.openscreencast.de/blog/R_Hilfe.html</link><description>&lt;p&gt;R - Hilfe, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.r-project.org"&gt;http://www.r-project.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 18 Oct 2013 16:39:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-18:blog/R_Hilfe.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>R</category><category>Linux Mint</category></item><item><title>LibreOffice - Calc - von Zelle zu Zelle bewegen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_von_Zelle_zu_Zelle_bewegen.html</link><description>&lt;p&gt;LibreOffice - Calc - von Zelle zu Zelle bewegen, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 14 Oct 2013 20:59:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-14:blog/LibreOffice_Calc_von_Zelle_zu_Zelle_bewegen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>ffmpeg - Text in ein Video zeichnen (Videofilter drawtext)</title><link>http://www.openscreencast.de/blog/ffmpeg_Text_in_ein_Video_zeichnen_Videofilter_drawtext.html</link><description>&lt;p&gt;ffmpeg - Text in ein Video zeichnen (Videofilter drawtext), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Ffmpeg"&gt;https://de.wikipedia.org/wiki/Ffmpeg&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://ffmpeg.org/ffmpeg-filters.html#drawtext-1"&gt;http://ffmpeg.org/ffmpeg-filters.html#drawtext-1&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 09 Oct 2013 18:06:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-09:blog/ffmpeg_Text_in_ein_Video_zeichnen_Videofilter_drawtext.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>ffmpeg</category><category>Linux Mint</category></item><item><title>PHP-Programmierung - Arrays - Assoziative Arrays</title><link>http://www.openscreencast.de/blog/PHP_Programmierung_Arrays_Assoziative_Arrays.html</link><description>&lt;p&gt;PHP-Programmierung - Arrays - Assoziative Arrays, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-12"&gt;http://www.freiesmagazin.de/freiesMagazin-2011-12&lt;/a&gt;&lt;br /&gt;
+PHP-Programmierung - Teil 3: Arrays, Sessions, Sicherheit von Patrick
+Eigensatz&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Feld_%28Datentyp%29"&gt;https://de.wikipedia.org/wiki/Feld_%28Datentyp%29&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Php"&gt;https://de.wikipedia.org/wiki/Php&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 09 Oct 2013 17:50:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-09:blog/PHP_Programmierung_Arrays_Assoziative_Arrays.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>PHP</category><category>Array</category><category>Linux Mint</category></item><item><title>R - starten und beenden</title><link>http://www.openscreencast.de/blog/R_starten_und_beenden.html</link><description>&lt;p&gt;R - starten und beenden, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.r-project.org"&gt;http://www.r-project.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 06 Oct 2013 15:24:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-06:blog/R_starten_und_beenden.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>R</category><category>Linux Mint</category></item><item><title>PHP-Programmierung - Arrays - Listen-Arrays</title><link>http://www.openscreencast.de/blog/PHP_Programmierung_Arrays_ListenArrays.html</link><description>&lt;p&gt;PHP-Programmierung - Arrays - Listen-Arrays, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-12"&gt;http://www.freiesmagazin.de/freiesMagazin-2011-12&lt;/a&gt;&lt;br /&gt;
+PHP-Programmierung - Teil 3: Arrays, Sessions, Sicherheit von Patrick
+Eigensatz&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Feld_%28Datentyp%29"&gt;https://de.wikipedia.org/wiki/Feld_%28Datentyp%29&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Php"&gt;https://de.wikipedia.org/wiki/Php&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 26 Sep 2013 14:34:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-09-26:blog/PHP_Programmierung_Arrays_ListenArrays.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>PHP</category><category>Array</category><category>Linux Mint</category></item><item><title>sed - Adressen</title><link>http://www.openscreencast.de/blog/sed_Adressen.html</link><description>&lt;p&gt;sed - Adressen, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-erste-schritte.html"&gt;http://www.tty1.net/sed-tutorium/sec-erste-schritte.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 28 Aug 2013 18:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-28:blog/sed_Adressen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>sed</category><category>Linux Mint</category></item><item><title>Taskwarrior - Dringlichkeit</title><link>http://www.openscreencast.de/blog/Taskwarrior_Dringlichkeit.html</link><description>&lt;p&gt;Taskwarrior - Dringlichkeit, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Logo: Taskwarrior &lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 28 Aug 2013 18:30:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-28:blog/Taskwarrior_Dringlichkeit.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>task</category><category>Taskwarrior</category></item><item><title>ImageMagick - Bilder mit Text erstellen</title><link>http://www.openscreencast.de/blog/ImageMagick_Bilder_mit_Text_erstellen.html</link><description>&lt;p&gt;ImageMagick - Bilder mit Text erstellen (Bildbearbeitung in der Kommandozeile
+mit dem Tool convert), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.imagemagick.org/"&gt;http://www.imagemagick.org/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 27 Aug 2013 17:22:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-27:blog/ImageMagick_Bilder_mit_Text_erstellen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>ImageMagick</category><category>convert</category></item><item><title>R - Was ist R ?</title><link>http://www.openscreencast.de/blog/R_Was_ist_R.html</link><description>&lt;p&gt;R - Was ist R ?, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.r-project.org"&gt;http://www.r-project.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 27 Aug 2013 17:14:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-27:blog/R_Was_ist_R.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>R</category><category>Linux Mint</category></item><item><title>Taskwarrior - Reports - ein Beispiel</title><link>http://www.openscreencast.de/blog/Taskwarrior_Reports_ein_Beispiel.html</link><description>&lt;p&gt;Taskwarrior - Reports - ein Beispiel, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Logo: Taskwarrior &lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 26 Aug 2013 22:00:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-26:blog/Taskwarrior_Reports_ein_Beispiel.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>task</category><category>Taskwarrior</category><category>Linux Mint</category></item><item><title>LibreOffice - Calc - Navigieren</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Navigieren.html</link><description>&lt;p&gt;LibreOffice - Calc - Navigieren, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 26 Aug 2013 20:37:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-26:blog/LibreOffice_Calc_Navigieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>Linux - dstat</title><link>http://www.openscreencast.de/blog/Linux_dstat.html</link><description>&lt;p&gt;Linux - dstat, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.deimeke.net/dirk/blog/index.php?/archives/3296-dstat-....html"&gt;http://www.deimeke.net/dirk/blog/index.php?/archives/3296-dstat-....html&lt;/a&gt;&lt;br /&gt;
+Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 25 Aug 2013 16:46:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-25:blog/Linux_dstat.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>dstat</category><category>Linux Mint</category></item><item><title>easystroke - Desktop-Gesten für X11 (Gestensteuerung auf dem Desktop - Linux)</title><link>http://www.openscreencast.de/blog/easystroke_DesktopGesten_fuer_X11_Gestensteuerung_auf_dem_Desktop_Linux.html</link><description>&lt;p&gt;easystroke - Desktop-Gesten für X11 (Gestensteuerung auf dem Desktop - Linux),
+Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.pro-linux.de/artikel/2/1643/easystroke-desktop-gesten-
+fuer-x11.html"&gt;http://www.pro-linux.de/artikel/2/1643/easystroke-desktop-gesten-
+fuer-x11.html&lt;/a&gt;&lt;br /&gt;
+Autor: Christopher Roy Bratusek&lt;br /&gt;
+Lizenz: gemeinfrei (public domain)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 22 Aug 2013 17:57:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-22:blog/easystroke_DesktopGesten_fuer_X11_Gestensteuerung_auf_dem_Desktop_Linux.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>easystroke</category><category>Linux Mint</category><category>Gestensteuerung</category></item><item><title>LibreOffice - Calc - Umgang mit einer CSV-Datei</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Umgang_mit_einer_CSVDatei.html</link><description>&lt;p&gt;LibreOffice - Calc - Umgang mit einer CSV-Datei, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 06 Aug 2013 19:00:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-06:blog/LibreOffice_Calc_Umgang_mit_einer_CSVDatei.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>CSV</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>LibreOffice - Calc - Tabellenregister und Statusleiste</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Tabellenregister_und_Statusleiste.html</link><description>&lt;p&gt;LibreOffice - Calc - Tabellenregister und Statusleiste, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 02 Aug 2013 20:45:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-02:blog/LibreOffice_Calc_Tabellenregister_und_Statusleiste.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>LibreOffice - Calc - Zellen</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Zellen.html</link><description>&lt;p&gt;LibreOffice - Calc - Zellen, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 01 Aug 2013 19:07:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-08-01:blog/LibreOffice_Calc_Zellen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>LibreOffice - Calc - Rechenleiste</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Rechenleiste.html</link><description>&lt;p&gt;LibreOffice - Calc - Rechenleiste, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 31 Jul 2013 23:39:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-31:blog/LibreOffice_Calc_Rechenleiste.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>LibreOffice</category><category>Calc</category></item><item><title>stegdetect (Steganografieerkennung)</title><link>http://www.openscreencast.de/blog/stegdetect_Steganografieerkennung.html</link><description>&lt;p&gt;stegdetect (Steganografieerkennung), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="https://www.awxcnx.de/handbuch_11.htm"&gt;https://www.awxcnx.de/handbuch_11.htm&lt;/a&gt;&lt;br /&gt;
+Lizenz: Public Domain&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 30 Jul 2013 17:38:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-30:blog/stegdetect_Steganografieerkennung.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>stegdetect</category><category>Steganografieerkennung</category><category>Linux Mint</category></item><item><title>sed - Kommandos</title><link>http://www.openscreencast.de/blog/sed_Kommandos.html</link><description>&lt;p&gt;sed - Kommandos, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-erste-schritte.html"&gt;http://www.tty1.net/sed-tutorium/sec-erste-schritte.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 30 Jul 2013 17:34:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-30:blog/sed_Kommandos.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>sed</category><category>Linux Mint</category></item><item><title>Firefox - PDF-Betrachter deaktivieren</title><link>http://www.openscreencast.de/blog/Firefox_PDFBetrachter_deaktivieren.html</link><description>&lt;p&gt;Firefox - Javascript PDF-Betrachter deaktivieren, mit Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 28 Jul 2013 16:01:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-28:blog/Firefox_PDFBetrachter_deaktivieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>PDF</category><category>Linux Mint</category></item><item><title>Daten verstecken - steghide (Steganografie)</title><link>http://www.openscreencast.de/blog/Daten_verstecken_steghide_Steganografie.html</link><description>&lt;p&gt;Linux - Daten verstecken - steghide (Steganografie), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="https://www.awxcnx.de/handbuch_11.htm"&gt;https://www.awxcnx.de/handbuch_11.htm&lt;/a&gt;&lt;br /&gt;
+Lizenz: Public Domain&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 23 Jul 2013 18:19:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-23:blog/Daten_verstecken_steghide_Steganografie.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>steghide</category><category>Steganografie</category></item><item><title>Taskwarrior - Reports</title><link>http://www.openscreencast.de/blog/Taskwarrior_Reports.html</link><description>&lt;p&gt;Taskwarrior - Reports, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;deed.de  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 22 Jul 2013 15:17:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-22:blog/Taskwarrior_Reports.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>task</category><category>Taskwarrior</category><category>Linux Mint</category></item><item><title>sed - Eingabe und Ausgabe</title><link>http://www.openscreencast.de/blog/sed_Eingabe_und_Ausgabe.html</link><description>&lt;p&gt;sed - Eingabe und Ausgabe, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-erste-schritte.html"&gt;http://www.tty1.net/sed-tutorium/sec-erste-schritte.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 22 Jul 2013 15:05:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-22:blog/sed_Eingabe_und_Ausgabe.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>sed</category></item><item><title>sed - reguläre Beispiele - Tipp</title><link>http://www.openscreencast.de/blog/sed_regulaere_Beispiele_Tipp.html</link><description>&lt;p&gt;sed - reguläre Beispiele - Tipp, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-grundlagen.html"&gt;http://www.tty1.net/sed-tutorium/sec-grundlagen.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 21 Jul 2013 15:12:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-21:blog/sed_regulaere_Beispiele_Tipp.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>sed</category></item><item><title>sed - reguläre Beispiele</title><link>http://www.openscreencast.de/blog/sed_regulaere_Beispiele.html</link><description>&lt;p&gt;sed - reguläre Beispiele, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-grundlagen.html"&gt;http://www.tty1.net/sed-tutorium/sec-grundlagen.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 21 Jul 2013 15:07:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-21:blog/sed_regulaere_Beispiele.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>sed</category></item><item><title>Linux - Textverarbeitung in der Kommandozeile (Tipp)</title><link>http://www.openscreencast.de/blog/Linux_Textverarbeitung_in_der_Kommandozeile_Tipp.html</link><description>&lt;p&gt;Linux - Textverarbeitung in der Kommandozeile (Tipp), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 20 Jul 2013 21:20:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-20:blog/Linux_Textverarbeitung_in_der_Kommandozeile_Tipp.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category></item><item><title>LibreOffice - Calc - Titelleiste, Menüleiste, Symbolleisten</title><link>http://www.openscreencast.de/blog/LibreOffice_Calc_Titelleiste_Menueleiste_Symbolleisten.html</link><description>&lt;p&gt;LibreOffice - Calc - Titelleiste, Menüleiste, Symbolleisten, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 20 Jul 2013 21:16:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-20:blog/LibreOffice_Calc_Titelleiste_Menueleiste_Symbolleisten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>scrot - Screenshot-Tool für die Kommandozeile</title><link>http://www.openscreencast.de/blog/scrot_ScreenshotTool_fuer_die_Kommandozeile.html</link><description>&lt;p&gt;scrot - Screenshot-Tool für die Kommandozeile, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 19 Jul 2013 21:21:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-19:blog/scrot_ScreenshotTool_fuer_die_Kommandozeile.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>scrot</category><category>Screenshot</category></item><item><title>LibreOffice - Was ist Calc ?</title><link>http://www.openscreencast.de/blog/LibreOffice_Was_ist_Calc.html</link><description>&lt;p&gt;LibreOffice - Was ist Calc ?, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/"&gt;http://de.libreoffice.org/hilfe-kontakt/handbuecher/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 19 Jul 2013 21:13:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-19:blog/LibreOffice_Was_ist_Calc.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>LibreOffice</category><category>Calc</category><category>Linux Mint</category></item><item><title>Linux Mint 13 Maya MATE Edition - Demo</title><link>http://www.openscreencast.de/blog/linuxmint_mayamate13_demo.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 13 Maya MATE Edition&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Linux_Mint" title="Link zu WP:Linux Mint"&gt;WP:Linux Mint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 18 Jul 2013 19:37:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-18:blog/linuxmint_mayamate13_demo.html</guid><category>Linux Mint</category><category>MATE</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>CC by</category><category>glimpse</category><category>demo</category></item><item><title>sed - Reguläre Ausdrücke</title><link>http://www.openscreencast.de/blog/sed_Regulaere_Ausdruecke.html</link><description>&lt;p&gt;sed - Reguläre Ausdrücke, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-grundlagen.html"&gt;http://www.tty1.net/sed-tutorium/sec-grundlagen.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 04 Jul 2013 01:30:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-04:blog/sed_Regulaere_Ausdruecke.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>sed</category></item><item><title>sed - Was ist das ?</title><link>http://www.openscreencast.de/blog/sed_Was_ist_das.html</link><description>&lt;p&gt;sed - Was ist das ?, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.tty1.net/sed-tutorium/sec-intro.html"&gt;http://www.tty1.net/sed-tutorium/sec-intro.html&lt;/a&gt;&lt;br /&gt;
+sed Tutorium - Eine Einführung in sed&lt;br /&gt;
+von Thomas Pircher&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 04 Jul 2013 01:26:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-04:blog/sed_Was_ist_das.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Linux Mint</category><category>sed</category></item><item><title>Taskwarrior - Etiketten (Tags)</title><link>http://www.openscreencast.de/blog/Taskwarrior_Etiketten_Tags.html</link><description>&lt;p&gt;Taskwarrior - Etiketten (Tags), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 02 Jul 2013 01:18:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-02:blog/Taskwarrior_Etiketten_Tags.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>task</category><category>Taskwarrior</category><category>Linux Mint</category></item><item><title>Taskwarrior - Abhängigkeiten (depends)</title><link>http://www.openscreencast.de/blog/Taskwarrior_Abhaengigkeiten_depends.html</link><description>&lt;p&gt;Taskwarrior - Abhängigkeiten (depends), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 02 Jul 2013 01:14:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-02:blog/Taskwarrior_Abhaengigkeiten_depends.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Taskwarrior</category><category>task</category><category>Linux Mint</category></item><item><title>Taskwarrior - wiederkehrende Aufgaben</title><link>http://www.openscreencast.de/blog/Taskwarrior_wiederkehrende_Aufgaben.html</link><description>&lt;p&gt;Taskwarrior - wiederkehrende Aufgaben, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2012-11"&gt;http://www.freiesmagazin.de/freiesMagazin-2012-11&lt;/a&gt;&lt;br /&gt;
+Taskwarrior - What's next? (Teil 4)&lt;br /&gt;
+von Dirk Deimeke &lt;a href="http://d5e.org/"&gt;http://d5e.org/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://taskwarrior.org"&gt;http://taskwarrior.org&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 01 Jul 2013 01:27:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-01:blog/Taskwarrior_wiederkehrende_Aufgaben.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>task</category><category>Taskwarrior</category><category>Linux Mint</category></item><item><title>Linux Mint 6 Universal Edition Installation</title><link>http://www.openscreencast.de/blog/linuxmint6_install.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 6, Gnome 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.linuxmint.com/"&gt;Linux Mint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 29 Dec 2008 23:17:00 +0100</pubDate><guid>tag:www.openscreencast.de,2008-12-29:blog/linuxmint6_install.html</guid><category>CC by-sa</category><category>glimpse</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Linux Mint</category></item><item><title>Linux Mint 6 Universal Edition</title><link>http://www.openscreencast.de/blog/linuxmint6.html</link><description>&lt;p&gt;Ausgangspunkt: Linux Mint 6, Gnome 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.linuxmint.com/"&gt;Linux Mint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 28 Dec 2008 22:42:00 +0100</pubDate><guid>tag:www.openscreencast.de,2008-12-28:blog/linuxmint6.html</guid><category>CC by-sa</category><category>glimpse</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Linux Mint</category></item></channel></rss>

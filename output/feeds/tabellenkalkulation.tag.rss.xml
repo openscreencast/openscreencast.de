@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/tabellenkalkulation.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 11 Jul 2006 00:51:00 +0200</lastBuildDate><item><title>Rechenaufgaben lösen</title><link>http://www.openscreencast.de/blog/Rechenaufgaben_loesen.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gcalctool, bc&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/OpenOffice"&gt;OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Textverarbeitung"&gt;Textverarbeitung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tabellenkalkulation"&gt;Tabellenkalkulation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bc"&gt;bc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 00:51:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Rechenaufgaben_loesen.html</guid><category>bc</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>gcalctool</category><category>Gnome</category><category>Linux</category><category>man</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>OpenOffice</category><category>screencast</category><category>Tabellenkalkulation</category><category>Textverarbeitung</category></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/runlevel.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 30 Nov 2008 22:50:00 +0100</lastBuildDate><item><title>Ubuntu im Textmodus</title><link>http://www.openscreencast.de/blog/ubuntu_im_textmodus.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: sudo, rm, ln, cd&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Dienste"&gt;Runlevel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/GDM"&gt;gdm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Nov 2008 22:50:00 +0100</pubDate><guid>tag:www.openscreencast.de,2008-11-30:blog/ubuntu_im_textmodus.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>ln</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>Textmodus</category><category>ubuntu</category><category>gdm</category><category>Runlevel</category></item></channel></rss>

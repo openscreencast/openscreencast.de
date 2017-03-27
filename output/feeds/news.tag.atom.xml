@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/news.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2016-10-02T12:30:00+02:00</updated><entry><title>Screencast-Programme im Test</title><link href="http://www.openscreencast.de/blog/ScreencastProgramme_im_Test.html" rel="alternate"></link><published>2016-10-02T12:30:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-10-02:blog/ScreencastProgramme_im_Test.html</id><summary type="html">&lt;p&gt;Im neuen &lt;a href="http://www.linux-magazin.de/"&gt;Linux-Magazin&lt;/a&gt; 11/2016 gibt es einen
+Beitrag über &lt;a href="https://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;-Tools. In
+der Kategorie Software - Bitparade schreibt Erik Bärwaldt in dem Artikel "Und
+- Action!" über Programme fürs Screencasting. Die 5 Screencasting-Tools
+&lt;a href="https://launchpad.net/kazam"&gt;Kazam&lt;/a&gt;, &lt;a href="http://recordmydesktop.sourceforge.net/about.php"&gt;Record My
+Desktop&lt;/a&gt;, &lt;a href="http://www.maartenbaert.be/simplescreenrecorder/"&gt;Simple Screen
+Recorder&lt;/a&gt;,
+&lt;a href="http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html"&gt;Vokoscreen&lt;/a&gt; und
+&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; werden unter die Lupe genommen. Sie
+werden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in
+der Praxis miteinander verglichen. Eine weitere Übersicht mit momentan 10
+Screencasting-Tools findet man im &lt;a href="https://wiki.ubuntuusers.de/Screencasts/"&gt;Wiki von
+ubuntuusers.de&lt;/a&gt;. Eine Liste mit
+allen mir bekannten Screencast-Tools findet man &lt;a href="https://github.com/openscreencast/openscreencast_material/blob/master/tools.md"&gt;hier bei
+github&lt;/a&gt;.&lt;/p&gt;</summary><category term="linux"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Screencasting"></category></entry><entry><title>popcorn.js - Demo</title><link href="http://www.openscreencast.de/blog/popcornjs_demo.html" rel="alternate"></link><published>2012-05-16T06:59:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-05-16:blog/popcornjs_demo.html</id><summary type="html">&lt;p&gt;popcorn.js ist ein HTML5 Media Framework. Ich habe dazu schon mehrere
+Screencasts aufgenommen und veröffentlicht.
+&lt;a href="https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp"&gt;https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp&lt;/a&gt;
+Heute habe ich eine popcorn.js - Demo HTML-Seite erstellt. Screencast 185 wird
+dabei gezeigt. Die Plugins wordriver, subtitle und timeline werden genutzt um
+dynamische Anzeigen und Zuatzinformationen zu generieren. Hier ist das
+Ergebnis:&lt;/p&gt;
+&lt;p&gt;popcorn.js - Demo &lt;a href="http://www.openscreencast.de/popcorn/"&gt;http://www.openscreencast.de/popcorn/&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Demo"></category><category term="HTML5"></category><category term="popcorn.js"></category><category term="popcornjs"></category></entry><entry><title>Slideshows als Screencasts</title><link href="http://www.openscreencast.de/blog/slidecasting.html" rel="alternate"></link><published>2011-08-27T04:52:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-27:blog/slidecasting.html</id><summary type="html">&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
+Bildschirm zu machen um ein Video-Tutorial zu erstellen.
+&lt;a href="http://de.wikipedia.org/wiki/Slideshow" title="WP:Slideshow"&gt;Slideshow&lt;/a&gt;-Programme
+können ebenso eingesetzt werden um einfache und doch verständliche
+&lt;a href="http://de.wikipedia.org/wiki/Screencast" title="WP:Screencast"&gt;Screencasts&lt;/a&gt; zu
+erstellen. Mehrere &lt;a href="http://de.wikipedia.org/wiki/Screenshot" title="WP:Screenshot"&gt;Screenshots&lt;/a&gt; eines Arbeitsablaufs zu machen und diese zu einer Slideshow
+zusammenzufügen ist für manche vielleicht auch einfacher als sich mit
+Videobearbeitung unter &lt;a href="http://de.wikipedia.org/wiki/Linux" title="WP:Linux"&gt;Linux&lt;/a&gt;
+herumzuschlagen. Bei jedem einzelnen Arbeitsschritt wird jeweils ein
+Bildschirmfoto gemacht. Screenshots, Erklärungstexte und eine Hintergrundmusik
+ergeben dann ein Video. In der englischen Wikipedia gibt es zu dieser Form von
+Screencasting einen eigenen Begriff. Das Wort dazu heißt
+&lt;a href="http://en.wikipedia.org/wiki/Slidecasting" title="WP:Slidecasting"&gt;Slidecasting&lt;/a&gt;,
+Slidecasts. Slideshow-Programme sind meistens sehr simpel wie z.B. die
+Programme: &lt;a href="http://imagination.sourceforge.net/index.html" title="Link
+zu Imagination"&gt;Imagination&lt;/a&gt;, &lt;a href="http://www.mistelix.org/" title="Link zu mistelix"&gt;Mistelix&lt;/a&gt;,
+&lt;a href="http://www.photofilmstrip.org/" title="Link zu PhotoFilmStrip"&gt;PhotoFilmStrip&lt;/a&gt;,
+&lt;a href="http://www.videoporama.tuxfamily.org" title="Link zu Videoporama"&gt;Videoporama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bei PhotoFilmStrip werden die Erklärungstexte durch einen
+&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="WP:Untertitel"&gt;Untertitel&lt;/a&gt; (.srt-
+Datei) realisiert. Mit allen 4 Programmen habe ich ein Video erstellt. Genutzt
+habe ich, was den Inhalt angeht, den &lt;a href="http://www.openscreencast.de/blog/gnome3_terminal_shortcut" title="Link zu
+Screencast 157"&gt;Screencast 157 - Gnome3 - Terminal mit
+Tastenkuerzel
+starten&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hier sind die Ergebnisse:&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/imagination.ogg" title="Link
+zum Video Imagination.ogg"&gt;Imagination.ogg&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/mistelix.ogg" title="Link zum
+Video Mistelix.ogg"&gt;Mistelix.ogg&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/photofilmstrip.ogg" title="Link zum Video Photofilmstrip.ogg"&gt;Photofilmstrip.ogg&lt;/a&gt;
+&lt;a href="http://www.openscreencast.de/archive/photofilmstrip.srt" title="Link zum Video Photofilmstrip.srt"&gt;Photofilmstrip.srt&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/videoporama.ogg" title="Link
+zum Video Videoporama.ogg"&gt;Videoporama.ogg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artikel in Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://soundcloud.com/openscreencast/slideshow"&gt;Slideshows als Screencasts&lt;/a&gt;
+by &lt;a href="http://soundcloud.com/openscreencast"&gt;openscreencast&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="Screencasts"></category><category term="Slideshow"></category><category term="Slideshow-Programme"></category></entry><entry><title>Untertitel</title><link href="http://www.openscreencast.de/blog/untertitel.html" rel="alternate"></link><published>2011-08-06T06:21:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-06:blog/untertitel.html</id><summary type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
+&lt;a href="http://de.wikipedia.org/wiki/Screencast" title="Screencast"&gt;Screencasts&lt;/a&gt;
+sogenannte .srt-Dateien für die Untertitelanzeige zum Download bereit.
+Wikipedia definiert den Untertitel so:
+&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="Untertitel"&gt;Untertitel&lt;/a&gt; (UT)
+bezeichnen Textzeilen, die unter oder neben Bildern stehen, um schriftliche
+Informationen zum Abgebildeten zu liefern. In einem Film oder einem
+Fernsehbild werden Untertitel meist am unteren Rand eingeblendet, um
+gesprochene Inhalte aus einer Fremdsprache zu übersetzen oder sie für
+Hörgeschädigte erfassbar zu machen. (WP:Untertitel Lizenz:
+&lt;a href="http://creativecommons.org/licenses/by-sa/3.0/legalcode"&gt;http://creativecommons.org/licenses/by-sa/3.0/legalcode&lt;/a&gt;) Auch Youtube
+unterstützt Untertitel und somit gibt es auch beim &lt;a href="http://youtube.com/user/openscreencast" title="Link zu youtube"&gt;Kanal
+openscreencast&lt;/a&gt; die
+Möglichkeit den Untertitel einzublenden. Neulich habe ich den Dienst
+&lt;a href="http://www.universalsubtitles.org/de/"&gt;http://www.universalsubtitles.org/de/&lt;/a&gt; entdeckt. Die Bearbeitung und
+Übersetzung der Untertitel ist bei
+&lt;a href="http://www.universalsubtitles.org/de/" title="Link zu universalsubtitles.org"&gt;http://www.universalsubtitles.org/&lt;/a&gt; durch freiwillige Besucher realisierbar.
+Alle Untertitel (deutschsprachig) von
+&lt;a href="http://www.universalsubtitles.org/de/profiles/profile/openscreencast/" title="Link zu universalsubtitles.org openscreencast"&gt;openscreencast&lt;/a&gt; habe ich dort hochgeladen
+und können nun in andere Sprachen übersetzt werden.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category><category term="Untertitel"></category><category term="subtitle"></category><category term="universalsubtitles.org"></category></entry><entry><title>Der Gnome3 Shell Recorder</title><link href="http://www.openscreencast.de/blog/gnome3_shell_recorder.html" rel="alternate"></link><published>2011-04-23T05:58:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-04-23:blog/gnome3_shell_recorder.html</id><summary type="html">&lt;p&gt;Nicht nur die Screenshot-Funktionalität (Bildschirmfotos erstellen) gehört,
+wie auch schon bei Gnome2, zur Grundausstattung von Gnome3, sondern jetzt auch
+neu die Bildschirmvideoaufnahme. Bisher war es um Bildschirmaktivitäten in
+einem Video festzuhalten immer notwendig ein zusätzliches Tool wie z.B.
+recordmydesktop zu installieren. Jetzt reicht es vollkommen aus wenn die
+Tastenkombination Strg+Alt+Shift+R gedrückt wird um die Bildschirmaufnahme zu
+beginnen und zu beenden. Die Aufnahme wird die ganze Zeit rechts unten durch
+einen kleinen roten Kreis angezeigt.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 1" src="http://www.openscreencast.de/pictures/shellrecorder1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Die festgehaltenen Bilder werden in eine .webm-Datei geschrieben. Die Datei
+mit folgendem Muster shell-yyyymmdd-#.webm befindet sich im Home-Verzeichnis
+und enthält den VP8-Videocodec. Die Framerate beträgt den Wert 15, was
+bedeutet das 15 Bilder pro Sekunden gespeichert werden. Audio-Daten gibt es
+allerdings nicht. Die Framerate und auch das Video-Format können geändert
+werden. Hier kommt das Einstellungstool dconf-editor ins Spiel. dconf-editor
+gehört nicht zum Standard und muss nachinstalliert werden. Bei der
+Linuxdistribution Fedora leitet man dies mit folgendem Befehl in die Wege: &lt;code&gt;su
+-c "yum install dconf-editor"&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 2" src="http://www.openscreencast.de/pictures/shellrecorder2.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Nach dem Start, per Eingabe dconf-editor, findet man unter
+org.gnome.shell.recorder 3 Einstellungsmöglichkeiten. Der Wert der Dateiendung
+(file-extension: webm), der Framerate (framerate: 15) und der pipeline
+(pipeline: '') kann verändert werden.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 3" src="http://www.openscreencast.de/pictures/shellrecorder3.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Möchte man die Modifikation per Befehl bewerkstelligen so sei an dieser Stelle
+der Befehl gsettings erwähnt. Folgende Kommandos sind denkbar um die gesetzten
+Werte abzurufen.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gsettings get org.gnome.shell.recorder file-extension # Dateiendung -
+default: webm  
+gsettings get org.gnome.shell.recorder framerate # Frames pro Sekunde -
+default: 15  
+gsettings get org.gnome.shell.recorder pipeline # Pipeline - default: ''
+('videorate ! vp8enc quality=10 speed=2 threads=%T ! queue ! webmmux')&lt;/code&gt;&lt;br /&gt;
+Da hingegen kann get durch set ersetzt werden um Werte neu zu setzen.&lt;br /&gt;
+&lt;code&gt;gsettings set org.gnome.shell.recorder file-extension ogv # Dateiendung -
+default: webm  
+gsettings set org.gnome.shell.recorder framerate 25 # Frames pro Sekunde -
+default: 15  
+gsettings set org.gnome.shell.recorder pipeline 'videorate ! theoraenc ! queue
+! oggmux' # Pipeline - default: ''&lt;/code&gt;&lt;br /&gt;
+Mit diesen Einstellungen ist das Ergebnis der Aufnahme nun ein Video im Format
+Ogg-Theora.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="gnome3"></category><category term="shell-recorder"></category><category term="dconf-editor"></category><category term="gsettings"></category></entry><entry><title>Statistik 2010</title><link href="http://www.openscreencast.de/blog/statistik_2010.html" rel="alternate"></link><published>2011-02-07T02:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-02-07:blog/statistik_2010.html</id><summary type="html">&lt;p&gt;openscreencast.de - Statistik 2010&lt;/p&gt;
+&lt;p&gt;Download: &lt;a href="http://www.openscreencast.de/pictures/statistik_2010.ods" title="ods
+Download Link"&gt;.ods&lt;/a&gt;
+&lt;a href="http://www.openscreencast.de/pictures/statistik_2010.pdf" title="pdf Download
+Link"&gt;.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pdfreaders.org/"&gt;![pdfreaders.org](http://pdfreaders.org/graphics/pdfreaders-
+free.png)&lt;/a&gt;&lt;/p&gt;</summary><category term="openscreencast"></category><category term="CC by-sa"></category><category term="Statistik"></category><category term="News"></category></entry><entry><title>Frohe Weihnachten 2010</title><link href="http://www.openscreencast.de/blog/weihnachten2010.html" rel="alternate"></link><published>2010-12-24T22:52:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-12-24:blog/weihnachten2010.html</id><summary type="html">&lt;p&gt;openscreencast.de wünscht allen fröhliche Weihnachten !&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Weihnachten" src="http://www.openscreencast.de/pictures/w.png" /&gt;&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>Eine riesige Sammlung von Screencasts - SemperVideo</title><link href="http://www.openscreencast.de/blog/sempervideo.html" rel="alternate"></link><published>2010-11-22T02:05:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-11-22:blog/sempervideo.html</id><summary type="html">&lt;p&gt;Sehen ist Lernen heißt das Motto von
+&lt;a href="http://www.sempervideo.de/"&gt;SemperVideo&lt;/a&gt;. Inzwischen gibt es über 2100
+Videotutorials die eine Hilfestellung bei IT-Problemen bieten. So gibt es
+unter der Kategorie &lt;a href="http://www.sempervideo.de/?cat=5"&gt;Linux&lt;/a&gt; immerhin schon
+mehr als 950 Beiträge. Die Screencasts werden bei
+&lt;a href="http://www.youtube.com/user/SemperVideo"&gt;YouTube&lt;/a&gt; gespeichert und sind alle
+in deutscher Sprache. Sollte für ein bestimmtes Problem noch keine Hilfe im
+Videoformat bei SemperVideo existieren so kann man eine Mail schicken.&lt;/p&gt;</summary><category term="News"></category><category term="Screencasts"></category><category term="SemperVideo"></category></entry><entry><title>LibreOffice 3.3.0 Beta2 - Installation</title><link href="http://www.openscreencast.de/blog/libreoffice_install.html" rel="alternate"></link><published>2010-11-20T06:31:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-11-20:blog/libreoffice_install.html</id><summary type="html">&lt;p&gt;&lt;a href="http://vimeo.com/16663014"&gt;LibreOffice 3.3.0 Beta2 - Installation&lt;/a&gt; from
+&lt;a href="http://vimeo.com/openscreencast"&gt;openscreencast&lt;/a&gt; on
+&lt;a href="http://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lizenz: &lt;a href="http://creativecommons.org/licenses
+/by-sa/3.0/"&gt;&lt;img alt="CC by-
+sa" src="http://www.openscreencast.de/bysa.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://wiki.ubuntuusers.de/​Java/​Installation"&gt;Java Installation&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://documentfoundation.org/​download/​"&gt;LibreOffice&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="ubuntu"></category><category term="LibreOffice"></category></entry><entry><title>GNOME Shell Screencasts</title><link href="http://www.openscreencast.de/blog/gnome_shell.html" rel="alternate"></link><published>2010-10-27T01:28:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-27:blog/gnome_shell.html</id><summary type="html">&lt;p&gt;&lt;a href="http://live.gnome.org/GnomeShell/"&gt;GNOME Shell&lt;/a&gt; stellt innovative Konzepte
+und Technologien bereit um den Gebrauch der
+&lt;a href="http://de.wikipedia.org/wiki/Gnome"&gt;GNOME&lt;/a&gt; Desktopoberfläche noch besser und
+einfacher zu machen. &lt;a href="http://wiki.ubuntuusers.de/Gnome_Shell"&gt;GNOME Shell&lt;/a&gt;
+befindet sich noch in einer frühen Entwicklungsphase und viele Funktionen sind
+noch nicht implementiert. Viele
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; zeigen was mit GNOME
+Shell heute schon alles möglich ist.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://vimeo.com/tag:gnome%20shell"&gt;Vimeo Tag:GNOME Shell&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://vimeo.com/user2664247"&gt;Vimeo GNOME Shell&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://live.gnome.org/GnomeShell/Screencasts"&gt;GNOME Shell&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/results?search_query=gnome+shell&amp;amp;aq=f"&gt;YouTube GNOME
+Shell&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Gnome Shell"></category><category term="Gnome"></category></entry><entry><title>Shutter Screencasts</title><link href="http://www.openscreencast.de/blog/shutter.html" rel="alternate"></link><published>2010-10-19T00:36:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-19:blog/shutter.html</id><summary type="html">&lt;p&gt;&lt;a href="http://shutter-project.org/"&gt;Shutter&lt;/a&gt; ist ein Tool um Bildschirmfotos
+(Screenshots) aufzunehmen.
+&lt;a href="http://de.wikipedia.org/wiki/Shutter_%28Software%29"&gt;Shutter&lt;/a&gt; ist Open-
+Source-Software und steht unter der Lizenz
+&lt;a href="http://de.wikipedia.org/wiki/GPLv3#GPL_Version_3"&gt;GPLv3&lt;/a&gt;. Mit Shutter können
+ganze Desktops, Fenster, spezifische Bereiche, Menüs, Tooltips und Webseiten
+aufgenommen werden. Wie Shutter funktioniert zeigen auch die
+&lt;a href="http://shutter-project.org/preview/screencasts/"&gt;Screencasts&lt;/a&gt; dazu.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Shutter"></category></entry><entry><title>vimcasts.org</title><link href="http://www.openscreencast.de/blog/vimcasts.html" rel="alternate"></link><published>2010-10-15T01:39:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-15:blog/vimcasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; speziell über den
+Texteditor &lt;a href="http://de.wikipedia.org/wiki/Vim"&gt;vim&lt;/a&gt; gibt es bei
+&lt;a href="http://vimcasts.org/"&gt;Vimcasts.org&lt;/a&gt; (Englisch). Die Videos stehen im
+&lt;a href="http://de.wikipedia.org/wiki/Quicktime"&gt;Quicktime&lt;/a&gt;- und
+&lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;Ogg&lt;/a&gt;-Format zum Download zur Verfügung.
+Seit den ersten 4 Episoden im Januar 2010 gibt es nun schon 27 Episoden die
+erklären wie vim funktioniert. Die Screencasts werden von Drew Neil produziert
+und mit dem Tool screenflow erstellt.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category><category term="vim"></category></entry><entry><title>Screencasttools-Liste</title><link href="http://www.openscreencast.de/blog/Screencasttools_Liste.html" rel="alternate"></link><published>2010-10-07T02:17:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-07:blog/Screencasttools_Liste.html</id><summary type="html">&lt;p&gt;Eine Liste der bekanntesten Screencasttools für Linux&lt;/p&gt;
+&lt;p&gt;Download: &lt;a href="http://www.openscreencast.de/pictures/screencasttools.ods"&gt;.ods&lt;/a&gt;
+&lt;a href="http://www.openscreencast.de/pictures/screencasttools.pdf"&gt;.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pdfreaders.org/"&gt;![pdfreaders.org](http://pdfreaders.org/graphics/pdfreaders-
+free.png)&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="CC by"></category><category term="Liste"></category></entry><entry><title>Krut</title><link href="http://www.openscreencast.de/blog/krut.html" rel="alternate"></link><published>2010-09-28T00:38:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-09-28:blog/krut.html</id><summary type="html">&lt;p&gt;&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; ist ein Screencast-Tool. Krut wurde in
+der Programmiersprache
+&lt;a href="http://de.wikipedia.org/wiki/Java_%28Programmiersprache%29"&gt;Java&lt;/a&gt; geschrieben
+und erstellt Video-Tutorials. Die Videos werden im &lt;a href="http://de.wikipedia.org/wiki/QuickTime"&gt;mov-
+Format&lt;/a&gt; aufgenommen. Krut steht unter
+der Lizenz &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPLv2&lt;/a&gt;. 2004 wurde das Projekt
+gestartet. Heute steht bereits Version 0.9.3 zum Download zur Verfügung.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Krut"></category><category term="Java"></category></entry><entry><title>Screencasts über Inkscape und Gimp</title><link href="http://www.openscreencast.de/blog/inkscape_und_gimp.html" rel="alternate"></link><published>2010-09-01T03:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-09-01:blog/inkscape_und_gimp.html</id><summary type="html">&lt;p&gt;Tolle &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; über
+&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt; und
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt; habe ich gerade bei &lt;a href="http://karl-tux-stadt.de/ktuxs/?getaggt=Screencast"&gt;karl-tux-
+stadt.de&lt;/a&gt; entdeckt. Zu
+finden sind die Screencasts auch direkt bei
+&lt;a href="http://vimeo.com/gnokii"&gt;vimeo.com&lt;/a&gt;.&lt;/p&gt;</summary><category term="Gimp"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Untertitel in Esperanto</title><link href="http://www.openscreencast.de/blog/esperanto.html" rel="alternate"></link><published>2010-08-11T03:44:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-08-11:blog/esperanto.html</id><summary type="html">&lt;p&gt;2 Untertitel gibt es jetzt auch in der Sprache
+&lt;a href="http://de.wikipedia.org/wiki/Esperanto"&gt;Esperanto&lt;/a&gt; für folgende Videos:&lt;/p&gt;
+&lt;p&gt;Screencast 084 - uptime&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/eo/uptime_084.srt"&gt;Untertitel Esperanto&lt;/a&gt;
+| &lt;a href="http://www.openscreencast.de/archive/eo/uptime_oM_084.srt"&gt;Untertitel Esperanto (ohne
+Musik)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Screencast 083 - key-mon und screenkey&lt;br /&gt;
+&lt;a href="http://www.openscreencast.de/archive/eo/keymon_screenkey_083.srt"&gt;Untertitel
+Esperanto&lt;/a&gt; |
+&lt;a href="http://www.openscreencast.de/archive/eo/keymon_screenkey_oM_083.srt"&gt;Untertitel Esperanto (ohne
+Musik)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sollte irgendwo ein Fehler sein, Benachrichtigung per E-Mail bitte.&lt;/p&gt;
+&lt;p&gt;Mi estas komencanto. Mi skribis du subtitolojn en Esperanto. Se mi faris
+erarojn, bonvolu skribu retmesaĝon.&lt;/p&gt;</summary><category term="News"></category><category term="Untertitel"></category><category term="Esperanto"></category></entry><entry><title>screencasts bei vimeo</title><link href="http://www.openscreencast.de/blog/vimeo.html" rel="alternate"></link><published>2010-08-10T00:00:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-08-10:blog/vimeo.html</id><summary type="html">&lt;p&gt;Ab sofort werden die Videos von openscreencast bei
+&lt;a href="http://www.vimeo.com"&gt;vimeo&lt;/a&gt; hochgeladen. Einige Screencasts stehen schon bei
+&lt;a href="http://www.vimeo.com/openscreencast"&gt;http://www.vimeo.com/openscreencast&lt;/a&gt; zur Verfügung. Weitere Videos werden mit
+der Zeit hochgeladen. &lt;a href="http://de.wikipedia.org/wiki/Vimeo"&gt;Vimeo&lt;/a&gt; ist übrigens
+ein Videoportal für nicht-kommerzielle Videos.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Video"></category><category term="vimeo"></category></entry><entry><title>wpscreencasts</title><link href="http://www.openscreencast.de/blog/wpscreencasts.html" rel="alternate"></link><published>2010-06-23T01:42:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-06-23:blog/wpscreencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://wpscreencasts.com/"&gt;wpscreencasts&lt;/a&gt; ist eine Sammlung von
+Videotutorials für Leute die
+&lt;a href="http://de.wikipedia.org/wiki/Wordpress"&gt;Wordpress&lt;/a&gt; benutzen. Die Screencasts
+sind in Englisch und wurden mit WP 2.6 und WP 2.7 gemacht.&lt;/p&gt;</summary><category term="Englisch"></category><category term="News"></category><category term="screencast"></category><category term="Wordpress"></category></entry><entry><title>Railscasts</title><link href="http://www.openscreencast.de/blog/Railscasts.html" rel="alternate"></link><published>2010-04-30T03:20:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-04-30:blog/Railscasts.html</id><summary type="html">&lt;p&gt;Freie Ruby on Rails Screencasts gibt es bei &lt;a href="http://railscasts.com/"&gt;http://railscasts.com/&lt;/a&gt;. &lt;a href="http://de.wikipedia.org/wiki/Ruby_on_Rails"&gt;Ruby on
+Rails&lt;/a&gt; ist ein offenes Web
+Application Framework in der Programmiersprache Ruby. Die Screencasts gibt es
+als .mov-Datei und .m4v-Datei. Mittlerweile stehen schon über 200 Videos zum
+Download bereit.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="railscasts"></category></entry><entry><title>skreener</title><link href="http://www.openscreencast.de/blog/skreener.html" rel="alternate"></link><published>2010-01-13T17:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-01-13:blog/skreener.html</id><summary type="html">&lt;p&gt;Neu ist das Screencast-Tool &lt;a href="http://code.google.com/p/skreener/"&gt;skreener&lt;/a&gt;.
+Skreener ist ähnlich wie Wink. Screencasts, die aufgezeichneten Aktionen auf
+dem Bildschirm, werden als Animation im SVG-Format gespeichert. (Einzelne
+Screenshots werden im .png-Format gespeichert. In der .svg-Datei wird bestimmt
+wohin sich der Pfeil bewegt). Das Tool wurde in C++ geschrieben und steht
+unter der GPL-Lizenz.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="skreener"></category></entry><entry><title>RecordItNow</title><link href="http://www.openscreencast.de/blog/RecordItNow.html" rel="alternate"></link><published>2009-12-04T17:33:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-12-04:blog/RecordItNow.html</id><summary type="html">&lt;p&gt;Um Screencasts unter KDE4 mit recordmydesktop aufzunehmen gibt es jetzt ein
+schönes, neues Fronted dafür. Dieses Programm trägt den Namen
+&lt;a href="http://opendesktop.org/content/show.php/RecordItNow?content=114610"&gt;RecordItNow&lt;/a&gt;.
+Es gibt Module für Desktopaufnahmen, zum Hochladen der Screencasts auf
+Videoportale und es gibt Module um die Videos zu konvertieren.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="RecordItNow"></category></entry><entry><title>OpenShot Video Editor</title><link href="http://www.openscreencast.de/blog/OpenShot.html" rel="alternate"></link><published>2009-11-10T17:24:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-11-10:blog/OpenShot.html</id><summary type="html">&lt;p&gt;Vor kurzem erst habe ich einen neuen Video-Editor für Linux entdeckt. Dieser
+nichtlineare Open-Source Video-Editor heißt
+&lt;a href="http://www.openshotvideo.com/"&gt;OpenShot&lt;/a&gt;. Die Bedienung von OpenShot ist sehr
+einfach. OpenShot unterstützt viele Video-, Audio- und Bilder-Formate. Titel
+können erstellt werden und es gibt über 20 Video-Effekte die man einsetzen
+kann. Ein paar &lt;a href="http://www.openshotvideo.com/2008/04/videos.html"&gt;Videos&lt;/a&gt;
+stehen auch zur Verfügung.&lt;/p&gt;</summary><category term="News"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category><category term="OpenShot"></category></entry><entry><title>WikkaWiki Screencasts</title><link href="http://www.openscreencast.de/blog/WikkaWiki.html" rel="alternate"></link><published>2009-10-20T18:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-10-20:blog/WikkaWiki.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/WikkaWiki"&gt;WikkaWiki&lt;/a&gt; ist eine, wie man am Namen
+schon erkennen kann, Wiki-Software. WikkaWiki ist in der Programmiersprache
+PHP geschrieben und steht unter der &lt;a href="http://de.wikipedia.org/wiki/GPL"&gt;GPL-
+License&lt;/a&gt;. Es stehen mehrere kurze
+&lt;a href="http://docs.wikkawiki.org/WikkaInAction"&gt;Screencasts&lt;/a&gt; auf der Homapge von
+WikkaWiki zur Verfügung. Außerdem gibt es die Videos noch bei YouTube.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="WikkaWiki"></category></entry><entry><title>Key Status Monitor</title><link href="http://www.openscreencast.de/blog/Key_Status_Monitor.html" rel="alternate"></link><published>2009-07-26T20:46:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-07-26:blog/Key_Status_Monitor.html</id><summary type="html">&lt;p&gt;Nach so einem Tool habe ich schon lange gesucht. Ein Tool das anzeigt welche
+Tasten gerade gedrückt werden, sehr nützlich für Screencasts. Das Tool trägt
+den Namen Key Status Monitor und wird &lt;a href="http://linuxundich.de/de/ubuntu
+/screencasts-mit-hilfe-von-key-status-monitor-verbessern/"&gt;hier&lt;/a&gt; kurz vorgestellt.
+Ein Screencast gibt es dazu auch zu sehen.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Key Status Monitor"></category></entry><entry><title>1. Quartal 2009</title><link href="http://www.openscreencast.de/blog/quartal1_2009.html" rel="alternate"></link><published>2009-04-02T17:18:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-04-02:blog/quartal1_2009.html</id><summary type="html">&lt;p&gt;Statistik:&lt;br /&gt;
+Jan: 35GB Traffic, 2800 Besucher, 3700 Downloads&lt;br /&gt;
+Feb: 66GB Traffic, 3700 Besucher, 5300 Downloads&lt;br /&gt;
+Mär: 60GB Traffic, 5100 Besucher, 5800 Downloads&lt;br /&gt;
+1Q: 161GB Traffic, 11600 Besucher, 14800 Downloads&lt;/p&gt;
+&lt;p&gt;Sonstiges:&lt;br /&gt;
+openscreencast.de hat sich bei &lt;a href="http://identi.ca/openscreencast"&gt;identi.ca&lt;/a&gt;
+angemeldet&lt;/p&gt;
+&lt;p&gt;Jan: 6 Beiträge ( 5 Screencasts, 1 Artikel)&lt;br /&gt;
+Feb: 12 Beiträge ( 6 Screencasts, 6 Artikel)&lt;br /&gt;
+Mär: 10 Beiträge ( 7 Screencasts, 3 Artikel)&lt;br /&gt;
+1Q: 28 Beiträge (18 Screencasts, 10 Artikel)&lt;/p&gt;</summary><category term="openscreencast"></category><category term="News"></category></entry><entry><title>video-Tag testen</title><link href="http://www.openscreencast.de/blog/videotag_testen.html" rel="alternate"></link><published>2009-03-19T16:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-19:blog/videotag_testen.html</id><summary type="html">&lt;p&gt;Mit &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox 3.1b3&lt;/a&gt; (später Firefox 3.5)
+ist nun das direkte Einbinden von Ogg
+&lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Theora&lt;/a&gt;-Videos in die Webseite per
+video-Tag möglich. Screencast 067 - Sweeper enthält nun zum testen dieses
+video-Tag. Bei mir hat es leider noch nicht so gut funktioniert. &lt;a href="http://web205.login-69.hoststar.ch/?p=433"&gt;Paketquelle
+für Firefox 3.1b3 bei Ubuntu&lt;/a&gt;&lt;/p&gt;</summary><category term="Firefox"></category><category term="News"></category><category term="video-tag"></category></entry><entry><title>recordmydesktop</title><link href="http://www.openscreencast.de/blog/screencasttool_recordmydesktop.html" rel="alternate"></link><published>2009-03-18T01:53:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-18:blog/screencasttool_recordmydesktop.html</id><summary type="html">&lt;p&gt;recordmydesktop ist ein Screencast-Tool für Linux und wurde in C geschrieben.
+Die Aufnahme wird als Ogg Theora Video-Datei gespeichert. Das Programm wird im
+Terminal gestartet. Es gibt aber auch grafische Oberflächen um die Benutzung
+zu vereinfachen, gtk-recordMyDesktop und qt-recordMyDesktop. Man findet das
+Programm auf der Seite&lt;br /&gt;
+&lt;a href="http://recordmydesktop.sourceforge.net/about.php"&gt;http://recordmydesktop.sourceforge.net/about.php&lt;/a&gt;. Aktuell ist die Version
+0.3.8.1.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>silverstripe screencasts</title><link href="http://www.openscreencast.de/blog/silverstripe_screencasts.html" rel="alternate"></link><published>2009-03-04T04:39:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-04:blog/silverstripe_screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://silverstripe.com/"&gt;Silverstripe&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt; &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content Management
+System&lt;/a&gt; und wurde vom
+gleichnamigen Unternehmen in Neuseeland entwickelt. Silverstripe steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/BSD_Lizenz"&gt;BSD-Lizenz&lt;/a&gt; und macht die
+Installation durch ein paar &lt;a href="http://www.silverstripe.com
+/screencast-tutorials-contributed/"&gt;Screencasts&lt;/a&gt; leichter.&lt;/p&gt;</summary><category term="CMS"></category><category term="News"></category><category term="screencast"></category><category term="silverstripe"></category></entry><entry><title>Openscreencast jetzt bei identi.ca</title><link href="http://www.openscreencast.de/blog/identica.html" rel="alternate"></link><published>2009-03-01T05:38:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-01:blog/identica.html</id><summary type="html">&lt;p&gt;Openscreencast ist jetzt beim Microbloggingdienst identi.ca zu finden. Kurze
+Nachrichten werden euch demnächst über alle Neuigkeiten bei Openscreencast
+informieren. &lt;a href="http://identi.ca/openscreencast"&gt;http://identi.ca/openscreencast&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category><category term="identi.ca"></category><category term="Microblogging"></category></entry><entry><title>Istanbul</title><link href="http://www.openscreencast.de/blog/istanbul.html" rel="alternate"></link><published>2009-02-24T04:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-24:blog/istanbul.html</id><summary type="html">&lt;p&gt;Istanbul macht Aufnahmen von Bildschirmaktivitäten und speichert die Aufnahme
+als Ogg Theora Video-Datei. Istanbul funktioniert bei Gnome, KDE und Xfce. Man
+findet das Programm auf der Seite &lt;a href="http://live.gnome.org/Istanbul"&gt;http://live.gnome.org/Istanbul&lt;/a&gt;. Aktuell
+ist die Version 0.2.2 vom 23.02.2007.&lt;/p&gt;</summary><category term="istanbul"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>Byzanz</title><link href="http://www.openscreencast.de/blog/byzanz.html" rel="alternate"></link><published>2009-02-14T01:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-14:blog/byzanz.html</id><summary type="html">&lt;p&gt;Byzanz ist ein Gnome-Panel, macht Aufnahmen von Bildschirmaktivitäten und
+speichert die Aufnahme als animierte
+&lt;a href="http://de.wikipedia.org/wiki/GIF"&gt;.gif&lt;/a&gt;-Datei (keine Audioaufnahme). Für
+großformatige und langdauernde
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;screencasts&lt;/a&gt; eignet sich diese
+Methode nicht, aber es reicht halt ein Browser um die Aufnahme abzuspielen, es
+ist kein zusätzliches Plugin oder Programm notwendig. Um in Dokumentationen
+und Handbüchern kurze Abläufe und Arbeitsschritte zu zeigen ist das Programm
+ganz gut geeignet. Man findet das Programm auf der Seite
+&lt;a href="http://gnomefiles.org/app.php/Byzanz"&gt;http://gnomefiles.org/app.php/Byzanz&lt;/a&gt;. Ein Demo wird
+&lt;a href="http://people.freedesktop.org/~company/byzanz/demo.gif"&gt;hier&lt;/a&gt; gezeigt.
+Aktuell ist die Version 0.1.1 vom 16.05.2006.&lt;/p&gt;</summary><category term="byzanz"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>Irgendwelche Anregungen ?</title><link href="http://www.openscreencast.de/blog/irgendwelche_anregungen.html" rel="alternate"></link><published>2009-02-12T02:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-12:blog/irgendwelche_anregungen.html</id><summary type="html">&lt;p&gt;Wenn Ihr irgendwelche Anregungen oder Ideen zur Verbesserung der Screencasts
+oder der Webseite habt könnt Ihr ruhig Kommentare schreiben oder eine E-Mail
+an info(at)openscreencast.de. Was findet Ihr schon gut und was nicht so gut ?
+Welche Themen genau sollten die Screencasts haben, was für einen Inhalt
+sollten die Screencasts haben ? Seit Ihr mit den Dateiformaten zufrieden ?&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>2 weitere Screencasts über inkscape</title><link href="http://www.openscreencast.de/blog/weitere_inkscape_screencasts.html" rel="alternate"></link><published>2009-02-12T02:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-12:blog/weitere_inkscape_screencasts.html</id><summary type="html">&lt;p&gt;Gerade habe ich 2 weitere Screencasts über
+&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;inkscape&lt;/a&gt; bei
+&lt;a href="http://www.primfaktor.de/index.php?section=tutorials"&gt;primfaktor.de&lt;/a&gt;
+gefunden. Die Themen heissen "Sterne und Polygone in Inkscape" und
+"Farbverläufe in Inkscape". Die Videos sind für Anfänger und stehen unter der
+Lizenz &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/de/"&gt;http://creativecommons.org/licenses/by-sa/2.0/de/&lt;/a&gt;.&lt;/p&gt;</summary><category term="Deutsch"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>KWin 4.2 - Screencasts</title><link href="http://www.openscreencast.de/blog/KWin_screencasts.html" rel="alternate"></link><published>2009-02-07T20:40:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-07:blog/KWin_screencasts.html</id><summary type="html">&lt;p&gt;Beim Bericht &lt;a href="http://www
+.pro-linux.de/berichte/kwin42.html"&gt;Kwin 4.2 - Neues aus dem Land der wabernden Fenster&lt;/a&gt;, bei &lt;a href="http://www.pro-
+linux.de/"&gt;pro-linux.de&lt;/a&gt;, der übrigends im Magazin &lt;a href="http://www.freiesmagazin.de/20090201-februarausgabe-erschienen"&gt;freiesMagazin
+02/2009&lt;/a&gt;
+erschienen ist, bin ich auf mehrere Screencasts gestossen, wo man die Künste
+von Kwin 4.2 bewundern kann.&lt;br /&gt;
+&lt;a href="http://www.undefinedfire.com/kde/41-42-kwin/"&gt;http://www.undefinedfire.com/kde/41-42-kwin/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://blip.tv/file/1581753/"&gt;http://blip.tv/file/1581753/&lt;/a&gt;&lt;/p&gt;</summary><category term="KDE"></category><category term="News"></category><category term="screencast"></category><category term="KWin"></category></entry><entry><title>Jahr 2009</title><link href="http://www.openscreencast.de/blog/jahr_2009.html" rel="alternate"></link><published>2009-01-01T23:03:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-01-01:blog/jahr_2009.html</id><summary type="html">&lt;p&gt;Openscreencast wünscht allen ein gesundes, erfolgreiches, glückliches, neues
+Jahr.&lt;br /&gt;
+Openscreencast - Statistiken (ca.):&lt;br /&gt;
+Jahr 2006: 120 GB Traffic, 14000 Besucher, 5000 Downloads&lt;br /&gt;
+Jahr 2007: 300 GB Traffic, 51000 Besucher, 26000 Downloads&lt;br /&gt;
+Jahr 2008: 230 GB Traffic, 48000 Besucher, 21000 Downloads&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category></entry><entry><title>Froehliche Weihnachten 2008</title><link href="http://www.openscreencast.de/blog/froehliche_weihnachten_2008.html" rel="alternate"></link><published>2008-12-26T02:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-26:blog/froehliche_weihnachten_2008.html</id><summary type="html">&lt;p&gt;Openscreencast wünscht allen fröhliche Weihnachten, viel Freude und viel
+Gesundheit !!!&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category></entry><entry><title>screencasters.heathenx.org - Inkscape Tutorials</title><link href="http://www.openscreencast.de/blog/screencasters_heathenx_org.html" rel="alternate"></link><published>2008-11-15T00:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-15:blog/screencasters_heathenx_org.html</id><summary type="html">&lt;p&gt;Wer lernen möchte mit &lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt; besser
+umzugehen, wer sich einfach nur mal die Möglichkeiten von Inkscape anschauen
+möchte ist bei
+&lt;a href="http://screencasters.heathenx.org/"&gt;screencasters.heathenx.org&lt;/a&gt; an der
+richtigen Adresse. Viele Lernvideos über Inkscape, momentan sind es 75, stehen
+im .avi(h264,mp3)-Format zum Download bereit. Das Motto heisst, watch learn
+do. Die Videos stehen unter der Lizenz &lt;a href="http://creativecommons.org/licenses
+/by-nc-sa/3.0/"&gt;http://creativecommons.org/licenses
+/by-nc-sa/3.0/&lt;/a&gt; und sind in Englisch.&lt;/p&gt;</summary><category term="Englisch"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>opensourcepodcast</title><link href="http://www.openscreencast.de/blog/opensourcepodcast.html" rel="alternate"></link><published>2008-10-30T00:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-10-30:blog/opensourcepodcast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.opensource-podcast.de/"&gt;opensourcepodcast&lt;/a&gt; ist ein Video-Podcast
+das speziell Video-Tutorials über Open Source Anwendungen veröffentlicht.
+Momentan ist opensourcepodcast bei der Episode 43, Latex - Schriftarten. Es
+stehen Videos (.m4v und .flv Dateien) über OpenOffice, Drupal, openSuSE usw.
+zum Abspielen und zum Download bereit. Jede Woche kann man sich auf ein neues
+Screencast bei opensourcepodcast freuen. (&lt;a href="http://www.opensource-podcast.de"&gt;http://www.opensource-podcast.de&lt;/a&gt;)&lt;/p&gt;</summary><category term="Deutsch"></category><category term="News"></category><category term="screencast"></category><category term="opensourcepodcast"></category></entry><entry><title>KDE4 Zauber</title><link href="http://www.openscreencast.de/blog/KDE4_Zauber.html" rel="alternate"></link><published>2008-01-03T20:52:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-01-03:blog/KDE4_Zauber.html</id><summary type="html">&lt;p&gt;Ein kleiner &lt;a href="http://francis.giannaros.org/blog/2007/12/03/kde4
+-desktop-effects-kwin-composite-video-tour/"&gt;Einblick &lt;/a&gt; in die Zauberkünste von KDE4.&lt;/p&gt;</summary><category term="KDE"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Jahr 2008</title><link href="http://www.openscreencast.de/blog/Jahr_2008.html" rel="alternate"></link><published>2007-12-31T22:56:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-12-31:blog/Jahr_2008.html</id><summary type="html">&lt;p&gt;Ich wünsche allen einen guten Rutsch ins neue Jahr 2008. Hier mal ein paar
+Videos über Verschlüsselung und anonym im Internet&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://video.google.de/videoplay?docid=-1406554841214806941&amp;amp;hl=de"&gt;PGP-Verschlüsselung: Video-Tutorial
+(de)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=zUa7DKVaA64#"&gt;Verschlüsseln von EMails mit Thunderbird
+(de)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=3t-eFIYhIYk#"&gt;PGP Desktop Tutorial (en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=HR5OCeKRUcU#"&gt;Tutorial - ICQ anonym nutzen
+(de)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=LHQ8zBefq1g#"&gt;TrueCrypt Tutorial (low res)
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=UoMPeDZFbi0#"&gt;Using Truecrypt to create an encrypted volume
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=z5Dsxwn3-GM#"&gt;TrueCrypt Tutorial: 01 - Download TrueCrypt
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=zivHITjiN48#"&gt;TrueCrypt Tutorial: 02 - InstallTrueCrypt
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=5cxG1ltR5GU#"&gt;TrueCrypt Tutorial: 03 - Create TrueCrypt Volume
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.youtube.com/watch?v=kGoeSeBivig#"&gt;TrueCrypt Tutorial: 04 - Mount TrueCrypt Volumes
+(en)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.sevenload.com/videos/aZpHhPy-
+V18F/proxy"&gt;proxy - anonym im Internet (de)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.videotrainingsworkshop.de/html/801.html"&gt;PGP (de)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://feeds.feedburner.com/~r/digitalupgrade/~3/171076344/show_4.m4v"&gt;digital upgrade - show 4 E-Mail
+Verschluesselung&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kommentare:&lt;/p&gt;
+&lt;p&gt;wöchentlicher video-podcast (07/07/2008 - 06:55)&lt;br /&gt;
+hallo,&lt;br /&gt;
+echt schade, dass hier nichts neues mehr nachkommt... trotzdem lob und dank
+für die vielen interessanten videos die sich angesammelt haben!&lt;br /&gt;
+für alle die nach neuem gieren: hier gibts einen video-podcast der jede woche
+eine neue episode bringt: http: http://www.opensource-podcast.de&lt;/p&gt;
+&lt;p&gt;Antwort (09/02/2008 - 10:56)&lt;br /&gt;
+Es wird bestimmt auch andere Lösungen geben, die ich erst finden muss, aber
+Drupal, Video-Modul ist eigentlich die optimalste Lösung finde ich.&lt;/p&gt;
+&lt;p&gt;Video (08/27/2008 - 10:57)&lt;br /&gt;
+Was genau hast Du denn vor, dass es ohne das Video-Modul nicht geht?&lt;/p&gt;
+&lt;p&gt;neue Seite (07/07/2008 - 10:57)&lt;br /&gt;
+Die Seite wird neu gemacht. Ich warte schon ein halbes Jahr auf eine stabile
+Version für das Video Modul für Drupal 5.0, davon ist das ganze nämlich ein
+bisschen abhängig. Wenn es nicht bald erscheint muss ich eine andere Lösung
+finden. Wer Ideen hat kann gerne ein Kommentar schreiben. Ich hoffe das ich
+bald wieder neue Screencasts veröffentlichen kann.&lt;br /&gt;
+Bis dahin, hier mal eine Liste aller Screencast-Webseiten die ich kenne.&lt;br /&gt;
+http://www.openscreencast.de/wiki/index.php/Screencast_Links&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>Weihnachtswuensche 2007</title><link href="http://www.openscreencast.de/blog/Weihnachtswuensche_2007.html" rel="alternate"></link><published>2007-12-24T20:55:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-12-24:blog/Weihnachtswuensche_2007.html</id><summary type="html">&lt;p&gt;Ich wünsche allen ein magisches frohes Fest und einen enorm guten Rutsch ins
+neue Jahr.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>screencast.at - neue Screencasts</title><link href="http://www.openscreencast.de/blog/screencast_at_neue_Screencasts.html" rel="alternate"></link><published>2007-12-01T17:04:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-12-01:blog/screencast_at_neue_Screencasts.html</id><summary type="html">&lt;p&gt;Ein neuer Stern ist am Screencast-Himmel sichtbar. Die Seite
+&lt;a href="http://www.screencast.at"&gt;screencast.at&lt;/a&gt; hat es sich zur Aufgabe gemacht die
+weniger Erfahrenen bei den ersten Gehversuchen zu unterstützen - in welcher
+Rubrik der gesuchten Softwarelösung auch immer. Weitere Informationen findet
+Ihr &lt;a href="http://www.screencast.at/das-phaenomen-screencast-publishing"&gt;hier&lt;/a&gt;. Alle
+Screencasts stehen unter der Lizenz &lt;a href="http://de.wikipedia.org/wiki/Creative_Commons"&gt;Creative
+Commons&lt;/a&gt; BY.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Deutsch"></category><category term="News"></category><category term="screencast"></category><category term="screencast.at"></category></entry><entry><title>Meet the Gimp</title><link href="http://www.openscreencast.de/blog/Meet_the_Gimp.html" rel="alternate"></link><published>2007-10-03T22:50:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-10-03:blog/Meet_the_Gimp.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/GIMP"&gt;Gimp&lt;/a&gt; besser kennenlernen, da ist das neue
+&lt;a href="http://www.meetthegimp.org/"&gt;Meet the Gimp&lt;/a&gt; genau das richtige Video Podcast.
+Die Videos sind in Englisch und stehen unter der &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/de/"&gt;Creative Commons
+Attribution-Share Alike 2.0 Germany
+License&lt;/a&gt;.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="Gimp"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Screencasts ueber Plone</title><link href="http://www.openscreencast.de/blog/Screencasts_ueber_Plone.html" rel="alternate"></link><published>2007-09-14T22:56:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-09-14:blog/Screencasts_ueber_Plone.html</id><summary type="html">&lt;p&gt;Hier mal ein paar Screencasts über das &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content-Management-
+System&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Plone"&gt;Plone&lt;/a&gt;. Plone ist in
+&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29"&gt;Python&lt;/a&gt;
+geschrieben und steht unter der Lizenz
+&lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_Licence"&gt;GPL&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://plone.org/products/compositepack/documentation/video"&gt;http://plone.org/products/compositepack/documentation/video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mrtopf.tv/vlog/2006/08/cache-fu-interview-and-screencast-with.html"&gt;http://mrtopf.tv/vlog/2006/08/cache-fu-interview-and-screencast-with.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://plone.org/about/movies"&gt;http://plone.org/about/movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.archive.org/details/SeanKellyGettingYourFeetWetwithPlone"&gt;http://www.archive.org/details/SeanKellyGettingYourFeetWetwithPlone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CMS"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="Plone"></category><category term="python"></category><category term="screencast"></category></entry><entry><title>Screencastmonat bei Ubuntu</title><link href="http://www.openscreencast.de/blog/Screencastmonat_bei_Ubuntu.html" rel="alternate"></link><published>2007-09-02T19:34:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-09-02:blog/Screencastmonat_bei_Ubuntu.html</id><summary type="html">&lt;p&gt;Das &lt;a href="http://screencasts.ubuntu.com/"&gt;Screencast-Team von Ubuntu&lt;/a&gt; hat verkündet
+das es einen Screencast-Monat 2007 gibt. Im Monat September 2007 soll es jeden
+Tag einen neuen Screencast geben, in verschiedenen Formaten und Größen. Die
+Videos sollen den neuen Ubuntu-Benutzern helfen und stehen unter der Lizenz
+&lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;. Introduction-Videos stehen
+bereits zum Download bereit.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>Kdenlive Screencasts</title><link href="http://www.openscreencast.de/blog/Kdenlive_Screencasts.html" rel="alternate"></link><published>2007-08-30T01:02:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-30:blog/Kdenlive_Screencasts.html</id><summary type="html">&lt;p&gt;Auch &lt;a href="http://de.wikipedia.org/wiki/Kdenlive"&gt;Kdenlive&lt;/a&gt;, der Nicht-Lineare Open
+Source Video-Editor für &lt;a href="http://de.wikipedia.org/wiki/Kde"&gt;KDE&lt;/a&gt;, hat schon
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt;. Zum Download stehen
+die englischen Video-Tutorials im Format &lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Ogg
+Theora&lt;/a&gt; auf der Seite
+&lt;a href="http://www.kdenlive.org/tutorials/"&gt;http://www.kdenlive.org/tutorials/&lt;/a&gt; bereit.&lt;/p&gt;</summary><category term="Englisch"></category><category term="GPL"></category><category term="KDE"></category><category term="Kdenlive"></category><category term="linux"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>Videotutorials fuer Blender</title><link href="http://www.openscreencast.de/blog/Videotutorials_fuer_Blender.html" rel="alternate"></link><published>2007-08-15T20:54:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-15:blog/Videotutorials_fuer_Blender.html</id><summary type="html">&lt;p&gt;Die meisten werden es schon bei &lt;a href="http://www.pro-
+linux.de/news/2007/11581.html"&gt;pro-linux.de&lt;/a&gt; gelesen haben, für die die es noch nicht
+gelesen haben hier der
+&lt;a href="http://www.montagestudio.org/Site/Tutorials.html"&gt;Link&lt;/a&gt; zu den 4
+Trainingsvideos für
+&lt;a href="http://de.wikipedia.org/wiki/Blender_%28Software%29"&gt;Blender&lt;/a&gt;.&lt;/p&gt;</summary><category term="Blender"></category><category term="Englisch"></category><category term="Multimedia"></category><category term="News"></category><category term="pro-linux.de"></category><category term="screencast"></category></entry><entry><title>Kino kennenlernen</title><link href="http://www.openscreencast.de/blog/Kino_kennenlernen.html" rel="alternate"></link><published>2007-08-09T00:31:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-09:blog/Kino_kennenlernen.html</id><summary type="html">&lt;p&gt;Wer sich einen ersten Eindruck verschaffen will welche Möglichkeiten das
+Programm Kino bietet kann folgende Adresse in seinen Browser eintippen und
+sich den Screencast (in Englisch) anschauen. (&lt;a href="http://www.kinodv.org"&gt;http://www.kinodv.org&lt;/a&gt;) Kino
+ist ein unter der Lizenz
+&lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt; stehendes
+Videobearbeitungsprogramm.&lt;/p&gt;</summary><category term="Englisch"></category><category term="GPL"></category><category term="Kino"></category><category term="linux"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>Weitere Ubuntu-Videos</title><link href="http://www.openscreencast.de/blog/Weitere_Ubuntu_Videos.html" rel="alternate"></link><published>2007-07-11T19:37:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-07-11:blog/Weitere_Ubuntu_Videos.html</id><summary type="html">&lt;p&gt;Und ab sofort stehen dem Neueinsteiger bzw. Anfänger weitere Videos über
+&lt;a href="http://de.wikipedia.org/wiki/Ubuntu"&gt;Ubuntu&lt;/a&gt; zur Verfügung. Es sind ganze 3
+Stunden Video-Training in 7 Kapiteln zu Ubuntu von Rainer Hattenhauer. Das
+Video-Training findet man bei
+&lt;a href="http://www.galileocomputing.de/presse/pressemeldungen/gp/pmID-80"&gt;www.galileocomputing.de&lt;/a&gt;,
+wie übrigends auch viele openbook.&lt;/p&gt;</summary><category term="Deutsch"></category><category term="E-learning"></category><category term="Galileo Computing"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category><category term="Video"></category></entry><entry><title>Ubuntu-Screencasts gesichtet</title><link href="http://www.openscreencast.de/blog/Ubuntu_Screencasts_gesichtet.html" rel="alternate"></link><published>2007-06-21T01:26:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-06-21:blog/Ubuntu_Screencasts_gesichtet.html</id><summary type="html">&lt;p&gt;Vor kurzem bin ich zufällig bei einer Suche auf die Seite &lt;a href="http://leszek.podspot.de"&gt;Techview-
+Podcast&lt;/a&gt; gekommen. Es wird eine Reihe an klasse
+Screencasts über Ubuntu angeboten. Für den Einsteiger sind die etwas längeren
+Erklärungen mit bewegten Bildern sicherlich ein Muß. Bei learn2use.de sind die
+Screencasts übrigends auch anzusehen.&lt;/p&gt;</summary><category term="Deutsch"></category><category term="learn2use"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>1. Geburtstag</title><link href="http://www.openscreencast.de/blog/1_Geburtstag.html" rel="alternate"></link><published>2007-06-07T22:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-06-07:blog/1_Geburtstag.html</id><summary type="html">&lt;p&gt;365 Tage sind vergangen seit dem 1. Tag vom Projekt Openscreencast. Ein
+herzliches Dankeschön an alle Unterstützer. Ich hoffe die Screencasts haben
+den Neueinsteigern (Linux) wenigstens ein bißchen geholfen. Openscreencast ist
+immer offen für Verbesserungstips bzw. Vorschläge für zukünftige Screencasts.
+Für diejenigen die es interessiert ein paar Zahlen aus der Statistik für ein
+Jahr Openscreencast:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Traffic: rund 230 GB&lt;/li&gt;
+&lt;li&gt;Besucher: rund 32000&lt;/li&gt;
+&lt;li&gt;Video-Downloads: rund 13000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kommentare:&lt;/p&gt;
+&lt;p&gt;Glückwunsch!!! (07/15/2007 - 10:54)&lt;br /&gt;
+sagt: frosch&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>learn2use- neue Screencast Community</title><link href="http://www.openscreencast.de/blog/learn2use_neue_Screencast_Community.html" rel="alternate"></link><published>2007-06-05T23:26:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-06-05:blog/learn2use_neue_Screencast_Community.html</id><summary type="html">&lt;p&gt;Eine neue Screencast-Community namens &lt;a href="http://www.learn2use.de"&gt;learn2use&lt;/a&gt; ist
+im Entstehen. Jeder kann dort seine Videoanleitungen hochladen und anderen zum
+Lernen zur Verfügung stellen. Ich hoffe mit der Zeit werden noch mehr
+Screencasts über Open Source-Anwendungen eintruddeln. Mehrere Screencasts von
+openscreencast.de stehen bereits bei learn2use zum Anschauen bereit.&lt;/p&gt;</summary><category term="learn2use"></category><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category></entry><entry><title>Gimp Video-Tutorials</title><link href="http://www.openscreencast.de/blog/Gimp_Video_Tutorials.html" rel="alternate"></link><published>2007-05-23T22:04:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-05-23:blog/Gimp_Video_Tutorials.html</id><summary type="html">&lt;p&gt;Auf der Seite &lt;a href="http://www.gimpusers.de/video-tutorials.php"&gt;gimpusers.de&lt;/a&gt; gibt
+es Video-Tutorials über Gimp. Außerdem stehen noch etliche Text-Tutorials zum
+Ausprobieren bereit. Wer es noch nicht weiß,
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt; ist ein Bildbearbeitungsprogramm das
+unter der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;
+steht.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Creative Commons"></category><category term="Deutsch"></category><category term="Gimp"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>Ruby Screencasts</title><link href="http://www.openscreencast.de/blog/Ruby_Screencasts.html" rel="alternate"></link><published>2007-04-20T23:02:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-04-20:blog/Ruby_Screencasts.html</id><summary type="html">&lt;p&gt;Wer gerade dabei ist zu lernen wie man in
+&lt;a href="http://de.wikipedia.org/wiki/Ruby_%28Programmiersprache%29"&gt;Ruby&lt;/a&gt;
+programmiert kann folgende
+&lt;a href="http://www.vuze.com/content/BucketBrowse.htm?sp=X&amp;amp;sp=l627282&amp;amp;sp=X&amp;amp;sp=X&amp;amp;sp=SAZHOT&amp;amp;sp=SALL&amp;amp;sp=X&amp;amp;sp=X&amp;amp;sp=X&amp;amp;sp=X&amp;amp;sp=X"&gt;Webseite&lt;/a&gt;
+mal besuchen. Dort warten mehrere Screencasts über Ruby darauf gedownloaded zu
+werden.&lt;/p&gt;</summary><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="Ruby"></category><category term="screencast"></category></entry><entry><title>BSDChannel</title><link href="http://www.openscreencast.de/blog/BSDChannel.html" rel="alternate"></link><published>2007-04-04T01:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-04-04:blog/BSDChannel.html</id><summary type="html">&lt;p&gt;&lt;a href="http://bsdchannel.sourceforge.net/"&gt;BSDChannel&lt;/a&gt; wird vielen eine Hilfe sein
+die ins Betriebssystem &lt;a href="http://de.wikipedia.org/wiki/Freebsd"&gt;FreeBSD&lt;/a&gt;
+reinschnuppern wollen. Das Projekt BSDChannel präsentiert Screencasts (ohne
+Audio, Zusatzinfos werden aber eingeblendet) über den Umgang mit FreeBSD.
+Momentan stehen 2 Screencasts zum Download bereit. (1. FreeBSD installieren 2.
+Kernel basteln)&lt;/p&gt;</summary><category term="BSD-Lizenz"></category><category term="BSDChannel"></category><category term="Creative Commons"></category><category term="FreeBSD"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>LiVES mit Screencasttool</title><link href="http://www.openscreencast.de/blog/LiVES_mit_Screencasttool.html" rel="alternate"></link><published>2007-03-22T01:29:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-22:blog/LiVES_mit_Screencasttool.html</id><summary type="html">&lt;p&gt;Das freie Videobearbeitungsprogramm
+&lt;a href="http://lives.sourceforge.net/"&gt;lives&lt;/a&gt;,Linux Video Editing System, bringt
+außer den vielen anderen Features auch ein Werkzeug mit sich das es ermöglicht
+Screencasts aufzunehmen. Das Tool findet man unter dem Menü Werkzeuge (Alt+W)
+im Eintrag Externes Fenster aufzeichnen... (Alt+E).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screencasttool" src="http://www.openscreencast.de/pictures/lives_screencasttool.png" /&gt;&lt;/p&gt;</summary><category term="GPL"></category><category term="linux"></category><category term="lives"></category><category term="Multimedia"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>Flock Screencasts</title><link href="http://www.openscreencast.de/blog/Flock_Screencasts.html" rel="alternate"></link><published>2007-03-16T01:19:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-16:blog/Flock_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Flock_%28Browser%29"&gt;Flock&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt;-&lt;a href="http://de.wikipedia.org/wiki/Webbrowser"&gt;Webbrowser&lt;/a&gt;.
+Er basiert auf dem Webbrowser &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt;
+und unterliegt der Dreifachlizenz MPL/GPL/LGPL. Was Flock schon alles kann und
+warum ihn die Entwickler the social web browser nennen wird in den Screencasts
+&lt;a href="http://www.pixelgraphix.de/log/2006-06/flock-screencast-flock-beta1-im-
+livetest.php"&gt;(1)&lt;/a&gt; &lt;a href="http://www.flock.com/blog/will-pate?from=70"&gt;(2)&lt;/a&gt; deutlich.&lt;/p&gt;</summary><category term="Deutsch"></category><category term="Englisch"></category><category term="Firefox"></category><category term="Flock"></category><category term="GPL"></category><category term="LGPL"></category><category term="MPL"></category><category term="News"></category><category term="screencast"></category><category term="Webbrowser"></category></entry><entry><title>kurze OpenOffice Screencasts</title><link href="http://www.openscreencast.de/blog/kurze_OpenOffice_Screencasts.html" rel="alternate"></link><published>2007-03-06T23:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-06:blog/kurze_OpenOffice_Screencasts.html</id><summary type="html">&lt;p&gt;Gerade habe ich eine E-Mail mit einem Screencast-Tip bekommen. (Danke für den
+Tip übrigens !) Die
+&lt;a href="http://www.zbescht.ch/51136598c30a7ad01/51136598c30a7ff04/index.html"&gt;Webseite&lt;/a&gt;
+mit den kurzen Videos über
+&lt;a href="http://de.wikipedia.org/wiki/OpenOffice"&gt;OpenOffice&lt;/a&gt; möchte ich Euch
+keinesfalls vorenthalten.&lt;/p&gt;</summary><category term="News"></category><category term="ohne Audio"></category><category term="OpenOffice"></category><category term="screencast"></category></entry><entry><title>Inkscape Screencasts</title><link href="http://www.openscreencast.de/blog/Inkscape_Screencasts.html" rel="alternate"></link><published>2007-03-03T22:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-03:blog/Inkscape_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt;, ein Open Source
+vektorbasiertes Zeichenprogramm, kann für den Neuling doch sehr schwer sein.
+Der &lt;a href="http://jack-of-all-
+tradez.blogspot.com/search/label/screencast"&gt;Renaissance Man&lt;/a&gt; bietet einige Screencasts an um
+es etwas einfacher zu machen.
+&lt;a href="http://www.smick.net/index.php?n=Main.Tutorials"&gt;Hier&lt;/a&gt; von Mike Smick noch 2
+zusätzliche Videos.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Englisch"></category><category term="GPL"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>Elisa in Aktion</title><link href="http://www.openscreencast.de/blog/Elisa_in_Aktion.html" rel="alternate"></link><published>2007-02-23T02:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-23:blog/Elisa_in_Aktion.html</id><summary type="html">&lt;p&gt;Elisa ist ein Projekt das sich bemüht eine Software-Lösung für Media Center zu
+entwickeln. Das &lt;a href="http://de.wikipedia.org/wiki/Gstreamer"&gt;Open Source Multimedia Framework
+gstreamer&lt;/a&gt; bildet den Grundbauchstein
+für Elisa. &lt;a href="http://www.fluendo.com/elisa/screencast.php"&gt;Hier&lt;/a&gt; und
+&lt;a href="http://ben.amasoean.de/articles/2006/11/12/129_Elisa-for-free.html"&gt;hier&lt;/a&gt;
+stehen Screencasts parat die Elisa in Aktion zeigen.&lt;/p&gt;</summary><category term="elisa"></category><category term="GPL"></category><category term="gstreamer"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>Ruby on Rails Screencasts</title><link href="http://www.openscreencast.de/blog/Ruby_on_Rails_Screencasts.html" rel="alternate"></link><published>2007-02-21T02:41:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-21:blog/Ruby_on_Rails_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Ruby_On_Rails"&gt;Ruby on Rails&lt;/a&gt; ist ein offenes
+Web-Framework. Wie der Name schon vermuten läßt ist es in
+&lt;a href="http://de.wikipedia.org/wiki/Ruby_%28Programmiersprache%29"&gt;Ruby&lt;/a&gt; geschrieben
+und steht unter der &lt;a href="http://de.wikipedia.org/wiki/MIT-Lizenz"&gt;MIT-Lizenz&lt;/a&gt;.
+Natürlich wurden inzwischen auch schon etliche Screencasts dazu kreiert. Die
+San Diego Ruby User Group präsentiert ihr &lt;a href="http://podcast.sdruby.com/"&gt;Video-
+Podcast&lt;/a&gt; und direkt auf der Seite
+&lt;a href="http://www.rubyonrails.org/"&gt;http://www.rubyonrails.org/&lt;/a&gt; gibt es die Kategorie
+&lt;a href="http://www.rubyonrails.org/screencasts"&gt;Screencast&lt;/a&gt;.&lt;/p&gt;</summary><category term="Englisch"></category><category term="MIT License"></category><category term="News"></category><category term="Ruby"></category><category term="Ruby on Rails"></category><category term="screencast"></category><category term="Web-Framework"></category></entry><entry><title>Gimp Demos</title><link href="http://www.openscreencast.de/blog/Gimp_Demos.html" rel="alternate"></link><published>2007-02-14T02:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-14:blog/Gimp_Demos.html</id><summary type="html">&lt;p&gt;Heute ist mir eine Website unter die Augen gekommen die doch etliche
+Screencasts (ohne Audio) beinhaltet. Die Videos demonstrieren was bei
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt;, dem wohl bekanntesten, freien
+Bildbearbeitungsprogramm, geschehen muß um an sein Ziel zu gelangen. Also
+Leute, keine Zeit verlieren und ran ans
+&lt;a href="http://jimmac.musichall.cz/gimp2demos.php"&gt;Klicken&lt;/a&gt;.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Gimp"></category><category term="GPL"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>ScreencastTools im Vergleich</title><link href="http://www.openscreencast.de/blog/ScreencastTools_im_Vergleich.html" rel="alternate"></link><published>2007-02-07T02:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-07:blog/ScreencastTools_im_Vergleich.html</id><summary type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
+Übersicht einiger Screencast-Tools. Die Eigenschaften der Screencast-Tools
+byzanz, Istanbul, cankiri, ffmpeg, recordMyDesktop, Wink und XVidCap werden in
+einer Tabelle verglichen. Außerdem wurden die wichtigsten Fakten jedes
+Programmes in einigen Sätzen festgehalten. Wer kurz davor ist ein
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; aufzunehmen, er aber
+noch nicht weiß welches Tool er dafür brauch, ist
+&lt;a href="http://wiki.ubuntuusers.de/Screencasts"&gt;hier&lt;/a&gt; an der richtigen Adresse.&lt;/p&gt;</summary><category term="byzanz"></category><category term="cankiri"></category><category term="ffmpeg"></category><category term="istanbul"></category><category term="linux"></category><category term="News"></category><category term="recordmydesktop"></category><category term="Screencast-Tool"></category><category term="Wink"></category><category term="XVidCap"></category></entry><entry><title>OpenSolaris Screencasts</title><link href="http://www.openscreencast.de/blog/OpenSolaris_Screencasts.html" rel="alternate"></link><published>2007-01-31T02:31:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-31:blog/OpenSolaris_Screencasts.html</id><summary type="html">&lt;p&gt;Nach langem Stöbern im Internet bin ich auf eine Lektion über
+&lt;a href="http://de.wikipedia.org/wiki/OpenSolaris"&gt;OpenSolaris&lt;/a&gt; gestoßen, die
+&lt;a href="http://frsun.downloads.edgesuite.net/sun/07C00892/index.html"&gt;Screencasts&lt;/a&gt;
+enthält. OpenSolaris ist ein Open-Source-Betriebssystem und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Common_Development_and_Distribution_License"&gt;CDDL&lt;/a&gt;.
+In 5 Segmenten wird eine Dual Boot Installation von OpenSolaris auf einem
+Laptop demonstriert.&lt;/p&gt;</summary><category term="CDDL"></category><category term="Englisch"></category><category term="News"></category><category term="OpenSolaris"></category><category term="screencast"></category></entry><entry><title>ScreencastTeam bei Ubuntu</title><link href="http://www.openscreencast.de/blog/ScreencastTeam_bei_Ubuntu.html" rel="alternate"></link><published>2007-01-26T01:08:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-26:blog/ScreencastTeam_bei_Ubuntu.html</id><summary type="html">&lt;p&gt;Bei Ubuntu gibt es neuerdings ein &lt;a href="http://doc.ubuntu.com/screencasts/"&gt;Screencast-
+Team&lt;/a&gt;. Momentan stehen schon 9
+unterschiedliche Screencasts in verschiedenen Codecs zum Download bereit. Das
+Abonnieren wird durch den RSS-Feed &lt;a href="http://doc.ubuntu.com/screencasts/rss.xml"&gt;http://doc.ubuntu.com/screencasts/rss.xml&lt;/a&gt;
+möglich. Außerdem gibt es noch eine
+&lt;a href="https://wiki.ubuntu.com/ScreencastTeam/RecordingScreencasts"&gt;Seite&lt;/a&gt; wo genau
+erläutert wird was Schritt für Schritt passiert bis zur
+Screencastveröffentlichung.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>Loudblog Screencast</title><link href="http://www.openscreencast.de/blog/Loudblog_Screencast.html" rel="alternate"></link><published>2007-01-21T20:08:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-21:blog/Loudblog_Screencast.html</id><summary type="html">&lt;p&gt;Leute unter Euch die schon immer die Absicht hatten ein Podcast zu produzieren
+kommen mit den folgenden
+&lt;a href="http://podcasts.digitalupgrade.de/geekzone_3.mp4"&gt;Screencast&lt;/a&gt; über
+&lt;a href="http://www.loudblog.de"&gt;Loudblog&lt;/a&gt; Ihrem Ziel schon ein ganzes Stück näher.
+Tino von &lt;a href="http://www.digitalupgrade.de/"&gt;DigitalUprade&lt;/a&gt; hat ein Video
+veröffentlicht wo deutlich Schritt für Schritt alles über Loudblog erklärt
+wird, von der Installation bis zum ersten Eintrag.&lt;/p&gt;</summary><category term="CMS"></category><category term="Deutsch"></category><category term="digitalupgrade"></category><category term="loudblog"></category><category term="News"></category><category term="podcast"></category><category term="screencast"></category></entry><entry><title>Weitere Videos über Drupal 5.0</title><link href="http://www.openscreencast.de/blog/Weitere_Videos_ueber_Drupal_50.html" rel="alternate"></link><published>2007-01-21T18:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-21:blog/Weitere_Videos_ueber_Drupal_50.html</id><summary type="html">&lt;p&gt;Es gibt nicht nur ein &lt;a href="http://www.lullabot.com/podcast"&gt;Video&lt;/a&gt; über die neuen
+Features von &lt;a href="http://de.wikipedia.org/wiki/Drupal"&gt;Drupal&lt;/a&gt; 5.0, sondern auch
+ein Video darüber wie man Drupal 5.0 installiert und wie man ein Upgrade
+durchzieht.&lt;/p&gt;</summary><category term="CMS"></category><category term="Drupal"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Drupal 5.0</title><link href="http://www.openscreencast.de/blog/Drupal_50.html" rel="alternate"></link><published>2007-01-15T23:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-15:blog/Drupal_50.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;CMS&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Drupal"&gt;Drupal&lt;/a&gt; 5.0 ist freigegeben. In einem
+&lt;a href="http://drupal.org/videocasts/whats-new-in-5"&gt;Video&lt;/a&gt; werden die neuen Features
+kurz vorgestellt.&lt;/p&gt;</summary><category term="CMS"></category><category term="Drupal"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Seaside Screencasts</title><link href="http://www.openscreencast.de/blog/Seaside_Screencasts.html" rel="alternate"></link><published>2007-01-05T01:05:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-05:blog/Seaside_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.seaside.st/"&gt;Seaside&lt;/a&gt; ist ein flexibles, in
+&lt;a href="http://de.wikipedia.org/wiki/Smalltalk_%28Programmiersprache%29"&gt;Smalltalk&lt;/a&gt;
+geschriebenes Web-Framework und steht unter der &lt;a href="http://de.wikipedia.org/wiki/MIT_License"&gt;MIT
+License&lt;/a&gt;. Wer mehr über Seaside
+wissen möchte, dem werden sicher die Dokumentationen und die mehreren
+&lt;a href="http://www.seaside.st/Videos/"&gt;Videos&lt;/a&gt; den richtigen Weg zeigen.&lt;/p&gt;</summary><category term="Englisch"></category><category term="MIT License"></category><category term="News"></category><category term="screencast"></category><category term="seaside"></category><category term="Smalltalk"></category><category term="Web-Framework"></category></entry><entry><title>Jahr 2007</title><link href="http://www.openscreencast.de/blog/Jahr_2007.html" rel="alternate"></link><published>2007-01-01T06:20:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-01:blog/Jahr_2007.html</id><summary type="html">&lt;p&gt;Ich wünsche allen ein gesundes, erfolgreiches, neues Jahr. Ich hoffe das Jahr
+2007 bringt viele positive, aufregende Ereignisse mit sich.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>Weihnachtswuensche 2006</title><link href="http://www.openscreencast.de/blog/Weihnachtswuensche_2006.html" rel="alternate"></link><published>2006-12-26T00:31:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-26:blog/Weihnachtswuensche_2006.html</id><summary type="html">&lt;p&gt;Ich wünsche allen ein herzwarmes Weihnachtsfest und einen außergewöhnlichen
+Rutsch ins neue Jahr.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>Screencasts über Firefox und Virtualdub</title><link href="http://www.openscreencast.de/blog/Screencasts_ueber_Firefox_und_Virtualdub.html" rel="alternate"></link><published>2006-12-13T23:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-13:blog/Screencasts_ueber_Firefox_und_Virtualdub.html</id><summary type="html">&lt;p&gt;Hier ein paar Links zu kleinen Videos (in Englisch) über den Internet-Browser
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und über das freie Video-
+Aufnahme- und Video-Bearbeitungsprogramm
+&lt;a href="http://de.wikipedia.org/wiki/Virtualdub"&gt;Virtualdub&lt;/a&gt; für Windows.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=QVI1W8M6F1"&gt;Benefits of
+Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=LVY1Q8O6F0"&gt;Firefox
+Extensions&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=EVI1E8H5K2"&gt;Remove ads in
+Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=BVN1L4T5Y7"&gt;How To Compress A Video
+File&lt;/a&gt;&lt;/p&gt;</summary><category term="Englisch"></category><category term="Firefox"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Video"></category><category term="Virtualdub"></category></entry><entry><title>Openscreencast wird 6 Monate</title><link href="http://www.openscreencast.de/blog/Openscreencast_wird_6_Monate.html" rel="alternate"></link><published>2006-12-08T03:18:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-08:blog/Openscreencast_wird_6_Monate.html</id><summary type="html">&lt;p&gt;Ich bin froh das ich 6 Monate durchgehalten habe. Danke an alle Besucher und
+an alle von denen ich E-Mails und Kommentare bekommen habe. Ich hoffe die
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; haben den
+Neueinsteigern (Linux) wenigstens ein bißchen geholfen. An dieser Stelle
+möchte ich auch noch mal auf den Link
+&lt;a href="http://www.openscreencast.de/dcms/?q=node/3"&gt;Mitmachen&lt;/a&gt; hinweisen. Wer Ideen
+hat was das Projekt Openscreencast angeht oder Wünsche hat was den Inhalt des
+nächsten Videos angeht, immer raus damit, vielleicht ist es sogar machbar. Für
+diejenigen die es interessiert am Ende ein paar Zahlen für das halbe Jahr
+Openscreencast:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Traffic (6 Monate): rund 104 GB&lt;/li&gt;
+&lt;li&gt;Besucher (6 Monate): rund 12000&lt;/li&gt;
+&lt;li&gt;Video-Downloads (6 Monate): rund 4400 &lt;/li&gt;
+&lt;/ul&gt;</summary><category term="News"></category><category term="openscreencast"></category></entry><entry><title>Moodle Screencasts</title><link href="http://www.openscreencast.de/blog/Moodle_Screencasts.html" rel="alternate"></link><published>2006-12-06T00:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-06:blog/Moodle_Screencasts.html</id><summary type="html">&lt;p&gt;Auch für &lt;a href="http://de.wikipedia.org/wiki/Moodle"&gt;Moodle&lt;/a&gt; gibt es etliche
+&lt;a href="http://treadwell.cce.cornell.edu/moodle_doc/index.html"&gt;Screencasts&lt;/a&gt; (in
+Englisch, Flash-Videos) zum Kennenlernen. Moodle ist eine Open-Source-
+Lernplattform, fürs &lt;a href="http://de.wikipedia.org/wiki/E-Learning"&gt;E-learning&lt;/a&gt;
+gedacht und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="E-learning"></category><category term="Englisch"></category><category term="GPL"></category><category term="Moodle"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Emacs_Screencast</title><link href="http://www.openscreencast.de/blog/Emacs_Screencast.html" rel="alternate"></link><published>2006-12-01T02:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-01:blog/Emacs_Screencast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://platypope.org/yada/emacs-demo/"&gt;Hier&lt;/a&gt; ist ein Screencast über Emacs.
+&lt;a href="http://de.wikipedia.org/wiki/Emacs"&gt;Emcas&lt;/a&gt; ist ein Open Source-Texteditor,
+steht unter der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;
+und ist in den bekanntesten Betriebssystemen einsetzbar.&lt;/p&gt;</summary><category term="Emacs"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category></entry><entry><title>Screencasts über TYPO3</title><link href="http://www.openscreencast.de/blog/Screencasts_ueber_TYPO3.html" rel="alternate"></link><published>2006-11-23T03:11:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-23:blog/Screencasts_ueber_TYPO3.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/TYPO3"&gt;TYPO3&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt;-WCMS (&lt;a href="http://de.wikipedia.org/wiki/Web_Content_Management_System"&gt;Web Content
+Management
+System&lt;/a&gt;) für
+mittlere und große Internetseiten. Folgende Video-Tutorials helfen dabei TYPO3
+richtig anzuwenden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mcuniverse.com/05/TYPO3_Flash_Tutorial.154.0.html"&gt;TYPO3 Flash Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://typo3.org/1407.0.html"&gt;Video-Tutorials in Englisch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jweiland.net/typo3cms/howto/einstieg-in-typo3/"&gt;Videos zum Quickstart-Tutorial in Deutsch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CMS"></category><category term="Deutsch"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Typo3"></category><category term="WCMS"></category></entry><entry><title>Screencasts über OpenOffice</title><link href="http://www.openscreencast.de/blog/Screencasts_ueber_OpenOffice.html" rel="alternate"></link><published>2006-11-17T00:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-17:blog/Screencasts_ueber_OpenOffice.html</id><summary type="html">&lt;p&gt;Durch die neusten Interviews bei &lt;a href="http://www.radiotux.de"&gt;RadioTux&lt;/a&gt; habe ich
+von OOo42.org erfahren. Beim Besuchen der Seite &lt;a href="http://ooo42.org/"&gt;ooo42.org&lt;/a&gt;
+bin ich auf mehrere &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt;
+über &lt;a href="http://de.wikipedia.org/wiki/Openoffice"&gt;OpenOffice&lt;/a&gt; gestossen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.informatikserver.at/ooo/index.html"&gt;Lernvideos OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://business.newsforge.com/article.pl?sid=05/11/09/2044220&amp;amp;tid=35&amp;amp;tid=136"&gt;Lernvideos OpenOffice in Englisch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://desktop.conecta.it/cospa/de/writer.html"&gt;Lernvideos OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Englisch"></category><category term="News"></category><category term="ohne Audio"></category><category term="OOo42.org"></category><category term="OpenOffice"></category><category term="RadioTux"></category><category term="screencast"></category></entry><entry><title>Filmanleitungen über Joomla, Firefox und XAMPP</title><link href="http://www.openscreencast.de/blog/Filmanleitungen_Joomla_Firefox_XAMPP.html" rel="alternate"></link><published>2006-11-15T23:55:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-15:blog/Filmanleitungen_Joomla_Firefox_XAMPP.html</id><summary type="html">&lt;p&gt;Auf der Seite &lt;a href="http://www.filmanleitungen.de"&gt;www.filmanleitungen.de&lt;/a&gt; wird man
+per &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; unter anderem über
+&lt;a href="http://de.wikipedia.org/wiki/Xampp"&gt;XAMPP&lt;/a&gt;,
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/Joomla"&gt;CMS
+Joomla&lt;/a&gt; unterrichtet. Die Video-Tutorials
+sind für Neueinsteiger als auch für fortgeschrittene Anwender.
+Audioerklärungen sind in deutscher Sprache zu hören.&lt;/p&gt;</summary><category term="CMS"></category><category term="Deutsch"></category><category term="Firefox"></category><category term="Joomla"></category><category term="News"></category><category term="screencast"></category><category term="Xampp"></category></entry><entry><title>showmedo</title><link href="http://www.openscreencast.de/blog/showmedo.html" rel="alternate"></link><published>2006-11-07T23:56:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-07:blog/showmedo.html</id><summary type="html">&lt;p&gt;Diese &lt;a href="http://showmedo.com/videos/"&gt;Seite&lt;/a&gt; hat einige Video-Tutorials zu
+bieten, Screencasts von
+&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29"&gt;Python&lt;/a&gt; bis Wie
+installiere ich Windows-Spiele unter Linux, ruhig mal nachschauen, vielleicht
+findet man ja doch für das ein oder andere Problem eine Lösung.&lt;/p&gt;</summary><category term="Englisch"></category><category term="linux"></category><category term="News"></category><category term="python"></category><category term="screencast"></category></entry><entry><title>Audacity Screencast</title><link href="http://www.openscreencast.de/blog/Audacity_Screencast.html" rel="alternate"></link><published>2006-11-04T17:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-04:blog/Audacity_Screencast.html</id><summary type="html">&lt;p&gt;Wer mal sehen möchte wie man mit Audacity arbeitet, kann
+&lt;a href="http://www.msiwebvideo.com/pod/pod.html"&gt;hier&lt;/a&gt; mal klicken.
+&lt;a href="http://de.wikipedia.org/wiki/Audacity"&gt;Audacity&lt;/a&gt; ist übrigens ein Programm um
+Audio aufzunehmen und zu bearbeiten, es ist sehr populär und steht für mehrere
+Betriebssysteme zur Verfügung.&lt;/p&gt;</summary><category term="Audacity"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>WordPress Screencast</title><link href="http://www.openscreencast.de/blog/WordPress_Screencast.html" rel="alternate"></link><published>2006-10-30T23:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-30:blog/WordPress_Screencast.html</id><summary type="html">&lt;p&gt;Eine halbe Stunde lang wird &lt;a href="http://www.davidrussell.org/2006/08/28
+/screencast-wordpress-installation/"&gt;hier&lt;/a&gt; WordPress vorgestellt (in Englisch),
+alles was man wissen muss damit WordPress läuft.
+&lt;a href="http://de.wikipedia.org/wiki/Wordpress"&gt;WordPress&lt;/a&gt; ist ein
+&lt;a href="http://de.wikipedia.org/wiki/Content_Management_System"&gt;CMS&lt;/a&gt; und steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="CMS"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Screencasting</title><link href="http://www.openscreencast.de/blog/Screencasting.html" rel="alternate"></link><published>2006-10-25T23:12:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-25:blog/Screencasting.html</id><summary type="html">&lt;p&gt;&lt;a href="http://fedoraproject.org/wiki/ScreenCasting"&gt;Hier&lt;/a&gt; mal ein paar Zeilen (in
+Englisch) wo steht was das &lt;a href="http://fedoraproject.org/wiki/de_DE/FedoraHaupt"&gt;Projekt
+Fedora&lt;/a&gt; zu Screencasting zu
+sagen hat.&lt;/p&gt;</summary><category term="Englisch"></category><category term="Fedora Core"></category><category term="linux"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>Fedora Core 6</title><link href="http://www.openscreencast.de/blog/Fedora_Core_6.html" rel="alternate"></link><published>2006-10-24T22:45:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-24:blog/Fedora_Core_6.html</id><summary type="html">&lt;p&gt;Fedora Core 6 wurde gerade veröffentlicht. Die beiden
+&lt;a href="http://fedoraproject.org/wiki/Tours/FedoraCore6"&gt;Videos&lt;/a&gt; zeigen kurz den
+Ablauf der Installation und vom Setup.&lt;/p&gt;</summary><category term="Fedora Core"></category><category term="linux"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>Ubuntu Screencasts</title><link href="http://www.openscreencast.de/blog/Ubuntu_Screencasts.html" rel="alternate"></link><published>2006-10-19T18:21:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-19:blog/Ubuntu_Screencasts.html</id><summary type="html">&lt;p&gt;Wie ich gerade auf der Seite &lt;a href="http://netzpolitik.org/2006
+/video-howtos-for-human-beings-ubuntu-audiovisuell/"&gt;netzpolitik.org&lt;/a&gt; erfahren habe, gibt es
+eine neue &lt;a href="http://www.ubuntuclips.org/"&gt;Website&lt;/a&gt; die kurze Screencasts direkt
+über &lt;a href="http://de.wikipedia.org/wiki/Ubuntu"&gt;Ubuntu&lt;/a&gt; zur Verfügung stellt. Die
+Videos stehen unter der Creative Commons Namensnennungs-Lizenz und in mehreren
+Video&lt;a href="http://de.wikipedia.org/wiki/Codec"&gt;codecs&lt;/a&gt; mit englischem Audio bereit
+zum Download.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="netzpolitik.org"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>Blender Screencasts</title><link href="http://www.openscreencast.de/blog/Blender_Screencasts.html" rel="alternate"></link><published>2006-10-19T18:20:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-19:blog/Blender_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Blender_%28Software%29"&gt;Blender&lt;/a&gt; ein Open Source
+3D-Modellierungsprogramm. Für den Anfang ist es sicher schwer mit Blender
+umzugehen aber vielleicht können die
+&lt;a href="http://www.blender3d.org/cms/Video_Tutorials.396.0.html"&gt;Screencasts&lt;/a&gt; (in
+Englisch) da ein bißchen unter die Arme greifen. Wer weiß mit viel Übung und
+viel Talent arbeitet man eines Tages eventuell sogar an einem Projekt wie
+&lt;a href="http://www.elephantsdream.org/"&gt;elephants dream&lt;/a&gt;.&lt;/p&gt;</summary><category term="Blender"></category><category term="elephants dream"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Drupal Screencasts</title><link href="http://www.openscreencast.de/blog/Drupal_Screencasts.html" rel="alternate"></link><published>2006-10-14T19:18:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-14:blog/Drupal_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://drupal.org/"&gt;Drupal&lt;/a&gt;, eine sehr verbreitete Open Source Content
+Management Platform, hat seine eigene &lt;a href="http://drupal.org/node/62192"&gt;Seite für Videos und
+Screencasts&lt;/a&gt;. Von der Installation bis zum Menu-
+System wird vieles vorgezeigt und in Englisch erklärt.&lt;/p&gt;</summary><category term="CMS"></category><category term="Drupal"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>podblogger</title><link href="http://www.openscreencast.de/blog/podblogger.html" rel="alternate"></link><published>2006-10-14T19:17:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-14:blog/podblogger.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.rotzoll.de/podblogger/"&gt;Podblogger&lt;/a&gt; ist ein PHP-
+Audio&lt;a href="http://de.wikipedia.org/wiki/Weblog"&gt;blogger&lt;/a&gt;, Podcast-CMS, der es
+ermöglicht &lt;a href="http://de.wikipedia.org/wiki/Podcast"&gt;Podcasts&lt;/a&gt; im Internet zu
+veröffentlichen. Wer vorher schon mal schauen möchte wie podblogger
+funktioniert kann sich die
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;screencasts&lt;/a&gt; (ohne Audio) die auf
+der Webseite zum Download angeboten werden anschauen. Podblogger steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="ohne Audio"></category><category term="podblogger"></category><category term="screencast"></category></entry><entry><title>CamStudio</title><link href="http://www.openscreencast.de/blog/CamStudio.html" rel="alternate"></link><published>2006-10-13T19:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-13:blog/CamStudio.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.camstudio.org/"&gt;CamStudio&lt;/a&gt; ein Programm das Bildschirmaufnahmen
+verwirklicht. CamStudio wird unter Windows eingesetzt und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="CamStudio"></category><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Windows"></category></entry><entry><title>openscreencast bei Democracy</title><link href="http://www.openscreencast.de/blog/openscreencast_bei_Democracy.html" rel="alternate"></link><published>2006-10-12T20:08:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-12:blog/openscreencast_bei_Democracy.html</id><summary type="html">&lt;p&gt;&lt;a href="https://channelguide.participatoryculture.org/?q=viewchannel/1297"&gt;openscreencast&lt;/a&gt;
+wurde heute unter der &lt;a href="https://channelguide.participatoryculture.org/?q=searchbycategory/Technology"&gt;Kategorie
+Technology&lt;/a&gt;
+als Channel bei &lt;a href="http://www.getdemocracy.com/"&gt;Democracy&lt;/a&gt; eingetragen. Beim
+durchstöbern der Kategorie Technology sind mir drei weitere Channels
+aufgefallen die ebenfalls Screencasts beinhalten. Wer die englische Sprache
+beherrscht kann ruhig mal reinschauen denn es werden auch eins zwei
+Screencasts über Open Source Software angeboten.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://channelguide.participatoryculture.org/?q=viewchannel/217"&gt;ScreenCastsOnline&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://channelguide.participatoryculture.org/?q=viewchannel/1191"&gt;Linux Make The
+Switch&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://channelguide.participatoryculture.org/?q=viewchannel/1253"&gt;pinguino.tv&lt;/a&gt;&lt;/p&gt;</summary><category term="Democracy"></category><category term="Englisch"></category><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category></entry><entry><title>ScreenKast</title><link href="http://www.openscreencast.de/blog/ScreenKast.html" rel="alternate"></link><published>2006-10-12T00:19:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-12:blog/ScreenKast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt;, ein neues Programm
+um Bildschirmaktivitäten aufzunehmen. Es ist für
+&lt;a href="http://de.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt; gedacht und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;. Kommentarboxen können nach der
+Aufnahme hinzugefügt werden. Ebenso besitzt
+&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; die Funktion die
+Aufnahme an die Webseite &lt;a href="http://www.captorials.com/"&gt;captorials.com&lt;/a&gt; zu
+schicken. Dort steht das Video dann für alle zum anschauen bereit. Video-
+Tutorials die zeigen wie man ScreenKast installiert und wie
+&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; eingesetzt wird
+stehen schon zur Verfügung.&lt;/p&gt;</summary><category term="GPL"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Screencast-Tool"></category><category term="ScreenKast"></category></entry></feed>

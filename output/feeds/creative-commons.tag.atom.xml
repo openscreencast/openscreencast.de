@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/creative-commons.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2007-12-01T17:04:00+01:00</updated><entry><title>screencast.at - neue Screencasts</title><link href="http://www.openscreencast.de/blog/screencast_at_neue_Screencasts.html" rel="alternate"></link><published>2007-12-01T17:04:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-12-01:blog/screencast_at_neue_Screencasts.html</id><summary type="html">&lt;p&gt;Ein neuer Stern ist am Screencast-Himmel sichtbar. Die Seite
+&lt;a href="http://www.screencast.at"&gt;screencast.at&lt;/a&gt; hat es sich zur Aufgabe gemacht die
+weniger Erfahrenen bei den ersten Gehversuchen zu unterstützen - in welcher
+Rubrik der gesuchten Softwarelösung auch immer. Weitere Informationen findet
+Ihr &lt;a href="http://www.screencast.at/das-phaenomen-screencast-publishing"&gt;hier&lt;/a&gt;. Alle
+Screencasts stehen unter der Lizenz &lt;a href="http://de.wikipedia.org/wiki/Creative_Commons"&gt;Creative
+Commons&lt;/a&gt; BY.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Deutsch"></category><category term="News"></category><category term="screencast"></category><category term="screencast.at"></category></entry><entry><title>Meet the Gimp</title><link href="http://www.openscreencast.de/blog/Meet_the_Gimp.html" rel="alternate"></link><published>2007-10-03T22:50:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-10-03:blog/Meet_the_Gimp.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/GIMP"&gt;Gimp&lt;/a&gt; besser kennenlernen, da ist das neue
+&lt;a href="http://www.meetthegimp.org/"&gt;Meet the Gimp&lt;/a&gt; genau das richtige Video Podcast.
+Die Videos sind in Englisch und stehen unter der &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/de/"&gt;Creative Commons
+Attribution-Share Alike 2.0 Germany
+License&lt;/a&gt;.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="Gimp"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Screencastmonat bei Ubuntu</title><link href="http://www.openscreencast.de/blog/Screencastmonat_bei_Ubuntu.html" rel="alternate"></link><published>2007-09-02T19:34:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-09-02:blog/Screencastmonat_bei_Ubuntu.html</id><summary type="html">&lt;p&gt;Das &lt;a href="http://screencasts.ubuntu.com/"&gt;Screencast-Team von Ubuntu&lt;/a&gt; hat verkündet
+das es einen Screencast-Monat 2007 gibt. Im Monat September 2007 soll es jeden
+Tag einen neuen Screencast geben, in verschiedenen Formaten und Größen. Die
+Videos sollen den neuen Ubuntu-Benutzern helfen und stehen unter der Lizenz
+&lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;. Introduction-Videos stehen
+bereits zum Download bereit.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>Gimp Video-Tutorials</title><link href="http://www.openscreencast.de/blog/Gimp_Video_Tutorials.html" rel="alternate"></link><published>2007-05-23T22:04:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-05-23:blog/Gimp_Video_Tutorials.html</id><summary type="html">&lt;p&gt;Auf der Seite &lt;a href="http://www.gimpusers.de/video-tutorials.php"&gt;gimpusers.de&lt;/a&gt; gibt
+es Video-Tutorials über Gimp. Außerdem stehen noch etliche Text-Tutorials zum
+Ausprobieren bereit. Wer es noch nicht weiß,
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt; ist ein Bildbearbeitungsprogramm das
+unter der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;
+steht.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Creative Commons"></category><category term="Deutsch"></category><category term="Gimp"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>BSDChannel</title><link href="http://www.openscreencast.de/blog/BSDChannel.html" rel="alternate"></link><published>2007-04-04T01:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-04-04:blog/BSDChannel.html</id><summary type="html">&lt;p&gt;&lt;a href="http://bsdchannel.sourceforge.net/"&gt;BSDChannel&lt;/a&gt; wird vielen eine Hilfe sein
+die ins Betriebssystem &lt;a href="http://de.wikipedia.org/wiki/Freebsd"&gt;FreeBSD&lt;/a&gt;
+reinschnuppern wollen. Das Projekt BSDChannel präsentiert Screencasts (ohne
+Audio, Zusatzinfos werden aber eingeblendet) über den Umgang mit FreeBSD.
+Momentan stehen 2 Screencasts zum Download bereit. (1. FreeBSD installieren 2.
+Kernel basteln)&lt;/p&gt;</summary><category term="BSD-Lizenz"></category><category term="BSDChannel"></category><category term="Creative Commons"></category><category term="FreeBSD"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>ScreencastTeam bei Ubuntu</title><link href="http://www.openscreencast.de/blog/ScreencastTeam_bei_Ubuntu.html" rel="alternate"></link><published>2007-01-26T01:08:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-26:blog/ScreencastTeam_bei_Ubuntu.html</id><summary type="html">&lt;p&gt;Bei Ubuntu gibt es neuerdings ein &lt;a href="http://doc.ubuntu.com/screencasts/"&gt;Screencast-
+Team&lt;/a&gt;. Momentan stehen schon 9
+unterschiedliche Screencasts in verschiedenen Codecs zum Download bereit. Das
+Abonnieren wird durch den RSS-Feed &lt;a href="http://doc.ubuntu.com/screencasts/rss.xml"&gt;http://doc.ubuntu.com/screencasts/rss.xml&lt;/a&gt;
+möglich. Außerdem gibt es noch eine
+&lt;a href="https://wiki.ubuntu.com/ScreencastTeam/RecordingScreencasts"&gt;Seite&lt;/a&gt; wo genau
+erläutert wird was Schritt für Schritt passiert bis zur
+Screencastveröffentlichung.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry><entry><title>Ubuntu Screencasts</title><link href="http://www.openscreencast.de/blog/Ubuntu_Screencasts.html" rel="alternate"></link><published>2006-10-19T18:21:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-19:blog/Ubuntu_Screencasts.html</id><summary type="html">&lt;p&gt;Wie ich gerade auf der Seite &lt;a href="http://netzpolitik.org/2006
+/video-howtos-for-human-beings-ubuntu-audiovisuell/"&gt;netzpolitik.org&lt;/a&gt; erfahren habe, gibt es
+eine neue &lt;a href="http://www.ubuntuclips.org/"&gt;Website&lt;/a&gt; die kurze Screencasts direkt
+über &lt;a href="http://de.wikipedia.org/wiki/Ubuntu"&gt;Ubuntu&lt;/a&gt; zur Verfügung stellt. Die
+Videos stehen unter der Creative Commons Namensnennungs-Lizenz und in mehreren
+Video&lt;a href="http://de.wikipedia.org/wiki/Codec"&gt;codecs&lt;/a&gt; mit englischem Audio bereit
+zum Download.&lt;/p&gt;</summary><category term="Creative Commons"></category><category term="Englisch"></category><category term="netzpolitik.org"></category><category term="News"></category><category term="screencast"></category><category term="Ubuntu"></category></entry></feed>

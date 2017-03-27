@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/opensolaris.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2008-12-09T02:06:00+01:00</updated><entry><title>OpenSolaris 2008.11 - Installation</title><link href="http://www.openscreencast.de/blog/opensolaris200811_install.html" rel="alternate"></link><published>2008-12-09T02:06:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-09:blog/opensolaris200811_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: OpenSolaris 2008.11, Gnome 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.opensolaris.org/"&gt;OpenSolaris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="OpenSolaris"></category></entry><entry><title>OpenSolaris 2008.11</title><link href="http://www.openscreencast.de/blog/opensolaris200811.html" rel="alternate"></link><published>2008-12-08T06:45:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-08:blog/opensolaris200811.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: OpenSolaris 2008.11, Gnome 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: uname&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.opensolaris.org/"&gt;OpenSolaris&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="OpenSolaris"></category></entry><entry><title>OpenSolaris Screencasts</title><link href="http://www.openscreencast.de/blog/OpenSolaris_Screencasts.html" rel="alternate"></link><published>2007-01-31T02:31:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-01-31:blog/OpenSolaris_Screencasts.html</id><summary type="html">&lt;p&gt;Nach langem Stöbern im Internet bin ich auf eine Lektion über
+&lt;a href="http://de.wikipedia.org/wiki/OpenSolaris"&gt;OpenSolaris&lt;/a&gt; gestoßen, die
+&lt;a href="http://frsun.downloads.edgesuite.net/sun/07C00892/index.html"&gt;Screencasts&lt;/a&gt;
+enthält. OpenSolaris ist ein Open-Source-Betriebssystem und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Common_Development_and_Distribution_License"&gt;CDDL&lt;/a&gt;.
+In 5 Segmenten wird eine Dual Boot Installation von OpenSolaris auf einem
+Laptop demonstriert.&lt;/p&gt;</summary><category term="CDDL"></category><category term="Englisch"></category><category term="News"></category><category term="OpenSolaris"></category><category term="screencast"></category></entry></feed>

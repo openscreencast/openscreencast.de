@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/mount.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2017-03-15T13:59:00+01:00</updated><entry><title>Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an</title><link href="http://www.openscreencast.de/blog/linux_findmnt.html" rel="alternate"></link><published>2017-03-15T13:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-15:blog/linux_findmnt.html</id><summary type="html">&lt;p&gt;Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/mount/"&gt;mount&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/Laufwerksverwaltung/"&gt;Laufwerksverwaltung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/lsblk/"&gt;lsblk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Textquelle: &lt;a href="https://linuxundich.de/gnu-linux/findmnt-zeigt-eingebundene-laufwerke-uebersichtlich-an/"&gt;Findmnt zeigt eingebundene Laufwerke übersichtlich an&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph Langner&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="gnome-disks"></category><category term="findmnt"></category><category term="mount"></category><category term="lsblk"></category></entry></feed>
