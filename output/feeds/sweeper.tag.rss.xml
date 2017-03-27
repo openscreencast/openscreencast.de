@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/sweeper.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 14 Mar 2009 18:50:00 +0100</lastBuildDate><item><title>Sweeper</title><link>http://www.openscreencast.de/blog/sweeper.html</link><description>&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br /&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: apt-get, sudo&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Sweeper"&gt;Sweeper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 14 Mar 2009 18:50:00 +0100</pubDate><guid>tag:www.openscreencast.de,2009-03-14:blog/sweeper.html</guid><category>CC by-sa</category><category>KDE</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>Kubuntu</category><category>sweeper</category></item></channel></rss>

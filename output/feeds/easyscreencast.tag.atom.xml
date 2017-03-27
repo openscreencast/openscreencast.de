@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/easyscreencast.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2015-07-01T16:42:00+02:00</updated><entry><title>Gnome - einfache Bildschirmaufnahmen mit EasyScreenCast (Linux, Gnome 3.16)</title><link href="http://www.openscreencast.de/blog/Gnome_EasyScreenCast.html" rel="alternate"></link><published>2015-07-01T16:42:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-07-01:blog/Gnome_EasyScreenCast.html</id><summary type="html">&lt;p&gt;Gnome - einfache Bildschirmaufnahmen mit EasyScreenCast, Fedora 22, Gnome 3.16&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://extensions.gnome.org/extension/690/easyscreencast/"&gt;Easyscreencast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="Screencasting"></category><category term="Easyscreencast"></category><category term="Gnome"></category></entry></feed>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/benutzerfoto.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2010-12-13T05:22:00+01:00</updated><entry><title>Linux - Ein Benutzerfoto auswaehlen</title><link href="http://www.openscreencast.de/blog/benutzerfoto.html" rel="alternate"></link><published>2010-12-13T05:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-12-13:blog/benutzerfoto.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: mit Ubuntu 10.10, GNOME 2.32&lt;br /&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/GDM"&gt;GDM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Benutzerfoto"></category></entry></feed>

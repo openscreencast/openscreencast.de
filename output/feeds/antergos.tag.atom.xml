@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/antergos.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2013-08-23T17:50:00+02:00</updated><entry><title>Antergos 2013.08.20 - Demo</title><link href="http://www.openscreencast.de/blog/Antergos_20130820_Demo.html" rel="alternate"></link><published>2013-08-23T17:50:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-08-23:blog/Antergos_20130820_Demo.html</id><summary type="html">&lt;p&gt;Antergos 2013.08.20 - Demo&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Musik:&lt;br /&gt;
-Readers ! Do you read ? by Chris Zabriskie &lt;a href="http://chriszabriskie.com"&gt;http://chriszabriskie.com&lt;/a&gt;&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://antergos.com/"&gt;http://antergos.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Antergos"></category><category term="Gnome"></category></entry></feed>

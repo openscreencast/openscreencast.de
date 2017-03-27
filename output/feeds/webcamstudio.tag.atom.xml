@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/webcamstudio.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2011-10-16T03:54:00+02:00</updated><entry><title>Webcamstudio</title><link href="http://www.openscreencast.de/blog/webcamstudio.html" rel="alternate"></link><published>2011-10-16T03:54:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-10-16:blog/webcamstudio.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br /&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://code.google.com/p/webcamstudio/" title="Link zu webcamstudio"&gt;webcamstudio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Unity"></category><category term="Tutorial"></category><category term="Webcamstudio"></category></entry></feed>

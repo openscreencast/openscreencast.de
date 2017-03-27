@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/string.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2013-12-19T16:30:00+01:00</updated><entry><title>Python-Programmierung - Zeichenkettenmethoden</title><link href="http://www.openscreencast.de/blog/python_zeichenkettenmethoden.html" rel="alternate"></link><published>2013-12-19T16:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-12-19:blog/python_zeichenkettenmethoden.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 18&lt;br /&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.python.de" title="Link zu Python.de"&gt;python.de&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.python.org" title="Link zu Python.org"&gt;python.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Python"></category><category term="Programmierung"></category><category term="string"></category></entry></feed>
