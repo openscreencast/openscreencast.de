@@ -11,7 +11,7 @@ Youtube: KwSRepJvYYk
 Vimeo: 213997996
 Tumblr: http://openscreencast.tumblr.com/post/159786693255/python-programmierung-die-adressen-der-bilder
 Diaspora: https://pod.geraspora.de/posts/6203721
-Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_die_adresssen_der_bilder_einer_htmlseite_herausfiltern.ogg
+Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_python/python_die_adressen_der_bilder_einer_htmlseite_herausfiltern.ogg
 
 Python-Programmierung - die Adressen der Bilder einer HTML-Seite
 herausfiltern, Linux Mint 18.1  
