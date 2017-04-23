@@ -48,6 +48,20 @@ Video-Portalen und sozialen Netzwerken möglich.
 
 [Miro Feed](http://subscribe.getmiro.com/?url1=http%3A//www.openscreencast.de/blog/rss.xml&trackback1=http%3A//www.miroguide.com/feeds/1297/subscribe-hit&section1=video)
 
+[Atom Feed](http://www.openscreencast.de/blog/atom.xml) - Alle Artikel    
+[RSS Feed](http://www.openscreencast.de/blog/rss.xml) - Alle Artikel    
+[Atom Feed - Kommentare](http://www.openscreencast.de/feeds/comments.all.atom.xml) - Alle Kommentare
+
+[RSS Feed - OGG](http://www.openscreencast.de/data/ogg-rss.xml) - Alle OGG-Videos    
+[RSS Feed - WEBM](http://www.openscreencast.de/data/webm-rss.xml) - Alle WEBM-Videos    
+[RSS Feed - MP4](http://www.openscreencast.de/data/mp4-rss.xml) - Alle MP4-Videos    
+[RSS Feed - MKV](http://www.openscreencast.de/data/mkv-rss.xml) - Alle MKV-Videos
+
+[XSPF - OGG](http://www.openscreencast.de/data/ogg.xspf) - Alle OGG-Videos    
+[XSPF - WEBM](http://www.openscreencast.de/data/webm.xspf) - Alle WEBM-Videos    
+[XSPF - MP4](http://www.openscreencast.de/data/mp4.xspf) - Alle MP4-Videos    
+[XSPF - MKV](http://www.openscreencast.de/data/mkv.xspf) - Alle MKV-Videos
+
 **Welche Software verwendet openscreencast.de ?**
 
 Aufnahme: [recordmydesktop](https://de.wikipedia.org/wiki/RecordMyDesktop), [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/), [key-mon](https://code.google.com/p/key-mon/); Bearbeitung: [ffmpeg](https://de.wikipedia.org/wiki/Ffmpeg), [inkscape](https://de.wikipedia.org/wiki/Inkscape), [openshot video editor](http://www.openshotvideo.com/), [ffmpeg2theora](http://v2v.cc/~j/ffmpeg2theora/); Webseite: [pelican](http://blog.getpelican.com/), [jquery](http://jquery.com/), [popcorn](http://mozillapopcorn.org/)
