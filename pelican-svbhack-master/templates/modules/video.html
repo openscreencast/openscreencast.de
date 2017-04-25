@@ -6,7 +6,11 @@
 
 <p>
 {% if article.duration %}
+{% if ((article.duration|int % 60000) / 1000)|round|int > 9 %}
 <i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% else %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:0{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% endif %}
 {% endif %}
 
 {% if article.license %}
