@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Imagemagick,Linux Mint,convert
 Slug: ImageMagick_Bilder_mit_Text_erstellen_Teil_2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 320000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: wFu-f4LwUtQ

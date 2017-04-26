@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,proc
 Slug: Linux_andere_Hardwareinformationen_im_procVerzeichnis
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 130000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: oACMzHm60FE

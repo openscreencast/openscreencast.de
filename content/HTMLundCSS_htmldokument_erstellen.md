@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Web,www,HTML,CSS
 Slug: HTMLundCSS_htmldokument_erstellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 256000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: vA3ATuPb_4s

@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Gnome3,pdf,pdftk,pdfseparate
 Slug: pdftk_pdfseparate
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 300000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: XBodSK_0Vng
 Vimeo: 37613243
 Tumblr: http://openscreencast.tumblr.com/post/18445760211/seiten-aus-einem-pdf-dokument-herausschneiden
 Diaspora: https://pod.geraspora.de/posts/423002
-Oggfile: http://www.openscreencast.de/archive/pdftk_pdfseparate_200.ogg
-Webmfile: http://www.openscreencast.de/archive/pdftk_pdfseparate_200.webm
-Mp4file: http://www.openscreencast.de/archive/pdftk_pdfseparate_200.mp4
-Srtfile: http://www.openscreencast.de/archive/pdftk_pdfseparate_200.srt
-Image: http://www.openscreencast.de/archive/pdftk_pdfseparate_200.png
+Oggfile: https://www.openscreencast.de/archive/pdftk_pdfseparate_200.ogg
+Webmfile: https://www.openscreencast.de/archive/pdftk_pdfseparate_200.webm
+Mp4file: https://www.openscreencast.de/archive/pdftk_pdfseparate_200.mp4
+Srtfile: https://www.openscreencast.de/archive/pdftk_pdfseparate_200.srt
+Image: https://www.openscreencast.de/archive/pdftk_pdfseparate_200.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

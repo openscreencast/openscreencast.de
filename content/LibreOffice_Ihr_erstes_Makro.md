@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Ihr_erstes_Makro
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 305000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: URIBxtc9PNk

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kde-sc.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-11-29T07:07:00+01:00</updated><entry><title>SolydK 201311 - Demo</title><link href="https://www.openscreencast.de/blog/SolydK_201311_Demo.html" rel="alternate"></link><published>2013-11-29T07:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-29:blog/SolydK_201311_Demo.html</id><summary type="html">&lt;p&gt;SolydK 201311 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+Candlepower by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/SolydXK"&gt;https://de.wikipedia.org/wiki/SolydXK&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="SolydK"></category><category term="KDE"></category><category term="KDE SC"></category></entry><entry><title>Kinfocenter - Informationen zur Hardware</title><link href="https://www.openscreencast.de/blog/kinfocenter.html" rel="alternate"></link><published>2011-03-12T02:20:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-03-12:blog/kinfocenter.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Kinfocenter"&gt;Kinfocenter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="kinfocenter"></category></entry><entry><title>KRunner (Teil 2)</title><link href="https://www.openscreencast.de/blog/krunner2.html" rel="alternate"></link><published>2011-01-27T00:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-27:blog/krunner2.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>KRunner (Teil 1)</title><link href="https://www.openscreencast.de/blog/krunner.html" rel="alternate"></link><published>2011-01-23T04:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-23:blog/krunner.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>Filelight - Festplattenbelegung analysieren</title><link href="https://www.openscreencast.de/blog/filelight.html" rel="alternate"></link><published>2010-12-15T06:23:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-12-15:blog/filelight.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC 4.5.1&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Filelight"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.methylblue.com/filelight/"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category></entry></feed>

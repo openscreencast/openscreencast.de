@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Web,Javascript,AngularJS
 Slug: AngularJS_ngclick
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 234000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: qrRlIl1E6xw

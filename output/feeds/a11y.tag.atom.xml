@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/a11y.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-09-12T00:48:00+02:00</updated><entry><title>Gnome3 - Zoomen</title><link href="https://www.openscreencast.de/blog/gnome3_zoomen.html" rel="alternate"></link><published>2011-09-12T00:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-09-12:blog/gnome3_zoomen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://live.gnome.org/GnomeShell/CheatSheet" title="Link zu gnome.org"&gt;Gnome3 - CheatSheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gnome" title="Link zu Wikipedia Gnome"&gt;WP:Gnome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kommentar&lt;/p&gt;
+&lt;p&gt;Danke! (10/16/2011 - 23:29)&lt;br /&gt;
+Gut gemacht. Die Hintergrundmusik finde ich etwas fragwürdig ;-) aber zum
+Thema hat's mir als Gnome-3-Einsteiger weitergeholfen. Vermisse noch
+schmerzlich die alte Compiz Super+Mausrad-Zoom-Funktion&lt;br /&gt;
+avacpio&lt;/p&gt;</summary><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="a11y"></category><category term="magnifier"></category><category term="Zoom"></category><category term="Zoomen"></category></entry></feed>

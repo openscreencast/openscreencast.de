@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,groups,id,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,short,system-config-users
 Slug: groups
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 102000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: cAhtCIGqXYE
 Vimeo: 16325124
 Tumblr: http://openscreencast.tumblr.com/post/8305837363/groups-fedora-7-gnome-2-18-lizenz
-Oggfile: http://www.openscreencast.de/archive/short/groups_short_046.ogg
-Mp4file: http://www.openscreencast.de/archive/short/groups_short_046.mp4
-Srtfile: http://www.openscreencast.de/archive/short/groups_short_046.srt
-Image: http://www.openscreencast.de/archive/short/groups_short_046.png
+Oggfile: https://www.openscreencast.de/archive/short/groups_short_046.ogg
+Mp4file: https://www.openscreencast.de/archive/short/groups_short_046.mp4
+Srtfile: https://www.openscreencast.de/archive/short/groups_short_046.srt
+Image: https://www.openscreencast.de/archive/short/groups_short_046.png
 
 Ausgangspunkt: Fedora 7, GNOME 2.18  
 Zielgruppe: Neueinsteiger  

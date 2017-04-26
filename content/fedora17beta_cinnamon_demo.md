@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Gnome3,glimpse,demo,cinnamon
 Slug: fedora17beta_cinnamon_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 183000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 6wSHtVWJUD4
 Vimeo: 40731165
 Tumblr: http://openscreencast.tumblr.com/post/21438943434/fedora-17-beta-cinnamon-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/549675
-Oggfile: http://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.ogg
-Webmfile: http://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.webm
-Mp4file: http://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.mp4
-Image: http://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.ogg
+Webmfile: https://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.webm
+Mp4file: https://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.mp4
+Image: https://www.openscreencast.de/archive/glimpse/fedora17beta_cinnamon_glimpse_037.png
 
 Ausgangspunkt: Fedora 17 Beta  
 Zielgruppe: Neueinsteiger  

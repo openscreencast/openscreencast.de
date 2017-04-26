@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung
 Slug: python_if
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 446000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: nOU2ccm5ISA
 Vimeo: 22521164
 Tumblr: http://openscreencast.tumblr.com/post/8353603642/python-programmierung-if-anweisung-ubuntu
-Oggfile: http://www.openscreencast.de/archive/python_if_118.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_if_oM_118.ogg
-Webmfile: http://www.openscreencast.de/archive/python_if_118.webm
-Mp4file: http://www.openscreencast.de/archive/python_if_118.mp4
-Srtfile: http://www.openscreencast.de/archive/python_if_118.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_if_oM_118.srt
-Image: http://www.openscreencast.de/archive/python_if_118.png
+Oggfile: https://www.openscreencast.de/archive/python_if_118.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_if_oM_118.ogg
+Webmfile: https://www.openscreencast.de/archive/python_if_118.webm
+Mp4file: https://www.openscreencast.de/archive/python_if_118.mp4
+Srtfile: https://www.openscreencast.de/archive/python_if_118.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_if_oM_118.srt
+Image: https://www.openscreencast.de/archive/python_if_118.png
 
 Ausgangspunkt: Ubuntu 10.10, Gnome 2.32  
 Zielgruppe: Neueinsteiger  

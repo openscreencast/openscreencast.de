@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,wmctrl
 Slug: wmctrl
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 391000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: C8dgLEVpDgY
 Vimeo: 15399819
-Oggfile: http://www.openscreencast.de/archive/wmctrl_082.ogg
-Oggfileom: http://www.openscreencast.de/archive/wmctrl_oM_082.ogg
-Mp4file: http://www.openscreencast.de/archive/wmctrl_082.mp4
-Mkvfile: http://www.openscreencast.de/archive/wmctrl_082.mkv
-Srtfile: http://www.openscreencast.de/archive/wmctrl_082.srt
-Srtfile_om: http://www.openscreencast.de/archive/wmctrl_oM_082.srt
-Image: http://www.openscreencast.de/archive/wmctrl_082.png
+Oggfile: https://www.openscreencast.de/archive/wmctrl_082.ogg
+Oggfileom: https://www.openscreencast.de/archive/wmctrl_oM_082.ogg
+Mp4file: https://www.openscreencast.de/archive/wmctrl_082.mp4
+Mkvfile: https://www.openscreencast.de/archive/wmctrl_082.mkv
+Srtfile: https://www.openscreencast.de/archive/wmctrl_082.srt
+Srtfile_om: https://www.openscreencast.de/archive/wmctrl_oM_082.srt
+Image: https://www.openscreencast.de/archive/wmctrl_082.png
 
 Ausgangspunkt: Ubuntu 10.04, GNOME 2.30  
 Zielgruppe: Neueinsteiger  

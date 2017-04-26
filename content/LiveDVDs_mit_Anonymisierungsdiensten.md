@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Anonymisierungsdienste,Live DVD,Privacy
 Slug: LiveDVDs_mit_Anonymisierungsdiensten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 148000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 8N1cOrfTRec

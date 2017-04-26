@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Fedora,Gnome,Gnome3,GPaste
 Slug: Linux_Gnome3_GPaste_Zwischenablage_installieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 294000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: rUoGh-WaW7g

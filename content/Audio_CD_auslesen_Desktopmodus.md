@@ -7,9 +7,9 @@ Slug: Audio_CD_auslesen_Desktopmodus
 Duration: 345000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13884323
-Oggfile: http://www.openscreencast.de/archive/audiocd_auslesen_019.ogg
-Srtfile: http://www.openscreencast.de/archive/audiocd_auslesen_019.srt
-Image: http://www.openscreencast.de/archive/audiocd_auslesen_019.png
+Oggfile: https://www.openscreencast.de/archive/audiocd_auslesen_019.ogg
+Srtfile: https://www.openscreencast.de/archive/audiocd_auslesen_019.srt
+Image: https://www.openscreencast.de/archive/audiocd_auslesen_019.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

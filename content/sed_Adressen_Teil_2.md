@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,sed,Linux Mint
 Slug: sed_Adressen_Teil_2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 402000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: AVOaAlhm1HM

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,gif,byzanz,peek,Screencasting
 Slug: peek_screencasts_als_gif
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 372000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dwi-6VX83eQ

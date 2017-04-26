@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Linux Mint,LibreOffice,Calc
 Slug: LibreOffice_Calc_Tabellenregister_und_Statusleiste
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 112000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: nrS-piZP16s

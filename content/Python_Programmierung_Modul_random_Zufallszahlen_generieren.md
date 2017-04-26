@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Python,Programmierung,Linux Mint,random
 Slug: Python_Programmierung_Modul_random_Zufallszahlen_generieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 305000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bkgJMBuHLkA

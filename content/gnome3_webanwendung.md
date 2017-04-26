@@ -4,20 +4,20 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,epiphany,Webanwendung
 Slug: gnome3_webanwendung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 267000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: plbPNjHOPUI
 Vimeo: 34127925
 Tumblr: http://openscreencast.tumblr.com/post/14669488027/gnome3-website-als-webanwendung-speichern
 Diaspora: https://pod.geraspora.de/posts/306698
-Oggfile: http://www.openscreencast.de/archive/gnome3_webanwendung_193.ogg
-Oggfileom: http://www.openscreencast.de/archive/gnome3_webanwendung_oM_193.ogg
-Webmfile: http://www.openscreencast.de/archive/gnome3_webanwendung_193.webm
-Mp4file: http://www.openscreencast.de/archive/gnome3_webanwendung_193.mp4
-Srtfile: http://www.openscreencast.de/archive/gnome3_webanwendung_193.srt
-Srtfile_om: http://www.openscreencast.de/archive/gnome3_webanwendung_oM_193.srt
-Image: http://www.openscreencast.de/archive/gnome3_webanwendung_193.png
+Oggfile: https://www.openscreencast.de/archive/gnome3_webanwendung_193.ogg
+Oggfileom: https://www.openscreencast.de/archive/gnome3_webanwendung_oM_193.ogg
+Webmfile: https://www.openscreencast.de/archive/gnome3_webanwendung_193.webm
+Mp4file: https://www.openscreencast.de/archive/gnome3_webanwendung_193.mp4
+Srtfile: https://www.openscreencast.de/archive/gnome3_webanwendung_193.srt
+Srtfile_om: https://www.openscreencast.de/archive/gnome3_webanwendung_oM_193.srt
+Image: https://www.openscreencast.de/archive/gnome3_webanwendung_193.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/podblogger.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-10-14T19:17:00+02:00</updated><entry><title>podblogger</title><link href="https://www.openscreencast.de/blog/podblogger.html" rel="alternate"></link><published>2006-10-14T19:17:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-14:blog/podblogger.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.rotzoll.de/podblogger/"&gt;Podblogger&lt;/a&gt; ist ein PHP-
+Audio&lt;a href="http://de.wikipedia.org/wiki/Weblog"&gt;blogger&lt;/a&gt;, Podcast-CMS, der es
+ermöglicht &lt;a href="http://de.wikipedia.org/wiki/Podcast"&gt;Podcasts&lt;/a&gt; im Internet zu
+veröffentlichen. Wer vorher schon mal schauen möchte wie podblogger
+funktioniert kann sich die
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;screencasts&lt;/a&gt; (ohne Audio) die auf
+der Webseite zum Download angeboten werden anschauen. Podblogger steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="ohne Audio"></category><category term="podblogger"></category><category term="screencast"></category></entry></feed>

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox
 Slug: Firefox_dekorieren_HintergrundThemes_hinzufuegen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 111000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: OASipNrqBtA

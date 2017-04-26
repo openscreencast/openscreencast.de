@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,EvolveOS
 Slug: Evolve_OS_Beta_1_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 244000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: tgu1xO1266k

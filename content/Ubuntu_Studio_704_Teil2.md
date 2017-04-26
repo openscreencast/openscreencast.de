@@ -4,15 +4,15 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,glimpse,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Ubuntu Studio
 Slug: Ubuntu_Studio_704_Teil2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 570000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: 0Lf4ptHysHY
 Vimeo: 15503795
 Tumblr: http://openscreencast.tumblr.com/post/8339762489/ubuntu-studio-7-04-gnome-2-18-lizenz
-Oggfile: http://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.ogg
-Mp4file: http://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.mp4
-Image: http://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.ogg
+Mp4file: https://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.mp4
+Image: https://www.openscreencast.de/archive/glimpse/ubuntustudio_704_glimpse_003b.png
 
 Ausgangspunkt: Ubuntu Studio 7.04, GNOME 2.18  
 Zielgruppe: Neueinsteiger  

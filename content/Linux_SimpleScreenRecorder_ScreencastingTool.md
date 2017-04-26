@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Screencasting,SimpleScreenRecorder
 Slug: Linux_SimpleScreenRecorder_ScreencastingTool
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bN2bqTcuEqE

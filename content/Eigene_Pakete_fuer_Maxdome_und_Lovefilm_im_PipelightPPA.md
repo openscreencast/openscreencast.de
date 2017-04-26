@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Pipelight
 Slug: Eigene_Pakete_fuer_Maxdome_und_Lovefilm_im_PipelightPPA
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 131000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: wtiF-NQKA4w

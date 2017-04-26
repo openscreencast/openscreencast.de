@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,SVG,Wallpaper,SVGeneration,Web
 Slug: SVGeneration_erzeugt_ueber_80_Muster_fuer_Wallpaper_und_Hintergruende_als_SVG
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 102000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: rMLnr0-QoSQ

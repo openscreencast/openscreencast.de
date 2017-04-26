@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Python,Programmierung,web,www,wsgi,bottle
 Slug: bottle_abort
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 165000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 9cP-66VKu04
 Vimeo: 44162713
 Tumblr: http://openscreencast.tumblr.com/post/24900090824/bottle-abort-eine-error-page-generieren-fedora
 Diaspora: https://pod.geraspora.de/posts/654796
-Oggfile: http://www.openscreencast.de/archive/bottle_abort_242.ogg
-Webmfile: http://www.openscreencast.de/archive/bottle_abort_242.webm
-Mp4file: http://www.openscreencast.de/archive/bottle_abort_242.mp4
-Image: http://www.openscreencast.de/archive/bottle_abort_242.png
+Oggfile: https://www.openscreencast.de/archive/bottle_abort_242.ogg
+Webmfile: https://www.openscreencast.de/archive/bottle_abort_242.webm
+Mp4file: https://www.openscreencast.de/archive/bottle_abort_242.mp4
+Image: https://www.openscreencast.de/archive/bottle_abort_242.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

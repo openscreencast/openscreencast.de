@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc
 Slug: LibreOffice_Calc_Spalten_und_Zeilen_loeschen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 173000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: UO2KWqwlkCk

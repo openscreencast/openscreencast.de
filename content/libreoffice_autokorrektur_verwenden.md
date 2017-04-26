@@ -4,20 +4,20 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3,Autokorrektur
 Slug: libreoffice_autokorrektur_verwenden
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 244000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: WoA4U6fxxXc
 Vimeo: 42894835
 Tumblr: http://openscreencast.tumblr.com/post/23741289577/libreoffice-writer-funktion-autokorrektur
 Diaspora: https://pod.geraspora.de/posts/620803
-Oggfile: http://www.openscreencast.de/archive/libreoffice_autokorrektur_232.ogg
-Oggfileom: http://www.openscreencast.de/archive/libreoffice_autokorrektur_oM_232.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_autokorrektur_232.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_autokorrektur_232.mp4
-Srtfile: http://www.openscreencast.de/archive/libreoffice_autokorrektur_232.srt
-Srtfile_om: http://www.openscreencast.de/archive/libreoffice_autokorrektur_oM_232.srt
-Image: http://www.openscreencast.de/archive/libreoffice_autokorrektur_232.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_autokorrektur_232.ogg
+Oggfileom: https://www.openscreencast.de/archive/libreoffice_autokorrektur_oM_232.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_autokorrektur_232.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_autokorrektur_232.mp4
+Srtfile: https://www.openscreencast.de/archive/libreoffice_autokorrektur_232.srt
+Srtfile_om: https://www.openscreencast.de/archive/libreoffice_autokorrektur_oM_232.srt
+Image: https://www.openscreencast.de/archive/libreoffice_autokorrektur_232.png
 
 Ausgangspunkt: Fedora 17 Beta  
 Zielgruppe: Neueinsteiger  

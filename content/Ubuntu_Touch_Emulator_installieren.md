@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Ubuntu touch,Emulator
 Slug: Ubuntu_Touch_Emulator_installieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 372000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: RO9MT1yzbSA

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,hdparm
 Slug: Linux_Festplattengeschwindigkeit_mit_hdparm_vermessen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 269000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: 7mDPnr-IDvE

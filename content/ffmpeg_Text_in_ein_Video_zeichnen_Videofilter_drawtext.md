@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,ffmpeg,Linux Mint
 Slug: ffmpeg_Text_in_ein_Video_zeichnen_Videofilter_drawtext
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 233000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: zyHFkgBQf7k

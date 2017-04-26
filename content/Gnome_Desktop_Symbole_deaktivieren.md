@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-sa,Fedora Core,gconf,gconf-editor,Gnome,Linux,Ogg Theora,ohne Musik,screencast,short
 Slug: Gnome_Desktop_Symbole_deaktivieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 57000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: NQZOi-QmATA
 Vimeo: 16248878
 Tumblr: http://openscreencast.tumblr.com/post/8304576169/gnome-desktop-symbole-deaktivieren-fedora-core
-Oggfile: http://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.ogg
-Mp4file: http://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.mp4
-Srtfile: http://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.srt
-Image: http://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.png
+Oggfile: https://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.ogg
+Mp4file: https://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.mp4
+Srtfile: https://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.srt
+Image: https://www.openscreencast.de/archive/short/gnome_einstellungen_desktopsymbole_short_023.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

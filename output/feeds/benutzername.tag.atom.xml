@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/benutzername.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2008-11-16T06:52:00+01:00</updated><entry><title>login - Anmeldung</title><link href="https://www.openscreencast.de/blog/login_Anmeldung.html" rel="alternate"></link><published>2008-11-16T06:52:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-16:blog/login_Anmeldung.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Displaymanager"&gt;Displaymanager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.linwiki.org/wiki/Linuxfibel_-_Erste_Schritte_-_Anmelden"&gt;Anmeldung&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Passwort"></category><category term="Loginmanager"></category><category term="Displaymanager"></category><category term="Benutzername"></category><category term="gdm"></category><category term="login"></category><category term="anmelden"></category></entry></feed>

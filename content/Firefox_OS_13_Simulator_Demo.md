@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,FirefoxOS
 Slug: Firefox_OS_13_Simulator_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 601000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: YM61amPIlRg

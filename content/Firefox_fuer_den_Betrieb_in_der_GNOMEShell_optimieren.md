@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gnome,Gnome3,Firefox,Gnome Shell
 Slug: Firefox_fuer_den_Betrieb_in_der_GNOMEShell_optimieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 318000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: qONlNyZgsNk

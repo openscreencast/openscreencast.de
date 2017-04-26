@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,commandlinefu
 Slug: Linux_commandlinefu_liefert_Beispiele_zu_Terminalbefehlen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 322000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 0CgsCO81faE

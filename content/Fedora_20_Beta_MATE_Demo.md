@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Fedora,Demo,MATE
 Slug: Fedora_20_Beta_MATE_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 309000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: elmBNrz606Y

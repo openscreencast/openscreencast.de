@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Gnome,Tanglu,Gnome3
 Slug: Tanglu_12_Beta_2_Aequorea_Gnome_310_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 381000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: GreJ5Mf2d28

@@ -30,19 +30,19 @@ Bei PhotoFilmStrip werden die Erklärungstexte durch einen
 Datei) realisiert. Mit allen 4 Programmen habe ich ein Video erstellt. Genutzt
 habe ich, was den Inhalt angeht, den [Screencast 157 - Gnome3 - Terminal mit
 Tastenkuerzel
-starten](http://www.openscreencast.de/blog/gnome3_terminal_shortcut "Link zu
+starten](https://www.openscreencast.de/blog/gnome3_terminal_shortcut "Link zu
 Screencast 157" ).
 
 Hier sind die Ergebnisse:  
-[Imagination.ogg](http://www.openscreencast.de/archive/imagination.ogg "Link
+[Imagination.ogg](https://www.openscreencast.de/archive/imagination.ogg "Link
 zum Video Imagination.ogg" )  
-[Mistelix.ogg](http://www.openscreencast.de/archive/mistelix.ogg "Link zum
+[Mistelix.ogg](https://www.openscreencast.de/archive/mistelix.ogg "Link zum
 Video Mistelix.ogg" )  
-[Photofilmstrip.ogg](http://www.openscreencast.de/archive/photofilmstrip.ogg
+[Photofilmstrip.ogg](https://www.openscreencast.de/archive/photofilmstrip.ogg
 "Link zum Video Photofilmstrip.ogg" )
-[Photofilmstrip.srt](http://www.openscreencast.de/archive/photofilmstrip.srt
+[Photofilmstrip.srt](https://www.openscreencast.de/archive/photofilmstrip.srt
 "Link zum Video Photofilmstrip.srt" )  
-[Videoporama.ogg](http://www.openscreencast.de/archive/videoporama.ogg "Link
+[Videoporama.ogg](https://www.openscreencast.de/archive/videoporama.ogg "Link
 zum Video Videoporama.ogg" )
 
 Artikel in Audio:

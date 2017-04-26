@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,glimpse,Gnome,Linux,Neueinsteiger,Ogg Theora,screencast
 Slug: Fedora10_Preview_Installation
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 618000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: PRpqla0SU6s
 Vimeo: 15630395
 Tumblr: http://openscreencast.tumblr.com/post/8339830750/installation-fedora-10-preview-gnome-2-24
-Oggfile: http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.ogg
-Mp4file: http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mp4
-Mkvfile: http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv
-Image: http://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.ogg
+Mp4file: https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mp4
+Mkvfile: https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.mkv
+Image: https://www.openscreencast.de/archive/glimpse/fedora10_install_glimpse_008.png
 
 Ausgangspunkt: Fedora 10 Preview, GNOME 2.24  
 Zielgruppe: Neueinsteiger  

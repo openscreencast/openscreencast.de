@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,WebODF,ODF,odt
 Slug: WebODF_ODFDokumente_in_Webseiten_einbinden_odtDatei_mittels_Browser_anschauen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 195000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 43SaD9bCZww

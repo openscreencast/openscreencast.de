@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,RaspberryPi,RaspPi,etcher
 Slug: raspberrypi_etcher
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 413000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: dZgJMf5FQ9g

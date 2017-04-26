@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-sa,Fedora Core,gconf,gconf-editor,Gnome,Linux,Ogg Theora,ohne Musik,screencast,short
 Slug: Gnome_Cursor_einstellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 41000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: zbi7GaaALEA
 Vimeo: 16286691
 Tumblr: http://openscreencast.tumblr.com/post/8304981242/gnome-cursor-einstellen-fedora-core-6-gnome
-Oggfile: http://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.ogg
-Mp4file: http://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.mp4
-Srtfile: http://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.srt
-Image: http://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.png
+Oggfile: https://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.ogg
+Mp4file: https://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.mp4
+Srtfile: https://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.srt
+Image: https://www.openscreencast.de/archive/short/gnome_cursor_einstellen_short_034.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

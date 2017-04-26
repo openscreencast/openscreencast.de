@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Backup,Privacy
 Slug: Linux_Backups_verschluesseln_Konzept
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 345000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: aus7bN_CwGo

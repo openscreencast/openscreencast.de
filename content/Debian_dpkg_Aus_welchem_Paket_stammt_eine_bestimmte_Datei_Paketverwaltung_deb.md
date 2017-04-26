@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Debian,deb,dpkg
 Slug: Debian_dpkg_Aus_welchem_Paket_stammt_eine_bestimmte_Datei_Paketverwaltung_deb
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 77000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: uh1fa-NDIKc

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Manjaro,OpenBox,Demo
 Slug: Manjaro_Linux_088_Openbox_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 347000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: WYhyqtvlB9k

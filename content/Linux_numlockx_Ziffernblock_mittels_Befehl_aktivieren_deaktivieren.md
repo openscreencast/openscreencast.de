@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,numlockx
 Slug: Linux_numlockx_Ziffernblock_mittels_Befehl_aktivieren_deaktivieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 141000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: --UlP2332Rs

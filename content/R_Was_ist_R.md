@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,R,Linux Mint
 Slug: R_Was_ist_R
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 132000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: S7RyYFy3yK8

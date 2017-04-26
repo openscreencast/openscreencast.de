@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,FirefoxOS,Demo
 Slug: Firefox_OS_20_und_Firefox_OS_15_im_Vergleich_per_Simulator_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 596000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dp_rGiGY59A

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Neueinsteiger,screencast,Linux,Screencasting,Green Recorder
 Slug: linux_greenrecorder
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 215000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 0mGX410deIA

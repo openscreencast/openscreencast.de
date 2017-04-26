@@ -10,7 +10,7 @@ an alle von denen ich E-Mails und Kommentare bekommen habe. Ich hoffe die
 [Screencasts](http://de.wikipedia.org/wiki/Screencast) haben den
 Neueinsteigern (Linux) wenigstens ein bißchen geholfen. An dieser Stelle
 möchte ich auch noch mal auf den Link
-[Mitmachen](http://www.openscreencast.de/dcms/?q=node/3) hinweisen. Wer Ideen
+[Mitmachen](https://www.openscreencast.de/dcms/?q=node/3) hinweisen. Wer Ideen
 hat was das Projekt Openscreencast angeht oder Wünsche hat was den Inhalt des
 nächsten Videos angeht, immer raus damit, vielleicht ist es sogar machbar. Für
 diejenigen die es interessiert am Ende ein paar Zahlen für das halbe Jahr

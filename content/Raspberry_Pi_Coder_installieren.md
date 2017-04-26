@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Coder,Raspberry Pi
 Slug: Raspberry_Pi_Coder_installieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 248000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: zwZTTvnhZ-U

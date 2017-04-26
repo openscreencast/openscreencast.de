@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Debian,dpkg,deb
 Slug: Debian_dpkg_Pakete_deinstallieren_Paketverwaltung_deb
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 144000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: epVWDCqhU9Y

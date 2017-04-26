@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/firefox.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 26 Jun 2015 15:54:00 +0200</lastBuildDate><item><title>Firefox - Leseansicht</title><link>https://www.openscreencast.de/blog/Firefox_Leseansicht.html</link><description>&lt;p&gt;Firefox - Leseansicht, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://support.mozilla.org/de/kb/Uebersichtliche-Darstellung-
+von-Webseiten-mit-der-Leseansicht"&gt;Leseansicht&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:54:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/Firefox_Leseansicht.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Firefox</category></item><item><title>Firefox - nur in bestimmten Bereichen suchen</title><link>https://www.openscreencast.de/blog/Firefox_nur_in_bestimmten_Bereichen_suchen.html</link><description>&lt;p&gt;Firefox - nur in bestimmten Bereichen suchen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.soeren-hentzschel.at/mozilla/firefox/2015/05/20
+/firefox-tipp-in-adressleiste-nur-nach-bestimmter-art-von-ergebnissen-suchen/"&gt;Firefox-Tipp&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 26 Jun 2015 15:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-06-26:blog/Firefox_nur_in_bestimmten_Bereichen_suchen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Firefox</category></item><item><title>Notizen für Tomboy aus Firefox heraus erzeugen</title><link>https://www.openscreencast.de/blog/Firefox_Tomfox.html</link><description>&lt;p&gt;Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/notizen-fur-tomboy-aus-firefox-heraus-erzeugen/"&gt;Notizen für Tomboy aus Firefox heraus erzeugen&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wiki.gnome.org/Apps/Tomboy" title="Link zu gnome.org"&gt;Tomboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox/" title="Link zu mozilla.org"&gt;Tomfox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox-1/" title="Link zu mozilla.org"&gt;Tomfox+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:42:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Firefox_Tomfox.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Tomboy</category><category>Firefox</category><category>Tomfox</category></item><item><title>Privacy Badger - die Datenschutz-Erweiterung für Firefox</title><link>https://www.openscreencast.de/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html</link><description>&lt;p&gt;Privacy Badger - die Datenschutz-Erweiterung für Firefox&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.eff.org/privacybadger"&gt;https://www.eff.org/privacybadger&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;br /&gt;
+Privacy Badger - A project of the Electronic Frontier Foundation&lt;br /&gt;
+&lt;a href="https://github.com/EFForg/"&gt;https://github.com/EFForg/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Web_Analytics"&gt;http://de.wikipedia.org/wiki/Web_Analytics&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2, &lt;a href="https://www.mozilla.org/MPL/1.1/"&gt;MPL
+1.1&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by/3.0/deed.de"&gt;CC by
+3.0&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 04 May 2014 20:16:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-05-04:blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Datenschutz</category><category>Privacy</category><category>Firefox</category><category>Web</category><category>Privacy Badger</category></item><item><title>Firefox 29 mit Australis für Linux</title><link>https://www.openscreencast.de/blog/Firefox_29_mit_Australis_fuer_Linux.html</link><description>&lt;p&gt;Firefox 29 mit Australis für Linux&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://webwewant.mozilla.org/de/"&gt;https://webwewant.mozilla.org/de/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.mozilla.org/en-US/firefox/29.0beta/releasenotes/"&gt;http://www.mozilla.org/en-US/firefox/29.0beta/releasenotes/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://www.bitblokes.de&amp;lt;/a&amp;gt;/2014/04/firefox-29-fuer-linux-
+ist-downloadbar-ist-dank-australis-richtig-klasse-geworden/"&gt;Firefox 29 für Linux ist downloadbar - ist dank Australis richtig
+Klasse geworden&lt;/a&gt; von
+&lt;a href="http://www.bitblokes.de"&gt;http://www.bitblokes.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2, &lt;a href="https://www.mozilla.org/MPL/1.1/"&gt;MPL
+1.1&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by/3.0/deed.de"&gt;CC by
+3.0&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 29 Apr 2014 16:22:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-29:blog/Firefox_29_mit_Australis_fuer_Linux.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Australis</category></item><item><title>Geeksphone Revolution und andere Geräte mit dem Firefox App-Manager verbinden</title><link>https://www.openscreencast.de/blog/Geeksphone_Revolution_und_andere_Geraete_mit_dem_Firefox_AppManager_verbinden.html</link><description>&lt;p&gt;Geeksphone Revolution und andere Geräte mit dem Firefox App-Manager verbinden&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;!!! Nicht vergessen: PC mittels USB-Kabel mit dem mobilen Endgerät verbinden,
+ich glaube das habe ich nicht erwähnt  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://downloads.geeksphone.com/"&gt;http://downloads.geeksphone.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Udev"&gt;http://de.wikipedia.org/wiki/Udev&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://developer.android.com/tools/device.html"&gt;http://developer.android.com/tools/device.html&lt;/a&gt;#setting-up&lt;br /&gt;
+&lt;a href="https://github.com/M0Rf30/android-udev-rules/blob/master/51-android.rules"&gt;https://github.com/M0Rf30/android-udev-rules/blob/master/51-android.rules&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Android_Debug_Bridge"&gt;http://en.wikipedia.org/wiki/Android_Debug_Bridge&lt;/a&gt;#ADB&lt;br /&gt;
+&lt;a href="https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/"&gt;https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers"&gt;https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Firefox_OS"&gt;http://de.wikipedia.org/wiki/Firefox_OS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox OS 1.3 Simulator installieren: &lt;a href="http://youtu.be/5k7rOEiimuI"&gt;http://youtu.be/5k7rOEiimuI&lt;/a&gt;&lt;br /&gt;
+Geeksphone Revolution - Firefox OS installieren: &lt;a href="http://youtu.be/xbNqD9jUGuw"&gt;http://youtu.be/xbNqD9jUGuw&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Korrektur Zusammenfassung: 21-android.rules - 51-android.rules  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der FirefoxOS-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 21 Apr 2014 18:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-21:blog/Geeksphone_Revolution_und_andere_Geraete_mit_dem_Firefox_AppManager_verbinden.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Appmanager</category><category>Geeksphone</category><category>Android</category><category>FirefoxOS</category></item><item><title>Firefox für den Betrieb in der GNOME-Shell optimieren</title><link>https://www.openscreencast.de/blog/Firefox_fuer_den_Betrieb_in_der_GNOMEShell_optimieren.html</link><description>&lt;p&gt;Firefox für den Betrieb in der GNOME-Shell optimieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/adwaita/"&gt;https://addons.mozilla.org/en-US/firefox/addon/adwaita/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/htitle/"&gt;https://addons.mozilla.org/en-US/firefox/addon/htitle/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://extensions.gnome.org/extension/740/hide-top-panel/"&gt;https://extensions.gnome.org/extension/740/hide-top-panel/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/firefox-gnome-shell-optimieren/"&gt;http://linuxundich.de/ubuntu/firefox-gnome-shell-optimieren/&lt;/a&gt;&lt;br /&gt;
+Firefox für den Betrieb in der GNOME-Shell optimieren von Christoph Langner
+&lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 18 Apr 2014 14:26:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-18:blog/Firefox_fuer_den_Betrieb_in_der_GNOMEShell_optimieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Gnome</category><category>Gnome3</category><category>Firefox</category><category>Gnome Shell</category></item><item><title>Firefox - Einstellungen im Tab</title><link>https://www.openscreencast.de/blog/Firefox_Einstellungen_im_Tab.html</link><description>&lt;p&gt;Firefox - Einstellungen im Tab&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Firefox-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 29 Mar 2014 17:58:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-29:blog/Firefox_Einstellungen_im_Tab.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category></item><item><title>Firefox - Diaspora Easyshare</title><link>https://www.openscreencast.de/blog/Firefox_Diaspora_Easyshare.html</link><description>&lt;p&gt;Firefox - Diaspora Easyshare&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://arlogn.github.io/easyshare/"&gt;http://arlogn.github.io/easyshare/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://addons.mozilla.org/de/firefox/addon/diaspora-easyshare/"&gt;https://addons.mozilla.org/de/firefox/addon/diaspora-easyshare/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Diaspora_%28Software%29"&gt;http://de.wikipedia.org/wiki/Diaspora_%28Software%29&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;http://de.wikipedia.org/wiki/Firefox&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 10 Jan 2014 17:33:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-10:blog/Firefox_Diaspora_Easyshare.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Diaspora</category></item><item><title>Firefox - bessere Verschlüsselung einstellen (How's my SSL ?)</title><link>https://www.openscreencast.de/blog/Firefox_bessere_Verschluesselung_einstellen_Hows_my_SSL.html</link><description>&lt;p&gt;Firefox - bessere Verschlüsselung einstellen (How's my SSL ?)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.howsmyssl.com/"&gt;https://www.howsmyssl.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;http://de.wikipedia.org/wiki/Firefox&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 08 Jan 2014 17:36:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-08:blog/Firefox_bessere_Verschluesselung_einstellen_Hows_my_SSL.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>SSL</category><category>Firefox</category></item><item><title>Firefox dekorieren - Hintergrund-Themes hinzufügen</title><link>https://www.openscreencast.de/blog/Firefox_dekorieren_HintergrundThemes_hinzufuegen.html</link><description>&lt;p&gt;Firefox dekorieren - Hintergrund-Themes hinzufügen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/de/firefox/themes/"&gt;https://addons.mozilla.org/de/firefox/themes/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://addons.mozilla.org/de/developers/docs/themes"&gt;https://addons.mozilla.org/de/developers/docs/themes&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 11 Dec 2013 21:45:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-11:blog/Firefox_dekorieren_HintergrundThemes_hinzufuegen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category></item><item><title>Firefox - schnelle Youtube-Suche ohne Extra-Add-on</title><link>https://www.openscreencast.de/blog/Firefox_schnelle_YoutubeSuche_ohne_ExtraAddon.html</link><description>&lt;p&gt;Firefox - schnelle Youtube-Suche ohne Extra-Add-on&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Firefox"&gt;https://de.wikipedia.org/wiki/Firefox&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 24 Nov 2013 20:15:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-24:blog/Firefox_schnelle_YoutubeSuche_ohne_ExtraAddon.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category></item><item><title>Firefox - schnelle Youtube-Suche</title><link>https://www.openscreencast.de/blog/Firefox_schnelle_YoutubeSuche.html</link><description>&lt;p&gt;Firefox - schnelle Youtube-Suche (Add-on Search in Youtube)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/search-in-youtube/"&gt;https://addons.mozilla.org/de/firefox/addon/search-in-youtube/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Firefox"&gt;https://de.wikipedia.org/wiki/Firefox&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 24 Nov 2013 01:28:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-24:blog/Firefox_schnelle_YoutubeSuche.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category></item><item><title>Firefox Nightly - Classic Theme Restorer</title><link>https://www.openscreencast.de/blog/Firefox_Nightly_Classic_Theme_Restorer.html</link><description>&lt;p&gt;Firefox Nightly - Classic Theme Restorer&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://aris-at-mozilla.blogspot.ca/"&gt;http://aris-at-mozilla.blogspot.ca/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://addons.mozilla.org/de/firefox/addon/classicthemerestorer/"&gt;https://addons.mozilla.org/de/firefox/addon/classicthemerestorer/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.soeren-hentzschel.at/mozilla/firefox/2013/11/19/keine-lust-auf-
+australis-kein-problem-alte-optionen-wiederherstellen/"&gt;http://www.soeren-hentzschel.at/mozilla/firefox/2013/11/19/keine-lust-auf-
+australis-kein-problem-alte-optionen-wiederherstellen/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Firefox"&gt;https://de.wikipedia.org/wiki/Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.pro-linux.de/news/1/20494/mozilla-bietet-neues-australis-design-
+in-den-nightly-builds-an.html"&gt;http://www.pro-linux.de/news/1/20494/mozilla-bietet-neues-australis-design-
+in-den-nightly-builds-an.html&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 22 Nov 2013 21:20:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-22:blog/Firefox_Nightly_Classic_Theme_Restorer.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category></item><item><title>Australis in Firefox Nightly</title><link>https://www.openscreencast.de/blog/Australis_in_Firefox_Nightly.html</link><description>&lt;p&gt;Australis in Firefox Nightly&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: BITblokes.de &lt;a href="http://www.bitblokes.de"&gt;http://www.bitblokes.de&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/11/damit-firefox-ueberall-wie-firefox-aussieht-
+australis-in-firefox-nightly-bringt-mehr-platz-zum-browsen/"&gt;http://www.bitblokes.de/2013/11/damit-firefox-ueberall-wie-firefox-aussieht-
+australis-in-firefox-nightly-bringt-mehr-platz-zum-browsen/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Firefox"&gt;https://de.wikipedia.org/wiki/Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.pro-linux.de/news/1/20494/mozilla-bietet-neues-australis-design-
+in-den-nightly-builds-an.html"&gt;http://www.pro-linux.de/news/1/20494/mozilla-bietet-neues-australis-design-
+in-den-nightly-builds-an.html&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br /&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br /&gt;
+Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br /&gt;
+Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
+&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 20 Nov 2013 18:17:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-20:blog/Australis_in_Firefox_Nightly.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Australis</category></item><item><title>palava.tv testen und WebRTC ausprobieren (Demo)</title><link>https://www.openscreencast.de/blog/palavatv_testen_und_WebRTC_ausprobieren_Demo.html</link><description>&lt;p&gt;palava.tv testen und WebRTC ausprobieren (Demo), Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Divider by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://palava.tv/"&gt;https://palava.tv/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/palavatv/palava-machine"&gt;https://github.com/palavatv/palava-machine&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://netzpolitik.org/2013/palava-tv-alternative-zu-hangout-skype-und-co/"&gt;https://netzpolitik.org/2013/palava-tv-alternative-zu-hangout-skype-und-co/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.webrtc.org/"&gt;http://www.webrtc.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/WebRTC"&gt;https://de.wikipedia.org/wiki/WebRTC&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 04 Nov 2013 21:00:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-04:blog/palavatv_testen_und_WebRTC_ausprobieren_Demo.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>WebRTC</category><category>Demo</category><category>Firefox</category></item><item><title>Firefox - ungefähre Standortbestimmung deaktivieren - geo.enabled deaktivieren</title><link>https://www.openscreencast.de/blog/Firefox_ungefaehre_Standortbestimmung_deaktivieren_geoenabled_deaktivieren.html</link><description>&lt;p&gt;Firefox - ungefähre Standortbestimmung (standortbezogenes Surfen) deaktivieren
+- geo.enabled deaktivieren, Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Geotargeting"&gt;https://de.wikipedia.org/wiki/Geotargeting&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.mozilla.org/de/firefox/geolocation/"&gt;https://www.mozilla.org/de/firefox/geolocation/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 02 Nov 2013 18:53:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-02:blog/Firefox_ungefaehre_Standortbestimmung_deaktivieren_geoenabled_deaktivieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Linux Mint</category></item><item><title>Firefox - PDF-Betrachter deaktivieren</title><link>https://www.openscreencast.de/blog/Firefox_PDFBetrachter_deaktivieren.html</link><description>&lt;p&gt;Firefox - Javascript PDF-Betrachter deaktivieren, mit Linux Mint 15&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 28 Jul 2013 16:01:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-07-28:blog/Firefox_PDFBetrachter_deaktivieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>PDF</category><category>Linux Mint</category></item><item><title>Webzugriff - Zerlegen der URL</title><link>https://www.openscreencast.de/blog/webzugriff_url.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-08" title="Link zu freiesMagazin-2011-08"&gt;freiesMagazin-2011-08&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 24 Sep 2011 02:12:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-09-24:blog/webzugriff_url.html</guid><category>CC by-sa</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>firefox</category><category>Webzugriff</category></item><item><title>Firefox - ShowIP</title><link>https://www.openscreencast.de/blog/firefox_showip.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/showip/" title="Link zu ShowIP"&gt;ShowIP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 21 Sep 2011 02:12:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-09-21:blog/firefox_showip.html</guid><category>CC by-sa</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>firefox</category><category>showip</category></item><item><title>Firefox - Quick Locale Switcher</title><link>https://www.openscreencast.de/blog/firefox_qls.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/quick-locale-switcher/" title="Link zu Quick Locale Switcher"&gt;Quick Locale Switcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 23 Aug 2011 07:31:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-08-23:blog/firefox_qls.html</guid><category>CC by-sa</category><category>Fedora</category><category>Firefox</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>Quick Locale Switcher</category></item><item><title>Firefox - HTTPS Everywhere</title><link>https://www.openscreencast.de/blog/firefox_https_everywhere.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.eff.org/https-everywhere/" title="Link zu eff.org"&gt;HTTPS Everywhere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://secure.wikimedia.org/wikipedia/de/wiki/Https" title="Link zu Wikipedia"&gt;WP:https&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 10 Aug 2011 03:51:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-08-10:blog/firefox_https_everywhere.html</guid><category>CC by-sa</category><category>Fedora</category><category>Firefox</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>HTTPS Everywhere</category><category>https</category><category>SSL</category></item><item><title>Firefox - Referrer blockieren</title><link>https://www.openscreencast.de/blog/firefox_referer.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Referrer" title="Referrer"&gt;WP:Referrer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/refcontrol/" title="Link zu RefControl"&gt;RefControl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 01 Aug 2011 00:35:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-08-01:blog/firefox_referer.html</guid><category>CC by-sa</category><category>Firefox</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>Unity</category><category>Referer</category><category>Referrer</category><category>RefControl</category></item><item><title>Fedora - html in pdf umwandeln</title><link>https://www.openscreencast.de/blog/fedora_htmltopdf.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://fedoraproject.org/de/" title="Link zu fedoraproject.org"&gt;Fedora&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.htmldoc.org/" title="Link zu htmldoc.org"&gt;htmldoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 17 Jul 2011 04:47:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-07-17:blog/fedora_htmltopdf.html</guid><category>CC by-sa</category><category>Fedora</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>pdf</category><category>htmldoc</category></item><item><title>Firefox - Adblock Plus</title><link>https://www.openscreencast.de/blog/firefox_adblockplus.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia Firefox"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/adblock-plus/" title="Link zu Adblock Plus"&gt;Adblock Plus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-03" title="Link zu freiesmagazin.de"&gt;freiesmagazin 03/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 13 May 2011 04:16:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-05-13:blog/firefox_adblockplus.html</guid><category>CC by-sa</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>Adblock Plus</category></item><item><title>Firefox - Remove It Permanently</title><link>https://www.openscreencast.de/blog/firefox_rip.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia Firefox"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/remove-it-permanently/" title="Link zu addon rip"&gt;Remove It Permanently&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-03" title="Link zu freiesmagazin.de"&gt;freiesmagazin 03/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 22 Apr 2011 02:27:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-04-22:blog/firefox_rip.html</guid><category>CC by-sa</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>Flashblock</category></item><item><title>Firefox - Flashblock</title><link>https://www.openscreencast.de/blog/firefox_flashblock.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia Firefox"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Flash_Video" title="Link zu Wikipedia Flash_Video"&gt;WP:Flash_Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/flashblock/" title="Link zu Flashblock"&gt;Flashblock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-03" title="Link zu freiesmagazin.de"&gt;freiesmagazin 03/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 13 Apr 2011 23:55:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-04-13:blog/firefox_flashblock.html</guid><category>CC by-sa</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>Flashblock</category></item><item><title>svg-edit</title><link>https://www.openscreencast.de/blog/svgedit.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://code.google.com/p/svg-edit/" title="Link zu svg-edit"&gt;svg-edit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Svg" title="Link zu Wikipedia svg"&gt;WP:svg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 10 Apr 2011 02:08:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-04-10:blog/svgedit.html</guid><category>CC by-sa</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>svg-edit</category><category>svg</category></item><item><title>Firefox - Cookie Button in the status bar</title><link>https://www.openscreencast.de/blog/firefox_cbitsb.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia Firefox"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cookie" title="Link zu Wikipedia Cookie"&gt;WP:Cookie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/cookie-button-in-the-status-ba/" title="Link zu Cbitsb"&gt;Cookie Button in the status bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-03" title="Link zu freiesmagazin.de"&gt;freiesmagazin 03/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 08 Apr 2011 02:19:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-04-08:blog/firefox_cbitsb.html</guid><category>CC by-sa</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>CBitsb</category><category>Cookie</category></item><item><title>Firefox - NoScript</title><link>https://www.openscreencast.de/blog/firefox_noscript.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox" title="Link zu Wikipedia Firefox"&gt;WP:Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/JavaScript" title="Link zu Wikipedia Javascript"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/NoScript" title="Link zu Wikipedia NoScript"&gt;WP:NoScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2011-03" title="Link zu freiesmagazin.de"&gt;freiesmagazin 03/2011&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 31 Mar 2011 01:34:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-03-31:blog/firefox_noscript.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>NoScript</category><category>Firefox</category></item><item><title>video-Tag testen</title><link>https://www.openscreencast.de/blog/videotag_testen.html</link><description>&lt;p&gt;Mit &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox 3.1b3&lt;/a&gt; (später Firefox 3.5)
+ist nun das direkte Einbinden von Ogg
+&lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Theora&lt;/a&gt;-Videos in die Webseite per
+video-Tag möglich. Screencast 067 - Sweeper enthält nun zum testen dieses
+video-Tag. Bei mir hat es leider noch nicht so gut funktioniert. &lt;a href="http://web205.login-69.hoststar.ch/?p=433"&gt;Paketquelle
+für Firefox 3.1b3 bei Ubuntu&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 19 Mar 2009 16:25:00 +0100</pubDate><guid>tag:www.openscreencast.de,2009-03-19:blog/videotag_testen.html</guid><category>Firefox</category><category>News</category><category>video-tag</category></item><item><title>Flock Screencasts</title><link>https://www.openscreencast.de/blog/Flock_Screencasts.html</link><description>&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Flock_%28Browser%29"&gt;Flock&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt;-&lt;a href="http://de.wikipedia.org/wiki/Webbrowser"&gt;Webbrowser&lt;/a&gt;.
+Er basiert auf dem Webbrowser &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt;
+und unterliegt der Dreifachlizenz MPL/GPL/LGPL. Was Flock schon alles kann und
+warum ihn die Entwickler the social web browser nennen wird in den Screencasts
+&lt;a href="http://www.pixelgraphix.de/log/2006-06/flock-screencast-flock-beta1-im-
+livetest.php"&gt;(1)&lt;/a&gt; &lt;a href="http://www.flock.com/blog/will-pate?from=70"&gt;(2)&lt;/a&gt; deutlich.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 16 Mar 2007 01:19:00 +0100</pubDate><guid>tag:www.openscreencast.de,2007-03-16:blog/Flock_Screencasts.html</guid><category>Deutsch</category><category>Englisch</category><category>Firefox</category><category>Flock</category><category>GPL</category><category>LGPL</category><category>MPL</category><category>News</category><category>screencast</category><category>Webbrowser</category></item><item><title>Screencasts über Firefox und Virtualdub</title><link>https://www.openscreencast.de/blog/Screencasts_ueber_Firefox_und_Virtualdub.html</link><description>&lt;p&gt;Hier ein paar Links zu kleinen Videos (in Englisch) über den Internet-Browser
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und über das freie Video-
+Aufnahme- und Video-Bearbeitungsprogramm
+&lt;a href="http://de.wikipedia.org/wiki/Virtualdub"&gt;Virtualdub&lt;/a&gt; für Windows.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=QVI1W8M6F1"&gt;Benefits of
+Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=LVY1Q8O6F0"&gt;Firefox
+Extensions&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=EVI1E8H5K2"&gt;Remove ads in
+Firefox&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=BVN1L4T5Y7"&gt;How To Compress A Video
+File&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 13 Dec 2006 23:34:00 +0100</pubDate><guid>tag:www.openscreencast.de,2006-12-13:blog/Screencasts_ueber_Firefox_und_Virtualdub.html</guid><category>Englisch</category><category>Firefox</category><category>Multimedia</category><category>News</category><category>screencast</category><category>Video</category><category>Virtualdub</category></item><item><title>Filmanleitungen über Joomla, Firefox und XAMPP</title><link>https://www.openscreencast.de/blog/Filmanleitungen_Joomla_Firefox_XAMPP.html</link><description>&lt;p&gt;Auf der Seite &lt;a href="http://www.filmanleitungen.de"&gt;www.filmanleitungen.de&lt;/a&gt; wird man
+per &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; unter anderem über
+&lt;a href="http://de.wikipedia.org/wiki/Xampp"&gt;XAMPP&lt;/a&gt;,
+&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/Joomla"&gt;CMS
+Joomla&lt;/a&gt; unterrichtet. Die Video-Tutorials
+sind für Neueinsteiger als auch für fortgeschrittene Anwender.
+Audioerklärungen sind in deutscher Sprache zu hören.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 15 Nov 2006 23:55:00 +0100</pubDate><guid>tag:www.openscreencast.de,2006-11-15:blog/Filmanleitungen_Joomla_Firefox_XAMPP.html</guid><category>CMS</category><category>Deutsch</category><category>Firefox</category><category>Joomla</category><category>News</category><category>screencast</category><category>Xampp</category></item><item><title>OpenOffice - erster Schritt</title><link>https://www.openscreencast.de/blog/OpenOffice_erster_Schritt.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Openoffice"&gt;OpenOffice Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.openoffice.org"&gt;OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.openoffice.org/doc/howto_2_0/index.html"&gt;OpenOffice - Dokumentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.prooo-box.org"&gt;prooo-box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Linux-Distribution"&gt;Linux-Distribution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 12 Nov 2006 19:12:00 +0100</pubDate><guid>tag:www.openscreencast.de,2006-11-12:blog/OpenOffice_erster_Schritt.html</guid><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>OpenOffice</category><category>pirut</category><category>screencast</category><category>Textverarbeitung</category></item><item><title>Istanbul und byzanz</title><link>https://www.openscreencast.de/blog/Istanbul_und_byzanz.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: firefox, xwininfo, byzanz-record&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://live.gnome.org/Istanbul"&gt;Istanbul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.advogato.org/person/company/diary.html?start=18"&gt;byzanz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Webbrowser"&gt;Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Totem_%28Programm%29"&gt;totem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gif"&gt;gif&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 02 Nov 2006 04:04:00 +0100</pubDate><guid>tag:www.openscreencast.de,2006-11-02:blog/Istanbul_und_byzanz.html</guid><category>Browser</category><category>byzanz</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>Firefox</category><category>gif</category><category>Gnome</category><category>istanbul</category><category>Linux</category><category>Multimedia</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>pirut</category><category>screencast</category><category>Terminal</category><category>totem</category><category>xwininfo</category></item><item><title>Ordner (Desktopmodus)</title><link>https://www.openscreencast.de/blog/Ordner_Desktopmodus.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: nautilus&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Verzeichnisstruktur"&gt;Verzeichnisstruktur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateisystem"&gt;Dateisystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard"&gt;Filesystem Hierarchy Standard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Datentr%C3%A4ger"&gt;Datenträger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Systemadministrator"&gt;Administrator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Dateimanager"&gt;Dateimanager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Nautilus_%28Dateimanager%29"&gt;Nautilus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Textmodus"&gt;Textmodus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kommentare:&lt;/p&gt;
+&lt;p&gt;Karsten Horsmann am Jul 22, 2006 @ 02:58 PM: (07/15/2007 - 10:52)  &lt;/p&gt;
+&lt;p&gt;Hallo,&lt;br /&gt;
+sehr schöner Videoblog der einem die elementaren Bedienelemente zu Ordner
+näherbringt. Obwohl ich schon ein erfahrener Benutzer bin fand ich es doch
+sehr unterhaltsam und gut gemacht. Weiterso.&lt;br /&gt;
+Gruß ! Karsten&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 01:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Ordner_Desktopmodus.html</guid><category>Browser</category><category>CC by-nc-sa</category><category>Dateimanager</category><category>Desktop</category><category>Fedora Core</category><category>Filesystem Hierarchy Standard</category><category>Firefox</category><category>Gnome</category><category>Linux</category><category>nautilus</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>Ordner</category><category>screencast</category><category>Terminal</category><category>Wikipedia</category></item><item><title>Wikipedia (kurz)</title><link>https://www.openscreencast.de/blog/Wikipedia_kurz.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Browser"&gt;Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Lesezeichen_%28Internet%29"&gt;Lesezeichen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 00:30:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/Wikipedia_kurz.html</guid><category>Browser</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>Firefox</category><category>Gnome</category><category>Lesezeichen</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Wikipedia</category></item><item><title>Wie aendere ich mein Hintergrundbild bei Gnome</title><link>https://www.openscreencast.de/blog/Hintergrundbild.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gnome-background-properties, pirut, gconf-editor,
+gconftool-2&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Desktop_(EDV)"&gt;Desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://art.gnome.org"&gt;art.gnome.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kde-look.org"&gt;kde-look.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fedorawiki.de/index.php?title=Pirut"&gt;pirut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Passwort"&gt;Passwort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GConf"&gt;GConf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Xml"&gt;xml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 10 Jul 2006 16:59:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-10:blog/Hintergrundbild.html</guid><category>Browser</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>Firefox</category><category>gconf</category><category>gconf-editor</category><category>gconftool-2</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>pirut</category><category>screencast</category><category>Terminal</category><category>Textmodus</category><category>xml</category><category>Gnome</category><category>gnome-background-properties</category></item></channel></rss>

@@ -7,9 +7,9 @@ Slug: statistik_2010
 
 openscreencast.de - Statistik 2010
 
-Download: [.ods](http://www.openscreencast.de/pictures/statistik_2010.ods "ods
-Download Link" )
-[.pdf](http://www.openscreencast.de/pictures/statistik_2010.pdf "pdf Download
+Download: [.ods](https://www.openscreencast.de/pictures/statistik_2010.ods
+"ods Download Link" )
+[.pdf](https://www.openscreencast.de/pictures/statistik_2010.pdf "pdf Download
 Link" )
 
 [![pdfreaders.org](http://pdfreaders.org/graphics/pdfreaders-

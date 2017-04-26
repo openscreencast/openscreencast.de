@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,listen,Unity
 Slug: python_listenindex
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 219000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: C2zYmrClEsY
 Vimeo: 25873721
 Tumblr: http://openscreencast.tumblr.com/post/8354329630/python-programmierung-listen-index-ubuntu-11-04
-Oggfile: http://www.openscreencast.de/archive/python_listenindex_139.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_listenindex_oM_139.ogg
-Webmfile: http://www.openscreencast.de/archive/python_listenindex_139.webm
-Mp4file: http://www.openscreencast.de/archive/python_listenindex_139.mp4
-Srtfile: http://www.openscreencast.de/archive/python_listenindex_139.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_listenindex_oM_139.srt
-Image: http://www.openscreencast.de/archive/python_listenindex_139.png
+Oggfile: https://www.openscreencast.de/archive/python_listenindex_139.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_listenindex_oM_139.ogg
+Webmfile: https://www.openscreencast.de/archive/python_listenindex_139.webm
+Mp4file: https://www.openscreencast.de/archive/python_listenindex_139.mp4
+Srtfile: https://www.openscreencast.de/archive/python_listenindex_139.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_listenindex_oM_139.srt
+Image: https://www.openscreencast.de/archive/python_listenindex_139.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

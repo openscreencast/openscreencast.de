@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,RegEx,Web,www
 Slug: Regex_Cross­word
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 131000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: cuh1h57PrfQ

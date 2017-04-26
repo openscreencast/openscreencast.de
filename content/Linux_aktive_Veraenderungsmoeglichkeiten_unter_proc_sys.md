@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,proc
 Slug: Linux_aktive_Veraenderungsmoeglichkeiten_unter_proc_sys
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 223000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: lEfqNCvptV8

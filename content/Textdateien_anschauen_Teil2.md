@@ -7,9 +7,9 @@ Slug: Textdateien_anschauen_Teil2
 Duration: 371000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13394883
-Oggfile: http://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.ogg
-Srtfile: http://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.srt
-Image: http://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.png
+Oggfile: https://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.ogg
+Srtfile: https://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.srt
+Image: https://www.openscreencast.de/archive/textdateien_anschauen_teil2_003.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

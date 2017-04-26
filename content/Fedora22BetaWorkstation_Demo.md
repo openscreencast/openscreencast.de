@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Fedora,Demo
 Slug: Fedora22BetaWorkstation_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 391000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: H-vRMrdTYb0

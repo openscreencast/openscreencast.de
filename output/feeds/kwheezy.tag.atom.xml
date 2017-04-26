@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kwheezy.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-28T22:41:00+01:00</updated><entry><title>Kwheezy 1.3 - Demo</title><link href="https://www.openscreencast.de/blog/Kwheezy_13_Demo.html" rel="alternate"></link><published>2013-10-28T22:41:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-28:blog/Kwheezy_13_Demo.html</id><summary type="html">&lt;p&gt;Kwheezy 1.3 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+The Life and Death of a Certain K. Zabriskie, Patriarch by Chris Zabriskie
+&lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.kwheezy.com/"&gt;http://www.kwheezy.com/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Kwheezy"></category></entry></feed>

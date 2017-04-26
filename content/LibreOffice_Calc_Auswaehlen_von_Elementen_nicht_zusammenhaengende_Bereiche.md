@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Libreoffice,Calc
 Slug: LibreOffice_Calc_Auswaehlen_von_Elementen_nicht_zusammenhaengende_Bereiche
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 375000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: wakFgEy4y_0

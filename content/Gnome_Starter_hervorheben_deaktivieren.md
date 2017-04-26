@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-sa,Fedora Core,gconf,gconf-editor,Gnome,Linux,Ogg Theora,ohne Musik,screencast,short
 Slug: Gnome_Starter_hervorheben_deaktivieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 40000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: 7YFwqpYJGbY
 Vimeo: 16284221
 Tumblr: http://openscreencast.tumblr.com/post/8304856043/gnome-starter-hervorheben-deaktivieren-fedora
-Oggfile: http://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.ogg
-Mp4file: http://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.mp4
-Srtfile: http://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.srt
-Image: http://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.png
+Oggfile: https://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.ogg
+Mp4file: https://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.mp4
+Srtfile: https://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.srt
+Image: https://www.openscreencast.de/archive/short/gnome_einstellungen_starterhervorhebendeaktivieren_short_030.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

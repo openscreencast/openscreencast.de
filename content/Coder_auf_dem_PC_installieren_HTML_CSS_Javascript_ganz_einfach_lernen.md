@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Coder,HTML,Web
 Slug: Coder_auf_dem_PC_installieren_HTML_CSS_Javascript_ganz_einfach_lernen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 384000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: h7YpHP3c2Tc

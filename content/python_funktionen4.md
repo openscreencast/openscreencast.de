@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,Funktionen
 Slug: python_funktionen4
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 151000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: H6ij-bv2qns
 Vimeo: 31615994
 Tumblr: http://openscreencast.tumblr.com/post/12334071468/python-programmierung-funktionen-teil-4
-Oggfile: http://www.openscreencast.de/archive/python_funktionen4_186.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_funktionen4_oM_186.ogg
-Webmfile: http://www.openscreencast.de/archive/python_funktionen4_186.webm
-Mp4file: http://www.openscreencast.de/archive/python_funktionen4_186.mp4
-Srtfile: http://www.openscreencast.de/archive/python_funktionen4_186.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_funktionen4_oM_186.srt
-Image: http://www.openscreencast.de/archive/python_funktionen4_186.png
+Oggfile: https://www.openscreencast.de/archive/python_funktionen4_186.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_funktionen4_oM_186.ogg
+Webmfile: https://www.openscreencast.de/archive/python_funktionen4_186.webm
+Mp4file: https://www.openscreencast.de/archive/python_funktionen4_186.mp4
+Srtfile: https://www.openscreencast.de/archive/python_funktionen4_186.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_funktionen4_oM_186.srt
+Image: https://www.openscreencast.de/archive/python_funktionen4_186.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

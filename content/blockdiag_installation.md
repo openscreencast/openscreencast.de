@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,blockdiag
 Slug: blockdiag_installation
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 277000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: -pzq6BX0d0A

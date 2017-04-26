@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3
 Slug: libreoffice_writer_seiten_nummerieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 129000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: AkjFQ1NPv2g

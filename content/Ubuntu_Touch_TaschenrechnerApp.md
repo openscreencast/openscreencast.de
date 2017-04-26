@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Ubuntu touch
 Slug: Ubuntu_Touch_TaschenrechnerApp
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 85000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: KVTcDWxLHA0

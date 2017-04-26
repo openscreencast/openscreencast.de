@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Cub Linux,Chromium,Ubuntu
 Slug: CubLinux15_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 474000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 3rjgydqdCZ0

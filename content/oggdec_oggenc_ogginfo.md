@@ -7,9 +7,9 @@ Slug: oggdec_oggenc_ogginfo
 Duration: 330000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13914378
-Oggfile: http://www.openscreencast.de/archive/oggenc_022.ogg
-Srtfile: http://www.openscreencast.de/archive/oggenc_022.srt
-Image: http://www.openscreencast.de/archive/oggenc_022.png
+Oggfile: https://www.openscreencast.de/archive/oggenc_022.ogg
+Srtfile: https://www.openscreencast.de/archive/oggenc_022.srt
+Image: https://www.openscreencast.de/archive/oggenc_022.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Raspbian,SonicPi,RaspberryPi
 Slug: SonicPi_Musik_und_Programmierung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 256000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: PzKs31SjVQ0

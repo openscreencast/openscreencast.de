@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Passwort,Loginmanager,Displaymanager,Benutzername,gdm,login,anmelden
 Slug: login_Anmeldung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 170000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 14695975
-Oggfile: http://www.openscreencast.de/archive/login_046.ogg
-Oggfileom: http://www.openscreencast.de/archive/login_oM_046.ogg
-Mp4file: http://www.openscreencast.de/archive/login_046.mp4
-Mkvfile: http://www.openscreencast.de/archive/login_046.mkv
-Srtfile: http://www.openscreencast.de/archive/login_046.srt
-Srtfile_om: http://www.openscreencast.de/archive/login_oM_046.srt
-Image: http://www.openscreencast.de/archive/login_046.png
+Oggfile: https://www.openscreencast.de/archive/login_046.ogg
+Oggfileom: https://www.openscreencast.de/archive/login_oM_046.ogg
+Mp4file: https://www.openscreencast.de/archive/login_046.mp4
+Mkvfile: https://www.openscreencast.de/archive/login_046.mkv
+Srtfile: https://www.openscreencast.de/archive/login_046.srt
+Srtfile_om: https://www.openscreencast.de/archive/login_oM_046.srt
+Image: https://www.openscreencast.de/archive/login_046.png
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24  
 Zielgruppe: Neueinsteiger  

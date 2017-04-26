@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Gnome,Gnome3,opus,opusenc,opusdec,opusinfo,Audio
 Slug: linux_opus
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 253000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: fw9ZfXJzLk8
 Vimeo: 49313701
 Tumblr: http://openscreencast.tumblr.com/post/31399716241/opus-freier-audio-codec-tool-vorstellung
 Diaspora: https://pod.geraspora.de/posts/789367
-Oggfile: http://www.openscreencast.de/archive/opus_273.ogg
-Webmfile: http://www.openscreencast.de/archive/opus_273.webm
-Image: http://www.openscreencast.de/archive/opus_273.png
+Oggfile: https://www.openscreencast.de/archive/opus_273.ogg
+Webmfile: https://www.openscreencast.de/archive/opus_273.webm
+Image: https://www.openscreencast.de/archive/opus_273.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

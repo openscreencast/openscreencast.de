@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/screencast-tool.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-10-02T12:30:00+02:00</updated><entry><title>Screencast-Programme im Test</title><link href="https://www.openscreencast.de/blog/ScreencastProgramme_im_Test.html" rel="alternate"></link><published>2016-10-02T12:30:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-10-02:blog/ScreencastProgramme_im_Test.html</id><summary type="html">&lt;p&gt;Im neuen &lt;a href="http://www.linux-magazin.de/"&gt;Linux-Magazin&lt;/a&gt; 11/2016 gibt es einen
+Beitrag über &lt;a href="https://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;-Tools. In
+der Kategorie Software - Bitparade schreibt Erik Bärwaldt in dem Artikel "Und
+- Action!" über Programme fürs Screencasting. Die 5 Screencasting-Tools
+&lt;a href="https://launchpad.net/kazam"&gt;Kazam&lt;/a&gt;, &lt;a href="http://recordmydesktop.sourceforge.net/about.php"&gt;Record My
+Desktop&lt;/a&gt;, &lt;a href="http://www.maartenbaert.be/simplescreenrecorder/"&gt;Simple Screen
+Recorder&lt;/a&gt;,
+&lt;a href="http://linuxecke.volkoh.de/vokoscreen/vokoscreen.html"&gt;Vokoscreen&lt;/a&gt; und
+&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; werden unter die Lupe genommen. Sie
+werden im Funktionsumfang, in der Desktop-Integration, im Bedienkonzept und in
+der Praxis miteinander verglichen. Eine weitere Übersicht mit momentan 10
+Screencasting-Tools findet man im &lt;a href="https://wiki.ubuntuusers.de/Screencasts/"&gt;Wiki von
+ubuntuusers.de&lt;/a&gt;. Eine Liste mit
+allen mir bekannten Screencast-Tools findet man &lt;a href="https://github.com/openscreencast/openscreencast_material/blob/master/tools.md"&gt;hier bei
+github&lt;/a&gt;.&lt;/p&gt;</summary><category term="linux"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Screencasting"></category></entry><entry><title>Slideshows als Screencasts</title><link href="https://www.openscreencast.de/blog/slidecasting.html" rel="alternate"></link><published>2011-08-27T04:52:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-27:blog/slidecasting.html</id><summary type="html">&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
+Bildschirm zu machen um ein Video-Tutorial zu erstellen.
+&lt;a href="http://de.wikipedia.org/wiki/Slideshow" title="WP:Slideshow"&gt;Slideshow&lt;/a&gt;-Programme
+können ebenso eingesetzt werden um einfache und doch verständliche
+&lt;a href="http://de.wikipedia.org/wiki/Screencast" title="WP:Screencast"&gt;Screencasts&lt;/a&gt; zu
+erstellen. Mehrere &lt;a href="http://de.wikipedia.org/wiki/Screenshot" title="WP:Screenshot"&gt;Screenshots&lt;/a&gt; eines Arbeitsablaufs zu machen und diese zu einer Slideshow
+zusammenzufügen ist für manche vielleicht auch einfacher als sich mit
+Videobearbeitung unter &lt;a href="http://de.wikipedia.org/wiki/Linux" title="WP:Linux"&gt;Linux&lt;/a&gt;
+herumzuschlagen. Bei jedem einzelnen Arbeitsschritt wird jeweils ein
+Bildschirmfoto gemacht. Screenshots, Erklärungstexte und eine Hintergrundmusik
+ergeben dann ein Video. In der englischen Wikipedia gibt es zu dieser Form von
+Screencasting einen eigenen Begriff. Das Wort dazu heißt
+&lt;a href="http://en.wikipedia.org/wiki/Slidecasting" title="WP:Slidecasting"&gt;Slidecasting&lt;/a&gt;,
+Slidecasts. Slideshow-Programme sind meistens sehr simpel wie z.B. die
+Programme: &lt;a href="http://imagination.sourceforge.net/index.html" title="Link
+zu Imagination"&gt;Imagination&lt;/a&gt;, &lt;a href="http://www.mistelix.org/" title="Link zu mistelix"&gt;Mistelix&lt;/a&gt;,
+&lt;a href="http://www.photofilmstrip.org/" title="Link zu PhotoFilmStrip"&gt;PhotoFilmStrip&lt;/a&gt;,
+&lt;a href="http://www.videoporama.tuxfamily.org" title="Link zu Videoporama"&gt;Videoporama&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bei PhotoFilmStrip werden die Erklärungstexte durch einen
+&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="WP:Untertitel"&gt;Untertitel&lt;/a&gt; (.srt-
+Datei) realisiert. Mit allen 4 Programmen habe ich ein Video erstellt. Genutzt
+habe ich, was den Inhalt angeht, den &lt;a href="https://www.openscreencast.de/blog/gnome3_terminal_shortcut" title="Link zu
+Screencast 157"&gt;Screencast 157 - Gnome3 - Terminal mit
+Tastenkuerzel
+starten&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Hier sind die Ergebnisse:&lt;br /&gt;
+&lt;a href="https://www.openscreencast.de/archive/imagination.ogg" title="Link
+zum Video Imagination.ogg"&gt;Imagination.ogg&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.openscreencast.de/archive/mistelix.ogg" title="Link zum
+Video Mistelix.ogg"&gt;Mistelix.ogg&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.openscreencast.de/archive/photofilmstrip.ogg" title="Link zum Video Photofilmstrip.ogg"&gt;Photofilmstrip.ogg&lt;/a&gt;
+&lt;a href="https://www.openscreencast.de/archive/photofilmstrip.srt" title="Link zum Video Photofilmstrip.srt"&gt;Photofilmstrip.srt&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://www.openscreencast.de/archive/videoporama.ogg" title="Link
+zum Video Videoporama.ogg"&gt;Videoporama.ogg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Artikel in Audio:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://soundcloud.com/openscreencast/slideshow"&gt;Slideshows als Screencasts&lt;/a&gt;
+by &lt;a href="http://soundcloud.com/openscreencast"&gt;openscreencast&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="Screencasts"></category><category term="Slideshow"></category><category term="Slideshow-Programme"></category></entry><entry><title>Der Gnome3 Shell Recorder</title><link href="https://www.openscreencast.de/blog/gnome3_shell_recorder.html" rel="alternate"></link><published>2011-04-23T05:58:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-04-23:blog/gnome3_shell_recorder.html</id><summary type="html">&lt;p&gt;Nicht nur die Screenshot-Funktionalität (Bildschirmfotos erstellen) gehört,
+wie auch schon bei Gnome2, zur Grundausstattung von Gnome3, sondern jetzt auch
+neu die Bildschirmvideoaufnahme. Bisher war es um Bildschirmaktivitäten in
+einem Video festzuhalten immer notwendig ein zusätzliches Tool wie z.B.
+recordmydesktop zu installieren. Jetzt reicht es vollkommen aus wenn die
+Tastenkombination Strg+Alt+Shift+R gedrückt wird um die Bildschirmaufnahme zu
+beginnen und zu beenden. Die Aufnahme wird die ganze Zeit rechts unten durch
+einen kleinen roten Kreis angezeigt.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 1" src="https://www.openscreencast.de/pictures/shellrecorder1.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Die festgehaltenen Bilder werden in eine .webm-Datei geschrieben. Die Datei
+mit folgendem Muster shell-yyyymmdd-#.webm befindet sich im Home-Verzeichnis
+und enthält den VP8-Videocodec. Die Framerate beträgt den Wert 15, was
+bedeutet das 15 Bilder pro Sekunden gespeichert werden. Audio-Daten gibt es
+allerdings nicht. Die Framerate und auch das Video-Format können geändert
+werden. Hier kommt das Einstellungstool dconf-editor ins Spiel. dconf-editor
+gehört nicht zum Standard und muss nachinstalliert werden. Bei der
+Linuxdistribution Fedora leitet man dies mit folgendem Befehl in die Wege: &lt;code&gt;su
+-c "yum install dconf-editor"&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 2" src="https://www.openscreencast.de/pictures/shellrecorder2.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Nach dem Start, per Eingabe dconf-editor, findet man unter
+org.gnome.shell.recorder 3 Einstellungsmöglichkeiten. Der Wert der Dateiendung
+(file-extension: webm), der Framerate (framerate: 15) und der pipeline
+(pipeline: '') kann verändert werden.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Shell recorder 3" src="https://www.openscreencast.de/pictures/shellrecorder3.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Möchte man die Modifikation per Befehl bewerkstelligen so sei an dieser Stelle
+der Befehl gsettings erwähnt. Folgende Kommandos sind denkbar um die gesetzten
+Werte abzurufen.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gsettings get org.gnome.shell.recorder file-extension # Dateiendung -
+default: webm  
+gsettings get org.gnome.shell.recorder framerate # Frames pro Sekunde -
+default: 15  
+gsettings get org.gnome.shell.recorder pipeline # Pipeline - default: ''
+('videorate ! vp8enc quality=10 speed=2 threads=%T ! queue ! webmmux')&lt;/code&gt;&lt;br /&gt;
+Da hingegen kann get durch set ersetzt werden um Werte neu zu setzen.&lt;br /&gt;
+&lt;code&gt;gsettings set org.gnome.shell.recorder file-extension ogv # Dateiendung -
+default: webm  
+gsettings set org.gnome.shell.recorder framerate 25 # Frames pro Sekunde -
+default: 15  
+gsettings set org.gnome.shell.recorder pipeline 'videorate ! theoraenc ! queue
+! oggmux' # Pipeline - default: ''&lt;/code&gt;&lt;br /&gt;
+Mit diesen Einstellungen ist das Ergebnis der Aufnahme nun ein Video im Format
+Ogg-Theora.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="gnome3"></category><category term="shell-recorder"></category><category term="dconf-editor"></category><category term="gsettings"></category></entry><entry><title>Screencasttools-Liste</title><link href="https://www.openscreencast.de/blog/Screencasttools_Liste.html" rel="alternate"></link><published>2010-10-07T02:17:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-07:blog/Screencasttools_Liste.html</id><summary type="html">&lt;p&gt;Eine Liste der bekanntesten Screencasttools für Linux&lt;/p&gt;
+&lt;p&gt;Download: &lt;a href="https://www.openscreencast.de/pictures/screencasttools.ods"&gt;.ods&lt;/a&gt;
+&lt;a href="https://www.openscreencast.de/pictures/screencasttools.pdf"&gt;.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://pdfreaders.org/"&gt;![pdfreaders.org](http://pdfreaders.org/graphics/pdfreaders-
+free.png)&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="CC by"></category><category term="Liste"></category></entry><entry><title>Krut</title><link href="https://www.openscreencast.de/blog/krut.html" rel="alternate"></link><published>2010-09-28T00:38:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-09-28:blog/krut.html</id><summary type="html">&lt;p&gt;&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; ist ein Screencast-Tool. Krut wurde in
+der Programmiersprache
+&lt;a href="http://de.wikipedia.org/wiki/Java_%28Programmiersprache%29"&gt;Java&lt;/a&gt; geschrieben
+und erstellt Video-Tutorials. Die Videos werden im &lt;a href="http://de.wikipedia.org/wiki/QuickTime"&gt;mov-
+Format&lt;/a&gt; aufgenommen. Krut steht unter
+der Lizenz &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPLv2&lt;/a&gt;. 2004 wurde das Projekt
+gestartet. Heute steht bereits Version 0.9.3 zum Download zur Verfügung.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Krut"></category><category term="Java"></category></entry><entry><title>skreener</title><link href="https://www.openscreencast.de/blog/skreener.html" rel="alternate"></link><published>2010-01-13T17:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-01-13:blog/skreener.html</id><summary type="html">&lt;p&gt;Neu ist das Screencast-Tool &lt;a href="http://code.google.com/p/skreener/"&gt;skreener&lt;/a&gt;.
+Skreener ist ähnlich wie Wink. Screencasts, die aufgezeichneten Aktionen auf
+dem Bildschirm, werden als Animation im SVG-Format gespeichert. (Einzelne
+Screenshots werden im .png-Format gespeichert. In der .svg-Datei wird bestimmt
+wohin sich der Pfeil bewegt). Das Tool wurde in C++ geschrieben und steht
+unter der GPL-Lizenz.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="skreener"></category></entry><entry><title>RecordItNow</title><link href="https://www.openscreencast.de/blog/RecordItNow.html" rel="alternate"></link><published>2009-12-04T17:33:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-12-04:blog/RecordItNow.html</id><summary type="html">&lt;p&gt;Um Screencasts unter KDE4 mit recordmydesktop aufzunehmen gibt es jetzt ein
+schönes, neues Fronted dafür. Dieses Programm trägt den Namen
+&lt;a href="http://opendesktop.org/content/show.php/RecordItNow?content=114610"&gt;RecordItNow&lt;/a&gt;.
+Es gibt Module für Desktopaufnahmen, zum Hochladen der Screencasts auf
+Videoportale und es gibt Module um die Videos zu konvertieren.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="RecordItNow"></category></entry><entry><title>recordmydesktop</title><link href="https://www.openscreencast.de/blog/screencasttool_recordmydesktop.html" rel="alternate"></link><published>2009-03-18T01:53:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-18:blog/screencasttool_recordmydesktop.html</id><summary type="html">&lt;p&gt;recordmydesktop ist ein Screencast-Tool für Linux und wurde in C geschrieben.
+Die Aufnahme wird als Ogg Theora Video-Datei gespeichert. Das Programm wird im
+Terminal gestartet. Es gibt aber auch grafische Oberflächen um die Benutzung
+zu vereinfachen, gtk-recordMyDesktop und qt-recordMyDesktop. Man findet das
+Programm auf der Seite&lt;br /&gt;
+&lt;a href="http://recordmydesktop.sourceforge.net/about.php"&gt;http://recordmydesktop.sourceforge.net/about.php&lt;/a&gt;. Aktuell ist die Version
+0.3.8.1.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>Istanbul</title><link href="https://www.openscreencast.de/blog/istanbul.html" rel="alternate"></link><published>2009-02-24T04:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-24:blog/istanbul.html</id><summary type="html">&lt;p&gt;Istanbul macht Aufnahmen von Bildschirmaktivitäten und speichert die Aufnahme
+als Ogg Theora Video-Datei. Istanbul funktioniert bei Gnome, KDE und Xfce. Man
+findet das Programm auf der Seite &lt;a href="http://live.gnome.org/Istanbul"&gt;http://live.gnome.org/Istanbul&lt;/a&gt;. Aktuell
+ist die Version 0.2.2 vom 23.02.2007.&lt;/p&gt;</summary><category term="istanbul"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>Byzanz</title><link href="https://www.openscreencast.de/blog/byzanz.html" rel="alternate"></link><published>2009-02-14T01:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-14:blog/byzanz.html</id><summary type="html">&lt;p&gt;Byzanz ist ein Gnome-Panel, macht Aufnahmen von Bildschirmaktivitäten und
+speichert die Aufnahme als animierte
+&lt;a href="http://de.wikipedia.org/wiki/GIF"&gt;.gif&lt;/a&gt;-Datei (keine Audioaufnahme). Für
+großformatige und langdauernde
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;screencasts&lt;/a&gt; eignet sich diese
+Methode nicht, aber es reicht halt ein Browser um die Aufnahme abzuspielen, es
+ist kein zusätzliches Plugin oder Programm notwendig. Um in Dokumentationen
+und Handbüchern kurze Abläufe und Arbeitsschritte zu zeigen ist das Programm
+ganz gut geeignet. Man findet das Programm auf der Seite
+&lt;a href="http://gnomefiles.org/app.php/Byzanz"&gt;http://gnomefiles.org/app.php/Byzanz&lt;/a&gt;. Ein Demo wird
+&lt;a href="http://people.freedesktop.org/~company/byzanz/demo.gif"&gt;hier&lt;/a&gt; gezeigt.
+Aktuell ist die Version 0.1.1 vom 16.05.2006.&lt;/p&gt;</summary><category term="byzanz"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>LiVES mit Screencasttool</title><link href="https://www.openscreencast.de/blog/LiVES_mit_Screencasttool.html" rel="alternate"></link><published>2007-03-22T01:29:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-22:blog/LiVES_mit_Screencasttool.html</id><summary type="html">&lt;p&gt;Das freie Videobearbeitungsprogramm
+&lt;a href="http://lives.sourceforge.net/"&gt;lives&lt;/a&gt;,Linux Video Editing System, bringt
+außer den vielen anderen Features auch ein Werkzeug mit sich das es ermöglicht
+Screencasts aufzunehmen. Das Tool findet man unter dem Menü Werkzeuge (Alt+W)
+im Eintrag Externes Fenster aufzeichnen... (Alt+E).&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Screencasttool" src="https://www.openscreencast.de/pictures/lives_screencasttool.png" /&gt;&lt;/p&gt;</summary><category term="GPL"></category><category term="linux"></category><category term="lives"></category><category term="Multimedia"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>ScreencastTools im Vergleich</title><link href="https://www.openscreencast.de/blog/ScreencastTools_im_Vergleich.html" rel="alternate"></link><published>2007-02-07T02:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-07:blog/ScreencastTools_im_Vergleich.html</id><summary type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
+Übersicht einiger Screencast-Tools. Die Eigenschaften der Screencast-Tools
+byzanz, Istanbul, cankiri, ffmpeg, recordMyDesktop, Wink und XVidCap werden in
+einer Tabelle verglichen. Außerdem wurden die wichtigsten Fakten jedes
+Programmes in einigen Sätzen festgehalten. Wer kurz davor ist ein
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; aufzunehmen, er aber
+noch nicht weiß welches Tool er dafür brauch, ist
+&lt;a href="http://wiki.ubuntuusers.de/Screencasts"&gt;hier&lt;/a&gt; an der richtigen Adresse.&lt;/p&gt;</summary><category term="byzanz"></category><category term="cankiri"></category><category term="ffmpeg"></category><category term="istanbul"></category><category term="linux"></category><category term="News"></category><category term="recordmydesktop"></category><category term="Screencast-Tool"></category><category term="Wink"></category><category term="XVidCap"></category></entry><entry><title>Screencasting</title><link href="https://www.openscreencast.de/blog/Screencasting.html" rel="alternate"></link><published>2006-10-25T23:12:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-25:blog/Screencasting.html</id><summary type="html">&lt;p&gt;&lt;a href="http://fedoraproject.org/wiki/ScreenCasting"&gt;Hier&lt;/a&gt; mal ein paar Zeilen (in
+Englisch) wo steht was das &lt;a href="http://fedoraproject.org/wiki/de_DE/FedoraHaupt"&gt;Projekt
+Fedora&lt;/a&gt; zu Screencasting zu
+sagen hat.&lt;/p&gt;</summary><category term="Englisch"></category><category term="Fedora Core"></category><category term="linux"></category><category term="News"></category><category term="Screencast-Tool"></category></entry><entry><title>CamStudio</title><link href="https://www.openscreencast.de/blog/CamStudio.html" rel="alternate"></link><published>2006-10-13T19:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-13:blog/CamStudio.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.camstudio.org/"&gt;CamStudio&lt;/a&gt; ein Programm das Bildschirmaufnahmen
+verwirklicht. CamStudio wird unter Windows eingesetzt und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="CamStudio"></category><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="Windows"></category></entry><entry><title>ScreenKast</title><link href="https://www.openscreencast.de/blog/ScreenKast.html" rel="alternate"></link><published>2006-10-12T00:19:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-12:blog/ScreenKast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt;, ein neues Programm
+um Bildschirmaktivitäten aufzunehmen. Es ist für
+&lt;a href="http://de.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt; gedacht und steht unter der
+&lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;. Kommentarboxen können nach der
+Aufnahme hinzugefügt werden. Ebenso besitzt
+&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; die Funktion die
+Aufnahme an die Webseite &lt;a href="http://www.captorials.com/"&gt;captorials.com&lt;/a&gt; zu
+schicken. Dort steht das Video dann für alle zum anschauen bereit. Video-
+Tutorials die zeigen wie man ScreenKast installiert und wie
+&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; eingesetzt wird
+stehen schon zur Verfügung.&lt;/p&gt;</summary><category term="GPL"></category><category term="linux"></category><category term="News"></category><category term="screencast"></category><category term="Screencast-Tool"></category><category term="ScreenKast"></category></entry></feed>

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,chapeau,Gnome
 Slug: chapeau_24_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 460000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: AiqEWX0yiAA

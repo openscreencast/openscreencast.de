@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,task,taskwarrior
 Slug: taskwarrior_einfache_filter
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 157000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: uTylKgaTINw

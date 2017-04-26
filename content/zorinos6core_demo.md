@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Zorin OS,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,demo
 Slug: zorinos6core_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 282000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GJ_OsWvmLxs

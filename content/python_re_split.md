@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Python,Programmierung,re
 Slug: python_re_split
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 170000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 5pV0KjvSpUY

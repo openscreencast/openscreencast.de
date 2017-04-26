@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,KaOS,Demo
 Slug: KaOS_201404_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 298000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: jpBr3my7OsE

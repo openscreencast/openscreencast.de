@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Python,Programmierung,woof,webserver,web,www
 Slug: python_woof
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 285000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bJqiyOR8glg

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,cinnamon,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,html,web,Daten,Karten,Geodiagramm,Maps
 Slug: maps_erstellen_geodiagramme
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 220000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 2c4c-KjCPJ0

@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,Funktionen
 Slug: python_funktionen3
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 190000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 5AdJx3Coihg
 Vimeo: 29383232
 Tumblr: http://openscreencast.tumblr.com/post/10484401713/python-programmierung-funktionen-teil-3
-Oggfile: http://www.openscreencast.de/archive/python_funktionen3_180.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_funktionen3_oM_180.ogg
-Webmfile: http://www.openscreencast.de/archive/python_funktionen3_180.webm
-Mp4file: http://www.openscreencast.de/archive/python_funktionen3_180.mp4
-Srtfile: http://www.openscreencast.de/archive/python_funktionen3_180.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_funktionen3_oM_180.srt
-Image: http://www.openscreencast.de/archive/python_funktionen3_180.png
+Oggfile: https://www.openscreencast.de/archive/python_funktionen3_180.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_funktionen3_oM_180.ogg
+Webmfile: https://www.openscreencast.de/archive/python_funktionen3_180.webm
+Mp4file: https://www.openscreencast.de/archive/python_funktionen3_180.mp4
+Srtfile: https://www.openscreencast.de/archive/python_funktionen3_180.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_funktionen3_oM_180.srt
+Image: https://www.openscreencast.de/archive/python_funktionen3_180.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Fedora,Gnome,Gnome3
 Slug: Linux_Gnome3_Text_Translator
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 196000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 5YNXc5HKoAI

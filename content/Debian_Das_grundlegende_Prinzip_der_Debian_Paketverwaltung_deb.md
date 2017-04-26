@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Debian,deb
 Slug: Debian_Das_grundlegende_Prinzip_der_Debian_Paketverwaltung_deb
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 414000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: K9BO5Gt53SU

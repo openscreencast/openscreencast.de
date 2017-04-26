@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/lspci.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-14T00:23:00+02:00</updated><entry><title>Hardware-Informationen (Textmodus)</title><link href="https://www.openscreencast.de/blog/hardwareinfo_textmodus.html" rel="alternate"></link><published>2010-10-14T00:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-14:blog/hardwareinfo_textmodus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, GNOME 2.32&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: apt-get, lshw, hwinfo, lsusb, lspci, lshal, dmidecode&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Ger%C3%A4temanager?highlight=ger%C3%A4temanager"&gt;Geraetemanager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Hardware-Information"></category><category term="lshal"></category><category term="lsusb"></category><category term="lspci"></category><category term="dmidecode"></category><category term="lshw"></category><category term="hwinfo"></category></entry></feed>

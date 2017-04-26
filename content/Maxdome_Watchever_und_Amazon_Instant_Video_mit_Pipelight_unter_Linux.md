@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,pipelight
 Slug: Maxdome_Watchever_und_Amazon_Instant_Video_mit_Pipelight_unter_Linux
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 515000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: Sxm_IIURs78

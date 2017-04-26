@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Firefox
 Slug: Firefox_Leseansicht
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 166000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 8XXGNZ_EScc

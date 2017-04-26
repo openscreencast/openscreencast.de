@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,glimpse,Gnome,Linux,Neueinsteiger,Ogg Theora,screencast,OpenSolaris
 Slug: opensolaris200811
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 274000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: _7U1Bl8GbdQ
 Vimeo: 15807422
 Tumblr: http://openscreencast.tumblr.com/post/8339878138/opensolaris-2008-11-gnome-2-24-lizenz
-Oggfile: http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.ogg
-Mp4file: http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mp4
-Mkvfile: http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv
-Image: http://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.ogg
+Mp4file: https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mp4
+Mkvfile: https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.mkv
+Image: https://www.openscreencast.de/archive/glimpse/opensolaris200811_glimpse_011.png
 
 Ausgangspunkt: OpenSolaris 2008.11, Gnome 2.24  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python
 Slug: Python_beginners_pyprogramme_ausfuehren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 244000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 138085115

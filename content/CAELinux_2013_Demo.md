@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,CAELinux
 Slug: CAELinux_2013_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 470000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: UcOyFalHO4U

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Xfce,Xubuntu,Demo
 Slug: Xubuntu1504Beta1_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 344000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: cpCBWuxcpig

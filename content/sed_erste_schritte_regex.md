@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,sed,Gnome3,regex
 Slug: sed_erste_schritte_regex
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 455000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: _JqALpNvDoY

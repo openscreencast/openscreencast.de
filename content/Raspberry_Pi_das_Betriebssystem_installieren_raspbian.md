@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,raspbian,Raspberry Pi
 Slug: Raspberry_Pi_das_Betriebssystem_installieren_raspbian
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 359000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: qX-galb36Ng

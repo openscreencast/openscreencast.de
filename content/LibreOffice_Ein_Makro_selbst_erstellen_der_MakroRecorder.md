@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Ein_Makro_selbst_erstellen_der_MakroRecorder
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 249000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: k3E8SF9p8qg

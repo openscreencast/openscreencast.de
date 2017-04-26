@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Web,CSS,CSSDiner
 Slug: CSS_Diner_bringt_euch_CSSSelektoren_mit_Praxisbeispielen_bei
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 180000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 1Ja04Egqs_Y

@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,task,taskwarrior
 Slug: taskwarrior_erste_schritte
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 412000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: fEImlb_kYYg
 Vimeo: 50887443
 Tumblr: http://openscreencast.tumblr.com/post/32129311113/taskwarrior-erste-schritte-aufgabenverwaltung
 Diaspora: https://pod.geraspora.de/posts/804467
-Oggfile: http://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.ogg
-Webmfile: http://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.webm
-Image: http://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.png
+Oggfile: https://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.ogg
+Webmfile: https://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.webm
+Image: https://www.openscreencast.de/archive/taskwarrior_erste_schritte_282.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

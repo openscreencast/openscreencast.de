@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,webserver,web,www,nginx
 Slug: nginx_install
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 203000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: aynkdUcW6A8

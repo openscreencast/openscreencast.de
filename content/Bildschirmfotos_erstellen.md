@@ -7,9 +7,9 @@ Slug: Bildschirmfotos_erstellen
 Duration: 360000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13783777
-Oggfile: http://www.openscreencast.de/archive/screenshot_013.ogg
-Srtfile: http://www.openscreencast.de/archive/screenshot_013.srt
-Image: http://www.openscreencast.de/archive/screenshot_013.png
+Oggfile: https://www.openscreencast.de/archive/screenshot_013.ogg
+Srtfile: https://www.openscreencast.de/archive/screenshot_013.srt
+Image: https://www.openscreencast.de/archive/screenshot_013.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

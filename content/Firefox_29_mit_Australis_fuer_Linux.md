@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox,Australis
 Slug: Firefox_29_mit_Australis_fuer_Linux
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 195000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: edAxBU7qtR8

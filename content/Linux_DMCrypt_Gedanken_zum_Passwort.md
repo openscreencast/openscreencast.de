@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,DMCrypt,Passwort
 Slug: Linux_DMCrypt_Gedanken_zum_Passwort
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 179000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Hd44cjgc_Ko

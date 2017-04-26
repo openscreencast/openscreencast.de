@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Heartbleed,FoxBleed,OpenSSL,Web
 Slug: FoxBleed_Seiten_auf_bekannte_OpenSSLLuecke_Heartbleed_pruefen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 161000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: Pkb8EugZ5As

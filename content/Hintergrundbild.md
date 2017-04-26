@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: Browser,CC by-nc-sa,Desktop,Fedora Core,Firefox,gconf,gconf-editor,gconftool-2,Linux,Neueinsteiger,Ogg Theora,pirut,screencast,Terminal,Textmodus,xml,Gnome,gnome-background-properties
 Slug: Hintergrundbild
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 450000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13333000
-Oggfile: http://www.openscreencast.de/archive/gnome_background_001.ogg
-Srtfile: http://www.openscreencast.de/archive/gnome_background_001.srt
-Image: http://www.openscreencast.de/archive/gnome_background_001.png
+Oggfile: https://www.openscreencast.de/archive/gnome_background_001.ogg
+Srtfile: https://www.openscreencast.de/archive/gnome_background_001.srt
+Image: https://www.openscreencast.de/archive/gnome_background_001.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

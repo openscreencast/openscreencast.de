@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc,Linux Mint
 Slug: LibreOffice_Was_ist_Calc
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 200000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hoeDU_-FgPc

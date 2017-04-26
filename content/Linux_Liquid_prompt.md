@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,liquid prompt
 Slug: Linux_Liquid_prompt
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 469000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: gHMQKZGjjiw

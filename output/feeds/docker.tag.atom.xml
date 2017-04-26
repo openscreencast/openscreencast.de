@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/docker.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-08-23T16:59:00+02:00</updated><entry><title>docker - Images auflisten</title><link href="https://www.openscreencast.de/blog/linux_docker_images_auflisten.html" rel="alternate"></link><published>2015-08-23T16:59:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-23:blog/linux_docker_images_auflisten.html</id><summary type="html">&lt;p&gt;docker - Images auflisten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.docker.com/" title="Link zu docker.com/"&gt;docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Docker_%28Software%29" title="Link zu wikipedia.org"&gt;WP:docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="docker"></category><category term="Linux Mint"></category></entry><entry><title>docker installieren</title><link href="https://www.openscreencast.de/blog/linux_docker_installieren.html" rel="alternate"></link><published>2015-08-04T19:40:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-04:blog/linux_docker_installieren.html</id><summary type="html">&lt;p&gt;docker installieren, Fedora 22&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.docker.com/" title="Link zu docker.com/"&gt;docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Docker_%28Software%29" title="Link zu wikipedia.org"&gt;WP:docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="docker"></category><category term="Fedora"></category></entry></feed>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/css.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-03-08T12:40:00+01:00</updated><entry><title>HTML und CSS - Farben</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_Farben.html" rel="alternate"></link><published>2017-03-08T12:40:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-03-08:blog/HTMLundCSS_Farben.html</id><summary type="html">&lt;p&gt;HTML und CSS - Farben, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://html-color-codes.info/"&gt;http://html-color-codes.info/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colorpicker.com/"&gt;http://www.colorpicker.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.colourlovers.com/palettes"&gt;http://www.colourlovers.com/palettes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.google.com/design/spec/style/color.html"&gt;http://www.google.com/design/spec/style/color.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kuler.adobe.com/"&gt;https://kuler.adobe.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.paletton.com/"&gt;http://www.paletton.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://colourco.de/"&gt;http://colourco.de/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Linktipp: Browserunterstützung für HTML- und CSS-Elemente prüfen</title><link href="https://www.openscreencast.de/blog/linktipp_caniusecom.html" rel="alternate"></link><published>2015-08-30T16:09:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-30:blog/linktipp_caniusecom.html</id><summary type="html">&lt;p&gt;Linktipp: Browserunterstützung für HTML- und CSS-Elemente prüfen, Linux Mint
+17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://caniuse.com/"&gt;http://caniuse.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="Linktipp"></category></entry><entry><title>HTML und CSS - Eine CSS-Datei einbinden</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_cssdatei_einbinden.html" rel="alternate"></link><published>2015-08-30T16:07:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-30:blog/HTMLundCSS_cssdatei_einbinden.html</id><summary type="html">&lt;p&gt;HTML und CSS - Eine CSS-Datei einbinden, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Webseite veröffentlichen (Hosting)</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_Hosting.html" rel="alternate"></link><published>2015-08-04T19:27:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-04:blog/HTMLundCSS_Hosting.html</id><summary type="html">&lt;p&gt;HTML und CSS - Webseite veröffentlichen (Hosting), Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitballoon.com/" title="Link zu bitballoon.com/"&gt;Bitballoon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://drive.google.com/" title="Link zu google.com/"&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pancake.io/" title="Link zu pancake.io/"&gt;pancake.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://droppages.com/" title="Link zu droppages.com/"&gt;Droppages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pages.github.com/" title="Link zu github.com/"&gt;Github Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://goo.gl/" title="Link zu goo.gl/"&gt;goo.gl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitly.com/" title="Link zu bitly.com/"&gt;bitly.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tiny.cc/" title="Link zu tiny.cc/"&gt;tiny.cc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="Hosting"></category></entry><entry><title>HTML und CSS - Ein Bild einfügen (img)</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_Bildeinfuegen.html" rel="alternate"></link><published>2015-06-26T15:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-06-26:blog/HTMLundCSS_Bildeinfuegen.html</id><summary type="html">&lt;p&gt;HTML und CSS - Ein Bild einfügen (img), Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Grundgerüst einer HTML-Seite</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_htmlgrundgeruest.html" rel="alternate"></link><published>2015-04-28T16:28:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-04-28:blog/HTMLundCSS_htmlgrundgeruest.html</id><summary type="html">&lt;p&gt;HTML und CSS - Grundgerüst einer HTML-Seite, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Präsentationen mit Markdown und remark.js</title><link href="https://www.openscreencast.de/blog/remarkjs_slideshow.html" rel="alternate"></link><published>2015-03-30T12:53:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/remarkjs_slideshow.html</id><summary type="html">&lt;p&gt;Präsentationen mit Markdown und remark.js, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://remarkjs.com/" title="Link zu remarkjs.com/"&gt;remark.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Markdown" title="Link zu wikipedia.org"&gt;WP:Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://markdown.de/syntax/" title="Link zu markdown.de"&gt;Markdown.de&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://imakewebthings.com/deck.js/" title="Link zu imakewebthings.com/deck.js/"&gt;deck.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lab.hakim.se/reveal-js/#/" title="Link zu lab.hakim.se/reveal-js/"&gt;reveal.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bartaz.github.io/impress.js/#/bored" title="Link zu bartaz.github.io/impress.js/"&gt;impress.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category><category term="remarkjs"></category><category term="Markdown"></category><category term="slideshow"></category></entry><entry><title>HTML und CSS - HTML-Elemente</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_htmlelemente.html" rel="alternate"></link><published>2015-03-30T12:51:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/HTMLundCSS_htmlelemente.html</id><summary type="html">&lt;p&gt;HTML und CSS - HTML-Elemente, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Ein HTML-Dokument erstellen</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_htmldokument_erstellen.html" rel="alternate"></link><published>2015-03-30T12:48:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-30:blog/HTMLundCSS_htmldokument_erstellen.html</id><summary type="html">&lt;p&gt;HTML und CSS - Ein HTML-Dokument erstellen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Die notwendigen Tools</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_die_notwendigen_Tools.html" rel="alternate"></link><published>2015-03-01T14:09:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/HTMLundCSS_die_notwendigen_Tools.html</id><summary type="html">&lt;p&gt;HTML und CSS - Die notwendigen Tools, Fedora Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren" title="Link zu wikipedia.org"&gt;WP:HTML-Editoren&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brackets.io/" title="Link zu brackets.io/"&gt;Brackets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atom.io/" title="Link zu atom.io"&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://googlecreativelab.github.io/coder/" title="Link zu googlecreativelab.github.io"&gt;Coder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>HTML und CSS - Was sind HTML und CSS ?</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_Was_sind_HTML_und_CSS.html" rel="alternate"></link><published>2015-03-01T13:51:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/HTMLundCSS_Was_sind_HTML_und_CSS.html</id><summary type="html">&lt;p&gt;HTML und CSS - Was sind HTML und CSS ?, Fedora Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Komprimieren von CSS und Javascript</title><link href="https://www.openscreencast.de/blog/compress_css_js.html" rel="alternate"></link><published>2015-02-15T13:32:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:blog/compress_css_js.html</id><summary type="html">&lt;p&gt;Komprimieren von CSS und Javascript, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.google.com/closure/compiler/" title="Link zu closure-compiler/"&gt;closure-compiler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bootstrap_%28Framework%29" title="Link zu wikipedia.org"&gt;WP:Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/JavaScript" title="Link zu wikipedia.org"&gt;WP:Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Datenkompression" title="Link zu wikipedia.org"&gt;WP:Datenkompression&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Web"></category><category term="CSS"></category><category term="Javascript"></category></entry><entry><title>CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei</title><link href="https://www.openscreencast.de/blog/CSS_Diner_bringt_euch_CSSSelektoren_mit_Praxisbeispielen_bei.html" rel="alternate"></link><published>2014-03-26T18:36:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-03-26:blog/CSS_Diner_bringt_euch_CSSSelektoren_mit_Praxisbeispielen_bei.html</id><summary type="html">&lt;p&gt;CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/webhosting/linktipp-css-diner-bringt-euch-
+css-selektoren-mit-praxisbeispielen-bei/"&gt;http://linuxundich.de/webhosting/linktipp-css-diner-bringt-euch-
+css-selektoren-mit-praxisbeispielen-bei/&lt;/a&gt;&lt;br /&gt;
+Linktipp: CSS Diner bringt euch CSS-Selektoren mit Praxisbeispielen bei von
+Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://flukeout.github.io/"&gt;http://flukeout.github.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://github.com/flukeout/restaurant"&gt;https://github.com/flukeout/restaurant&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://wiki.selfhtml.org/wiki/CSS/Selektoren"&gt;http://wiki.selfhtml.org/wiki/CSS/Selektoren&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Web"></category><category term="CSS"></category><category term="CSSDiner"></category></entry></feed>

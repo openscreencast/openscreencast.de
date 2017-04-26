@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gimp
 Slug: GIMP_Einen_Rahmen_um_einen_Bereich_in_einem_Bild_ziehen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 247000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: mYJE59lh7GQ

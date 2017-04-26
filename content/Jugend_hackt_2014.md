@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Jugend hackt
 Slug: Jugend_hackt_2014
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 81000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: gZz3rFfzKIU

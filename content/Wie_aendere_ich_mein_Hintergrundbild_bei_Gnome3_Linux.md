@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gnome,Gnome3,Fedora
 Slug: Wie_aendere_ich_mein_Hintergrundbild_bei_Gnome3_Linux
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 293000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: vL2v0A8JyWg
@@ -16,5 +16,5 @@ Wie ändere ich mein Hintergrundbild bei Gnome3 - Linux, Fedora 19
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  
   
 1\. Videotutorial von openscreencast:
-<http://www.openscreencast.de/blog/Hintergrundbild>
+<https://www.openscreencast.de/blog/Hintergrundbild>
 

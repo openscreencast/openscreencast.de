@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python
 Slug: Python_beginners_was_ist_python
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 212000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 135802843
 Tumblr: http://openscreencast.tumblr.com/post/126278720665/python-f&uuml;r-anf&auml;nger-was-ist-python-lizenz
 Diaspora: https://pod.geraspora.de/posts/3920309
-Oggfile: http://www.openscreencast.de/archive/python_beginners_was_ist_python.ogg
+Oggfile: https://www.openscreencast.de/archive/python_beginners_was_ist_python.ogg
 
 Python für Anfänger - Was ist Python, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gnome,Gnome3
 Slug: Gnome3_Gnome2Look_verwenden_gnomeclassicsession
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 76000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: qkn4HbKP5Ro

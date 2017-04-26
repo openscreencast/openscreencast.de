@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Maui,KDE,Plasma
 Slug: maui_2_linux_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 464000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: OJFcKZCBPpc

@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Gnome3,Ruby,irb,Rubyshell
 Slug: ruby_interaktive_rubyshell
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 191000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 5RL8_S28vy4
 Vimeo: 40167084
 Tumblr: http://openscreencast.tumblr.com/post/20909316371/ruby-die-interaktive-ruby-shell-fedora-16
 Diaspora: https://pod.geraspora.de/posts/532089
-Oggfile: http://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.ogg
-Webmfile: http://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.webm
-Mp4file: http://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.mp4
-Srtfile: http://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.srt
-Image: http://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.png
+Oggfile: https://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.ogg
+Webmfile: https://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.webm
+Mp4file: https://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.mp4
+Srtfile: https://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.srt
+Image: https://www.openscreencast.de/archive/ruby_interaktive_rubyshell_222.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

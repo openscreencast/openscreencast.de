@@ -10,11 +10,11 @@ Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: VyFcUAeqn_c
 Vimeo: 14124363
 Tumblr: http://openscreencast.tumblr.com/post/8300064695/desktop-effects-fedora-core-6-gnome-2-16-lizenz
-Oggfile: http://www.openscreencast.de/archive/desktopeffects_026.ogg
-Oggfileom: http://www.openscreencast.de/archive/desktopeffects_oM_026.ogg
-Srtfile: http://www.openscreencast.de/archive/desktopeffects_026.srt
-Srtfile_om: http://www.openscreencast.de/archive/desktopeffects_oM_026.srt
-Image: http://www.openscreencast.de/archive/desktopeffects_026.png
+Oggfile: https://www.openscreencast.de/archive/desktopeffects_026.ogg
+Oggfileom: https://www.openscreencast.de/archive/desktopeffects_oM_026.ogg
+Srtfile: https://www.openscreencast.de/archive/desktopeffects_026.srt
+Srtfile_om: https://www.openscreencast.de/archive/desktopeffects_oM_026.srt
+Image: https://www.openscreencast.de/archive/desktopeffects_026.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

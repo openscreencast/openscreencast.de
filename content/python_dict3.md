@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,Dict,Dictionary
 Slug: python_dict3
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 227000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: _d0OvgZFk7c
 Vimeo: 27980876
 Tumblr: http://openscreencast.tumblr.com/post/9222487428/python-programmierung-dictionaries-teil-3
-Oggfile: http://www.openscreencast.de/archive/python_dict3_168.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_dict3_oM_168.ogg
-Webmfile: http://www.openscreencast.de/archive/python_dict3_168.webm
-Mp4file: http://www.openscreencast.de/archive/python_dict3_168.mp4
-Srtfile: http://www.openscreencast.de/archive/python_dict3_168.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_dict3_oM_168.srt
-Image: http://www.openscreencast.de/archive/python_dict3_168.png
+Oggfile: https://www.openscreencast.de/archive/python_dict3_168.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_dict3_oM_168.ogg
+Webmfile: https://www.openscreencast.de/archive/python_dict3_168.webm
+Mp4file: https://www.openscreencast.de/archive/python_dict3_168.mp4
+Srtfile: https://www.openscreencast.de/archive/python_dict3_168.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_dict3_oM_168.srt
+Image: https://www.openscreencast.de/archive/python_dict3_168.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,OOP,Klassen,Vererbung
 Slug: python_oop_unterstriche
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 326000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: LPTQ6ZKBkcc
 Vimeo: 42901409
 Tumblr: http://openscreencast.tumblr.com/post/23807955007/python-programmierung-oop-klassen-in-python
 Diaspora: https://pod.geraspora.de/posts/622532
-Oggfile: http://www.openscreencast.de/archive/python_oop_unterstriche_233.ogg
-Webmfile: http://www.openscreencast.de/archive/python_oop_unterstriche_233.webm
-Mp4file: http://www.openscreencast.de/archive/python_oop_unterstriche_233.mp4
-Srtfile: http://www.openscreencast.de/archive/python_oop_unterstriche_233.srt
-Image: http://www.openscreencast.de/archive/python_oop_unterstriche_233.png
+Oggfile: https://www.openscreencast.de/archive/python_oop_unterstriche_233.ogg
+Webmfile: https://www.openscreencast.de/archive/python_oop_unterstriche_233.webm
+Mp4file: https://www.openscreencast.de/archive/python_oop_unterstriche_233.mp4
+Srtfile: https://www.openscreencast.de/archive/python_oop_unterstriche_233.srt
+Image: https://www.openscreencast.de/archive/python_oop_unterstriche_233.png
 
 Ausgangspunkt: Ubuntu 12.04 LTS  
 Zielgruppe: Neueinsteiger  

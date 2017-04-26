@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Surfen,JonDoFox,Web
 Slug: Linux_Spurenarm_Surfen_JonDoFox
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 343000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 22_0jyj_K-o

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Gimp
 Slug: GIMP_moderne_und_schicke_Splashscreens
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 142000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: WFXia1a7zS8

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Steam,Steam Skin Manager
 Slug: Mit_Steam_Skin_Manager_das_Aussehen_des_Steam_Clients_unter_Linux_veraendern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 263000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: smGNX6D1bnE

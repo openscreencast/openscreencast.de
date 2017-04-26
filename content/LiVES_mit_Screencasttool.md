@@ -11,5 +11,5 @@ außer den vielen anderen Features auch ein Werkzeug mit sich das es ermöglicht
 Screencasts aufzunehmen. Das Tool findet man unter dem Menü Werkzeuge (Alt+W)
 im Eintrag Externes Fenster aufzeichnen... (Alt+E).
 
-![Screencasttool](http://www.openscreencast.de/pictures/lives_screencasttool.png)
+![Screencasttool](https://www.openscreencast.de/pictures/lives_screencasttool.png)
 

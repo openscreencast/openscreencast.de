@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,VirtualBox
 Slug: Fertige_virtuelle_Maschinen_mit_zahlreichen_freien_OS_auf_VirtualBoxesorg
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 223000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: I-SiKUoVFYQ

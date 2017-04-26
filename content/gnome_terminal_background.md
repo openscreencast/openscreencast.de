@@ -4,20 +4,20 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,gconf-editor,gconftool-2,gnome-terminal,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Terminal,ubuntu
 Slug: gnome_terminal_background
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 230000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 8NOeqcuyBE0
 Vimeo: 16140079
-Oggfile: http://www.openscreencast.de/archive/gnome_terminal_background_087.ogg
-Oggfileom: http://www.openscreencast.de/archive/gnome_terminal_background_oM_087.ogg
-Webmfile: http://www.openscreencast.de/archive/gnome_terminal_background_087.webm
-Mp4file: http://www.openscreencast.de/archive/gnome_terminal_background_087.mp4
-Srtfile: http://www.openscreencast.de/archive/gnome_terminal_background_087.srt
-Srtfile_om: http://www.openscreencast.de/archive/gnome_terminal_background_oM_087.srt
-Srtfileeo: http://www.openscreencast.de/archive/eo/gnome_terminal_background_087.srt
-Srtfileomeo: http://www.openscreencast.de/archive/eo/gnome_terminal_background_oM_087.srt
-Image: http://www.openscreencast.de/archive/gnome_terminal_background_087.png
+Oggfile: https://www.openscreencast.de/archive/gnome_terminal_background_087.ogg
+Oggfileom: https://www.openscreencast.de/archive/gnome_terminal_background_oM_087.ogg
+Webmfile: https://www.openscreencast.de/archive/gnome_terminal_background_087.webm
+Mp4file: https://www.openscreencast.de/archive/gnome_terminal_background_087.mp4
+Srtfile: https://www.openscreencast.de/archive/gnome_terminal_background_087.srt
+Srtfile_om: https://www.openscreencast.de/archive/gnome_terminal_background_oM_087.srt
+Srtfileeo: https://www.openscreencast.de/archive/eo/gnome_terminal_background_087.srt
+Srtfileomeo: https://www.openscreencast.de/archive/eo/gnome_terminal_background_oM_087.srt
+Image: https://www.openscreencast.de/archive/gnome_terminal_background_087.png
 
 Ausgangspunkt: Ubuntu 10.10, GNOME 2.32  
 Zielgruppe: Neueinsteiger  

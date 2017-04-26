@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Neueinsteiger,screencast,Demo,Gnome,Gnome3,Linux
 Slug: gnome324_demo_web
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 136000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 7VdMmpYRRaM

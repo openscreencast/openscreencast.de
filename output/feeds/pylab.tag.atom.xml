@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/pylab.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-27T18:59:00+01:00</updated><entry><title>Matplotlib und Pylab - das Beispiel etwas aufgebessert</title><link href="https://www.openscreencast.de/blog/matplotlib_pylab_beispiel_aufgebessert.html" rel="alternate"></link><published>2013-10-27T18:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-27:blog/matplotlib_pylab_beispiel_aufgebessert.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/yalm" title="Link zu freiesmagazin.de yalm"&gt;http://www.freiesmagazin.de/yalm Oktober 2009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matplotlib.org/"&gt;http://matplotlib.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Gnome3"></category><category term="matplotlib"></category><category term="pylab"></category><category term="Python"></category></entry><entry><title>Matplotlib und Pylab - eine Programm-Datei</title><link href="https://www.openscreencast.de/blog/matplotlib_pylab_programmdatei.html" rel="alternate"></link><published>2013-10-27T18:56:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-27:blog/matplotlib_pylab_programmdatei.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/yalm" title="Link zu freiesmagazin.de yalm"&gt;http://www.freiesmagazin.de/yalm Oktober 2009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matplotlib.org/"&gt;http://matplotlib.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Gnome3"></category><category term="matplotlib"></category><category term="pylab"></category><category term="Python"></category></entry><entry><title>Matplotlib und Pylab - Installation</title><link href="https://www.openscreencast.de/blog/matplotlib_pylab_installation.html" rel="alternate"></link><published>2013-10-27T18:33:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-27:blog/matplotlib_pylab_installation.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/yalm" title="Link zu freiesmagazin.de yalm"&gt;http://www.freiesmagazin.de/yalm Oktober 2009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://matplotlib.org/"&gt;http://matplotlib.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by-sa"></category><category term="Gnome3"></category><category term="matplotlib"></category><category term="pylab"></category><category term="Python"></category></entry></feed>

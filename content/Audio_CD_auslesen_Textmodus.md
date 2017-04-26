@@ -7,9 +7,9 @@ Slug: Audio_CD_auslesen_Textmodus
 Duration: 610000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13891092
-Oggfile: http://www.openscreencast.de/archive/audiocd_auslesen2_020.ogg
-Srtfile: http://www.openscreencast.de/archive/audiocd_auslesen2_020.srt
-Image: http://www.openscreencast.de/archive/audiocd_auslesen2_020.png
+Oggfile: https://www.openscreencast.de/archive/audiocd_auslesen2_020.ogg
+Srtfile: https://www.openscreencast.de/archive/audiocd_auslesen2_020.srt
+Image: https://www.openscreencast.de/archive/audiocd_auslesen2_020.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

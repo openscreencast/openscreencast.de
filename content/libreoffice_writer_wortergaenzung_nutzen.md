@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3
 Slug: libreoffice_writer_wortergaenzung_nutzen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 167000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: SSGOuL5bVDo
 Vimeo: 39110926
 Tumblr: http://openscreencast.tumblr.com/post/19846238573/libreoffice-writer-wortergaenzung-nutzen
 Diaspora: https://pod.geraspora.de/posts/508614
-Oggfile: http://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.mp4
-Srtfile: http://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.srt
-Image: http://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.mp4
+Srtfile: https://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.srt
+Image: https://www.openscreencast.de/archive/libreoffice_writer_wortergaenzung_210.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

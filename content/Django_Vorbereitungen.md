@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,Django
 Slug: Django_Vorbereitungen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 242000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 135065282
 Tumblr: http://openscreencast.tumblr.com/post/125528189145/django-vorbereitungen-lizenz
 Diaspora: https://pod.geraspora.de/posts/3891132
-Oggfile: http://www.openscreencast.de/archive/django_vorbereitungen.ogg
+Oggfile: https://www.openscreencast.de/archive/django_vorbereitungen.ogg
 
 Django - Vorbereitungen, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

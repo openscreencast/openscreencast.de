@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,glimpse,Gnome,Linux,Neueinsteiger,Ogg Theora,screencast,ubuntu
 Slug: ubuntu904
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 241000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: OPtToG4cSU0
 Vimeo: 16037337
 Tumblr: http://openscreencast.tumblr.com/post/8340150203/ubuntu-9-04-gnome-2-26-lizenz
-Oggfile: http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.ogg
-Mp4file: http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mp4
-Mkvfile: http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv
-Image: http://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.ogg
+Mp4file: https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mp4
+Mkvfile: https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.mkv
+Image: https://www.openscreencast.de/archive/glimpse/ubuntu904_glimpse_021.png
 
 Ausgangspunkt: Ubuntu 9.04, GNOME 2.26  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,OpenShot,Videoeditor
 Slug: VideoEditor_OpenShot_Transparente_Bilder_ueber_Video_legen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 349000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 68bH8P-OlM4

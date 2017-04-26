@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/steamos.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 18 Jan 2014 19:53:00 +0100</lastBuildDate><item><title>SteamOS Session installieren</title><link>https://www.openscreencast.de/blog/SteamOS_Session_installieren.html</link><description>&lt;p&gt;SteamOS Session installieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2014/01/wie-man-eine-steamos-session-unter-ubuntu-
+und-anderen-abkoemmlingen-installiert/"&gt;http://www.bitblokes.de/2014/01/wie-man-eine-steamos-session-unter-ubuntu-
+und-anderen-abkoemmlingen-installiert/&lt;/a&gt;&lt;br /&gt;
+Wie man eine SteamOS Session unter Ubuntu und anderen Abkömmlingen installiert
+von &lt;a href="http://www.bitblokes.de"&gt;http://www.bitblokes.de&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://repo.steampowered.com/steamos/pool/main/s/steamos-compositor/"&gt;http://repo.steampowered.com/steamos/pool/main/s/steamos-compositor/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://repo.steampowered.com/steamos/pool/main/s/steamos-modeswitch-
+inhibitor/"&gt;http://repo.steampowered.com/steamos/pool/main/s/steamos-modeswitch-
+inhibitor/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 18 Jan 2014 19:53:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-18:blog/SteamOS_Session_installieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>SteamOS</category></item><item><title>SteamOS - automatische Installation verändern</title><link>https://www.openscreencast.de/blog/SteamOS_automatische_Installation_veraendern.html</link><description>&lt;p&gt;SteamOS - automatische Installation verändern (Datei default.preseed
+modifizieren)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://store.steampowered.com/steamos/"&gt;http://store.steampowered.com/steamos/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/SteamOS"&gt;http://de.wikipedia.org/wiki/SteamOS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="a href"&gt;http://store.steampowered.com/steamos/buildyourown&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://wiki.debian.org/DebianInstaller/Preseed"&gt;https://wiki.debian.org/DebianInstaller/Preseed&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.debian.org/releases/stable/i386/apb.html.de"&gt;http://www.debian.org/releases/stable/i386/apb.html.de&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 16 Dec 2013 17:07:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-16:blog/SteamOS_automatische_Installation_veraendern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>SteamOS</category></item><item><title>SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test) - Teil 2</title><link>https://www.openscreencast.de/blog/SteamOS_10_Beta_Demo_SteamOS_alchemist_Test_Teil_2.html</link><description>&lt;p&gt;SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test) - Teil 2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://store.steampowered.com/steamos/"&gt;http://store.steampowered.com/steamos/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/SteamOS"&gt;http://de.wikipedia.org/wiki/SteamOS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+Air Hockey Saloon by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 16 Dec 2013 16:52:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-16:blog/SteamOS_10_Beta_Demo_SteamOS_alchemist_Test_Teil_2.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>SteamOS</category></item><item><title>SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test) - mit Hintergrundmusik</title><link>https://www.openscreencast.de/blog/SteamOS_10_Beta_Demo_SteamOS_alchemist_Test_mit_Hintergrundmusik.html</link><description>&lt;p&gt;SteamOS 1.0 Beta - Demo (SteamOS alchemist - Test)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://store.steampowered.com/steamos/"&gt;http://store.steampowered.com/steamos/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/SteamOS"&gt;http://de.wikipedia.org/wiki/SteamOS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br /&gt;
+Divider by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 16 Dec 2013 11:26:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-12-16:blog/SteamOS_10_Beta_Demo_SteamOS_alchemist_Test_mit_Hintergrundmusik.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>SteamOS</category></item></channel></rss>

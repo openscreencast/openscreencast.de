@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Python,Programmierung,webbrowser,web
 Slug: python_modul_webbrowser
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 146000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: bKYgXPr3BnA

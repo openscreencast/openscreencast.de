@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Gnome,Gnome3,Demo
 Slug: Gnome_310_Map_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 91000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: TtxEyXiQKfA

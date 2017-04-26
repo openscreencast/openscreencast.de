@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,wattOS,pekwm,Demo
 Slug: wattOS_R75_mit_pekwm_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 386000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GpnCGQ2EMkw

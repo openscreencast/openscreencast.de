@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git
 Slug: Git_fuer_Einsteiger_Was_ist_Git
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 448000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: lVzEQQQGhxI

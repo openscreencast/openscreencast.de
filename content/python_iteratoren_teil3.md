@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Ubuntu,Unity,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Python,Programmierung,Iteratoren
 Slug: python_iteratoren_teil3
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 429000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: SreDMOddFL8
 Vimeo: 47107299
 Tumblr: http://openscreencast.tumblr.com/post/28362664902/python-programmierung-iteratoren-teil-3
 Diaspora: https://pod.geraspora.de/posts/736449
-Oggfile: http://www.openscreencast.de/archive/python_iteratoren3_269.ogg
-Webmfile: http://www.openscreencast.de/archive/python_iteratoren3_269.webm
-Mp4file: http://www.openscreencast.de/archive/python_iteratoren3_269.mp4
-Image: http://www.openscreencast.de/archive/python_iteratoren3_269.png
+Oggfile: https://www.openscreencast.de/archive/python_iteratoren3_269.ogg
+Webmfile: https://www.openscreencast.de/archive/python_iteratoren3_269.webm
+Mp4file: https://www.openscreencast.de/archive/python_iteratoren3_269.mp4
+Image: https://www.openscreencast.de/archive/python_iteratoren3_269.png
 
 Ausgangspunkt: Ubuntu 12.04 LTS  
 Zielgruppe: Neueinsteiger  

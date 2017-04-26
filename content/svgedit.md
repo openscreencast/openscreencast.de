@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Firefox,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,svg-edit,svg
 Slug: svgedit
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 241000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: Zm2exwK0UE4
 Vimeo: 22134156
 Tumblr: http://openscreencast.tumblr.com/post/8353272732/svg-edit-web-svg-editor-ubuntu-10-10-gnome
-Oggfile: http://www.openscreencast.de/archive/svgedit_114.ogg
-Oggfileom: http://www.openscreencast.de/archive/svgedit_oM_114.ogg
-Webmfile: http://www.openscreencast.de/archive/svgedit_114.webm
-Mp4file: http://www.openscreencast.de/archive/svgedit_114.mp4
-Srtfile: http://www.openscreencast.de/archive/svgedit_114.srt
-Srtfile_om: http://www.openscreencast.de/archive/svgedit_oM_114.srt
-Image: http://www.openscreencast.de/archive/svgedit_114.png
+Oggfile: https://www.openscreencast.de/archive/svgedit_114.ogg
+Oggfileom: https://www.openscreencast.de/archive/svgedit_oM_114.ogg
+Webmfile: https://www.openscreencast.de/archive/svgedit_114.webm
+Mp4file: https://www.openscreencast.de/archive/svgedit_114.mp4
+Srtfile: https://www.openscreencast.de/archive/svgedit_114.srt
+Srtfile_om: https://www.openscreencast.de/archive/svgedit_oM_114.srt
+Image: https://www.openscreencast.de/archive/svgedit_114.png
 
 Ausgangspunkt: Ubuntu 10.10, Gnome 2.32  
 Zielgruppe: Neueinsteiger  

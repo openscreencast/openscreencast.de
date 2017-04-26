@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/plone.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 14 Sep 2007 22:56:00 +0200</lastBuildDate><item><title>Screencasts ueber Plone</title><link>https://www.openscreencast.de/blog/Screencasts_ueber_Plone.html</link><description>&lt;p&gt;Hier mal ein paar Screencasts über das &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content-Management-
+System&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Plone"&gt;Plone&lt;/a&gt;. Plone ist in
+&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29"&gt;Python&lt;/a&gt;
+geschrieben und steht unter der Lizenz
+&lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_Licence"&gt;GPL&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://plone.org/products/compositepack/documentation/video"&gt;http://plone.org/products/compositepack/documentation/video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mrtopf.tv/vlog/2006/08/cache-fu-interview-and-screencast-with.html"&gt;http://mrtopf.tv/vlog/2006/08/cache-fu-interview-and-screencast-with.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://plone.org/about/movies"&gt;http://plone.org/about/movies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.archive.org/details/SeanKellyGettingYourFeetWetwithPlone"&gt;http://www.archive.org/details/SeanKellyGettingYourFeetWetwithPlone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 14 Sep 2007 22:56:00 +0200</pubDate><guid>tag:www.openscreencast.de,2007-09-14:blog/Screencasts_ueber_Plone.html</guid><category>CMS</category><category>Englisch</category><category>GPL</category><category>News</category><category>Plone</category><category>python</category><category>screencast</category></item></channel></rss>

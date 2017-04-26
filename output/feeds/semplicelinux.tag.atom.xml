@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/semplicelinux.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-04-28T16:35:00+02:00</updated><entry><title>Semplice Linux 7 - Demo</title><link href="https://www.openscreencast.de/blog/SempliceLinux7_Demo.html" rel="alternate"></link><published>2015-04-28T16:35:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-04-28:blog/SempliceLinux7_Demo.html</id><summary type="html">&lt;p&gt;Semplice Linux 7 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://semplice-linux.org/" title="Link zu semplice-linux.org"&gt;Semplice Linux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musik: Divider von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="SempliceLinux"></category><category term="Demo"></category></entry></feed>

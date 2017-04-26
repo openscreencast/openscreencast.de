@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,gnome3,Dokument
 Slug: libreoffice_auto_save
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 107000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 2tfzxgQ3EE0
 Vimeo: 27542846
 Tumblr: http://openscreencast.tumblr.com/post/8740258753/libreoffice-dokument-automatisch-speichern
-Oggfile: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.ogg
-Oggfileom: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_oM_160.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.mp4
-Srtfile: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.srt
-Srtfile_om: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_oM_160.srt
-Image: http://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.ogg
+Oggfileom: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_oM_160.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.mp4
+Srtfile: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.srt
+Srtfile_om: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_oM_160.srt
+Image: https://www.openscreencast.de/archive/libreoffice_automatisch_speichern_160.png
 
 Ausgangspunkt: Fedora 15  
 Zielgruppe: Neueinsteiger  

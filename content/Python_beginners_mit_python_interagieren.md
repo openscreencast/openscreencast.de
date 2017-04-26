@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python
 Slug: Python_beginners_mit_python_interagieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 152000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 136621885
 Tumblr: http://openscreencast.tumblr.com/post/126999734200/python-f&uuml;r-anf&auml;nger-mit-python-interagieren
 Diaspora: https://pod.geraspora.de/posts/3949252
-Oggfile: http://www.openscreencast.de/archive/python_beginners_mit_python_interagieren.ogg
+Oggfile: https://www.openscreencast.de/archive/python_beginners_mit_python_interagieren.ogg
 
 Python für Anfänger - Mit Python interagieren, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

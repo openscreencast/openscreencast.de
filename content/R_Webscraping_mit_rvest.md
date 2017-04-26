@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Fedora,R,rvest,Scraping,Web
 Slug: R_Webscraping_mit_rvest
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 557000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 135466234
 Tumblr: http://openscreencast.tumblr.com/post/125931205775/web-scraping-mit-r-lizenz
 Diaspora: https://pod.geraspora.de/posts/3906536
-Oggfile: http://www.openscreencast.de/archive/r_webscraping_mit_rvest.ogg
+Oggfile: https://www.openscreencast.de/archive/r_webscraping_mit_rvest.ogg
 
 R - Webscraping mit rvest, Fedora 22  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/erweiterungen.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-07-25T01:11:00+02:00</updated><entry><title>Gnome3 - Erweiterungen</title><link href="https://www.openscreencast.de/blog/gnome3_extensions.html" rel="alternate"></link><published>2011-07-25T01:11:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-07-25:blog/gnome3_extensions.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://live.gnome.org/GnomeShell/CheatSheet" title="Link zu gnome.org"&gt;Gnome3 - CheatSheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gnome" title="Link zu Wikipedia Gnome"&gt;WP:Gnome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://intgat.tigress.co.uk/rmy/extensions/index.html" title="Link zu GNOME Shell frippery"&gt;GNOME Shell frippery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fedorawiki.de/index.php/Gnome_3_Extensions" title="Link zu fedora wiki"&gt;Gnome3 Erweiterungen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="Erweiterungen"></category></entry></feed>

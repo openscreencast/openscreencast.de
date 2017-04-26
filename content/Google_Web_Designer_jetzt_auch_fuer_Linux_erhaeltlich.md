@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Web,Webdesigner,HTML
 Slug: Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 339000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: TAw6C-rC2i4

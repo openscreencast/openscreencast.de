@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Open webOS,webOS,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,demo
 Slug: openwebos_desktop_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 211000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 6_Rn3TXEf5o

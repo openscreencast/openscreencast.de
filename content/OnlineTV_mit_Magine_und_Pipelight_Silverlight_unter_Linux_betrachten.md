@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,pipelight,magine
 Slug: OnlineTV_mit_Magine_und_Pipelight_Silverlight_unter_Linux_betrachten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 307000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dIyHCbx8Jrw

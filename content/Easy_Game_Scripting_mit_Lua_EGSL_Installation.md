@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,EGSL,Lua
 Slug: Easy_Game_Scripting_mit_Lua_EGSL_Installation
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 409000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: GeGeQWEMf8I

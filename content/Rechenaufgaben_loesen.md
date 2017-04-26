@@ -7,9 +7,9 @@ Slug: Rechenaufgaben_loesen
 Duration: 385000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13487948
-Oggfile: http://www.openscreencast.de/archive/rechnen_005.ogg
-Srtfile: http://www.openscreencast.de/archive/rechnen_005.srt
-Image: http://www.openscreencast.de/archive/rechnen_005.png
+Oggfile: https://www.openscreencast.de/archive/rechnen_005.ogg
+Srtfile: https://www.openscreencast.de/archive/rechnen_005.srt
+Image: https://www.openscreencast.de/archive/rechnen_005.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Web,HTML,revealjs
 Slug: revealjs_Praesentation_betrachten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 274000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: DH-phIMqZ8s

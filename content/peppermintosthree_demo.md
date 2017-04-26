@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,PeppermintOS
 Slug: peppermintosthree_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 226000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: MboIdRyWCx0

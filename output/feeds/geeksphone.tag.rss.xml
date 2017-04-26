@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/geeksphone.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 21 Apr 2014 18:40:00 +0200</lastBuildDate><item><title>Geeksphone Revolution und andere Geräte mit dem Firefox App-Manager verbinden</title><link>https://www.openscreencast.de/blog/Geeksphone_Revolution_und_andere_Geraete_mit_dem_Firefox_AppManager_verbinden.html</link><description>&lt;p&gt;Geeksphone Revolution und andere Geräte mit dem Firefox App-Manager verbinden&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;!!! Nicht vergessen: PC mittels USB-Kabel mit dem mobilen Endgerät verbinden,
+ich glaube das habe ich nicht erwähnt  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://downloads.geeksphone.com/"&gt;http://downloads.geeksphone.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Udev"&gt;http://de.wikipedia.org/wiki/Udev&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://developer.android.com/tools/device.html"&gt;http://developer.android.com/tools/device.html&lt;/a&gt;#setting-up&lt;br /&gt;
+&lt;a href="https://github.com/M0Rf30/android-udev-rules/blob/master/51-android.rules"&gt;https://github.com/M0Rf30/android-udev-rules/blob/master/51-android.rules&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Android_Debug_Bridge"&gt;http://en.wikipedia.org/wiki/Android_Debug_Bridge&lt;/a&gt;#ADB&lt;br /&gt;
+&lt;a href="https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/"&gt;https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers"&gt;https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Firefox_OS"&gt;http://de.wikipedia.org/wiki/Firefox_OS&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Firefox OS 1.3 Simulator installieren: &lt;a href="http://youtu.be/5k7rOEiimuI"&gt;http://youtu.be/5k7rOEiimuI&lt;/a&gt;&lt;br /&gt;
+Geeksphone Revolution - Firefox OS installieren: &lt;a href="http://youtu.be/xbNqD9jUGuw"&gt;http://youtu.be/xbNqD9jUGuw&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Korrektur Zusammenfassung: 21-android.rules - 51-android.rules  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der FirefoxOS-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 21 Apr 2014 18:40:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-21:blog/Geeksphone_Revolution_und_andere_Geraete_mit_dem_Firefox_AppManager_verbinden.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Firefox</category><category>Appmanager</category><category>Geeksphone</category><category>Android</category><category>FirefoxOS</category></item><item><title>Geeksphone Revolution - Firefox OS installieren</title><link>https://www.openscreencast.de/blog/Geeksphone_Revolution_Firefox_OS_installieren.html</link><description>&lt;p&gt;Geeksphone Revolution - Firefox OS installieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/"&gt;https://ftp.mozilla.org/pub/mozilla.org/labs/fxos-simulator/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers"&gt;https://developer.mozilla.org/de/docs/Mozilla/Firefox_OS/Benutzung_des_App_Managers&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Firefox_OS"&gt;http://de.wikipedia.org/wiki/Firefox_OS&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.soeren-hentzschel.at/mozilla/firefox-os/2014/04/10/geeksphone-
+revolution-kann-ueber-amazon-zum-sonderpreis-erworben-werden/"&gt;http://www.soeren-hentzschel.at/mozilla/firefox-os/2014/04/10/geeksphone-
+revolution-kann-ueber-amazon-zum-sonderpreis-erworben-werden/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der FirefoxOS-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV0pedWVmeI6VbWmAesNELTR&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 12 Apr 2014 19:24:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-12:blog/Geeksphone_Revolution_Firefox_OS_installieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>FirefoxOS</category><category>Geeksphone</category></item></channel></rss>

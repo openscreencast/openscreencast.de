@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: DouDouLinux,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Demo
 Slug: doudoulinux_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 380000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Jncg_L8ayUM
 Vimeo: 46145256
 Tumblr: http://openscreencast.tumblr.com/post/26518600042/doudoulinux-1-2-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/696772
-Oggfile: http://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.ogg
-Webmfile: http://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.webm
-Mp4file: http://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.mp4
-Image: http://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.ogg
+Webmfile: https://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.webm
+Mp4file: https://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.mp4
+Image: https://www.openscreencast.de/archive/glimpse/doudoulinux_glimpse_042.png
 
 Ausgangspunkt: DouDouLinux 1.2  
 Zielgruppe: Neueinsteiger  

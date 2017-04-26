@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3
 Slug: libreoffice_writer_dokumentansicht
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 140000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: CZk5xCiI34w
 Vimeo: 37061972
 Tumblr: http://openscreencast.tumblr.com/post/17890015179/libreoffice-writer-dokumentansicht-fedora-16
 Diaspora: https://pod.geraspora.de/posts/405159
-Oggfile: http://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.mp4
-Srtfile: http://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.srt
-Image: http://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.mp4
+Srtfile: https://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.srt
+Image: https://www.openscreencast.de/archive/libreoffice_writer_dokumentansicht_197.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Simplicity
 Slug: Simplicity_Linux_137_Beta_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 381000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: qs5k2RVFyIQ

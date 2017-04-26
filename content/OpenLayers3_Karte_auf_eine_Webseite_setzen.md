@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Web,OpenLayers,Mapping
 Slug: OpenLayers3_Karte_auf_eine_Webseite_setzen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 292000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3xiI_v9TopE

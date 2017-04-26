@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,AVLinux,Demo
 Slug: AV_Linux_602_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 469000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: iNjChme_3s0

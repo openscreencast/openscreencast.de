@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_die_Bildschirmdeaktivierung_einstellen_screen_timeout
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 68000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 1oWcHkzS5-A

@@ -10,11 +10,11 @@ Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: rtP2Ihic7uo
 Vimeo: 14122944
 Tumblr: http://openscreencast.tumblr.com/post/8300037990/inkscape-erster-schritt-fedora-core-5-gnome
-Oggfile: http://www.openscreencast.de/archive/inkscape_ersterSchritt_025.ogg
-Oggfileom: http://www.openscreencast.de/archive/inkscape_ersterSchritt_oM_025.ogg
-Srtfile: http://www.openscreencast.de/archive/inkscape_ersterSchritt_025.srt
-Srtfile_om: http://www.openscreencast.de/archive/inkscape_ersterSchritt_oM_025.srt
-Image: http://www.openscreencast.de/archive/inkscape_ersterSchritt_025.png
+Oggfile: https://www.openscreencast.de/archive/inkscape_ersterSchritt_025.ogg
+Oggfileom: https://www.openscreencast.de/archive/inkscape_ersterSchritt_oM_025.ogg
+Srtfile: https://www.openscreencast.de/archive/inkscape_ersterSchritt_025.srt
+Srtfile_om: https://www.openscreencast.de/archive/inkscape_ersterSchritt_oM_025.srt
+Image: https://www.openscreencast.de/archive/inkscape_ersterSchritt_025.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

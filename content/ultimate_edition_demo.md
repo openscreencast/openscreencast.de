@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Ultimate Edition,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Demo
 Slug: ultimate_edition_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 403000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: vLTtt-NfkJg
 Vimeo: 46144210
 Tumblr: http://openscreencast.tumblr.com/post/26295997048/ultimate-edition-3-3-demo-lizenz
 Diaspora: https://pod.geraspora.de/posts/691457
-Oggfile: http://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.ogg
-Webmfile: http://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.webm
-Mp4file: http://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.mp4
-Image: http://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.png
+Oggfile: https://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.ogg
+Webmfile: https://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.webm
+Mp4file: https://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.mp4
+Image: https://www.openscreencast.de/archive/glimpse/ultimateedition_glimpse_041.png
 
 Ausgangspunkt: Ultimate Edition 3.3  
 Zielgruppe: Neueinsteiger  

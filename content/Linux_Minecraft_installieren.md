@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Minecraft
 Slug: Linux_Minecraft_installieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 247000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 6TQ_Wxrrd9o

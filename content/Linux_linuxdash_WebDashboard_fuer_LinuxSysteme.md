@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,linuxdash
 Slug: Linux_linuxdash_WebDashboard_fuer_LinuxSysteme
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 226000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 3gb3z-a7XfA

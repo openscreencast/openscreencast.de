@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,turtle
 Slug: Python_beginners_ein_rechteck_zeichnen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 225000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 207923224

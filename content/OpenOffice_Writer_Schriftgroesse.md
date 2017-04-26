@@ -4,15 +4,15 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Desktop,Fedora Core,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,OpenOffice,screencast,short,Textverarbeitung
 Slug: OpenOffice_Writer_Schriftgroesse
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 34000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: Br1d9P_yi4o
 Vimeo: 16246584
 Tumblr: http://openscreencast.tumblr.com/post/8304346538/openoffice-writer-schriftgroesse-fedora-core-6
-Oggfile: http://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.ogg
-Srtfile: http://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.srt
-Image: http://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.png
+Oggfile: https://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.ogg
+Srtfile: https://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.srt
+Image: https://www.openscreencast.de/archive/short/openoffice_schriftgroesse_short_017.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16, OpenOffice 2.0.4  
 Zielgruppe: Neueinsteiger  

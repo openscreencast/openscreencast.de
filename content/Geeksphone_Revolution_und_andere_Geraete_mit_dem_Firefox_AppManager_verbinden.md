@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox,Appmanager,Geeksphone,Android,FirefoxOS
 Slug: Geeksphone_Revolution_und_andere_Geraete_mit_dem_Firefox_AppManager_verbinden
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 653000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: FD_m2nfEBjM

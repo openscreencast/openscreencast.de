@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/bsdchannel.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-04-04T01:23:00+02:00</updated><entry><title>BSDChannel</title><link href="https://www.openscreencast.de/blog/BSDChannel.html" rel="alternate"></link><published>2007-04-04T01:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-04-04:blog/BSDChannel.html</id><summary type="html">&lt;p&gt;&lt;a href="http://bsdchannel.sourceforge.net/"&gt;BSDChannel&lt;/a&gt; wird vielen eine Hilfe sein
+die ins Betriebssystem &lt;a href="http://de.wikipedia.org/wiki/Freebsd"&gt;FreeBSD&lt;/a&gt;
+reinschnuppern wollen. Das Projekt BSDChannel präsentiert Screencasts (ohne
+Audio, Zusatzinfos werden aber eingeblendet) über den Umgang mit FreeBSD.
+Momentan stehen 2 Screencasts zum Download bereit. (1. FreeBSD installieren 2.
+Kernel basteln)&lt;/p&gt;</summary><category term="BSD-Lizenz"></category><category term="BSDChannel"></category><category term="Creative Commons"></category><category term="FreeBSD"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry></feed>

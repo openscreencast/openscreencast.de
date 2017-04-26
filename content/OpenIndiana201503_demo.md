@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Neueinsteiger,screencast,OpenIndiana,Demo
 Slug: OpenIndiana201503_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 257000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: RxNdTurXnYQ

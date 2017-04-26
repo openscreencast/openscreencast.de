@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Gnome3,couchdb,NoSQL,Datenbank
 Slug: couchdb_erste_schritte
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 282000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: SsxMqWBNlho
 Vimeo: 39852198
 Tumblr: http://openscreencast.tumblr.com/post/20540090063/couchdb-erste-schritte-eine-datenbank-erstellen
 Diaspora: https://pod.geraspora.de/posts/523208
-Oggfile: http://www.openscreencast.de/archive/couchdb_erste_schritte_216.ogg
-Webmfile: http://www.openscreencast.de/archive/couchdb_erste_schritte_216.webm
-Mp4file: http://www.openscreencast.de/archive/couchdb_erste_schritte_216.mp4
-Srtfile: http://www.openscreencast.de/archive/couchdb_erste_schritte_216.srt
-Image: http://www.openscreencast.de/archive/couchdb_erste_schritte_216.png
+Oggfile: https://www.openscreencast.de/archive/couchdb_erste_schritte_216.ogg
+Webmfile: https://www.openscreencast.de/archive/couchdb_erste_schritte_216.webm
+Mp4file: https://www.openscreencast.de/archive/couchdb_erste_schritte_216.mp4
+Srtfile: https://www.openscreencast.de/archive/couchdb_erste_schritte_216.srt
+Image: https://www.openscreencast.de/archive/couchdb_erste_schritte_216.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

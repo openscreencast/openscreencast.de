@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,cheat
 Slug: Linux_cheat_lernen_durch_KommandoBeispiele
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: pMR5F8IdDGI

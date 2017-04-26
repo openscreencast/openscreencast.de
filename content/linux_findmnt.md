@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,gnome-disks,findmnt,mount,lsblk
 Slug: linux_findmnt
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 241000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: kV5tHwGYO94

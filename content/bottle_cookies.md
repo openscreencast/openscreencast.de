@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Python,Programmierung,web,www,wsgi,bottle
 Slug: bottle_cookies
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 202000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: x_8UKbV5lxU
 Vimeo: 45326779
 Tumblr: http://openscreencast.tumblr.com/post/25449725090/bottle-cookies-fedora-17-lizenz
 Diaspora: https://pod.geraspora.de/posts/670251
-Oggfile: http://www.openscreencast.de/archive/bottle_cookie_248.ogg
-Webmfile: http://www.openscreencast.de/archive/bottle_cookie_248.webm
-Mp4file: http://www.openscreencast.de/archive/bottle_cookie_248.mp4
-Image: http://www.openscreencast.de/archive/bottle_cookie_248.png
+Oggfile: https://www.openscreencast.de/archive/bottle_cookie_248.ogg
+Webmfile: https://www.openscreencast.de/archive/bottle_cookie_248.webm
+Mp4file: https://www.openscreencast.de/archive/bottle_cookie_248.mp4
+Image: https://www.openscreencast.de/archive/bottle_cookie_248.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python
 Slug: Python_beginners_einfaches_zeichnen_mit_turtle
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 255000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 140204552

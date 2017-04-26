@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/fg.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 20 Nov 2006 02:16:00 +0100</lastBuildDate><item><title>bash - Kommandoausführung</title><link>https://www.openscreencast.de/blog/bash_Kommandoausfuehrung.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: ls, cat, ogg123, uname, date, bg, fg, jobs&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bash"&gt;bash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Kommandozeileninterpreter"&gt;Kommandozeileninterpreter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Kommandozeile"&gt;Kommandozeile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/bash_basic06.html#d27e948"&gt;bash - Kommandos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 20 Nov 2006 02:16:00 +0100</pubDate><guid>tag:www.openscreencast.de,2006-11-20:blog/bash_Kommandoausfuehrung.html</guid><category>bash</category><category>bg</category><category>cat</category><category>CC by-nc-sa</category><category>date</category><category>Desktop</category><category>Fedora Core</category><category>fg</category><category>Gnome</category><category>jobs</category><category>Linux</category><category>ls</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>Ogg Vorbis</category><category>ogg123</category><category>screencast</category><category>Terminal</category><category>uname</category></item></channel></rss>

@@ -7,9 +7,9 @@ Slug: Bildschirmschoner
 Duration: 300000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13733994
-Oggfile: http://www.openscreencast.de/archive/bildschirmschoner_011.ogg
-Srtfile: http://www.openscreencast.de/archive/bildschirmschoner_011.srt
-Image: http://www.openscreencast.de/archive/bildschirmschoner_011.png
+Oggfile: https://www.openscreencast.de/archive/bildschirmschoner_011.ogg
+Srtfile: https://www.openscreencast.de/archive/bildschirmschoner_011.srt
+Image: https://www.openscreencast.de/archive/bildschirmschoner_011.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

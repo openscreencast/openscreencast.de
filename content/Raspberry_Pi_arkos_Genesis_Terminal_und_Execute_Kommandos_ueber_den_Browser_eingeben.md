@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Raspberry Pi,arkos,Genesis
 Slug: Raspberry_Pi_arkos_Genesis_Terminal_und_Execute_Kommandos_ueber_den_Browser_eingeben
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 358000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: lCScxEAINn8

@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Gnome,Gnome3,redis,NoSQL
 Slug: redis_install
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 472000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: nEMfyC5Zk_I
 Vimeo: 49505152
 Tumblr: http://openscreencast.tumblr.com/post/31584016397/redis-installation-die-befehle-redis-server
 Diaspora: https://pod.geraspora.de/posts/793571
-Oggfile: http://www.openscreencast.de/archive/redis_installation_274.ogg
-Webmfile: http://www.openscreencast.de/archive/redis_installation_274.webm
-Image: http://www.openscreencast.de/archive/redis_installation_274.png
+Oggfile: https://www.openscreencast.de/archive/redis_installation_274.ogg
+Webmfile: https://www.openscreencast.de/archive/redis_installation_274.webm
+Image: https://www.openscreencast.de/archive/redis_installation_274.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

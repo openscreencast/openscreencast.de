@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Makros_fuer_den_Import_herunterladen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 127000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: QpNoZhF5J_I

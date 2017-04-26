@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Scratch,Web
 Slug: scratch_anlegen_der_vier_spritesn
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 308000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: aiVLT0LT6Zg

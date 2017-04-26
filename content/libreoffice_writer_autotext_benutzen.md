@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3
 Slug: libreoffice_writer_autotext_benutzen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 224000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: GBfx1DSkLkw
 Vimeo: 40247147
 Tumblr: http://openscreencast.tumblr.com/post/20971585034/libreoffice-writer-autotext-benutzen-fedora
 Diaspora: https://pod.geraspora.de/posts/534008
-Oggfile: http://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.mp4
-Srtfile: http://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.srt
-Image: http://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.mp4
+Srtfile: https://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.srt
+Image: https://www.openscreencast.de/archive/libreoffice_writer_autotext_benutzen_223.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

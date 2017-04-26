@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc
 Slug: LibreOffice_Calc_Inhalte_in_mehrere_Tabellen_eintragen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 123000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: JnNxtbMG-T4

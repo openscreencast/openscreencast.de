@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/ohne-audio.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-04-04T01:23:00+02:00</updated><entry><title>BSDChannel</title><link href="https://www.openscreencast.de/blog/BSDChannel.html" rel="alternate"></link><published>2007-04-04T01:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-04-04:blog/BSDChannel.html</id><summary type="html">&lt;p&gt;&lt;a href="http://bsdchannel.sourceforge.net/"&gt;BSDChannel&lt;/a&gt; wird vielen eine Hilfe sein
+die ins Betriebssystem &lt;a href="http://de.wikipedia.org/wiki/Freebsd"&gt;FreeBSD&lt;/a&gt;
+reinschnuppern wollen. Das Projekt BSDChannel präsentiert Screencasts (ohne
+Audio, Zusatzinfos werden aber eingeblendet) über den Umgang mit FreeBSD.
+Momentan stehen 2 Screencasts zum Download bereit. (1. FreeBSD installieren 2.
+Kernel basteln)&lt;/p&gt;</summary><category term="BSD-Lizenz"></category><category term="BSDChannel"></category><category term="Creative Commons"></category><category term="FreeBSD"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>kurze OpenOffice Screencasts</title><link href="https://www.openscreencast.de/blog/kurze_OpenOffice_Screencasts.html" rel="alternate"></link><published>2007-03-06T23:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-06:blog/kurze_OpenOffice_Screencasts.html</id><summary type="html">&lt;p&gt;Gerade habe ich eine E-Mail mit einem Screencast-Tip bekommen. (Danke für den
+Tip übrigens !) Die
+&lt;a href="http://www.zbescht.ch/51136598c30a7ad01/51136598c30a7ff04/index.html"&gt;Webseite&lt;/a&gt;
+mit den kurzen Videos über
+&lt;a href="http://de.wikipedia.org/wiki/OpenOffice"&gt;OpenOffice&lt;/a&gt; möchte ich Euch
+keinesfalls vorenthalten.&lt;/p&gt;</summary><category term="News"></category><category term="ohne Audio"></category><category term="OpenOffice"></category><category term="screencast"></category></entry><entry><title>Elisa in Aktion</title><link href="https://www.openscreencast.de/blog/Elisa_in_Aktion.html" rel="alternate"></link><published>2007-02-23T02:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-23:blog/Elisa_in_Aktion.html</id><summary type="html">&lt;p&gt;Elisa ist ein Projekt das sich bemüht eine Software-Lösung für Media Center zu
+entwickeln. Das &lt;a href="http://de.wikipedia.org/wiki/Gstreamer"&gt;Open Source Multimedia Framework
+gstreamer&lt;/a&gt; bildet den Grundbauchstein
+für Elisa. &lt;a href="http://www.fluendo.com/elisa/screencast.php"&gt;Hier&lt;/a&gt; und
+&lt;a href="http://ben.amasoean.de/articles/2006/11/12/129_Elisa-for-free.html"&gt;hier&lt;/a&gt;
+stehen Screencasts parat die Elisa in Aktion zeigen.&lt;/p&gt;</summary><category term="elisa"></category><category term="GPL"></category><category term="gstreamer"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>Gimp Demos</title><link href="https://www.openscreencast.de/blog/Gimp_Demos.html" rel="alternate"></link><published>2007-02-14T02:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-14:blog/Gimp_Demos.html</id><summary type="html">&lt;p&gt;Heute ist mir eine Website unter die Augen gekommen die doch etliche
+Screencasts (ohne Audio) beinhaltet. Die Videos demonstrieren was bei
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt;, dem wohl bekanntesten, freien
+Bildbearbeitungsprogramm, geschehen muß um an sein Ziel zu gelangen. Also
+Leute, keine Zeit verlieren und ran ans
+&lt;a href="http://jimmac.musichall.cz/gimp2demos.php"&gt;Klicken&lt;/a&gt;.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Gimp"></category><category term="GPL"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>Screencasts über OpenOffice</title><link href="https://www.openscreencast.de/blog/Screencasts_ueber_OpenOffice.html" rel="alternate"></link><published>2006-11-17T00:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-17:blog/Screencasts_ueber_OpenOffice.html</id><summary type="html">&lt;p&gt;Durch die neusten Interviews bei &lt;a href="http://www.radiotux.de"&gt;RadioTux&lt;/a&gt; habe ich
+von OOo42.org erfahren. Beim Besuchen der Seite &lt;a href="http://ooo42.org/"&gt;ooo42.org&lt;/a&gt;
+bin ich auf mehrere &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt;
+über &lt;a href="http://de.wikipedia.org/wiki/Openoffice"&gt;OpenOffice&lt;/a&gt; gestossen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.informatikserver.at/ooo/index.html"&gt;Lernvideos OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://business.newsforge.com/article.pl?sid=05/11/09/2044220&amp;amp;tid=35&amp;amp;tid=136"&gt;Lernvideos OpenOffice in Englisch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://desktop.conecta.it/cospa/de/writer.html"&gt;Lernvideos OpenOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Englisch"></category><category term="News"></category><category term="ohne Audio"></category><category term="OOo42.org"></category><category term="OpenOffice"></category><category term="RadioTux"></category><category term="screencast"></category></entry><entry><title>Fedora Core 6</title><link href="https://www.openscreencast.de/blog/Fedora_Core_6.html" rel="alternate"></link><published>2006-10-24T22:45:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-24:blog/Fedora_Core_6.html</id><summary type="html">&lt;p&gt;Fedora Core 6 wurde gerade veröffentlicht. Die beiden
+&lt;a href="http://fedoraproject.org/wiki/Tours/FedoraCore6"&gt;Videos&lt;/a&gt; zeigen kurz den
+Ablauf der Installation und vom Setup.&lt;/p&gt;</summary><category term="Fedora Core"></category><category term="linux"></category><category term="News"></category><category term="ohne Audio"></category><category term="screencast"></category></entry><entry><title>podblogger</title><link href="https://www.openscreencast.de/blog/podblogger.html" rel="alternate"></link><published>2006-10-14T19:17:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-14:blog/podblogger.html</id><summary type="html">&lt;p&gt;&lt;a href="http://www.rotzoll.de/podblogger/"&gt;Podblogger&lt;/a&gt; ist ein PHP-
+Audio&lt;a href="http://de.wikipedia.org/wiki/Weblog"&gt;blogger&lt;/a&gt;, Podcast-CMS, der es
+ermöglicht &lt;a href="http://de.wikipedia.org/wiki/Podcast"&gt;Podcasts&lt;/a&gt; im Internet zu
+veröffentlichen. Wer vorher schon mal schauen möchte wie podblogger
+funktioniert kann sich die
+&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;screencasts&lt;/a&gt; (ohne Audio) die auf
+der Webseite zum Download angeboten werden anschauen. Podblogger steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="ohne Audio"></category><category term="podblogger"></category><category term="screencast"></category></entry></feed>

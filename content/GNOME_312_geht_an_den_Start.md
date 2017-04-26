@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gnome,Gnome3
 Slug: GNOME_312_geht_an_den_Start
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 210000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: goT-nVQtM_k

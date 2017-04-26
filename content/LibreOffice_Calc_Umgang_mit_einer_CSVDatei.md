@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,CSV,LibreOffice,Calc,Linux Mint
 Slug: LibreOffice_Calc_Umgang_mit_einer_CSVDatei
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 300000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: MZDeox4BSOk

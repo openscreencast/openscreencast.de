@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,FirefoxOS,Web
 Slug: FirefoxOS_screenshots_machen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 110000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: oeSS6v3TUsw

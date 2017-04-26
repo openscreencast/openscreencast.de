@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc
 Slug: LibreOffice_Calc_Fenster_teilen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 262000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: HTK67skKYEY

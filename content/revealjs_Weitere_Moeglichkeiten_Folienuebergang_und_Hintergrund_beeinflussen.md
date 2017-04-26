@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Web,HTML,revealjs
 Slug: revealjs_Weitere_Moeglichkeiten_Folienuebergang_und_Hintergrund_beeinflussen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 273000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: 93lMGJBGsWM

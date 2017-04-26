@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Emmabuntues,Xubuntu,xfce
 Slug: Emmabuntues_12042105_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 544000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3kgT5_KZdNc

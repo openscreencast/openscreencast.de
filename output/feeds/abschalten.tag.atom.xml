@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/abschalten.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2008-11-24T00:37:00+01:00</updated><entry><title>logout - Abmeldung</title><link href="https://www.openscreencast.de/blog/logout_Abmeldung.html" rel="alternate"></link><published>2008-11-24T00:37:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-24:blog/logout_Abmeldung.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: logout, exit, shutdown, poweroff, init, reboot, halt&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.linwiki.org/wiki/Linuxfibel_-_Erste_Schritte_-_Abmelden"&gt;logout&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="logout"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="abmelden"></category><category term="reboot"></category><category term="shutdown"></category><category term="poweroff"></category><category term="halt"></category><category term="init"></category><category term="exit"></category><category term="herunterfahren"></category><category term="abschalten"></category></entry></feed>

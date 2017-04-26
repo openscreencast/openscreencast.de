@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Gnome,Gnome3,redis,NoSQL
 Slug: redis_transaktionen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 195000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 12l9jkVRz6g

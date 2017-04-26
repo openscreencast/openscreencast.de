@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/pylint.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 15 Feb 2015 14:04:00 +0100</lastBuildDate><item><title>Python-Programmierung - Quelltextanalyse mit pylint</title><link>https://www.openscreencast.de/blog/python_quelltextanalyse_pylint.html</link><description>&lt;p&gt;Python-Programmierung - Quelltextanalyse mit pylint, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pylint.org/" title="Link zu pylint.org"&gt;pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.python.org/dev/peps/pep-0008/" title="Link zu python.org"&gt;Python PEP8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pychecker.sourceforge.net/" title="Link zu sourceforge.net"&gt;Pychecker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/flake8" title="Link zu python.org"&gt;Flake8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/frosted/" title="Link zu python.org"&gt;Frosted&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/pep8" title="Link zu ubuntuusers.de"&gt;Ubuntuusers:Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pypi.python.org/pypi/pep8" title="Link zu python.org"&gt;Pep8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29" title="Link zu wikipedia.org"&gt;WP:Python&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 14:04:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/python_quelltextanalyse_pylint.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Python</category><category>Programmierung</category><category>pylint</category></item></channel></rss>

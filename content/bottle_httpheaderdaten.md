@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Python,Programmierung,web,www,wsgi,bottle
 Slug: bottle_httpheaderdaten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 176000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: jzm6ciSq__w
 Vimeo: 46141970
 Tumblr: http://openscreencast.tumblr.com/post/26162737336/bottle-http-header-daten-request-get-header
 Diaspora: https://pod.geraspora.de/posts/688948
-Oggfile: http://www.openscreencast.de/archive/bottle_header_255.ogg
-Webmfile: http://www.openscreencast.de/archive/bottle_header_255.webm
-Mp4file: http://www.openscreencast.de/archive/bottle_header_255.mp4
-Image: http://www.openscreencast.de/archive/bottle_header_255.png
+Oggfile: https://www.openscreencast.de/archive/bottle_header_255.ogg
+Webmfile: https://www.openscreencast.de/archive/bottle_header_255.webm
+Mp4file: https://www.openscreencast.de/archive/bottle_header_255.mp4
+Image: https://www.openscreencast.de/archive/bottle_header_255.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

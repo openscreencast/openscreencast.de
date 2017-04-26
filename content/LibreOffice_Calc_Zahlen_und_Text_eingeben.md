@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc
 Slug: LibreOffice_Calc_Zahlen_und_Text_eingeben
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 224000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: f9FobgLEh5k

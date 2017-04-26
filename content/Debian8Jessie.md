@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Debian
 Slug: Debian8Jessie
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 309000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: yTHx78mQ9us

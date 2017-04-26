@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,dstat,Linux Mint
 Slug: Linux_dstat
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 151000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VqZbCs5Hr3I

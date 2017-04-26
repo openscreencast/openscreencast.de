@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,bash
 Slug: Linktipp_Linux_TheArtofCommandLine
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 76000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: byOfOmhN-tU

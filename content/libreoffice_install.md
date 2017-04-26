@@ -10,7 +10,7 @@ Slug: libreoffice_install
 [Vimeo](http://vimeo.com).
 
 Lizenz: [![CC by-
-sa](http://www.openscreencast.de/bysa.png)](http://creativecommons.org/licenses
+sa](https://www.openscreencast.de/bysa.png)](http://creativecommons.org/licenses
 /by-sa/3.0/)
 
 [Java Installation](http://wiki.ubuntuusers.de/​Java/​Installation)  

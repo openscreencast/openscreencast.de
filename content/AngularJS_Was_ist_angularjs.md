@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Web,Javascript,angularjs
 Slug: AngularJS_Was_ist_angularjs
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 356000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 7YjKmFQhh4k

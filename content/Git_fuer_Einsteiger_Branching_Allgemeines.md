@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git,Branching
 Slug: Git_fuer_Einsteiger_Branching_Allgemeines
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 166000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: rvBXmjXqpN8

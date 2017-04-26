@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Ubuntu,Unity,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Python,Programmierung,opencv,Bild,konvertieren
 Slug: opencv_image_convert
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 135000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: l64zFq_CGfI
 Vimeo: 28161374
 Tumblr: http://openscreencast.tumblr.com/post/9380359281/opencv-ein-bild-konvertieren-mit-python-und
-Oggfile: http://www.openscreencast.de/archive/opencv_image_convert_169.ogg
-Oggfileom: http://www.openscreencast.de/archive/opencv_image_convert_oM_169.ogg
-Webmfile: http://www.openscreencast.de/archive/opencv_image_convert_169.webm
-Mp4file: http://www.openscreencast.de/archive/opencv_image_convert_169.mp4
-Srtfile: http://www.openscreencast.de/archive/opencv_image_convert_169.srt
-Srtfile_om: http://www.openscreencast.de/archive/opencv_image_convert_oM_169.srt
-Image: http://www.openscreencast.de/archive/opencv_image_convert_169.png
+Oggfile: https://www.openscreencast.de/archive/opencv_image_convert_169.ogg
+Oggfileom: https://www.openscreencast.de/archive/opencv_image_convert_oM_169.ogg
+Webmfile: https://www.openscreencast.de/archive/opencv_image_convert_169.webm
+Mp4file: https://www.openscreencast.de/archive/opencv_image_convert_169.mp4
+Srtfile: https://www.openscreencast.de/archive/opencv_image_convert_169.srt
+Srtfile_om: https://www.openscreencast.de/archive/opencv_image_convert_oM_169.srt
+Image: https://www.openscreencast.de/archive/opencv_image_convert_169.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

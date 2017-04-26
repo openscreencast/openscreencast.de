@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Tails
 Slug: Tails_022_Demo_The_Amnesic_Incognito_Live_System
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 367000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3NnT3cuJEK4

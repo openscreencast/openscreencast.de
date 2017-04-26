@@ -7,9 +7,9 @@ Slug: Audio_CD_abspielen
 Duration: 430000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13882594
-Oggfile: http://www.openscreencast.de/archive/audiocd_abspielen_018.ogg
-Srtfile: http://www.openscreencast.de/archive/audiocd_abspielen_018.srt
-Image: http://www.openscreencast.de/archive/audiocd_abspielen_018.png
+Oggfile: https://www.openscreencast.de/archive/audiocd_abspielen_018.ogg
+Srtfile: https://www.openscreencast.de/archive/audiocd_abspielen_018.srt
+Image: https://www.openscreencast.de/archive/audiocd_abspielen_018.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

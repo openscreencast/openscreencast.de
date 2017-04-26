@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3
 Slug: crashkurs_libreoffice_calc_datenjournalismus_nutzbare_datenquellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 386000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Wzs8KOTtsCI

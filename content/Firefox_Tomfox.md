@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Tomboy,Firefox,Tomfox
 Slug: Firefox_Tomfox
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 129000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: PD3eTi1YivI

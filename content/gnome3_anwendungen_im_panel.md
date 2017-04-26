@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,panel,extensions
 Slug: gnome3_anwendungen_im_panel
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 184000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: yEdfjEAz8k8

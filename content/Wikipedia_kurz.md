@@ -7,9 +7,9 @@ Slug: Wikipedia_kurz
 Duration: 100000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13413976
-Oggfile: http://www.openscreencast.de/archive/wikipedia_kurz_004.ogg
-Srtfile: http://www.openscreencast.de/archive/wikipedia_kurz_004.srt
-Image: http://www.openscreencast.de/archive/wikipedia_kurz_004.png
+Oggfile: https://www.openscreencast.de/archive/wikipedia_kurz_004.ogg
+Srtfile: https://www.openscreencast.de/archive/wikipedia_kurz_004.srt
+Image: https://www.openscreencast.de/archive/wikipedia_kurz_004.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

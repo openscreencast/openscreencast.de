@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,tr,translate
 Slug: Linux_tr_translate_Zeichen_eines_Eingabedatenstroms_aendern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 239000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: LqDNmRAz1k0

@@ -7,5 +7,5 @@ Slug: weihnachten2010
 
 openscreencast.de wünscht allen fröhliche Weihnachten !
 
-![Weihnachten](http://www.openscreencast.de/pictures/w.png)
+![Weihnachten](https://www.openscreencast.de/pictures/w.png)
 

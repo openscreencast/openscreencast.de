@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Openbox,Slackel,Demo
 Slug: Slackel_50_Openbox_edition_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 456000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ImQhjors4T8

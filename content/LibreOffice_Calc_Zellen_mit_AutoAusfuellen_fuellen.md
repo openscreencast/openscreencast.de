@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Calc
 Slug: LibreOffice_Calc_Zellen_mit_AutoAusfuellen_fuellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 366000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: Qq0EuYnZRSw

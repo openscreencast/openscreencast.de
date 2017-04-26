@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_Browserdaten_loeschen_Chronik_History_Cookies_loeschen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 81000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: QgWRWCzSjxw

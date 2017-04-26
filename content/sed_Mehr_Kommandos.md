@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,sed
 Slug: sed_Mehr_Kommandos
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 279000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: aQWODmFxxpo

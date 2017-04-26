@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_offene_Apps_die_Anzeige_der_offenen_Anwendungen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 72000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 16LqnA3E2DY

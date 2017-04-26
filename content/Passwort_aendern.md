@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,short,Sicherheit,ubuntu,passwd,Passwort
 Slug: Passwort_aendern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 59000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 8or7Xw-TZqQ
 Vimeo: 16325410
 Tumblr: http://openscreencast.tumblr.com/post/8305870944/passwort-aendern-ubuntu-8-10-gnome-2-24-lizenz
-Oggfile: http://www.openscreencast.de/archive/short/passwort_aendern_short_047.ogg
-Mp4file: http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mp4
-Mkvfile: http://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv
-Srtfile: http://www.openscreencast.de/archive/short/passwort_aendern_short_047.srt
-Image: http://www.openscreencast.de/archive/short/passwort_aendern_short_047.png
+Oggfile: https://www.openscreencast.de/archive/short/passwort_aendern_short_047.ogg
+Mp4file: https://www.openscreencast.de/archive/short/passwort_aendern_short_047.mp4
+Mkvfile: https://www.openscreencast.de/archive/short/passwort_aendern_short_047.mkv
+Srtfile: https://www.openscreencast.de/archive/short/passwort_aendern_short_047.srt
+Image: https://www.openscreencast.de/archive/short/passwort_aendern_short_047.png
 
 Ausgangspunkt: Ubuntu 8.10, GNOME 2.24  
 Zielgruppe: Neueinsteiger  

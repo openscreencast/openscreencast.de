@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3
 Slug: gnome3_create_empty_document
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 231000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: zOctXie8qSc

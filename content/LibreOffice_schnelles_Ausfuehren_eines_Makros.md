@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_schnelles_Ausfuehren_eines_Makros
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 242000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: rORJu-ZfPjE

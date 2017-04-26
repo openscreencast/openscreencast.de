@@ -9,15 +9,16 @@ Slug: esperanto
 [Esperanto](http://de.wikipedia.org/wiki/Esperanto) für folgende Videos:
 
 Screencast 084 - uptime  
-[Untertitel Esperanto](http://www.openscreencast.de/archive/eo/uptime_084.srt)
-| [Untertitel Esperanto (ohne
-Musik)](http://www.openscreencast.de/archive/eo/uptime_oM_084.srt)
+[Untertitel
+Esperanto](https://www.openscreencast.de/archive/eo/uptime_084.srt) |
+[Untertitel Esperanto (ohne
+Musik)](https://www.openscreencast.de/archive/eo/uptime_oM_084.srt)
 
 Screencast 083 - key-mon und screenkey  
 [Untertitel
-Esperanto](http://www.openscreencast.de/archive/eo/keymon_screenkey_083.srt) |
-[Untertitel Esperanto (ohne
-Musik)](http://www.openscreencast.de/archive/eo/keymon_screenkey_oM_083.srt)
+Esperanto](https://www.openscreencast.de/archive/eo/keymon_screenkey_083.srt)
+| [Untertitel Esperanto (ohne
+Musik)](https://www.openscreencast.de/archive/eo/keymon_screenkey_oM_083.srt)
 
 Sollte irgendwo ein Fehler sein, Benachrichtigung per E-Mail bitte.
 

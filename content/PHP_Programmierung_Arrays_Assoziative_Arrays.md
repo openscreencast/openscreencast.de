@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,PHP,Array,Linux Mint
 Slug: PHP_Programmierung_Arrays_Assoziative_Arrays
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 243000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: xpRL6PFItwo

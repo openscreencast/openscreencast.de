@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,listen,Unity,insert,pop
 Slug: python_listenmethoden
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 186000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: Ou9EgFglk5k
 Vimeo: 26168383
 Tumblr: http://openscreencast.tumblr.com/post/8354436116/python-programmierung-weitere-listen-methoden
-Oggfile: http://www.openscreencast.de/archive/python_listenmethoden_143.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_listenmethoden_oM_143.ogg
-Webmfile: http://www.openscreencast.de/archive/python_listenmethoden_143.webm
-Mp4file: http://www.openscreencast.de/archive/python_listenmethoden_143.mp4
-Srtfile: http://www.openscreencast.de/archive/python_listenmethoden_143.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_listenmethoden_oM_143.srt
-Image: http://www.openscreencast.de/archive/python_listenmethoden_143.png
+Oggfile: https://www.openscreencast.de/archive/python_listenmethoden_143.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_listenmethoden_oM_143.ogg
+Webmfile: https://www.openscreencast.de/archive/python_listenmethoden_143.webm
+Mp4file: https://www.openscreencast.de/archive/python_listenmethoden_143.mp4
+Srtfile: https://www.openscreencast.de/archive/python_listenmethoden_143.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_listenmethoden_oM_143.srt
+Image: https://www.openscreencast.de/archive/python_listenmethoden_143.png
 
 Ausgangspunkt: Ubuntu 11.04  
 Zielgruppe: Neueinsteiger  

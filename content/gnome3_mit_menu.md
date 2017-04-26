@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: CC by,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,menu,extensions
 Slug: gnome3_mit_menu
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 154000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: XtyxWWg07VQ
 Vimeo: 49913015
 Tumblr: http://openscreencast.tumblr.com/post/31927785345/gnome3-mit-menue-2-shell-extensions-die-ein-menue
 Diaspora: https://pod.geraspora.de/posts/800524
-Oggfile: http://www.openscreencast.de/archive/gnome3_menu_281.ogg
-Webmfile: http://www.openscreencast.de/archive/gnome3_menu_281.webm
-Image: http://www.openscreencast.de/archive/gnome3_menu_281.png
+Oggfile: https://www.openscreencast.de/archive/gnome3_menu_281.ogg
+Webmfile: https://www.openscreencast.de/archive/gnome3_menu_281.webm
+Image: https://www.openscreencast.de/archive/gnome3_menu_281.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

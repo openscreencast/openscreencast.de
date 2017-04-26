@@ -4,20 +4,20 @@ Author: Heiko
 Category: Video
 Tags: CC by-nc-sa,Fedora,Gnome,Linux,ls,Neueinsteiger,Ogg Theora,pirut,recordmydesktop,screencast
 Slug: recordmydesktop
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 327000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: jfRw8515oGE
 Vimeo: 14614063
 Tumblr: http://openscreencast.tumblr.com/post/8300511277/recordmydesktop-fedora-7-gnome-2-18-lizenz
-Oggfile: http://www.openscreencast.de/archive/recordmydesktop_042.ogg
-Oggfileom: http://www.openscreencast.de/archive/recordmydesktop_oM_042.ogg
-Mp4file: http://www.openscreencast.de/archive/recordmydesktop_042.mp4
-Mp4file_om: http://www.openscreencast.de/archive/recordmydesktop_oM_042.mp4
-Srtfile: http://www.openscreencast.de/archive/recordmydesktop_042.srt
-Srtfile_om: http://www.openscreencast.de/archive/recordmydesktop_oM_042.srt
-Image: http://www.openscreencast.de/archive/recordmydesktop_042.png
+Oggfile: https://www.openscreencast.de/archive/recordmydesktop_042.ogg
+Oggfileom: https://www.openscreencast.de/archive/recordmydesktop_oM_042.ogg
+Mp4file: https://www.openscreencast.de/archive/recordmydesktop_042.mp4
+Mp4file_om: https://www.openscreencast.de/archive/recordmydesktop_oM_042.mp4
+Srtfile: https://www.openscreencast.de/archive/recordmydesktop_042.srt
+Srtfile_om: https://www.openscreencast.de/archive/recordmydesktop_oM_042.srt
+Image: https://www.openscreencast.de/archive/recordmydesktop_042.png
 
 Ausgangspunkt: Fedora 7, GNOME 2.18  
 Zielgruppe: Neueinsteiger  

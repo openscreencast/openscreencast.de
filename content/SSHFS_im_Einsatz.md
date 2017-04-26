@@ -4,20 +4,20 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-nc-sa,Fedora,fuse,Gnome,gpasswd,Linux,mkdir,Ogg Theora,screencast,sshfs,su,Terminal,Textmodus,yum
 Slug: SSHFS_im_Einsatz
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 315000
 License: http://creativecommons.org/licenses/by-nc-sa/3.0/
 Licenseom: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: bgd6iToEDy8
 Vimeo: 14621791
 Tumblr: http://openscreencast.tumblr.com/post/8300559430/sshfs-im-einsatz-fedora-7-gnome-2-18-lizenz
-Oggfile: http://www.openscreencast.de/archive/sshfs_044.ogg
-Oggfileom: http://www.openscreencast.de/archive/sshfs_oM_044.ogg
-Mp4file: http://www.openscreencast.de/archive/sshfs_044.mp4
-Mp4file_om: http://www.openscreencast.de/archive/sshfs_oM_044.mp4
-Srtfile: http://www.openscreencast.de/archive/sshfs_044.srt
-Srtfile_om: http://www.openscreencast.de/archive/sshfs_oM_044.srt
-Image: http://www.openscreencast.de/archive/sshfs_044.png
+Oggfile: https://www.openscreencast.de/archive/sshfs_044.ogg
+Oggfileom: https://www.openscreencast.de/archive/sshfs_oM_044.ogg
+Mp4file: https://www.openscreencast.de/archive/sshfs_044.mp4
+Mp4file_om: https://www.openscreencast.de/archive/sshfs_oM_044.mp4
+Srtfile: https://www.openscreencast.de/archive/sshfs_044.srt
+Srtfile_om: https://www.openscreencast.de/archive/sshfs_oM_044.srt
+Image: https://www.openscreencast.de/archive/sshfs_044.png
 
 Ausgangspunkt: Fedora 7, GNOME 2.18  
 Zielgruppe: Neueinsteiger  

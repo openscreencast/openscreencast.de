@@ -7,9 +7,9 @@ Slug: Ogg_Vorbis_abspielen
 Duration: 490000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13912631
-Oggfile: http://www.openscreencast.de/archive/oggvorbis_021.ogg
-Srtfile: http://www.openscreencast.de/archive/oggvorbis_021.srt
-Image: http://www.openscreencast.de/archive/oggvorbis_021.png
+Oggfile: https://www.openscreencast.de/archive/oggvorbis_021.ogg
+Srtfile: https://www.openscreencast.de/archive/oggvorbis_021.srt
+Image: https://www.openscreencast.de/archive/oggvorbis_021.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

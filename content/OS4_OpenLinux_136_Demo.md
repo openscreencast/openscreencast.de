@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,OS4,Demo,OpenLinux,xfce
 Slug: OS4_OpenLinux_136_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 349000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: g6nHajx6Y6E

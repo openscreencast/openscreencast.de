@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,blockdiag,nwdiag,seqdiag
 Slug: blockdiag_nwdiag_seqdiag
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 311000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: s06p6HnDBG8

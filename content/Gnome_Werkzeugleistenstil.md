@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-sa,Fedora Core,gconf,gconf-editor,Gnome,Linux,Ogg Theora,ohne Musik,screencast,short
 Slug: Gnome_Werkzeugleistenstil
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 48000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: WkOoYgM5TrM
 Vimeo: 16322914
 Tumblr: http://openscreencast.tumblr.com/post/8305629182/gnome-werkzeugleistenstil-fedora-core-6-gnome
-Oggfile: http://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.ogg
-Mp4file: http://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.mp4
-Srtfile: http://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.srt
-Image: http://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.png
+Oggfile: https://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.ogg
+Mp4file: https://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.mp4
+Srtfile: https://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.srt
+Image: https://www.openscreencast.de/archive/short/gnome_toolbar_style_short_040.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

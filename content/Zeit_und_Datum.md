@@ -10,11 +10,11 @@ Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: dVnvokEx-Qs
 Vimeo: 14118445
 Tumblr: http://openscreencast.tumblr.com/post/8299995941/zeit-und-datum-fedora-core-5-gnome-2-14-lizenz
-Oggfile: http://www.openscreencast.de/archive/zeit_023.ogg
-Oggfileom: http://www.openscreencast.de/archive/zeit_oM_023.ogg
-Srtfile: http://www.openscreencast.de/archive/zeit_023.srt
-Srtfile_om: http://www.openscreencast.de/archive/zeit_oM_023.srt
-Image: http://www.openscreencast.de/archive/zeit_023.png
+Oggfile: https://www.openscreencast.de/archive/zeit_023.ogg
+Oggfileom: https://www.openscreencast.de/archive/zeit_oM_023.ogg
+Srtfile: https://www.openscreencast.de/archive/zeit_023.srt
+Srtfile_om: https://www.openscreencast.de/archive/zeit_oM_023.srt
+Image: https://www.openscreencast.de/archive/zeit_023.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

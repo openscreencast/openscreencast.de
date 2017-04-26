@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,SSL,Firefox
 Slug: Firefox_bessere_Verschluesselung_einstellen_Hows_my_SSL
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 276000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: UuKRfhPShsk

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/less.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 02 Sep 2007 19:13:00 +0200</lastBuildDate><item><title>zcat, zless und zmore</title><link>https://www.openscreencast.de/blog/zcat_zless_und_zmore.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: ls, cat, zcat, less, gzip&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Tar"&gt;tar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gzip"&gt;gzip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxseiten.kg-it.de/index.php?index=bash_Der_Befehl_less#Der_Befehl_zcat"&gt;zcat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 02 Sep 2007 19:13:00 +0200</pubDate><guid>tag:www.openscreencast.de,2007-09-02:blog/zcat_zless_und_zmore.html</guid><category>cat</category><category>CC by-nc-sa</category><category>Fedora</category><category>Gnome</category><category>gz</category><category>gzip</category><category>less</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Terminal</category><category>Textdatei</category><category>zcat</category><category>zless</category><category>zmore</category></item><item><title>Textdateien anschauen Teil1</title><link>https://www.openscreencast.de/blog/Textdateien_anschauen_Teil1.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: gedit, cat, less, more, man&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Desktop_(EDV)"&gt;Desktop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;GNOME&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Gedit"&gt;gedit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Texteditor"&gt;Texteditor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Scrollen"&gt;Scrollen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/More_(Unix)"&gt;more&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Less"&gt;less&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Man_page"&gt;man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Texinfo"&gt;info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cursor"&gt;Cursor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 10 Jul 2006 17:12:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-10:blog/Textdateien_anschauen_Teil1.html</guid><category>cat</category><category>CC by-nc-sa</category><category>Desktop</category><category>Fedora Core</category><category>gedit</category><category>Gnome</category><category>info</category><category>less</category><category>Linux</category><category>man</category><category>more</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>screencast</category><category>Terminal</category><category>Textdatei</category></item></channel></rss>

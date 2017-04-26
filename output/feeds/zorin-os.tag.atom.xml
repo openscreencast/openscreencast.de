@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/zorin-os.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-11-18T23:19:00+01:00</updated><entry><title>Zorin OS 6 Core - Demo</title><link href="https://www.openscreencast.de/blog/zorinos6core_demo.html" rel="alternate"></link><published>2013-11-18T23:19:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-18:blog/zorinos6core_demo.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Zorin OS 6 Core&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://zorin-os.com/" title="Link zu Zorin OS"&gt;Zorin OS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Zorin OS"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="demo"></category></entry></feed>

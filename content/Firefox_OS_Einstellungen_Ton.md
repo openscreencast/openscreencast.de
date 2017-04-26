@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_Einstellungen_Ton
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 100000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: JlE999-mex4

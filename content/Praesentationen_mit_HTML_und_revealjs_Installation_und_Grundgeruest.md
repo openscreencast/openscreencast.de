@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,HTML,Web,revealjs
 Slug: Praesentationen_mit_HTML_und_revealjs_Installation_und_Grundgeruest
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 210000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: b78FOC85R6I

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Snowlinux,MATE
 Slug: Snowlinux_5_beta_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 307000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: gGqfqQ6d58Q

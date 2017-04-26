@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,demo
 Slug: fedora18alpha_neue_installer_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 218000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ubuAcpXh3Xg

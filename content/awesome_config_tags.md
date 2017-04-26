@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,cinnamon,Linux Mint,awesome
 Slug: awesome_config_tags
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 257000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: yatOwhzdRE0

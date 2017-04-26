@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,mat
 Slug: dokumente_anonymisieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 329000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: G3AKCrU06mg

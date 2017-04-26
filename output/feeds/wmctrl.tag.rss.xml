@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/wmctrl.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 16 Apr 2014 19:38:00 +0200</lastBuildDate><item><title>Linux - Fensterposition herausfinden</title><link>https://www.openscreencast.de/blog/Linux_Fensterposition_herausfinden.html</link><description>&lt;p&gt;Linux - Fensterposition herausfinden&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Wmctrl"&gt;http://en.wikipedia.org/wiki/Wmctrl&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der Linux-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 16 Apr 2014 19:38:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-16:blog/Linux_Fensterposition_herausfinden.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>wmctrl</category><category>xwininfo</category></item><item><title>wmctrl - Fenster per Kommando steuern</title><link>https://www.openscreencast.de/blog/wmctrl.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.04, GNOME 2.30&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: apt-get, wmctrl&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://tripie.sweb.cz/utils/wmctrl/"&gt;wmctrl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linux.die.net/man/1/wmctrl"&gt;wmctrl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 16 Jun 2010 05:25:00 +0200</pubDate><guid>tag:www.openscreencast.de,2010-06-16:blog/wmctrl.html</guid><category>CC by-sa</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>ubuntu</category><category>wmctrl</category></item></channel></rss>

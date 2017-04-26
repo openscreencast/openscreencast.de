@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/skreener.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-01-13T17:35:00+01:00</updated><entry><title>skreener</title><link href="https://www.openscreencast.de/blog/skreener.html" rel="alternate"></link><published>2010-01-13T17:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-01-13:blog/skreener.html</id><summary type="html">&lt;p&gt;Neu ist das Screencast-Tool &lt;a href="http://code.google.com/p/skreener/"&gt;skreener&lt;/a&gt;.
+Skreener ist ähnlich wie Wink. Screencasts, die aufgezeichneten Aktionen auf
+dem Bildschirm, werden als Animation im SVG-Format gespeichert. (Einzelne
+Screenshots werden im .png-Format gespeichert. In der .svg-Datei wird bestimmt
+wohin sich der Pfeil bewegt). Das Tool wurde in C++ geschrieben und steht
+unter der GPL-Lizenz.&lt;/p&gt;</summary><category term="GPL"></category><category term="News"></category><category term="Screencast-Tool"></category><category term="skreener"></category></entry></feed>

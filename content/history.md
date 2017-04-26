@@ -7,9 +7,9 @@ Slug: history
 Duration: 341000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13761224
-Oggfile: http://www.openscreencast.de/archive/history_012.ogg
-Srtfile: http://www.openscreencast.de/archive/history_012.srt
-Image: http://www.openscreencast.de/archive/history_012.png
+Oggfile: https://www.openscreencast.de/archive/history_012.ogg
+Srtfile: https://www.openscreencast.de/archive/history_012.srt
+Image: https://www.openscreencast.de/archive/history_012.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

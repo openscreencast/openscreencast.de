@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox,PDF,Linux Mint
 Slug: Firefox_PDFBetrachter_deaktivieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 93000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: AlqKRnPKvuY

@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Linux,Neueinsteiger,Ogg Theora,screencast,CC by,Gnome,Gnome3,youtube,minitube,nomnom,youtube-dl
 Slug: linux_youtube_download
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 314000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: C3oKpIHoA6Y
 Vimeo: 49911156
 Tumblr: http://openscreencast.tumblr.com/post/31726988529/linux-youtube-download-youtube-videos
 Diaspora: https://pod.geraspora.de/posts/796068
-Oggfile: http://www.openscreencast.de/archive/youtube-dl_278.ogg
-Webmfile: http://www.openscreencast.de/archive/youtube-dl_278.webm
-Image: http://www.openscreencast.de/archive/youtube-dl_278.png
+Oggfile: https://www.openscreencast.de/archive/youtube-dl_278.ogg
+Webmfile: https://www.openscreencast.de/archive/youtube-dl_278.webm
+Image: https://www.openscreencast.de/archive/youtube-dl_278.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

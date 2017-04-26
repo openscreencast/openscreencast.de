@@ -7,9 +7,9 @@ Slug: Dateien_Desktopmodus
 Duration: 452000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13797432
-Oggfile: http://www.openscreencast.de/archive/dateien_015.ogg
-Srtfile: http://www.openscreencast.de/archive/dateien_015.srt
-Image: http://www.openscreencast.de/archive/dateien_015.png
+Oggfile: https://www.openscreencast.de/archive/dateien_015.ogg
+Srtfile: https://www.openscreencast.de/archive/dateien_015.srt
+Image: https://www.openscreencast.de/archive/dateien_015.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

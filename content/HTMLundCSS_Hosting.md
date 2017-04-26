@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Web,www,HTML,CSS,Hosting
 Slug: HTMLundCSS_Hosting
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 411000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: rnRCYP5dFrY

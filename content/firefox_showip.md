@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,firefox,showip
 Slug: firefox_showip
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 96000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: LTLIJcbvNpQ
 Vimeo: 29108821
 Tumblr: http://openscreencast.tumblr.com/post/10245539838/firefox-showip-die-ip-der-webseite-in-der
-Oggfile: http://www.openscreencast.de/archive/firefox_showip_177.ogg
-Oggfileom: http://www.openscreencast.de/archive/firefox_showip_oM_177.ogg
-Webmfile: http://www.openscreencast.de/archive/firefox_showip_177.webm
-Mp4file: http://www.openscreencast.de/archive/firefox_showip_177.mp4
-Srtfile: http://www.openscreencast.de/archive/firefox_showip_177.srt
-Srtfile_om: http://www.openscreencast.de/archive/firefox_showip_oM_177.srt
-Image: http://www.openscreencast.de/archive/firefox_showip_177.png
+Oggfile: https://www.openscreencast.de/archive/firefox_showip_177.ogg
+Oggfileom: https://www.openscreencast.de/archive/firefox_showip_oM_177.ogg
+Webmfile: https://www.openscreencast.de/archive/firefox_showip_177.webm
+Mp4file: https://www.openscreencast.de/archive/firefox_showip_177.mp4
+Srtfile: https://www.openscreencast.de/archive/firefox_showip_177.srt
+Srtfile_om: https://www.openscreencast.de/archive/firefox_showip_oM_177.srt
+Image: https://www.openscreencast.de/archive/firefox_showip_177.png
 
 Ausgangspunkt: Fedora 15  
 Zielgruppe: Neueinsteiger  

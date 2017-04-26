@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,a11y,magnifier,Zoom,Zoomen
 Slug: gnome3_zoomen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 336000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 3ihuBQ2MVho
 Vimeo: 28681746
 Tumblr: http://openscreencast.tumblr.com/post/9888867465/gnome3-zoomen-barrierefreiheit-vergroesserung
-Oggfile: http://www.openscreencast.de/archive/gnome3_zoomen_173.ogg
-Oggfileom: http://www.openscreencast.de/archive/gnome3_zoomen_oM_173.ogg
-Webmfile: http://www.openscreencast.de/archive/gnome3_zoomen_173.webm
-Mp4file: http://www.openscreencast.de/archive/gnome3_zoomen_173.mp4
-Srtfile: http://www.openscreencast.de/archive/gnome3_zoomen_173.srt
-Srtfile_om: http://www.openscreencast.de/archive/gnome3_zoomen_oM_173.srt
-Image: http://www.openscreencast.de/archive/gnome3_zoomen_173.png
+Oggfile: https://www.openscreencast.de/archive/gnome3_zoomen_173.ogg
+Oggfileom: https://www.openscreencast.de/archive/gnome3_zoomen_oM_173.ogg
+Webmfile: https://www.openscreencast.de/archive/gnome3_zoomen_173.webm
+Mp4file: https://www.openscreencast.de/archive/gnome3_zoomen_173.mp4
+Srtfile: https://www.openscreencast.de/archive/gnome3_zoomen_173.srt
+Srtfile_om: https://www.openscreencast.de/archive/gnome3_zoomen_oM_173.srt
+Image: https://www.openscreencast.de/archive/gnome3_zoomen_173.png
 
 Ausgangspunkt: Fedora 15  
 Zielgruppe: Neueinsteiger  

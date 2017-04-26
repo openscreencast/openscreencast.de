@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Rebellin
 Slug: RebellinLinuxSynergy_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 413000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: T69olVqF-sM

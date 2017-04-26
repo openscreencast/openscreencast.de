@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Anonymisierungsdienste,Live DVD,Privacy
 Slug: Linux_USBSticks_als_Bootmedium_vorbereiten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 194000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: AcmlAMFIl_8

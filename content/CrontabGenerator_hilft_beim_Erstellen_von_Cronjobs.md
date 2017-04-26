@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,crontab,cronjobs
 Slug: CrontabGenerator_hilft_beim_Erstellen_von_Cronjobs
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 170000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 3glAwwRhgQk

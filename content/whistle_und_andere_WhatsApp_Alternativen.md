@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,whistle
 Slug: whistle_und_andere_WhatsApp_Alternativen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 152000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: i7TS8hfOdvw

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/pwgen.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-11-24T02:15:00+01:00</updated><entry><title>pwgen - ein Passwort generieren</title><link href="https://www.openscreencast.de/blog/pwgen.html" rel="alternate"></link><published>2011-11-24T02:15:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-11-24:blog/pwgen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Shell/pwgen" title="Link zu pwgen"&gt;pwgen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linux.die.net/man/1/apg" title="Link zu apg"&gt;apg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="Tutorial"></category><category term="pwgen"></category><category term="apg"></category></entry></feed>

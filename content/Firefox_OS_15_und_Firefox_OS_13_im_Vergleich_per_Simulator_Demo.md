@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,FirefoxOS,Demo
 Slug: Firefox_OS_15_und_Firefox_OS_13_im_Vergleich_per_Simulator_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 539000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: aWx8K2idXjY

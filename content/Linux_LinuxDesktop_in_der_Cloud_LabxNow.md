@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Cloud,LabxNow,Web
 Slug: Linux_LinuxDesktop_in_der_Cloud_LabxNow
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 330000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: dZKfFs3qoR4

@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Python,Programmierung,gnome3,opencv,Webcam
 Slug: python_opencv_webcam
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 264000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: pKIzCEzUxw0
 Vimeo: 26970253
 Tumblr: http://openscreencast.tumblr.com/post/8354746515/webcambilder-mit-python-und-opencv-am-bildschirm
-Oggfile: http://www.openscreencast.de/archive/python_opencv_webcam_152.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_opencv_webcam_oM_152.ogg
-Webmfile: http://www.openscreencast.de/archive/python_opencv_webcam_152.webm
-Mp4file: http://www.openscreencast.de/archive/python_opencv_webcam_152.mp4
-Srtfile: http://www.openscreencast.de/archive/python_opencv_webcam_152.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_opencv_webcam_oM_152.srt
-Image: http://www.openscreencast.de/archive/python_opencv_webcam_152.png
+Oggfile: https://www.openscreencast.de/archive/python_opencv_webcam_152.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_opencv_webcam_oM_152.ogg
+Webmfile: https://www.openscreencast.de/archive/python_opencv_webcam_152.webm
+Mp4file: https://www.openscreencast.de/archive/python_opencv_webcam_152.mp4
+Srtfile: https://www.openscreencast.de/archive/python_opencv_webcam_152.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_opencv_webcam_oM_152.srt
+Image: https://www.openscreencast.de/archive/python_opencv_webcam_152.png
 
 Ausgangspunkt: Fedora 15  
 Zielgruppe: Neueinsteiger  

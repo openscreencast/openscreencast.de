@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Linux Mint,sed
 Slug: sed_Was_ist_das
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 244000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: Yqg6r5RE4G8

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/findmnt.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 15 Mar 2017 13:59:00 +0100</lastBuildDate><item><title>Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an</title><link>https://www.openscreencast.de/blog/linux_findmnt.html</link><description>&lt;p&gt;Linux - findmnt zeigt eingebundene Laufwerke übersichtlich an, Linux Mint 18.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/mount/"&gt;mount&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/Laufwerksverwaltung/"&gt;Laufwerksverwaltung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.ubuntuusers.de/lsblk/"&gt;lsblk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Textquelle: &lt;a href="https://linuxundich.de/gnu-linux/findmnt-zeigt-eingebundene-laufwerke-uebersichtlich-an/"&gt;Findmnt zeigt eingebundene Laufwerke übersichtlich an&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph Langner&lt;/a&gt;, Lizenz: &lt;a href="http://creativecommons.org/publicdomain/zero/1.0/"&gt;CC0 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 15 Mar 2017 13:59:00 +0100</pubDate><guid>tag:www.openscreencast.de,2017-03-15:blog/linux_findmnt.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>gnome-disks</category><category>findmnt</category><category>mount</category><category>lsblk</category></item></channel></rss>

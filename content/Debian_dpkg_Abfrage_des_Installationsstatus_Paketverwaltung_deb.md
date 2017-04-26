@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Debian,deb,dpkg
 Slug: Debian_dpkg_Abfrage_des_Installationsstatus_Paketverwaltung_deb
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 142000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: kkDVaCEiGts

@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,Django
 Slug: Django_django_install
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 162000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 137146777
 Tumblr: http://openscreencast.tumblr.com/post/127482935550/django-django-installieren-lizenz
 Diaspora: https://pod.geraspora.de/posts/3967917
-Oggfile: http://www.openscreencast.de/archive/django_installieren.ogg
+Oggfile: https://www.openscreencast.de/archive/django_installieren.ogg
 
 Django - Django installieren, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/4.0/>  

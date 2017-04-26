@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Ubuntu touch
 Slug: Ubuntu_Touch_KontakteApp
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 144000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: ysnGG6IWmCI

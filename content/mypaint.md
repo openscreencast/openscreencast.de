@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by-sa,Gnome3,mypaint
 Slug: mypaint
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 479000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: YGlbFrvZ3DI
 Vimeo: 38628622
 Tumblr: http://openscreencast.tumblr.com/post/19393057044/mypaint-zeichenprogramm-fuer-kreative-kuenstler
 Diaspora: https://pod.geraspora.de/posts/476087
-Oggfile: http://www.openscreencast.de/archive/mypaint_207.ogg
-Webmfile: http://www.openscreencast.de/archive/mypaint_207.webm
-Mp4file: http://www.openscreencast.de/archive/mypaint_207.mp4
-Srtfile: http://www.openscreencast.de/archive/mypaint_207.srt
-Image: http://www.openscreencast.de/archive/mypaint_207.png
+Oggfile: https://www.openscreencast.de/archive/mypaint_207.ogg
+Webmfile: https://www.openscreencast.de/archive/mypaint_207.webm
+Mp4file: https://www.openscreencast.de/archive/mypaint_207.mp4
+Srtfile: https://www.openscreencast.de/archive/mypaint_207.srt
+Image: https://www.openscreencast.de/archive/mypaint_207.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

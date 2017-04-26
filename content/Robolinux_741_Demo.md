@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Robolinux,Demo
 Slug: Robolinux_741_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 363000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: WoeEDv0JRm0

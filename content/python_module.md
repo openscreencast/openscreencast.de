@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,Module
 Slug: python_module
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 320000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: Buv7N2awEDc
 Vimeo: 33485046
 Tumblr: http://openscreencast.tumblr.com/post/14076052655/python-programmierung-module-ubuntu-11-10
-Oggfile: http://www.openscreencast.de/archive/python_module_190.ogg
-Oggfileom: http://www.openscreencast.de/archive/python_module_oM_190.ogg
-Webmfile: http://www.openscreencast.de/archive/python_module_190.webm
-Mp4file: http://www.openscreencast.de/archive/python_module_190.mp4
-Srtfile: http://www.openscreencast.de/archive/python_module_190.srt
-Srtfile_om: http://www.openscreencast.de/archive/python_module_oM_190.srt
-Image: http://www.openscreencast.de/archive/python_module_190.png
+Oggfile: https://www.openscreencast.de/archive/python_module_190.ogg
+Oggfileom: https://www.openscreencast.de/archive/python_module_oM_190.ogg
+Webmfile: https://www.openscreencast.de/archive/python_module_190.webm
+Mp4file: https://www.openscreencast.de/archive/python_module_190.mp4
+Srtfile: https://www.openscreencast.de/archive/python_module_190.srt
+Srtfile_om: https://www.openscreencast.de/archive/python_module_oM_190.srt
+Image: https://www.openscreencast.de/archive/python_module_190.png
 
 Ausgangspunkt: Ubuntu 11.10  
 Zielgruppe: Neueinsteiger  

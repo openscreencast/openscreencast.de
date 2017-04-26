@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Raspberry Pi,gnome-disks
 Slug: raspberrypi_sdkarte_mit_gnomedisks_sichern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 149000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: IO25A5YopvE

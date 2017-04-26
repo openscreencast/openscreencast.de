@@ -4,16 +4,16 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-sa,Fedora Core,gconf,gconf-editor,Gnome,Linux,Ogg Theora,ohne Musik,screencast,short
 Slug: Gnome_Browserleisten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 60000
 License: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: Th1ivfFk7lU
 Vimeo: 16285992
 Tumblr: http://openscreencast.tumblr.com/post/8304956352/gnome-browserleisten-fedora-core-6-gnome-2-16
-Oggfile: http://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.ogg
-Mp4file: http://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.mp4
-Srtfile: http://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.srt
-Image: http://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.png
+Oggfile: https://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.ogg
+Mp4file: https://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.mp4
+Srtfile: https://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.srt
+Image: https://www.openscreencast.de/archive/short/gnome_browserleisten_short_033.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

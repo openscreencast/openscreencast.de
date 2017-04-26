@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LUKS,luksformat
 Slug: Linux_Verschluesselte_Containerdatei_Passwoerter_verwalten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 240000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: kBslQm5fUkk

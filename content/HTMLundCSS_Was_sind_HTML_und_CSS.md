@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Web,www,HTML,CSS
 Slug: HTMLundCSS_Was_sind_HTML_und_CSS
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 161000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: Gb_BwvlixKw

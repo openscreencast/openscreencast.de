@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,OOP,Klassen,Vererbung
 Slug: python_alles_ist_eine_klasse
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 368000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: j8WsDBS32SY
 Vimeo: 40973542
 Tumblr: http://openscreencast.tumblr.com/post/21737634650/python-programmierung-alles-ist-eine-klasse
 Diaspora: https://pod.geraspora.de/posts/557648
-Oggfile: http://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.ogg
-Webmfile: http://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.webm
-Mp4file: http://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.mp4
-Srtfile: http://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.srt
-Image: http://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.png
+Oggfile: https://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.ogg
+Webmfile: https://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.webm
+Mp4file: https://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.mp4
+Srtfile: https://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.srt
+Image: https://www.openscreencast.de/archive/python_alles_ist_eine_klasse_225.png
 
 Ausgangspunkt: Ubuntu 11.10  
 Zielgruppe: Neueinsteiger  

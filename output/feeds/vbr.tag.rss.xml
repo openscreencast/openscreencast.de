@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/vbr.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 11 Jul 2006 03:04:00 +0200</lastBuildDate><item><title>oggdec, oggenc und ogginfo</title><link>https://www.openscreencast.de/blog/oggdec_oggenc_ogginfo.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Vorkommende Kommandos: ls, oggdec, oggenc, ogginfo&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Wav"&gt;wav&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;ogg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vorbis"&gt;ogg Vorbis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Manpage"&gt;man&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Konstante_Datenrate"&gt;CBR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Variable_Datenrate"&gt;VBR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Metadaten"&gt;Metadaten&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://soundconverter.berlios.de/"&gt;Soundconverter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 11 Jul 2006 03:04:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-07-11:blog/oggdec_oggenc_ogginfo.html</guid><category>CBR</category><category>CC by-nc-sa</category><category>Fedora Core</category><category>Gnome</category><category>info</category><category>Linux</category><category>ls</category><category>man</category><category>Metadaten</category><category>Multimedia</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>Ogg Vorbis</category><category>oggdec</category><category>oggenc</category><category>ogginfo</category><category>screencast</category><category>Soundconverter</category><category>Terminal</category><category>Textmodus</category><category>VBR</category><category>wav</category></item></channel></rss>

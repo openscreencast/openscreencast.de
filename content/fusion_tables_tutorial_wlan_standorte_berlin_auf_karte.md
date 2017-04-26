@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,cinnamon,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by-sa,Daten,LibreOffice,Calc,Fusion Tables
 Slug: fusion_tables_tutorial_wlan_standorte_berlin_auf_karte
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 649000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: RIaJlRzwqeM

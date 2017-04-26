@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,VLC,Totem
 Slug: YoutubeVideos_mittels_VLC_abspielen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 176000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: -fp0DeGUvhY

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,proc
 Slug: Linux_weitere_wichtige_Unterverzeichnisse_in_proc
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 103000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ZHDvp7KBAmM

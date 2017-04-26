@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Git
 Slug: Git_fuer_Einsteiger_der_erste_Commit
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 169000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: CaCDWK5PdEI

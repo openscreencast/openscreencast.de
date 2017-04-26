@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,numlock,capslock
 Slug: Gnome3_Numlock-_und_Capslock-Status_im_Panel_anzeigen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 128000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: LU7nEolJYiU

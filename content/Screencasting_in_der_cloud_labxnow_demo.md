@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Cloud,LabxNow,Web,Screencasting,Demo
 Slug: Screencasting_in_der_cloud_labxnow_demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 368000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: aqKMryxUeZs

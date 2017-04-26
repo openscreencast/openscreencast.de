@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS,Simulator
 Slug: Firefox_OS_Firefox_OS_Simulator
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 185000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: bXYf-9I3GRE

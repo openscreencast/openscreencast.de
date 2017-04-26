@@ -1,10 +1,10 @@
-Title: Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&Drop und Transparenz
+Title: Terminix, GTK3-Terminal mit Tiling-Funktion, Drag und Drop und Transparenz
 Date: 2017-03-06 12:59
 Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,terminix,terminal
 Slug: linux_terminix
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 266000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: j0FO9Mx1TtM
@@ -13,7 +13,7 @@ Tumblr: http://openscreencast.tumblr.com/post/158064509110/terminix-gtk3-termina
 Diaspora: https://pod.geraspora.de/posts/5997286
 Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_linux/terminix.ogg
 
-Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;Drop; und Transparenz  
+Terminix, GTK3-Terminal mit Tiling-Funktion, Drag und Drop und Transparenz  
 Lizenz: <http://creativecommons.org/licenses/by/4.0/>  
   
 

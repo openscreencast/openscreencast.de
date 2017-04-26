@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,easystroke,Linux Mint,Gestensteuerung
 Slug: easystroke_DesktopGesten_fuer_X11_Gestensteuerung_auf_dem_Desktop_Linux
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 512000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: B_ty42Sw1Ys

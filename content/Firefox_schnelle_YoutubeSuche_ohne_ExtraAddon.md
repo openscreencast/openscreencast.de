@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox
 Slug: Firefox_schnelle_YoutubeSuche_ohne_ExtraAddon
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 184000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: RIsW5DWtcig

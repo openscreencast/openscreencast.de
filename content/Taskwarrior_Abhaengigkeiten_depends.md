@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Taskwarrior,task,Linux Mint
 Slug: Taskwarrior_Abhaengigkeiten_depends
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 246000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: cp22NlXhK5Q

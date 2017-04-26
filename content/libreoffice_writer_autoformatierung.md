@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,LibreOffice,Gnome3,Autoformatierung
 Slug: libreoffice_writer_autoformatierung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 214000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ZhyCesdrsRc
 Vimeo: 46141832
 Tumblr: http://openscreencast.tumblr.com/post/26088109687/libreoffice-writer-autoformatierung-fedora-17
 Diaspora: https://pod.geraspora.de/posts/686871
-Oggfile: http://www.openscreencast.de/archive/libreoffice_autoformatierung_254.ogg
-Webmfile: http://www.openscreencast.de/archive/libreoffice_autoformatierung_254.webm
-Mp4file: http://www.openscreencast.de/archive/libreoffice_autoformatierung_254.mp4
-Image: http://www.openscreencast.de/archive/libreoffice_autoformatierung_254.png
+Oggfile: https://www.openscreencast.de/archive/libreoffice_autoformatierung_254.ogg
+Webmfile: https://www.openscreencast.de/archive/libreoffice_autoformatierung_254.webm
+Mp4file: https://www.openscreencast.de/archive/libreoffice_autoformatierung_254.mp4
+Image: https://www.openscreencast.de/archive/libreoffice_autoformatierung_254.png
 
 Ausgangspunkt: Fedora 17  
 Zielgruppe: Neueinsteiger  

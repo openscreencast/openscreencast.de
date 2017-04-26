@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,Gnome,Gnome3,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Python,Programmierung,docopt
 Slug: python_docopt_auswerten_der_befehle
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 205000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: H6th0iOj4AM

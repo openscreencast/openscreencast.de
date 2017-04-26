@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,task,Taskwarrior,Linux Mint
 Slug: Taskwarrior_Reports_ein_Beispiel
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 277000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: j11mvkOB_no

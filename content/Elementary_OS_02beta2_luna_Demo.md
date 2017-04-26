@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Elementary,Gnome
 Slug: Elementary_OS_02beta2_luna_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 262000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ef1-X8rRsU4

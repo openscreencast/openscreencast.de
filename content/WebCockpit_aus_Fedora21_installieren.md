@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Fedora,Web-Cockpit,Cockpit
 Slug: WebCockpit_aus_Fedora21_installieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 295000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: m56xN_cSjgc

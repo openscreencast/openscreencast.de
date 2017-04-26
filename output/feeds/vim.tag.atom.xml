@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/vim.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-15T01:39:00+02:00</updated><entry><title>vimcasts.org</title><link href="https://www.openscreencast.de/blog/vimcasts.html" rel="alternate"></link><published>2010-10-15T01:39:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-15:blog/vimcasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; speziell über den
+Texteditor &lt;a href="http://de.wikipedia.org/wiki/Vim"&gt;vim&lt;/a&gt; gibt es bei
+&lt;a href="http://vimcasts.org/"&gt;Vimcasts.org&lt;/a&gt; (Englisch). Die Videos stehen im
+&lt;a href="http://de.wikipedia.org/wiki/Quicktime"&gt;Quicktime&lt;/a&gt;- und
+&lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;Ogg&lt;/a&gt;-Format zum Download zur Verfügung.
+Seit den ersten 4 Episoden im Januar 2010 gibt es nun schon 27 Episoden die
+erklären wie vim funktioniert. Die Screencasts werden von Drew Neil produziert
+und mit dem Tool screenflow erstellt.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category><category term="vim"></category></entry></feed>

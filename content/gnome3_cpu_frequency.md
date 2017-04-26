@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: CC by,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,extensions
 Slug: gnome3_cpu_frequency
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 221000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: QUpxX6tKmJ4
 Vimeo: 37833067
 Tumblr: http://openscreencast.tumblr.com/post/18623868775/gnome3-shell-extension-cpu-frequency-fedora-16
 Diaspora: https://pod.geraspora.de/posts/430556
-Oggfile: http://www.openscreencast.de/archive/gnome3_cpu_frequency_202.ogg
-Webmfile: http://www.openscreencast.de/archive/gnome3_cpu_frequency_202.webm
-Mp4file: http://www.openscreencast.de/archive/gnome3_cpu_frequency_202.mp4
-Srtfile: http://www.openscreencast.de/archive/gnome3_cpu_frequency_202.srt
-Image: http://www.openscreencast.de/archive/gnome3_cpu_frequency_202.png
+Oggfile: https://www.openscreencast.de/archive/gnome3_cpu_frequency_202.ogg
+Webmfile: https://www.openscreencast.de/archive/gnome3_cpu_frequency_202.webm
+Mp4file: https://www.openscreencast.de/archive/gnome3_cpu_frequency_202.mp4
+Srtfile: https://www.openscreencast.de/archive/gnome3_cpu_frequency_202.srt
+Image: https://www.openscreencast.de/archive/gnome3_cpu_frequency_202.png
 
 Ausgangspunkt: Fedora 16  
 Zielgruppe: Neueinsteiger  

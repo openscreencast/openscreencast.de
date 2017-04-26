@@ -10,11 +10,11 @@ Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: qZ1zu0Vqw6c
 Vimeo: 14121428
 Tumblr: http://openscreencast.tumblr.com/post/8300017424/bash-umleitungen-fedora-core-5-gnome-2-14
-Oggfile: http://www.openscreencast.de/archive/bash_umleitungen_024.ogg
-Oggfileom: http://www.openscreencast.de/archive/bash_umleitungen_oM_024.ogg
-Srtfile: http://www.openscreencast.de/archive/bash_umleitungen_024.srt
-Srtfile_om: http://www.openscreencast.de/archive/bash_umleitungen_oM_024.srt
-Image: http://www.openscreencast.de/archive/bash_umleitungen_024.png
+Oggfile: https://www.openscreencast.de/archive/bash_umleitungen_024.ogg
+Oggfileom: https://www.openscreencast.de/archive/bash_umleitungen_oM_024.ogg
+Srtfile: https://www.openscreencast.de/archive/bash_umleitungen_024.srt
+Srtfile_om: https://www.openscreencast.de/archive/bash_umleitungen_oM_024.srt
+Image: https://www.openscreencast.de/archive/bash_umleitungen_024.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

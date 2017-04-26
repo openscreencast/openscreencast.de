@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Web,HTML,revealjs
 Slug: revealjs_vertikale_Navigation_und_Links
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 269000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Youtube: kSvJeXLgPls

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Web,Trianglify,Wallpaper
 Slug: Trianglify_erzeugt_Wallpaper_im_NexusStil
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 148000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: lnBLbsq2ppg

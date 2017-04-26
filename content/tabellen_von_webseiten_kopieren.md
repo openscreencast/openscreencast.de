@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by-sa,LibreOffice,Gnome3,html,web
 Slug: tabellen_von_webseiten_kopieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 332000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: OqgfZviKnrw

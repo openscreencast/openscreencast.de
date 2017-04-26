@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,Centrych,xfce
 Slug: Centrych_OS_12042_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 421000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 0zUGrEFJbHE

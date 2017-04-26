@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/ncdu.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-02-15T13:16:00+01:00</updated><entry><title>Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln</title><link href="https://www.openscreencast.de/blog/Speicherplatzverbrauch_ermitteln_ncdu.html" rel="alternate"></link><published>2015-02-15T13:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:blog/Speicherplatzverbrauch_ermitteln_ncdu.html</id><summary type="html">&lt;p&gt;Linux - Speicherplatzverbrauch für Ordner und Dateien ermitteln, Linux Mint
+17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://linuxundich.de/gnu-linux/speicherplatzverbrauch-ordner-
+dateien-linux-terminal-ermitteln/"&gt;Speicherplatzverbrauch für Ordner und Dateien unter Linux
+ermitteln&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dev.yorhel.nl/ncdu" title="Link zu ncdu"&gt;ncdu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="ncdu"></category></entry></feed>

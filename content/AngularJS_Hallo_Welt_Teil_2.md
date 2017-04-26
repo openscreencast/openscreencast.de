@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Web,HTML,Javascript,angularjs
 Slug: AngularJS_Hallo_Welt_Teil_2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 343000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: oUZuyXYcoLQ

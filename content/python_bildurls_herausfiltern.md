@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Python,re,BeautifulSoup,scrapy
 Slug: python_bildurls_herausfiltern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 337000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: KwSRepJvYYk

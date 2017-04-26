@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Ubuntu,Unity,Linux,Neueinsteiger,Ogg Theora,screencast,CC by-sa,Python,Programmierung,urllib
 Slug: python_urllib_urllib2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 367000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 3jT0PqmeqlA

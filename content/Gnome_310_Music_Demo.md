@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Gnome,Gnome3,Demo
 Slug: Gnome_310_Music_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 42000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 8ZoKqtBUbhs

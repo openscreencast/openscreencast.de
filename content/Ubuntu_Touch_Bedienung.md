@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Ubuntu touch
 Slug: Ubuntu_Touch_Bedienung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 354000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: 2gbtP9YtsYo

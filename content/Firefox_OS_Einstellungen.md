@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_Einstellungen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 167000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: YbPc5KzjMo4

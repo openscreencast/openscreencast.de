@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Gnome,Demo
 Slug: Gnome318_Demo_Zeichen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 78000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: ZIlq2E8EOyQ

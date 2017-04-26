@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/ruby-on-rails.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-02-21T02:41:00+01:00</updated><entry><title>Ruby on Rails Screencasts</title><link href="https://www.openscreencast.de/blog/Ruby_on_Rails_Screencasts.html" rel="alternate"></link><published>2007-02-21T02:41:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-21:blog/Ruby_on_Rails_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Ruby_On_Rails"&gt;Ruby on Rails&lt;/a&gt; ist ein offenes
+Web-Framework. Wie der Name schon vermuten läßt ist es in
+&lt;a href="http://de.wikipedia.org/wiki/Ruby_%28Programmiersprache%29"&gt;Ruby&lt;/a&gt; geschrieben
+und steht unter der &lt;a href="http://de.wikipedia.org/wiki/MIT-Lizenz"&gt;MIT-Lizenz&lt;/a&gt;.
+Natürlich wurden inzwischen auch schon etliche Screencasts dazu kreiert. Die
+San Diego Ruby User Group präsentiert ihr &lt;a href="http://podcast.sdruby.com/"&gt;Video-
+Podcast&lt;/a&gt; und direkt auf der Seite
+&lt;a href="http://www.rubyonrails.org/"&gt;http://www.rubyonrails.org/&lt;/a&gt; gibt es die Kategorie
+&lt;a href="http://www.rubyonrails.org/screencasts"&gt;Screencast&lt;/a&gt;.&lt;/p&gt;</summary><category term="Englisch"></category><category term="MIT License"></category><category term="News"></category><category term="Ruby"></category><category term="Ruby on Rails"></category><category term="screencast"></category><category term="Web-Framework"></category></entry></feed>

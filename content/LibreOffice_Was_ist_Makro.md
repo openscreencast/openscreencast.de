@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Was_ist_Makro
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 133000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: qQErf8pu3Ms

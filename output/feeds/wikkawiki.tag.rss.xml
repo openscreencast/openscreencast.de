@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/wikkawiki.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 20 Oct 2009 18:29:00 +0200</lastBuildDate><item><title>WikkaWiki Screencasts</title><link>https://www.openscreencast.de/blog/WikkaWiki.html</link><description>&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/WikkaWiki"&gt;WikkaWiki&lt;/a&gt; ist eine, wie man am Namen
+schon erkennen kann, Wiki-Software. WikkaWiki ist in der Programmiersprache
+PHP geschrieben und steht unter der &lt;a href="http://de.wikipedia.org/wiki/GPL"&gt;GPL-
+License&lt;/a&gt;. Es stehen mehrere kurze
+&lt;a href="http://docs.wikkawiki.org/WikkaInAction"&gt;Screencasts&lt;/a&gt; auf der Homapge von
+WikkaWiki zur Verfügung. Außerdem gibt es die Videos noch bei YouTube.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 20 Oct 2009 18:29:00 +0200</pubDate><guid>tag:www.openscreencast.de,2009-10-20:blog/WikkaWiki.html</guid><category>News</category><category>screencast</category><category>WikkaWiki</category></item></channel></rss>

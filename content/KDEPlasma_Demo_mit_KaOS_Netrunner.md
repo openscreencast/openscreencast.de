@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,KDE,Plasma,KaOS,Netrunner
 Slug: KDEPlasma_Demo_mit_KaOS_Netrunner
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 374000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: dLV0Z5VXjVs

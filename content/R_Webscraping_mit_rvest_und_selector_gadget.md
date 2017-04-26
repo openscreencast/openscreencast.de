@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Fedora,R,rvest,Scraping,Web,Selector Gadget
 Slug: R_Webscraping_mit_rvest_und_selector_gadget
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 229000
 License: http://creativecommons.org/licenses/by-sa/4.0/
 Vimeo: 138640900

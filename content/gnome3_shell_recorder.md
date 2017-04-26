@@ -14,7 +14,7 @@ Tastenkombination Strg+Alt+Shift+R gedrückt wird um die Bildschirmaufnahme zu
 beginnen und zu beenden. Die Aufnahme wird die ganze Zeit rechts unten durch
 einen kleinen roten Kreis angezeigt.
 
-![Shell recorder 1](http://www.openscreencast.de/pictures/shellrecorder1.png)
+![Shell recorder 1](https://www.openscreencast.de/pictures/shellrecorder1.png)
 
 Die festgehaltenen Bilder werden in eine .webm-Datei geschrieben. Die Datei
 mit folgendem Muster shell-yyyymmdd-#.webm befindet sich im Home-Verzeichnis
@@ -26,14 +26,14 @@ gehört nicht zum Standard und muss nachinstalliert werden. Bei der
 Linuxdistribution Fedora leitet man dies mit folgendem Befehl in die Wege: `su
 -c "yum install dconf-editor"`.
 
-![Shell recorder 2](http://www.openscreencast.de/pictures/shellrecorder2.png)
+![Shell recorder 2](https://www.openscreencast.de/pictures/shellrecorder2.png)
 
 Nach dem Start, per Eingabe dconf-editor, findet man unter
 org.gnome.shell.recorder 3 Einstellungsmöglichkeiten. Der Wert der Dateiendung
 (file-extension: webm), der Framerate (framerate: 15) und der pipeline
 (pipeline: '') kann verändert werden.
 
-![Shell recorder 3](http://www.openscreencast.de/pictures/shellrecorder3.png)
+![Shell recorder 3](https://www.openscreencast.de/pictures/shellrecorder3.png)
 
 Möchte man die Modifikation per Befehl bewerkstelligen so sei an dieser Stelle
 der Befehl gsettings erwähnt. Folgende Kommandos sind denkbar um die gesetzten

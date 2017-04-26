@@ -4,15 +4,15 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,WebRTC,Demo,Firefox
 Slug: palavatv_testen_und_WebRTC_ausprobieren_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 253000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: U5TZfi1LjDc
 Vimeo: 98507717
 Tumblr: http://openscreencast.tumblr.com/post/66024167931/palava-tv-testen-und-webrtc-ausprobieren-demo
 Diaspora: https://pod.geraspora.de/posts/1661276
-Oggfile: http://www.openscreencast.de/archive/webrtc.ogg
-Webmfile: http://www.openscreencast.de/archive/webrtc.webm
+Oggfile: https://www.openscreencast.de/archive/webrtc.ogg
+Webmfile: https://www.openscreencast.de/archive/webrtc.webm
 
 palava.tv testen und WebRTC ausprobieren (Demo), Linux Mint 15  
 Lizenz: <http://creativecommons.org/licenses/by/3.0/>  

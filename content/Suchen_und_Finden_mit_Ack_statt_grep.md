@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,ohne Musik,screencast,grep,ack
 Slug: Suchen_und_Finden_mit_Ack_statt_grep
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 375000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: wJc1izhskT8

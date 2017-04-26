@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/dnf.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 30 Jul 2015 23:43:00 +0200</lastBuildDate><item><title>dnf - die wichtigsten Kommandos (Fedora)</title><link>https://www.openscreencast.de/blog/dnf_die_wichtigsten_Kommandos.html</link><description>&lt;p&gt;dnf - die wichtigsten Kommandos, Fedora 22&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dnf.baseurl.org/"&gt;dnf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dnf.readthedocs.org/en/latest/"&gt;dnf doc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 30 Jul 2015 23:43:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-30:blog/dnf_die_wichtigsten_Kommandos.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Fedora</category><category>dnf</category></item></channel></rss>

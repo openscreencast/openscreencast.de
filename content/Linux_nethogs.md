@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,nethogs
 Slug: Linux_nethogs
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 140000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: oynPlZWgzzc

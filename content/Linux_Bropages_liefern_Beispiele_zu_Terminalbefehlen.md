@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,bropages
 Slug: Linux_Bropages_liefern_Beispiele_zu_Terminalbefehlen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 250000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 9xd2rpNPoE8

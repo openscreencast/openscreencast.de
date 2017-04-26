@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Linux Mint,scrot,Screenshot
 Slug: scrot_ScreenshotTool_fuer_die_Kommandozeile
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 124000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: RKO9hZdHK14

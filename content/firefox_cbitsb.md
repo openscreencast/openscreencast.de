@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Firefox,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,CBitsb,Cookie
 Slug: firefox_cbitsb
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 167000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: cwyxSOWiahQ
 Vimeo: 22038023
 Tumblr: http://openscreencast.tumblr.com/post/8353239829/firefox-cookie-button-in-the-status-bar-ubuntu
-Oggfile: http://www.openscreencast.de/archive/firefox_cbitsb_113.ogg
-Oggfileom: http://www.openscreencast.de/archive/firefox_cbitsb_oM_113.ogg
-Webmfile: http://www.openscreencast.de/archive/firefox_cbitsb_113.webm
-Mp4file: http://www.openscreencast.de/archive/firefox_cbitsb_113.mp4
-Srtfile: http://www.openscreencast.de/archive/firefox_cbitsb_113.srt
-Srtfile_om: http://www.openscreencast.de/archive/firefox_cbitsb_oM_113.srt
-Image: http://www.openscreencast.de/archive/firefox_cbitsb_113.png
+Oggfile: https://www.openscreencast.de/archive/firefox_cbitsb_113.ogg
+Oggfileom: https://www.openscreencast.de/archive/firefox_cbitsb_oM_113.ogg
+Webmfile: https://www.openscreencast.de/archive/firefox_cbitsb_113.webm
+Mp4file: https://www.openscreencast.de/archive/firefox_cbitsb_113.mp4
+Srtfile: https://www.openscreencast.de/archive/firefox_cbitsb_113.srt
+Srtfile_om: https://www.openscreencast.de/archive/firefox_cbitsb_oM_113.srt
+Image: https://www.openscreencast.de/archive/firefox_cbitsb_113.png
 
 Ausgangspunkt: Ubuntu 10.10, Gnome 2.32  
 Zielgruppe: Neueinsteiger  

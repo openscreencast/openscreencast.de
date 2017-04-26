@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/regex.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-01-29T19:13:00+01:00</updated><entry><title>Reguläre Ausdrücke mit Regex Cross­word lernen</title><link href="https://www.openscreencast.de/blog/Regex_Cross%C2%ADword.html" rel="alternate"></link><published>2015-01-29T19:13:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-01-29:blog/Regex_Cross­word.html</id><summary type="html">&lt;p&gt;Reguläre Ausdrücke mit Regex Cross­word lernen, Linux Mint 17.1&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://regexcrossword.com/"&gt;http://regexcrossword.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck" title="Link zu Wikipedia"&gt;WP:RegEx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.danielfett.de/internet-und-opensource,artikel,regulaere-ausdruecke" title="Link zu danielfett.de"&gt;RegEx Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://linuxundich.de/gnu-linux/regulare-ausdruecke-lernen-regex-crossword/" title="Link zu linuxundich.de"&gt;Reguläre Ausdrücke mit Regex Cross­word lernen von Christoph Langner (CC by 4.0)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="RegEx"></category><category term="Web"></category><category term="www"></category></entry><entry><title>sed - Erste Schritte mit regulären Ausdrücken</title><link href="https://www.openscreencast.de/blog/sed_erste_schritte_regex.html" rel="alternate"></link><published>2014-01-18T01:29:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-01-18:blog/sed_erste_schritte_regex.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Sed_%28Unix%29" title="sed"&gt;WP:sed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/" title="opendatacity.de"&gt;Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Linux Mint"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="sed"></category><category term="Gnome3"></category><category term="regex"></category></entry><entry><title>LibreOffice Writer - Erste Schritte mit regulären Ausdrücken</title><link href="https://www.openscreencast.de/blog/libreoffice_erste_schritte_regex.html" rel="alternate"></link><published>2014-01-18T01:24:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-01-18:blog/libreoffice_erste_schritte_regex.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Linux Mint 15&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/" title="opendatacity.de"&gt;Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Linux Mint"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="LibreOffice"></category><category term="Gnome3"></category><category term="regex"></category></entry></feed>

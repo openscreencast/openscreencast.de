@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,LibreOffice,Calc
 Slug: LibreOffice_Calc_Sortieren_von_Zellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 352000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: b78o2PkBjus

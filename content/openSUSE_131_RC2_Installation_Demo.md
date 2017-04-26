@@ -4,15 +4,15 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,openSUSE
 Slug: openSUSE_131_RC2_Installation_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 280000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VT2djYBkFOQ
 Vimeo: 98225592
 Tumblr: http://openscreencast.tumblr.com/post/65921564705/opensuse-13-1-rc2-installation-demo-fuer-die
 Diaspora: https://pod.geraspora.de/posts/1658933
-Oggfile: http://www.openscreencast.de/archive/opensuse_install.ogg
-Webmfile: http://www.openscreencast.de/archive/opensuse_install.webm
+Oggfile: https://www.openscreencast.de/archive/opensuse_install.ogg
+Webmfile: https://www.openscreencast.de/archive/opensuse_install.webm
 
 openSUSE 13.1 RC2 - Installation - Demo  
 Für die Installation bitte sicheres Passwort

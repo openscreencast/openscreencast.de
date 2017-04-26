@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Linux Mint,LibreOffice,Calc
 Slug: LibreOffice_Calc_Zellen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 122000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: bEggio8X2ls

@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox,Linux Mint
 Slug: Firefox_ungefaehre_Standortbestimmung_deaktivieren_geoenabled_deaktivieren
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 125000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: LhV8CyF7f4w

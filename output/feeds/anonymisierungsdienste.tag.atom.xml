@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/anonymisierungsdienste.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-09-20T13:55:00+02:00</updated><entry><title>Linux - USB-Sticks als Bootmedium vorbereiten</title><link href="https://www.openscreencast.de/blog/Linux_USBSticks_als_Bootmedium_vorbereiten.html" rel="alternate"></link><published>2015-09-20T13:55:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:blog/Linux_USBSticks_als_Bootmedium_vorbereiten.html</id><summary type="html">&lt;p&gt;Linux - USB-Sticks als Bootmedium vorbereiten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://privacy-handbuch.de/" title="Link zu privacy-handbuch.de"&gt;https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/" title="Link zu pendrivelinux.com"&gt;Easy Universal USB Installer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pendrivelinux.com/yumi-multiboot-usb-creator/" title="Link zu pendrivelinux.com"&gt;Yumi Multiboot USB Creator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Anonymisierungsdienste"></category><category term="Live DVD"></category><category term="Privacy"></category></entry><entry><title>Live-DVDs mit Anonymisierungsdiensten</title><link href="https://www.openscreencast.de/blog/LiveDVDs_mit_Anonymisierungsdiensten.html" rel="alternate"></link><published>2015-09-20T13:47:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:blog/LiveDVDs_mit_Anonymisierungsdiensten.html</id><summary type="html">&lt;p&gt;Live-DVDs mit Anonymisierungsdiensten, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://privacy-handbuch.de/" title="Link zu privacy-handbuch.de"&gt;https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.anonym-surfen.de/help/jondo-live-cd.html" title="Link zu anonym-surfen.de"&gt;Jondo-LiveDVD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tails.boum.org/" title="Link zu tails.boum.org"&gt;Tails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.heise.de/ct/projekte/Sicheres-Online-Banking-mit-Bankix-284099.html" title="Link zu heise.de"&gt;Bankix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.privacy-cd.org/de" title="Link zu privacy-cd.org/de"&gt;UPR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Anonymisierungsdienste"></category><category term="Live DVD"></category><category term="Privacy"></category></entry></feed>

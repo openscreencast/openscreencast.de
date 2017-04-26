@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox OS
 Slug: Firefox_OS_Einstellungen_Batterie
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 113000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: y3pxM8waz7M

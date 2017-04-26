@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,R,RStudio
 Slug: R_RStudio_installieren_und_starten
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 194000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: vCuMhy_Qb-w

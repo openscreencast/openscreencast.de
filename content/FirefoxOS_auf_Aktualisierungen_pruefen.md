@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,FirefoxOS
 Slug: FirefoxOS_auf_Aktualisierungen_pruefen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 73000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: YaE2b2CIAsw

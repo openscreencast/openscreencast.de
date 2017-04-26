@@ -7,9 +7,9 @@ Slug: bash_Tastenkuerzel
 Duration: 225000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13790016
-Oggfile: http://www.openscreencast.de/archive/bash_tastenkuerzel_014.ogg
-Srtfile: http://www.openscreencast.de/archive/bash_tastenkuerzel_014.srt
-Image: http://www.openscreencast.de/archive/bash_tastenkuerzel_014.png
+Oggfile: https://www.openscreencast.de/archive/bash_tastenkuerzel_014.ogg
+Srtfile: https://www.openscreencast.de/archive/bash_tastenkuerzel_014.srt
+Image: https://www.openscreencast.de/archive/bash_tastenkuerzel_014.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

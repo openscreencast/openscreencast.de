@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Linux Mint,Libreoffice,Calc
 Slug: LibreOffice_Calc_Bewegen_von_Blatt_zu_Blatt
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 155000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: CQZztR9JZHU

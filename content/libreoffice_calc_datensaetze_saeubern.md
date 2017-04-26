@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: Linux Mint,cinnamon,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,CC by,Daten,LibreOffice,Calc
 Slug: libreoffice_calc_datensaetze_saeubern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 307000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: fiXQhycZ-Jk

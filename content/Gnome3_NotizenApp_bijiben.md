@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Gnome,Gnome3,Fedora,bijiben
 Slug: Gnome3_NotizenApp_bijiben
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 105000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: -bcRiqWjZJA

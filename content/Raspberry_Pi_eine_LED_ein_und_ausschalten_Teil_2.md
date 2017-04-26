@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Raspberry Pi
 Slug: Raspberry_Pi_eine_LED_ein_und_ausschalten_Teil_2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 384000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 9VSil7-1pBY

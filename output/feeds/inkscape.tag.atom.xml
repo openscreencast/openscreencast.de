@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/inkscape.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-08-05T23:08:00+02:00</updated><entry><title>Farbcode mit Gimp oder Inkscape ermitteln (Farbpipette nutzen)</title><link href="https://www.openscreencast.de/blog/farbcode_ermitteln.html" rel="alternate"></link><published>2013-08-05T23:08:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-08-05:blog/farbcode_ermitteln.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Gimp" title="Link zu WP:Gimp"&gt;WP:Gimp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Inkscape" title="Link zu WP:Inkscape"&gt;WP:Inkscape&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="gimp"></category><category term="inkscape"></category></entry><entry><title>Screencasts über Inkscape und Gimp</title><link href="https://www.openscreencast.de/blog/inkscape_und_gimp.html" rel="alternate"></link><published>2010-09-01T03:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-09-01:blog/inkscape_und_gimp.html</id><summary type="html">&lt;p&gt;Tolle &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; über
+&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt; und
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;Gimp&lt;/a&gt; habe ich gerade bei &lt;a href="http://karl-tux-stadt.de/ktuxs/?getaggt=Screencast"&gt;karl-tux-
+stadt.de&lt;/a&gt; entdeckt. Zu
+finden sind die Screencasts auch direkt bei
+&lt;a href="http://vimeo.com/gnokii"&gt;vimeo.com&lt;/a&gt;.&lt;/p&gt;</summary><category term="Gimp"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>2 weitere Screencasts über inkscape</title><link href="https://www.openscreencast.de/blog/weitere_inkscape_screencasts.html" rel="alternate"></link><published>2009-02-12T02:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-12:blog/weitere_inkscape_screencasts.html</id><summary type="html">&lt;p&gt;Gerade habe ich 2 weitere Screencasts über
+&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;inkscape&lt;/a&gt; bei
+&lt;a href="http://www.primfaktor.de/index.php?section=tutorials"&gt;primfaktor.de&lt;/a&gt;
+gefunden. Die Themen heissen "Sterne und Polygone in Inkscape" und
+"Farbverläufe in Inkscape". Die Videos sind für Anfänger und stehen unter der
+Lizenz &lt;a href="http://creativecommons.org/licenses/by-sa/2.0/de/"&gt;http://creativecommons.org/licenses/by-sa/2.0/de/&lt;/a&gt;.&lt;/p&gt;</summary><category term="Deutsch"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>screencasters.heathenx.org - Inkscape Tutorials</title><link href="https://www.openscreencast.de/blog/screencasters_heathenx_org.html" rel="alternate"></link><published>2008-11-15T00:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-15:blog/screencasters_heathenx_org.html</id><summary type="html">&lt;p&gt;Wer lernen möchte mit &lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt; besser
+umzugehen, wer sich einfach nur mal die Möglichkeiten von Inkscape anschauen
+möchte ist bei
+&lt;a href="http://screencasters.heathenx.org/"&gt;screencasters.heathenx.org&lt;/a&gt; an der
+richtigen Adresse. Viele Lernvideos über Inkscape, momentan sind es 75, stehen
+im .avi(h264,mp3)-Format zum Download bereit. Das Motto heisst, watch learn
+do. Die Videos stehen unter der Lizenz &lt;a href="http://creativecommons.org/licenses
+/by-nc-sa/3.0/"&gt;http://creativecommons.org/licenses
+/by-nc-sa/3.0/&lt;/a&gt; und sind in Englisch.&lt;/p&gt;</summary><category term="Englisch"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Inkscape Screencasts</title><link href="https://www.openscreencast.de/blog/Inkscape_Screencasts.html" rel="alternate"></link><published>2007-03-03T22:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-03-03:blog/Inkscape_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Inkscape&lt;/a&gt;, ein Open Source
+vektorbasiertes Zeichenprogramm, kann für den Neuling doch sehr schwer sein.
+Der &lt;a href="http://jack-of-all-
+tradez.blogspot.com/search/label/screencast"&gt;Renaissance Man&lt;/a&gt; bietet einige Screencasts an um
+es etwas einfacher zu machen.
+&lt;a href="http://www.smick.net/index.php?n=Main.Tutorials"&gt;Hier&lt;/a&gt; von Mike Smick noch 2
+zusätzliche Videos.&lt;/p&gt;</summary><category term="Bildbearbeitungsprogramm"></category><category term="Englisch"></category><category term="GPL"></category><category term="inkscape"></category><category term="News"></category><category term="screencast"></category><category term="Zeichenprogramm"></category></entry><entry><title>Inkscape - erster Schritt</title><link href="https://www.openscreencast.de/blog/Inkscape_erster_Schritt.html" rel="alternate"></link><published>2006-10-23T23:40:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-23:blog/Inkscape_erster_Schritt.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br /&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Inkscape"&gt;Wikipedia Inkscape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vektorgrafik"&gt;Vektorgrafik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Open_source"&gt;Open Source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Fedora_Core"&gt;Fedora Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.inkscape.org/"&gt;inkscape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/Inkscape"&gt;Wikibooks Inkscape&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by-nc-sa"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="inkscape"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pirut"></category><category term="screencast"></category></entry></feed>

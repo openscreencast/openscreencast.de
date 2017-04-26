@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python
 Slug: Python_beginners_was_brauchst_du
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 172000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 134985749
 Tumblr: http://openscreencast.tumblr.com/post/125458009885/python-f&uuml;r-anf&auml;nger-was-brauchst-du-lizenz
 Diaspora: https://pod.geraspora.de/posts/3888121
-Oggfile: http://www.openscreencast.de/archive/python_beginners_was_brauchst_du.ogg
+Oggfile: https://www.openscreencast.de/archive/python_beginners_was_brauchst_du.ogg
 
 Python für Anfänger - Was brauchst du, Linux Mint 17.2  
 Lizenz: <http://creativecommons.org/licenses/by-sa/3.0/>  

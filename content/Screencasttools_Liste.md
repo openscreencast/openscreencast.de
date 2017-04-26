@@ -7,8 +7,8 @@ Slug: Screencasttools_Liste
 
 Eine Liste der bekanntesten Screencasttools für Linux
 
-Download: [.ods](http://www.openscreencast.de/pictures/screencasttools.ods)
-[.pdf](http://www.openscreencast.de/pictures/screencasttools.pdf)
+Download: [.ods](https://www.openscreencast.de/pictures/screencasttools.ods)
+[.pdf](https://www.openscreencast.de/pictures/screencasttools.pdf)
 
 [![pdfreaders.org](http://pdfreaders.org/graphics/pdfreaders-
 free.png)](http://pdfreaders.org/)

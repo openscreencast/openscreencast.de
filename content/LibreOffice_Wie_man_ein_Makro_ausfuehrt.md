@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Wie_man_ein_Makro_ausfuehrt
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 376000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: znycX4Q8AZE

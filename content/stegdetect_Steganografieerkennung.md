@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,stegdetect,Steganografieerkennung,Linux Mint
 Slug: stegdetect_Steganografieerkennung
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 126000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: ca89Mduz2jo

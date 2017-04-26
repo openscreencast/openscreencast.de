@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Python,platform
 Slug: Python_Programmierung_Modul_platform
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 131000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: 1Khosumisyk

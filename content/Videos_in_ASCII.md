@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: Anfänger,CC by-nc-sa,Fedora Core,Gnome,Linux,mplayer,Multimedia,Ogg Theora,screencast
 Slug: Videos_in_ASCII
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 154000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: qwON9g1JLlk
 Vimeo: 14460390
 Tumblr: http://openscreencast.tumblr.com/post/8300274856/videos-in-ascii-fedora-core-6-gnome-2-16-lizenz
-Oggfile: http://www.openscreencast.de/archive/videos_in_ascii_034.ogg
-Oggfileom: http://www.openscreencast.de/archive/videos_in_ascii_oM_034.ogg
-Srtfile: http://www.openscreencast.de/archive/videos_in_ascii_034.srt
-Srtfile_om: http://www.openscreencast.de/archive/videos_in_ascii_oM_034.srt
-Image: http://www.openscreencast.de/archive/videos_in_ascii_034.png
+Oggfile: https://www.openscreencast.de/archive/videos_in_ascii_034.ogg
+Oggfileom: https://www.openscreencast.de/archive/videos_in_ascii_oM_034.ogg
+Srtfile: https://www.openscreencast.de/archive/videos_in_ascii_034.srt
+Srtfile_om: https://www.openscreencast.de/archive/videos_in_ascii_oM_034.srt
+Image: https://www.openscreencast.de/archive/videos_in_ascii_034.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

@@ -7,9 +7,9 @@ Slug: mal_ohne_Maus
 Duration: 336000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13679353
-Oggfile: http://www.openscreencast.de/archive/mal_ohne_maus_010.ogg
-Srtfile: http://www.openscreencast.de/archive/mal_ohne_maus_010.srt
-Image: http://www.openscreencast.de/archive/mal_ohne_maus_010.png
+Oggfile: https://www.openscreencast.de/archive/mal_ohne_maus_010.ogg
+Srtfile: https://www.openscreencast.de/archive/mal_ohne_maus_010.srt
+Image: https://www.openscreencast.de/archive/mal_ohne_maus_010.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

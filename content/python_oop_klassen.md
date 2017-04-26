@@ -4,18 +4,18 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,ubuntu,Python,Programmierung,Unity,OOP,Klassen
 Slug: python_oop_klassen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 375000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: _5oZrq63eis
 Vimeo: 37687318
 Tumblr: http://openscreencast.tumblr.com/post/18504870067/python-programmierung-oop-klassen-in-python
 Diaspora: https://pod.geraspora.de/posts/425923
-Oggfile: http://www.openscreencast.de/archive/python_oop_klassen_201.ogg
-Webmfile: http://www.openscreencast.de/archive/python_oop_klassen_201.webm
-Mp4file: http://www.openscreencast.de/archive/python_oop_klassen_201.mp4
-Srtfile: http://www.openscreencast.de/archive/python_oop_klassen_201.srt
-Image: http://www.openscreencast.de/archive/python_oop_klassen_201.png
+Oggfile: https://www.openscreencast.de/archive/python_oop_klassen_201.ogg
+Webmfile: https://www.openscreencast.de/archive/python_oop_klassen_201.webm
+Mp4file: https://www.openscreencast.de/archive/python_oop_klassen_201.mp4
+Srtfile: https://www.openscreencast.de/archive/python_oop_klassen_201.srt
+Image: https://www.openscreencast.de/archive/python_oop_klassen_201.png
 
 Ausgangspunkt: Ubuntu 11.10  
 Zielgruppe: Neueinsteiger  

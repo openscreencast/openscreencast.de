@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Firefox
 Slug: Firefox_schnelle_YoutubeSuche
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 78000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: VpBBUqxlzPw

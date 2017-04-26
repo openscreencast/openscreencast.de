@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,Raspberry Pi,SDCard,dd
 Slug: SDKarte_des_Raspberry_Pi_mit_dd_sichern
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 363000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: 3yAjv-ky8io

@@ -4,17 +4,17 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,KDE,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,Kubuntu,KDE SC,KRunner
 Slug: krunner2
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 227000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 19189473
-Oggfile: http://www.openscreencast.de/archive/krunner2_097.ogg
-Oggfileom: http://www.openscreencast.de/archive/krunner2_oM_097.ogg
-Webmfile: http://www.openscreencast.de/archive/krunner2_097.webm
-Mp4file: http://www.openscreencast.de/archive/krunner2_097.mp4
-Srtfile: http://www.openscreencast.de/archive/krunner2_097.srt
-Srtfile_om: http://www.openscreencast.de/archive/krunner2_oM_097.srt
-Image: http://www.openscreencast.de/archive/krunner2_097.png
+Oggfile: https://www.openscreencast.de/archive/krunner2_097.ogg
+Oggfileom: https://www.openscreencast.de/archive/krunner2_oM_097.ogg
+Webmfile: https://www.openscreencast.de/archive/krunner2_097.webm
+Mp4file: https://www.openscreencast.de/archive/krunner2_097.mp4
+Srtfile: https://www.openscreencast.de/archive/krunner2_097.srt
+Srtfile_om: https://www.openscreencast.de/archive/krunner2_oM_097.srt
+Image: https://www.openscreencast.de/archive/krunner2_097.png
 
 Ausgangspunkt: Kubuntu 10.10  
 Zielgruppe: Neueinsteiger  

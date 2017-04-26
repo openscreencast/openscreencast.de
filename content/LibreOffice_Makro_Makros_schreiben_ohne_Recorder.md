@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_Makro_Makros_schreiben_ohne_Recorder
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 275000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: g3dcm1kXPlw

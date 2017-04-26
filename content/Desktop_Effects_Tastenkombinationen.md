@@ -10,11 +10,11 @@ Licenseom: http://creativecommons.org/licenses/by-sa/2.0/
 Youtube: r1MQ19FP_zI
 Vimeo: 14127043
 Tumblr: http://openscreencast.tumblr.com/post/8300088143/desktop-effects-tastenkombinationen-fedora-core
-Oggfile: http://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.ogg
-Oggfileom: http://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_oM_027.ogg
-Srtfile: http://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.srt
-Srtfile_om: http://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_oM_027.srt
-Image: http://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.png
+Oggfile: https://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.ogg
+Oggfileom: https://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_oM_027.ogg
+Srtfile: https://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.srt
+Srtfile_om: https://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_oM_027.srt
+Image: https://www.openscreencast.de/archive/desktopeffects_tastenkombinationen_027.png
 
 Ausgangspunkt: Fedora Core 6, GNOME 2.16  
 Zielgruppe: Neueinsteiger  

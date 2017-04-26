@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Demo,LXLE,LXDE
 Slug: LXLE_12043_Demo
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 434000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: oFFOeOE-AeA

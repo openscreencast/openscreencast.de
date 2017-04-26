@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,LibreOffice,Makro
 Slug: LibreOffice_bekannte_Probleme_mit_dem_Makrorekorder
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 350000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hVSPM3Ez_hE

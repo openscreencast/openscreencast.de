@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,ohne Musik,screencast,www,Debian,man,manpages
 Slug: Debian_Manpages_im_World_Wide_Web
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 153000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: T31nQkXQMWA

@@ -4,13 +4,13 @@ Author: Heiko
 Category: Video
 Tags: cat,CC by-nc-sa,Desktop,Fedora Core,gedit,Gnome,info,less,Linux,man,more,Neueinsteiger,Ogg Theora,screencast,Terminal,Textdatei
 Slug: Textdateien_anschauen_Teil1
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 282000
 License: http://creativecommons.org/licenses/by-nc-sa/2.0/
 Vimeo: 13365067
-Oggfile: http://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.ogg
-Srtfile: http://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.srt
-Image: http://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.png
+Oggfile: https://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.ogg
+Srtfile: https://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.srt
+Image: https://www.openscreencast.de/archive/textdateien_anschauen_teil1_002.png
 
 Ausgangspunkt: Fedora Core 5, GNOME 2.14  
 Zielgruppe: Neueinsteiger  

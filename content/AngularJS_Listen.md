@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,Web,Javascript,AngularJS
 Slug: AngularJS_Listen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 421000
 License: http://creativecommons.org/licenses/by/4.0/
 Youtube: QvQuB0PfrBA

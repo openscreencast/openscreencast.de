@@ -4,19 +4,19 @@ Author: Heiko
 Category: Video
 Tags: CC by-sa,Fedora,Gnome,Linux,Neueinsteiger,Ogg Theora,ohne Musik,screencast,gnome3,split
 Slug: split
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 207000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Youtube: fX2wdLemRHM
 Vimeo: 25829076
 Tumblr: http://openscreencast.tumblr.com/post/8354263195/split-dateien-in-gleichmaessige-portionen
-Oggfile: http://www.openscreencast.de/archive/split_138.ogg
-Oggfileom: http://www.openscreencast.de/archive/split_oM_138.ogg
-Webmfile: http://www.openscreencast.de/archive/split_138.webm
-Mp4file: http://www.openscreencast.de/archive/split_138.mp4
-Srtfile: http://www.openscreencast.de/archive/split_138.srt
-Srtfile_om: http://www.openscreencast.de/archive/split_oM_138.srt
-Image: http://www.openscreencast.de/archive/split_138.png
+Oggfile: https://www.openscreencast.de/archive/split_138.ogg
+Oggfileom: https://www.openscreencast.de/archive/split_oM_138.ogg
+Webmfile: https://www.openscreencast.de/archive/split_138.webm
+Mp4file: https://www.openscreencast.de/archive/split_138.mp4
+Srtfile: https://www.openscreencast.de/archive/split_138.srt
+Srtfile_om: https://www.openscreencast.de/archive/split_oM_138.srt
+Image: https://www.openscreencast.de/archive/split_138.png
 
 Ausgangspunkt: Fedora 15  
 Zielgruppe: Neueinsteiger  

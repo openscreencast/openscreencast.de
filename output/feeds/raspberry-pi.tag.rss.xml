@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/raspberry-pi.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 20 Sep 2015 13:36:00 +0200</lastBuildDate><item><title>Raspberry Pi - SD-Karte mit gnome-disks sichern</title><link>https://www.openscreencast.de/blog/raspberrypi_sdkarte_mit_gnomedisks_sichern.html</link><description>&lt;p&gt;Raspberry Pi - SD-Karte mit gnome-disks sichern, Linux Mint 17.2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 20 Sep 2015 13:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-09-20:blog/raspberrypi_sdkarte_mit_gnomedisks_sichern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Raspberry Pi</category><category>gnome-disks</category></item><item><title>Raspberry Pi - eine LED ein- und ausschalten - Teil 2</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_eine_LED_ein_und_ausschalten_Teil_2.html</link><description>&lt;p&gt;Raspberry Pi - eine LED ein- und ausschalten - Teil 2&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://commons.wikimedia.org/wiki/File:Raspberry-pi-gpio.png?uselang=de"&gt;http://commons.wikimedia.org/wiki/File:Raspberry-pi-gpio.png?uselang=de&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.raspberrypi.org/"&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://raspberrycenter.de/"&gt;http://raspberrycenter.de/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://wiringpi.com/"&gt;http://wiringpi.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Raspberry Pi - eine LED ein- und ausschalten - Teil 1:
+&lt;a href="http://youtu.be/iFewgCdIdMU"&gt;http://youtu.be/iFewgCdIdMU&lt;/a&gt;&lt;br /&gt;
+Raspberry Pi - Vorbereitungen: &lt;a href="http://youtu.be/iKeVyB_DCwg"&gt;http://youtu.be/iKeVyB_DCwg&lt;/a&gt;&lt;br /&gt;
+Raspberry Pi - das Betriebssystem installieren - raspbian: &lt;a href="http://youtu.be
+/qX-galb36Ng"&gt;http://youtu.be
+/qX-galb36Ng&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der RaspberryPi-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1XdcCuFjywxbVkUH03HaGp"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1XdcCuFjywxbVkUH03HaGp&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 02 May 2014 17:03:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-05-02:blog/Raspberry_Pi_eine_LED_ein_und_ausschalten_Teil_2.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category></item><item><title>Raspberry Pi - eine LED ein- und ausschalten</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_eine_LED_ein_und_ausschalten.html</link><description>&lt;p&gt;Raspberry Pi - eine LED ein- und ausschalten&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://commons.wikimedia.org/wiki/File:Raspberry-pi-gpio.png?uselang=de"&gt;http://commons.wikimedia.org/wiki/File:Raspberry-pi-gpio.png?uselang=de&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.raspberrypi.org/"&gt;http://www.raspberrypi.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://raspberrycenter.de/"&gt;http://raspberrycenter.de/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://wiringpi.com/"&gt;http://wiringpi.com/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Raspberry Pi - eine LED ein- und ausschalten - Teil 2:
+&lt;a href="http://youtu.be/9VSil7-1pBY"&gt;http://youtu.be/9VSil7-1pBY&lt;/a&gt;&lt;br /&gt;
+Raspberry Pi - Vorbereitungen: &lt;a href="http://youtu.be/iKeVyB_DCwg"&gt;http://youtu.be/iKeVyB_DCwg&lt;/a&gt;&lt;br /&gt;
+Raspberry Pi - das Betriebssystem installieren - raspbian: &lt;a href="http://youtu.be
+/qX-galb36Ng"&gt;http://youtu.be
+/qX-galb36Ng&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Weitere Videos in der RaspberryPi-Playlist:
+&lt;a href="https://www.youtube.com/playlist?list=PLQSXX2BYCVV1XdcCuFjywxbVkUH03HaGp"&gt;https://www.youtube.com/playlist?list=PLQSXX2BYCVV1XdcCuFjywxbVkUH03HaGp&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 01 May 2014 22:37:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-05-01:blog/Raspberry_Pi_eine_LED_ein_und_ausschalten.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category></item><item><title>SD-Karte des Raspberry Pi mit partclone sichern</title><link>https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</link><description>&lt;p&gt;SD-Karte des Raspberry Pi mit partclone sichern&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
+partclone/"&gt;http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
+partclone/&lt;/a&gt;&lt;br /&gt;
+SD-Karte des Raspberry Pi sichern: dd oder partclone? von
+&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.clonezilla.org/"&gt;http://www.clonezilla.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://partclone.org/"&gt;http://partclone.org/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Mar 2014 17:31:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-01:blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>partclone</category></item><item><title>SD-Karte des Raspberry Pi mit dd sichern</title><link>https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html</link><description>&lt;p&gt;SD-Karte des Raspberry Pi mit dd sichern&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-
+dd-oder-partclone"&gt;http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
+partclone/&lt;/a&gt;&lt;br /&gt;
+SD-Karte des Raspberry Pi sichern: dd oder partclone? von
+&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 01 Jan 2014 21:05:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-01:blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>SDCard</category><category>dd</category></item><item><title>Raspberry Pi - arkos - Genesis - Terminal und Execute (Kommandos über den Browser eingeben)</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_arkos_Genesis_Terminal_und_Execute_Kommandos_ueber_den_Browser_eingeben.html</link><description>&lt;p&gt;Raspberry Pi - arkos - Genesis - Terminal und Execute (Kommandos über den
+Browser eingeben)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Interview mit Jacob Cook (Entwickler von ArkOS)
+&lt;a href="https://www.youtube.com/watch?v=B_k6tkPB44A"&gt;https://www.youtube.com/watch?v=B_k6tkPB44A&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fund.arkos.io/"&gt;https://fund.arkos.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://arkos.io/"&gt;https://arkos.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://vinzv.de/was-ist-arkos-und-warum-sollte-ich-das-unterstuetzen/"&gt;http://vinzv.de/was-ist-arkos-und-warum-sollte-ich-das-unterstuetzen/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 14 Nov 2013 16:55:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-14:blog/Raspberry_Pi_arkos_Genesis_Terminal_und_Execute_Kommandos_ueber_den_Browser_eingeben.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>arkos</category><category>Genesis</category></item><item><title>Raspberry Pi - arkos installieren (Self-Hosting ganz einfach)</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_arkos_installieren_SelfHosting_ganz_einfach.html</link><description>&lt;p&gt;Raspberry Pi - arkos installieren (Self-Hosting ganz einfach)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Interview mit Jacob Cook (Entwickler von ArkOS)
+&lt;a href="https://www.youtube.com/watch?v=B_k6tkPB44A"&gt;https://www.youtube.com/watch?v=B_k6tkPB44A&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fund.arkos.io/"&gt;https://fund.arkos.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://arkos.io/"&gt;https://arkos.io/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://vinzv.de/was-ist-arkos-und-warum-sollte-ich-das-unterstuetzen/"&gt;http://vinzv.de/was-ist-arkos-und-warum-sollte-ich-das-unterstuetzen/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 06 Nov 2013 19:53:00 +0100</pubDate><guid>tag:www.openscreencast.de,2013-11-06:blog/Raspberry_Pi_arkos_installieren_SelfHosting_ganz_einfach.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>arkos</category></item><item><title>Raspberry Pi - Coder starten (HTML, CSS, Javascript ganz einfach lernen)</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_Coder_starten_HTML_CSS_Javascript_ganz_einfach_lernen.html</link><description>&lt;p&gt;Raspberry Pi - Coder starten (HTML, CSS, Javascript ganz einfach lernen)&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: BITblokes.de&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/"&gt;http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://googlecreativelab.github.io/coder/"&gt;http://googlecreativelab.github.io/coder/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 15 Oct 2013 16:48:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-15:blog/Raspberry_Pi_Coder_starten_HTML_CSS_Javascript_ganz_einfach_lernen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Coder</category><category>Raspberry Pi</category><category>Web</category><category>HTML</category></item><item><title>Raspberry Pi - Coder installieren</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_Coder_installieren.html</link><description>&lt;p&gt;Raspberry Pi - Coder installieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: BITblokes.de&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/"&gt;http://www.bitblokes.de/2013/09/raspberry-pi-google-coder-kurz-angetestet-
+ist-es-so-einfach-wie-google-behauptet/&lt;/a&gt;&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://googlecreativelab.github.io/coder/"&gt;http://googlecreativelab.github.io/coder/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 15 Oct 2013 16:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-15:blog/Raspberry_Pi_Coder_installieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Coder</category><category>Raspberry Pi</category></item><item><title>Raspberry Pi - pidora installieren</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_pidora_installieren.html</link><description>&lt;p&gt;Raspberry Pi - pidora installieren&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.raspberrypi.org/downloads"&gt;http://www.raspberrypi.org/downloads&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://fedoraproject.org/wiki/Fedora_ARM_Installer"&gt;https://fedoraproject.org/wiki/Fedora_ARM_Installer&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 08 Oct 2013 19:18:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-08:blog/Raspberry_Pi_pidora_installieren.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>pidora</category><category>Raspberry Pi</category></item><item><title>Raspberry Pi - das Betriebssystem installieren - raspbian</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_das_Betriebssystem_installieren_raspbian.html</link><description>&lt;p&gt;Raspberry Pi - das Betriebssystem installieren - raspbian&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.raspberrypi.org/downloads"&gt;http://www.raspberrypi.org/downloads&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 08 Oct 2013 19:15:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-08:blog/Raspberry_Pi_das_Betriebssystem_installieren_raspbian.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>raspbian</category><category>Raspberry Pi</category></item><item><title>Raspberry Pi - Vorbereitungen</title><link>https://www.openscreencast.de/blog/Raspberry_Pi_Vorbereitungen.html</link><description>&lt;p&gt;Raspberry Pi - Vorbereitungen&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/Raspberry_Pi"&gt;https://de.wikipedia.org/wiki/Raspberry_Pi&lt;/a&gt;&lt;br /&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Arduino-Plattform"&gt;https://de.wikipedia.org/wiki/Arduino-Plattform&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 05 Oct 2013 14:03:00 +0200</pubDate><guid>tag:www.openscreencast.de,2013-10-05:blog/Raspberry_Pi_Vorbereitungen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category></item></channel></rss>

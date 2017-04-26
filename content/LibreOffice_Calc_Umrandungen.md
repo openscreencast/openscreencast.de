@@ -4,7 +4,7 @@ Author: Heiko
 Category: Video
 Tags: CC by,Linux,Neueinsteiger,screencast,Linux Mint,LibreOffice,Calc
 Slug: LibreOffice_Calc_Umrandungen
-Album: http://www.openscreencast.de
+Album: https://www.openscreencast.de
 Duration: 165000
 License: http://creativecommons.org/licenses/by/3.0/
 Youtube: hsUbfOd87Gs
