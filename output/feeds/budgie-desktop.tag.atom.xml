@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/budgie-desktop.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2016-10-18T14:03:00+02:00</updated><entry><title>budgie-remix 16.10 (Budgie desktop) - Demo (Ubuntu-based)</title><link href="http://www.openscreencast.de/blog/budgieremix_1610_demo.html" rel="alternate"></link><published>2016-10-18T14:03:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-10-18:blog/budgieremix_1610_demo.html</id><summary type="html">&lt;p&gt;budgie-remix 16.10 (Budgie desktop) - Demo (Ubuntu-based)&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://budgie-remix.org/"&gt;budgie-remix&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="budgie-remix"></category><category term="Gnome"></category><category term="Budgie desktop"></category></entry></feed>

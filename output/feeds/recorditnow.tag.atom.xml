@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/recorditnow.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2009-12-04T17:33:00+01:00</updated><entry><title>RecordItNow</title><link href="http://www.openscreencast.de/blog/RecordItNow.html" rel="alternate"></link><published>2009-12-04T17:33:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-12-04:blog/RecordItNow.html</id><summary type="html">&lt;p&gt;Um Screencasts unter KDE4 mit recordmydesktop aufzunehmen gibt es jetzt ein
-schönes, neues Fronted dafür. Dieses Programm trägt den Namen
-&lt;a href="http://opendesktop.org/content/show.php/RecordItNow?content=114610"&gt;RecordItNow&lt;/a&gt;.
-Es gibt Module für Desktopaufnahmen, zum Hochladen der Screencasts auf
-Videoportale und es gibt Module um die Videos zu konvertieren.&lt;/p&gt;</summary><category term="News"></category><category term="Screencast-Tool"></category><category term="RecordItNow"></category></entry></feed>

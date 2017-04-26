@@ -6,7 +6,7 @@ PATH = os.getcwd()  # for PATH - PELICAN_COMMENT_SYSTEM_DIR
 
 AUTHOR = u'heiko'
 SITENAME = u'openscreencast'
-SITEURL = 'http://www.openscreencast.de'
+SITEURL = 'https://www.openscreencast.de'
 
 TIMEZONE = 'Europe/Berlin'
 

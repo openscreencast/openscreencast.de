@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/barplot.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2015-08-06T17:22:00+02:00</updated><entry><title>R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern</title><link href="http://www.openscreencast.de/blog/R_Vektoren_barplot.html" rel="alternate"></link><published>2015-08-06T17:22:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-06:blog/R_Vektoren_barplot.html</id><summary type="html">&lt;p&gt;R - Vektoren, ein Balkendiagramm erstellen und als Bild speichern, Linux Mint
-17.2&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="R"></category><category term="barplot"></category></entry></feed>

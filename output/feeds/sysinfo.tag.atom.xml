@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/sysinfo.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2010-09-05T03:56:00+02:00</updated><entry><title>Hardware-Informationen (Desktop)</title><link href="http://www.openscreencast.de/blog/hardwareinfo.html" rel="alternate"></link><published>2010-09-05T03:56:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-09-05:blog/hardwareinfo.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 10.04, GNOME 2.30&lt;br /&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: apt-get, hardinfo, sysinfo, gnome-device-manager&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Ger%C3%A4temanager?highlight=ger%C3%A4temanager"&gt;Geraetemanager&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="sysinfo"></category><category term="hardinfo"></category><category term="gnome-device-manager"></category><category term="Hardware-Information"></category></entry></feed>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/shutter.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 19 Oct 2010 00:36:00 +0200</lastBuildDate><item><title>Shutter Screencasts</title><link>http://www.openscreencast.de/blog/shutter.html</link><description>&lt;p&gt;&lt;a href="http://shutter-project.org/"&gt;Shutter&lt;/a&gt; ist ein Tool um Bildschirmfotos
-(Screenshots) aufzunehmen.
-&lt;a href="http://de.wikipedia.org/wiki/Shutter_%28Software%29"&gt;Shutter&lt;/a&gt; ist Open-
-Source-Software und steht unter der Lizenz
-&lt;a href="http://de.wikipedia.org/wiki/GPLv3#GPL_Version_3"&gt;GPLv3&lt;/a&gt;. Mit Shutter können
-ganze Desktops, Fenster, spezifische Bereiche, Menüs, Tooltips und Webseiten
-aufgenommen werden. Wie Shutter funktioniert zeigen auch die
-&lt;a href="http://shutter-project.org/preview/screencasts/"&gt;Screencasts&lt;/a&gt; dazu.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 19 Oct 2010 00:36:00 +0200</pubDate><guid>tag:www.openscreencast.de,2010-10-19:blog/shutter.html</guid><category>News</category><category>screencast</category><category>Shutter</category></item></channel></rss>

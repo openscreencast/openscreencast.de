@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>http://www.openscreencast.de/</link><description></description><atom:link href="http://www.openscreencast.de/feeds/elisa.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 23 Feb 2007 02:27:00 +0100</lastBuildDate><item><title>Elisa in Aktion</title><link>http://www.openscreencast.de/blog/Elisa_in_Aktion.html</link><description>&lt;p&gt;Elisa ist ein Projekt das sich bemüht eine Software-Lösung für Media Center zu
-entwickeln. Das &lt;a href="http://de.wikipedia.org/wiki/Gstreamer"&gt;Open Source Multimedia Framework
-gstreamer&lt;/a&gt; bildet den Grundbauchstein
-für Elisa. &lt;a href="http://www.fluendo.com/elisa/screencast.php"&gt;Hier&lt;/a&gt; und
-&lt;a href="http://ben.amasoean.de/articles/2006/11/12/129_Elisa-for-free.html"&gt;hier&lt;/a&gt;
-stehen Screencasts parat die Elisa in Aktion zeigen.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 23 Feb 2007 02:27:00 +0100</pubDate><guid>tag:www.openscreencast.de,2007-02-23:blog/Elisa_in_Aktion.html</guid><category>elisa</category><category>GPL</category><category>gstreamer</category><category>News</category><category>ohne Audio</category><category>screencast</category></item></channel></rss>

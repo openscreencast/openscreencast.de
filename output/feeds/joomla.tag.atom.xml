@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="http://www.openscreencast.de/" rel="alternate"></link><link href="http://www.openscreencast.de/feeds/joomla.tag.atom.xml" rel="self"></link><id>http://www.openscreencast.de/</id><updated>2006-11-15T23:55:00+01:00</updated><entry><title>Filmanleitungen über Joomla, Firefox und XAMPP</title><link href="http://www.openscreencast.de/blog/Filmanleitungen_Joomla_Firefox_XAMPP.html" rel="alternate"></link><published>2006-11-15T23:55:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-15:blog/Filmanleitungen_Joomla_Firefox_XAMPP.html</id><summary type="html">&lt;p&gt;Auf der Seite &lt;a href="http://www.filmanleitungen.de"&gt;www.filmanleitungen.de&lt;/a&gt; wird man
-per &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; unter anderem über
-&lt;a href="http://de.wikipedia.org/wiki/Xampp"&gt;XAMPP&lt;/a&gt;,
-&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/Joomla"&gt;CMS
-Joomla&lt;/a&gt; unterrichtet. Die Video-Tutorials
-sind für Neueinsteiger als auch für fortgeschrittene Anwender.
-Audioerklärungen sind in deutscher Sprache zu hören.&lt;/p&gt;</summary><category term="CMS"></category><category term="Deutsch"></category><category term="Firefox"></category><category term="Joomla"></category><category term="News"></category><category term="screencast"></category><category term="Xampp"></category></entry></feed>

@@ -22,4 +22,6 @@ Github: [https://github.com/openscreencast](https://github.com/openscreencast)
 
 Twitter: [http://twitter.com/openscreencast](http://twitter.com/openscreencast)
 
+Keybase: [https://keybase.io/openscreencast](https://keybase.io/openscreencast)
+
 [GPG PubKey](http://www.openscreencast.de/gpg-key.asc)
