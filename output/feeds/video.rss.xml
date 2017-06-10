@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/video.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 20 Apr 2017 13:54:00 +0200</lastBuildDate><item><title>Python-Programmierung - die Adressen der Bilder einer HTML-Seite herausfiltern</title><link>https://www.openscreencast.de/blog/python_bildurls_herausfiltern.html</link><description>&lt;p&gt;Python-Programmierung - die Adressen der Bilder einer HTML-Seite
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/video.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 10 Jun 2017 16:59:00 +0200</lastBuildDate><item><title>MX Linux 16.1 - Demo</title><link>https://www.openscreencast.de/blog/mx_linux_demo.html</link><description>&lt;p&gt;MX Linux 16.1 - Demo&lt;br /&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://mxlinux.org/"&gt;https://mxlinux.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 10 Jun 2017 16:59:00 +0200</pubDate><guid>tag:www.openscreencast.de,2017-06-10:blog/mx_linux_demo.html</guid><category>CC by</category><category>Neueinsteiger</category><category>screencast</category><category>Demo</category><category>Linux</category><category>MX Linux</category><category>Xfce</category></item><item><title>Python-Programmierung - die Adressen der Bilder einer HTML-Seite herausfiltern</title><link>https://www.openscreencast.de/blog/python_bildurls_herausfiltern.html</link><description>&lt;p&gt;Python-Programmierung - die Adressen der Bilder einer HTML-Seite
 herausfiltern, Linux Mint 18.1&lt;br /&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
