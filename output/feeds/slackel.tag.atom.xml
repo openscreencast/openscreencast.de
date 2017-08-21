@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/slackel.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-17T16:44:00+02:00</updated><entry><title>Slackel 5.0 Openbox edition - Demo</title><link href="https://www.openscreencast.de/blog/Slackel_50_Openbox_edition_Demo.html" rel="alternate"></link><published>2013-10-17T16:44:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-17:blog/Slackel_50_Openbox_edition_Demo.html</id><summary type="html">&lt;p&gt;Slackel 5.0 Openbox edition - Demo&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Slackel</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/slackel.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-17T16:44:00+02:00</updated><entry><title>Slackel 5.0 Openbox edition - Demo</title><link href="https://www.openscreencast.de/blog/Slackel_50_Openbox_edition_Demo.html" rel="alternate"></link><published>2013-10-17T16:44:00+02:00</published><updated>2013-10-17T16:44:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-17:/blog/Slackel_50_Openbox_edition_Demo.html</id><summary type="html">&lt;p&gt;Slackel 5.0 Openbox edition - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Musik:&lt;br /&gt;
+&lt;p&gt;Musik:&lt;br&gt;
 Petit talibé - INSTRUMENTAL VERSION by Löhstana David &lt;a href="http://www.lohstana-
 david.com/"&gt;http://www.lohstana-
-david.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.youtube.com/user/MrLoupiot"&gt;https://www.youtube.com/user/MrLoupiot&lt;/a&gt;&lt;br /&gt;
+david.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/user/MrLoupiot"&gt;https://www.youtube.com/user/MrLoupiot&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.slackel.gr/"&gt;http://www.slackel.gr/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Openbox"></category><category term="Slackel"></category><category term="Demo"></category></entry></feed>
+&lt;p&gt;&lt;a href="http://www.slackel.gr/"&gt;http://www.slackel.gr/&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Slackel 5.0 Openbox edition - Demo&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br&gt;
+Petit talibé - INSTRUMENTAL VERSION by Löhstana David &lt;a href="http://www.lohstana-
+david.com/"&gt;http://www.lohstana-
+david.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/user/MrLoupiot"&gt;https://www.youtube.com/user/MrLoupiot&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.slackel.gr/"&gt;http://www.slackel.gr/&lt;/a&gt;&lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Openbox"></category><category term="Slackel"></category><category term="Demo"></category></entry></feed>

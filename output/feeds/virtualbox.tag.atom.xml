@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/virtualbox.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-04-21T17:43:00+02:00</updated><entry><title>Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org</title><link href="https://www.openscreencast.de/blog/Fertige_virtuelle_Maschinen_mit_zahlreichen_freien_OS_auf_VirtualBoxesorg.html" rel="alternate"></link><published>2014-04-21T17:43:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-21:blog/Fertige_virtuelle_Maschinen_mit_zahlreichen_freien_OS_auf_VirtualBoxesorg.html</id><summary type="html">&lt;p&gt;Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - VirtualBox</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/virtualbox.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-04-21T17:43:00+02:00</updated><entry><title>Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org</title><link href="https://www.openscreencast.de/blog/Fertige_virtuelle_Maschinen_mit_zahlreichen_freien_OS_auf_VirtualBoxesorg.html" rel="alternate"></link><published>2014-04-21T17:43:00+02:00</published><updated>2014-04-21T17:43:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-21:/blog/Fertige_virtuelle_Maschinen_mit_zahlreichen_freien_OS_auf_VirtualBoxesorg.html</id><summary type="html">&lt;p&gt;Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://virtualboxes.org/"&gt;http://virtualboxes.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://distrowatch.com/"&gt;http://distrowatch.com/&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href="http://virtualboxes.org/"&gt;http://virtualboxes.org/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://distrowatch.com/"&gt;http://distrowatch.com/&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen"&gt;http://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/fertige-virtuelle-maschinen-mit-
 zahlreichen-freien-os-auf-virtualboxes-org/"&gt;http://linuxundich.de/ubuntu/fertige-virtuelle-maschinen-mit-
-zahlreichen-freien-os-auf-virtualboxes-org/&lt;/a&gt;&lt;br /&gt;
+zahlreichen-freien-os-auf-virtualboxes-org/&lt;/a&gt;&lt;br&gt;
 Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org von
-Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Christoph Langner …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://virtualboxes.org/"&gt;http://virtualboxes.org/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://distrowatch.com/"&gt;http://distrowatch.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen"&gt;http://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/fertige-virtuelle-maschinen-mit-
+zahlreichen-freien-os-auf-virtualboxes-org/"&gt;http://linuxundich.de/ubuntu/fertige-virtuelle-maschinen-mit-
+zahlreichen-freien-os-auf-virtualboxes-org/&lt;/a&gt;&lt;br&gt;
+Fertige virtuelle Maschinen mit zahlreichen freien OS auf VirtualBoxes.org von
+Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Weitere Videos in der Linux-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="VirtualBox"></category></entry></feed>
+&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="VirtualBox"></category></entry></feed>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/openshot.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 04 Jan 2014 21:42:00 +0100</lastBuildDate><item><title>Video-Editor OpenShot - Transparente Bilder über Video legen</title><link>https://www.openscreencast.de/blog/VideoEditor_OpenShot_Transparente_Bilder_ueber_Video_legen.html</link><description>&lt;p&gt;Video-Editor OpenShot - Transparente Bilder über Video legen&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - OpenShot</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sat, 04 Jan 2014 21:42:00 +0100</lastBuildDate><item><title>Video-Editor OpenShot - Transparente Bilder über Video legen</title><link>https://www.openscreencast.de/blog/VideoEditor_OpenShot_Transparente_Bilder_ueber_Video_legen.html</link><description>&lt;p&gt;Video-Editor OpenShot - Transparente Bilder über Video legen&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://www.bitblokes.de/2012/09/video-editor-openshot-transparente-bilder-
 uber-video-legen/"&gt;http://www.bitblokes.de/2012/09/video-editor-openshot-transparente-bilder-
-uber-video-legen/&lt;/a&gt;&lt;br /&gt;
-Video-Editor OpenShot: Transparente Bilder über Video legen von bitblokes.de&lt;br /&gt;
+uber-video-legen/&lt;/a&gt;&lt;br&gt;
+Video-Editor OpenShot: Transparente Bilder über Video legen von bitblokes.de&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/OpenShot"&gt;http://de.wikipedia.org/wiki/OpenShot&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;http://de.wikipedia.org/wiki/Gimp&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 04 Jan 2014 21:42:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-04:blog/VideoEditor_OpenShot_Transparente_Bilder_ueber_Video_legen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>OpenShot</category><category>Videoeditor</category></item><item><title>OpenShot Video Editor</title><link>https://www.openscreencast.de/blog/OpenShot.html</link><description>&lt;p&gt;Vor kurzem erst habe ich einen neuen Video-Editor für Linux entdeckt. Dieser
+&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/OpenShot"&gt;http://de.wikipedia.org/wiki/OpenShot&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Gimp"&gt;http://de …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 04 Jan 2014 21:42:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-01-04:/blog/VideoEditor_OpenShot_Transparente_Bilder_ueber_Video_legen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>OpenShot</category><category>Videoeditor</category></item><item><title>OpenShot Video Editor</title><link>https://www.openscreencast.de/blog/OpenShot.html</link><description>&lt;p&gt;Vor kurzem erst habe ich einen neuen Video-Editor für Linux entdeckt. Dieser
 nichtlineare Open-Source Video-Editor heißt
 &lt;a href="http://www.openshotvideo.com/"&gt;OpenShot&lt;/a&gt;. Die Bedienung von OpenShot ist sehr
 einfach. OpenShot unterstützt viele Video-, Audio- und Bilder-Formate. Titel
 können erstellt werden und es gibt über 20 Video-Effekte die man einsetzen
 kann. Ein paar &lt;a href="http://www.openshotvideo.com/2008/04/videos.html"&gt;Videos&lt;/a&gt;
-stehen auch zur Verfügung.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 10 Nov 2009 17:24:00 +0100</pubDate><guid>tag:www.openscreencast.de,2009-11-10:blog/OpenShot.html</guid><category>News</category><category>Videobearbeitung</category><category>Videoeditor</category><category>OpenShot</category></item></channel></rss>
+stehen auch …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 10 Nov 2009 17:24:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2009-11-10:/blog/OpenShot.html</guid><category>News</category><category>Videobearbeitung</category><category>Videoeditor</category><category>OpenShot</category></item></channel></rss>

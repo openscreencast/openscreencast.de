@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/vivaldi.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-02-22T20:16:00+01:00</updated><entry><title>Vivaldi Browser - Demo</title><link href="https://www.openscreencast.de/blog/VivaldiBrowser_Demo.html" rel="alternate"></link><published>2015-02-22T20:16:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/VivaldiBrowser_Demo.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Demo, Linux Mint 17.1&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Vivaldi</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/vivaldi.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-02-22T20:16:00+01:00</updated><entry><title>Vivaldi Browser - Demo</title><link href="https://www.openscreencast.de/blog/VivaldiBrowser_Demo.html" rel="alternate"></link><published>2015-02-22T20:16:00+01:00</published><updated>2015-02-22T20:16:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:/blog/VivaldiBrowser_Demo.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Demo, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
@@ -7,9 +7,17 @@ Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creat
 &lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Musik: We Always Thought the Future Would Be Kind of Fun von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: CC by 3.0&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category><category term="Demo"></category></entry><entry><title>Vivaldi Browser - Linux</title><link href="https://www.openscreencast.de/blog/VivaldiBrowser_Linux.html" rel="alternate"></link><published>2015-02-22T20:09:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:blog/VivaldiBrowser_Linux.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Linux, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Vivaldi Browser - Demo, Linux Mint 17.1&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.net/blogs/teamblog/" title="Link zu vivaldi.net"&gt;Vivaldi Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Musik: We Always Thought the Future Would Be Kind of Fun von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: CC by 3.0&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category><category term="Demo"></category></entry><entry><title>Vivaldi Browser - Linux</title><link href="https://www.openscreencast.de/blog/VivaldiBrowser_Linux.html" rel="alternate"></link><published>2015-02-22T20:09:00+01:00</published><updated>2015-02-22T20:09:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:/blog/VivaldiBrowser_Linux.html</id><summary type="html">&lt;p&gt;Vivaldi Browser - Linux, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://www.bitblokes.de/2015/02
 /vivaldi-browser-nun-auch-fuer-32-bit-linux/"&gt;Vivaldi Browser nun auch für 32-Bit-Linux&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by 3.0&lt;/a&gt;&lt;/p&gt;
@@ -18,4 +26,15 @@ Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by 3.0&lt
 &lt;li&gt;&lt;a href="https://vivaldi.net/blogs/teamblog/" title="Link zu vivaldi.net"&gt;Vivaldi Blog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Vivaldi Browser - Linux, Linux Mint 17.1&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="https://www.bitblokes.de/2015/02
+/vivaldi-browser-nun-auch-fuer-32-bit-linux/"&gt;Vivaldi Browser nun auch für 32-Bit-Linux&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by 3.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.net/blogs/teamblog/" title="Link zu vivaldi.net"&gt;Vivaldi Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vivaldi.com/" title="Link zu vivaldi.com/"&gt;Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29" title="Link zu wikipedia.org"&gt;WP:Vivaldi Browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="Vivaldi"></category><category term="Browser"></category></entry></feed>

@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/sdcard.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-01-01T21:05:00+01:00</updated><entry><title>SD-Karte des Raspberry Pi mit dd sichern</title><link href="https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html" rel="alternate"></link><published>2014-01-01T21:05:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-01-01:blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html</id><summary type="html">&lt;p&gt;SD-Karte des Raspberry Pi mit dd sichern&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - SDCard</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/sdcard.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-01-01T21:05:00+01:00</updated><entry><title>SD-Karte des Raspberry Pi mit dd sichern</title><link href="https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html" rel="alternate"></link><published>2014-01-01T21:05:00+01:00</published><updated>2014-01-01T21:05:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-01-01:/blog/SDKarte_des_Raspberry_Pi_mit_dd_sichern.html</id><summary type="html">&lt;p&gt;SD-Karte des Raspberry Pi mit dd sichern&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-
 dd-oder-partclone"&gt;http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
-partclone/&lt;/a&gt;&lt;br /&gt;
+partclone/&lt;/a&gt;&lt;br&gt;
 SD-Karte des Raspberry Pi sichern: dd oder partclone? von
-&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Raspberry Pi"></category><category term="SDCard"></category><category term="dd"></category></entry></feed>
+&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;SD-Karte des Raspberry Pi mit dd sichern&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-
+dd-oder-partclone"&gt;http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
+partclone/&lt;/a&gt;&lt;br&gt;
+SD-Karte des Raspberry Pi sichern: dd oder partclone? von
+&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Raspberry Pi"></category><category term="SDCard"></category><category term="dd"></category></entry></feed>

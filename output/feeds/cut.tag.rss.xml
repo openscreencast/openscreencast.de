@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/cut.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 16 Aug 2015 17:41:00 +0200</lastBuildDate><item><title>Linux - cut (schneiden)</title><link>https://www.openscreencast.de/blog/Linux_cut.html</link><description>&lt;p&gt;Linux - cut (schneiden), Linux Mint 17.2&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - cut</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 16 Aug 2015 17:41:00 +0200</lastBuildDate><item><title>Linux - cut (schneiden)</title><link>https://www.openscreencast.de/blog/Linux_cut.html</link><description>&lt;p&gt;Linux - cut (schneiden), Linux Mint 17.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
-&lt;a href="http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html"&gt;http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html"&gt;http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html&lt;/a&gt;&lt;br&gt;
 Texte mittels Filterprogrammen bearbeiten von F.Kalhammer &lt;a href="http://www.linux-
 praxis.de"&gt;http://www.linux-
-praxis.de&lt;/a&gt;&lt;br /&gt;
+praxis.de&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 16 Aug 2015 17:41:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-16:blog/Linux_cut.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>cut</category><category>Linux Mint</category></item></channel></rss>
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 16 Aug 2015 17:41:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-08-16:/blog/Linux_cut.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>cut</category><category>Linux Mint</category></item></channel></rss>

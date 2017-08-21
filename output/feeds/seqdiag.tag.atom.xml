@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/seqdiag.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-12-19T16:25:00+01:00</updated><entry><title>blockdiag - nwdiag und seqdiag</title><link href="https://www.openscreencast.de/blog/blockdiag_nwdiag_seqdiag.html" rel="alternate"></link><published>2013-12-19T16:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-12-19:blog/blockdiag_nwdiag_seqdiag.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 18&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - seqdiag</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/seqdiag.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-12-19T16:25:00+01:00</updated><entry><title>blockdiag - nwdiag und seqdiag</title><link href="https://www.openscreencast.de/blog/blockdiag_nwdiag_seqdiag.html" rel="alternate"></link><published>2013-12-19T16:25:00+01:00</published><updated>2013-12-19T16:25:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-12-19:/blog/blockdiag_nwdiag_seqdiag.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 18&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-01" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-01&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blockdiag.com/en/"&gt;http://blockdiag.com/en/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="blockdiag"></category><category term="nwdiag"></category><category term="seqdiag"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 18&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.freiesmagazin.de/freiesMagazin-2013-01" title="Link zu freiesmagazin.de"&gt;freiesMagazin-2013-01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blockdiag.com/en/"&gt;http://blockdiag.com/en/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="gnome3"></category><category term="blockdiag"></category><category term="nwdiag"></category><category term="seqdiag"></category></entry></feed>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wikkawiki.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2009-10-20T18:29:00+02:00</updated><entry><title>WikkaWiki Screencasts</title><link href="https://www.openscreencast.de/blog/WikkaWiki.html" rel="alternate"></link><published>2009-10-20T18:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-10-20:blog/WikkaWiki.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/WikkaWiki"&gt;WikkaWiki&lt;/a&gt; ist eine, wie man am Namen
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - WikkaWiki</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wikkawiki.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2009-10-20T18:29:00+02:00</updated><entry><title>WikkaWiki Screencasts</title><link href="https://www.openscreencast.de/blog/WikkaWiki.html" rel="alternate"></link><published>2009-10-20T18:29:00+02:00</published><updated>2009-10-20T18:29:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-10-20:/blog/WikkaWiki.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/WikkaWiki"&gt;WikkaWiki&lt;/a&gt; ist eine, wie man am Namen
 schon erkennen kann, Wiki-Software. WikkaWiki ist in der Programmiersprache
 PHP geschrieben und steht unter der &lt;a href="http://de.wikipedia.org/wiki/GPL"&gt;GPL-
 License&lt;/a&gt;. Es stehen mehrere kurze
 &lt;a href="http://docs.wikkawiki.org/WikkaInAction"&gt;Screencasts&lt;/a&gt; auf der Homapge von
-WikkaWiki zur Verfügung. Außerdem gibt es die Videos noch bei YouTube.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="WikkaWiki"></category></entry></feed>
+WikkaWiki zur Verfügung. Außerdem gibt es die Videos noch bei YouTube.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/WikkaWiki"&gt;WikkaWiki&lt;/a&gt; ist eine, wie man am Namen
+schon erkennen kann, Wiki-Software. WikkaWiki ist in der Programmiersprache
+PHP geschrieben und steht unter der &lt;a href="http://de.wikipedia.org/wiki/GPL"&gt;GPL-
+License&lt;/a&gt;. Es stehen mehrere kurze
+&lt;a href="http://docs.wikkawiki.org/WikkaInAction"&gt;Screencasts&lt;/a&gt; auf der Homapge von
+WikkaWiki zur Verfügung. Außerdem gibt es die Videos noch bei YouTube.&lt;/p&gt;</content><category term="News"></category><category term="screencast"></category><category term="WikkaWiki"></category></entry></feed>

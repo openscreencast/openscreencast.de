@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/git.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 30 Aug 2015 16:16:00 +0200</lastBuildDate><item><title>Git für Einsteiger - Branches mergen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_mergen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches mergen, Linux Mint 17.2&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - Git</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 30 Aug 2015 16:16:00 +0200</lastBuildDate><item><title>Git für Einsteiger - Branches mergen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_mergen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches mergen, Linux Mint 17.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/11/01/git-fur-
 einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
 http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:16:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Git_fuer_Einsteiger_Branches_mergen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Branches anlegen - Teil 2</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen- Teil 2, Linux Mint 17.2&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:16:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-08-30:/blog/Git_fuer_Einsteiger_Branches_mergen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Branches anlegen - Teil 2</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen- Teil 2, Linux Mint 17.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/11/01/git-fur-
 einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
 http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:49:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-01:blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Branches anlegen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen, Linux Mint 17.2&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Aug 2015 09:49:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-08-01:/blog/Git_fuer_Einsteiger_Branches_anlegen_teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Branches anlegen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branches_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Branches anlegen, Linux Mint 17.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/11/01/git-fur-
 einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz:
 http://creativecommons.org/licenses/by-sa/3.0/&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 30 Jul 2015 23:47:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-07-30:blog/Git_fuer_Einsteiger_Branches_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Allgemeines zum Branching</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</link><description>&lt;p&gt;Git für Einsteiger - Allgemeines zum Branching, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 30 Jul 2015 23:47:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-07-30:/blog/Git_fuer_Einsteiger_Branches_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Allgemeines zum Branching</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</link><description>&lt;p&gt;Git für Einsteiger - Allgemeines zum Branching, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/11/01/git-fur-
 einsteiger-teil-2/"&gt;Git für Einsteiger - Teil 2&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:09:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-03-30:blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Der erste Commit - Teil 2</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit - Teil 2, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 30 Mar 2015 13:09:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-03-30:/blog/Git_fuer_Einsteiger_Branching_Allgemeines.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category><category>Branching</category></item><item><title>Git für Einsteiger - Der erste Commit - Teil 2</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit - Teil 2, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/10/25/git-fur-
 einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 22 Feb 2015 20:23:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-22:blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Der erste Commit</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 22 Feb 2015 20:23:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-22:/blog/Git_fuer_Einsteiger_der_erste_Commit_Teil2.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Der erste Commit</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_der_erste_Commit.html</link><description>&lt;p&gt;Git für Einsteiger - Der erste Commit, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/10/25/git-fur-
 einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 14:01:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_der_erste_Commit.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - den ersten Commit vorbereiten</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</link><description>&lt;p&gt;Git für Einsteiger - den ersten Commit vorbereiten, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 14:01:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-15:/blog/Git_fuer_Einsteiger_der_erste_Commit.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - den ersten Commit vorbereiten</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</link><description>&lt;p&gt;Git für Einsteiger - den ersten Commit vorbereiten, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/10/25/git-fur-
 einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:58:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Git-Repository anlegen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Git-Repository anlegen, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:58:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-15:/blog/Git_fuer_Einsteiger_den_ersten_Commit_vorbereiten.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Git-Repository anlegen</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</link><description>&lt;p&gt;Git für Einsteiger - Git-Repository anlegen, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/10/25/git-fur-
 einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:09:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Was ist Git ?</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Was_ist_Git.html</link><description>&lt;p&gt;Git für Einsteiger - Was ist Git ?, Linux Mint 17.1&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:09:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-15:/blog/Git_fuer_Einsteiger_GitRepository_anlegen.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git für Einsteiger - Was ist Git ?</title><link>https://www.openscreencast.de/blog/Git_fuer_Einsteiger_Was_ist_Git.html</link><description>&lt;p&gt;Git für Einsteiger - Was ist Git ?, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://svij.org/blog/2014/10/25/git-fur-
 einsteiger-teil-1/"&gt;Git für Einsteiger - Teil 1&lt;/a&gt; von &lt;a href="http://svij.org/"&gt;Sujeevan Vijayakumaran&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;CC
 by-sa 3.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Git" title="Link zu wikipedia.org/"&gt;WP:Git&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:02:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Git_fuer_Einsteiger_Was_ist_Git.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git in 15 Minuten lernen</title><link>https://www.openscreencast.de/blog/Git_in_15_Minuten_lernen.html</link><description>&lt;p&gt;Git in 15 Minuten lernen&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:02:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-15:/blog/Git_fuer_Einsteiger_Was_ist_Git.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Linux Mint</category><category>Git</category></item><item><title>Git in 15 Minuten lernen</title><link>https://www.openscreencast.de/blog/Git_in_15_Minuten_lernen.html</link><description>&lt;p&gt;Git in 15 Minuten lernen&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://try.github.io"&gt;https://try.github.io&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://git-scm.com/documentation"&gt;http://git-scm.com/documentation&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href="https://try.github.io"&gt;https://try.github.io&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://git-scm.com/documentation"&gt;http://git-scm.com/documentation&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://git-scm.com/book/de"&gt;http://git-scm.com/book/de&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Weitere Videos in der Web-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 09 May 2014 19:10:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-05-09:blog/Git_in_15_Minuten_lernen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>git</category><category>Web</category></item></channel></rss>
+&lt;a href="https://www.youtube.com/playlist?list=PLD0E6664C1AE63411"&gt;https://www.youtube.com/playlist?list=PLD0E6664C1AE63411&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Fri, 09 May 2014 19:10:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-05-09:/blog/Git_in_15_Minuten_lernen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>git</category><category>Web</category></item></channel></rss>

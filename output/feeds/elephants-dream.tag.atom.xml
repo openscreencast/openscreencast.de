@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/elephants-dream.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-10-19T18:20:00+02:00</updated><entry><title>Blender Screencasts</title><link href="https://www.openscreencast.de/blog/Blender_Screencasts.html" rel="alternate"></link><published>2006-10-19T18:20:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-19:blog/Blender_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Blender_%28Software%29"&gt;Blender&lt;/a&gt; ein Open Source
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - elephants dream</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/elephants-dream.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-10-19T18:20:00+02:00</updated><entry><title>Blender Screencasts</title><link href="https://www.openscreencast.de/blog/Blender_Screencasts.html" rel="alternate"></link><published>2006-10-19T18:20:00+02:00</published><updated>2006-10-19T18:20:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-10-19:/blog/Blender_Screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Blender_%28Software%29"&gt;Blender&lt;/a&gt; ein Open Source
 3D-Modellierungsprogramm. Für den Anfang ist es sicher schwer mit Blender
 umzugehen aber vielleicht können die
 &lt;a href="http://www.blender3d.org/cms/Video_Tutorials.396.0.html"&gt;Screencasts&lt;/a&gt; (in
 Englisch) da ein bißchen unter die Arme greifen. Wer weiß mit viel Übung und
 viel Talent arbeitet man eines Tages eventuell sogar an einem Projekt wie
-&lt;a href="http://www.elephantsdream.org/"&gt;elephants dream&lt;/a&gt;.&lt;/p&gt;</summary><category term="Blender"></category><category term="elephants dream"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry></feed>
+&lt;a href="http://www.elephantsdream.org/"&gt;elephants dream&lt;/a&gt;.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Blender_%28Software%29"&gt;Blender&lt;/a&gt; ein Open Source
+3D-Modellierungsprogramm. Für den Anfang ist es sicher schwer mit Blender
+umzugehen aber vielleicht können die
+&lt;a href="http://www.blender3d.org/cms/Video_Tutorials.396.0.html"&gt;Screencasts&lt;/a&gt; (in
+Englisch) da ein bißchen unter die Arme greifen. Wer weiß mit viel Übung und
+viel Talent arbeitet man eines Tages eventuell sogar an einem Projekt wie
+&lt;a href="http://www.elephantsdream.org/"&gt;elephants dream&lt;/a&gt;.&lt;/p&gt;</content><category term="Blender"></category><category term="elephants dream"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category></entry></feed>

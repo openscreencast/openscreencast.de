@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/commandlinefu.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 06 Apr 2014 19:35:00 +0200</lastBuildDate><item><title>Linux - commandlinefu liefert Beispiele zu Terminalbefehlen</title><link>https://www.openscreencast.de/blog/Linux_commandlinefu_liefert_Beispiele_zu_Terminalbefehlen.html</link><description>&lt;p&gt;Linux - commandlinefu liefert Beispiele zu Terminalbefehlen&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - commandlinefu</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 06 Apr 2014 19:35:00 +0200</lastBuildDate><item><title>Linux - commandlinefu liefert Beispiele zu Terminalbefehlen</title><link>https://www.openscreencast.de/blog/Linux_commandlinefu_liefert_Beispiele_zu_Terminalbefehlen.html</link><description>&lt;p&gt;Linux - commandlinefu liefert Beispiele zu Terminalbefehlen&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/bropages-und-commandlinefu-com-
 liefern-beispiele-zu-terminalbefehlen-auch-aus-dem-terminal-heraus/"&gt;http://linuxundich.de/ubuntu/bropages-und-commandlinefu-com-
-liefern-beispiele-zu-terminalbefehlen-auch-aus-dem-terminal-heraus/&lt;/a&gt;&lt;br /&gt;
+liefern-beispiele-zu-terminalbefehlen-auch-aus-dem-terminal-heraus/&lt;/a&gt;&lt;br&gt;
 Bropages und commandlinefu.com liefern Beispiele zu Terminalbefehlen... auch
-aus dem Terminal heraus von Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+aus dem Terminal heraus von Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.commandlinefu.com/"&gt;http://www.commandlinefu.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://github.com/samirahmed/fu"&gt;https://github.com/samirahmed/fu&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://manpages.debian.org/"&gt;http://manpages.debian.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://github.com/chrisallenlane/cheat"&gt;https://github.com/chrisallenlane/cheat&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://bropages.org/"&gt;http://bropages.org/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Weitere Videos in der Linux-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 06 Apr 2014 19:35:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-06:blog/Linux_commandlinefu_liefert_Beispiele_zu_Terminalbefehlen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>commandlinefu</category></item></channel></rss>
+&lt;p&gt;&lt;a href="http://www.commandlinefu.com/"&gt;http://www …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 06 Apr 2014 19:35:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-04-06:/blog/Linux_commandlinefu_liefert_Beispiele_zu_Terminalbefehlen.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>commandlinefu</category></item></channel></rss>

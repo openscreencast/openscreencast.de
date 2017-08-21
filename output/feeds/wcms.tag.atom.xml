@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wcms.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-11-23T03:11:00+01:00</updated><entry><title>Screencasts über TYPO3</title><link href="https://www.openscreencast.de/blog/Screencasts_ueber_TYPO3.html" rel="alternate"></link><published>2006-11-23T03:11:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-23:blog/Screencasts_ueber_TYPO3.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/TYPO3"&gt;TYPO3&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - WCMS</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wcms.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-11-23T03:11:00+01:00</updated><entry><title>Screencasts über TYPO3</title><link href="https://www.openscreencast.de/blog/Screencasts_ueber_TYPO3.html" rel="alternate"></link><published>2006-11-23T03:11:00+01:00</published><updated>2006-11-23T03:11:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-23:/blog/Screencasts_ueber_TYPO3.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/TYPO3"&gt;TYPO3&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
 Source&lt;/a&gt;-WCMS (&lt;a href="http://de.wikipedia.org/wiki/Web_Content_Management_System"&gt;Web Content
 Management
 System&lt;/a&gt;) für
@@ -9,4 +9,14 @@ richtig anzuwenden.&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://www.mcuniverse.com/05/TYPO3_Flash_Tutorial.154.0.html"&gt;TYPO3 Flash Tutorials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://typo3.org/1407.0.html"&gt;Video-Tutorials in Englisch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://jweiland.net/typo3cms/howto/einstieg-in-typo3/"&gt;Videos zum Quickstart-Tutorial in Deutsch&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CMS"></category><category term="Deutsch"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Typo3"></category><category term="WCMS"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/TYPO3"&gt;TYPO3&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt;-WCMS (&lt;a href="http://de.wikipedia.org/wiki/Web_Content_Management_System"&gt;Web Content
+Management
+System&lt;/a&gt;) für
+mittlere und große Internetseiten. Folgende Video-Tutorials helfen dabei TYPO3
+richtig anzuwenden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mcuniverse.com/05/TYPO3_Flash_Tutorial.154.0.html"&gt;TYPO3 Flash Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://typo3.org/1407.0.html"&gt;Video-Tutorials in Englisch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jweiland.net/typo3cms/howto/einstieg-in-typo3/"&gt;Videos zum Quickstart-Tutorial in Deutsch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CMS"></category><category term="Deutsch"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Typo3"></category><category term="WCMS"></category></entry></feed>

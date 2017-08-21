@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/subtitle.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2012-11-23T11:10:00+01:00</updated><entry><title>popcorn.js - subtitle (Untertitel)</title><link href="https://www.openscreencast.de/blog/popcornjs_subtitle.html" rel="alternate"></link><published>2012-11-23T11:10:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-23:blog/popcornjs_subtitle.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - subtitle</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/subtitle.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2012-11-23T11:10:00+01:00</updated><entry><title>popcorn.js - subtitle (Untertitel)</title><link href="https://www.openscreencast.de/blog/popcornjs_subtitle.html" rel="alternate"></link><published>2012-11-23T11:10:00+01:00</published><updated>2012-11-23T11:10:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-23:/blog/popcornjs_subtitle.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="subtitle"></category></entry><entry><title>Untertitel</title><link href="https://www.openscreencast.de/blog/untertitel.html" rel="alternate"></link><published>2011-08-06T06:21:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-06:blog/untertitel.html</id><summary type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="subtitle"></category></entry><entry><title>Untertitel</title><link href="https://www.openscreencast.de/blog/untertitel.html" rel="alternate"></link><published>2011-08-06T06:21:00+02:00</published><updated>2011-08-06T06:21:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-06:/blog/untertitel.html</id><summary type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
+&lt;a href="http://de.wikipedia.org/wiki/Screencast" title="Screencast"&gt;Screencasts&lt;/a&gt;
+sogenannte .srt-Dateien für die Untertitelanzeige zum Download bereit.
+Wikipedia definiert den Untertitel so:
+&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="Untertitel"&gt;Untertitel&lt;/a&gt; (UT)
+bezeichnen Textzeilen, die unter oder neben Bildern stehen, um schriftliche
+Informationen zum Abgebildeten zu liefern. In einem Film oder einem
+Fernsehbild werden Untertitel …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
 &lt;a href="http://de.wikipedia.org/wiki/Screencast" title="Screencast"&gt;Screencasts&lt;/a&gt;
 sogenannte .srt-Dateien für die Untertitelanzeige zum Download bereit.
 Wikipedia definiert den Untertitel so:
@@ -24,4 +37,4 @@ Möglichkeit den Untertitel einzublenden. Neulich habe ich den Dienst
 &lt;a href="http://www.universalsubtitles.org/de/" title="Link zu universalsubtitles.org"&gt;http://www.universalsubtitles.org/&lt;/a&gt; durch freiwillige Besucher realisierbar.
 Alle Untertitel (deutschsprachig) von
 &lt;a href="http://www.universalsubtitles.org/de/profiles/profile/openscreencast/" title="Link zu universalsubtitles.org openscreencast"&gt;openscreencast&lt;/a&gt; habe ich dort hochgeladen
-und können nun in andere Sprachen übersetzt werden.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category><category term="Untertitel"></category><category term="subtitle"></category><category term="universalsubtitles.org"></category></entry></feed>
+und können nun in andere Sprachen übersetzt werden.&lt;/p&gt;</content><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category><category term="Untertitel"></category><category term="subtitle"></category><category term="universalsubtitles.org"></category></entry></feed>

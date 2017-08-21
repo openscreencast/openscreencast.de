@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/arios.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-07-16T03:23:00+02:00</updated><entry><title>AriOS 3.0</title><link href="https://www.openscreencast.de/blog/arios.html" rel="alternate"></link><published>2011-07-16T03:23:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-07-16:blog/arios.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: AriOS 3.0&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - AriOS</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/arios.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-07-16T03:23:00+02:00</updated><entry><title>AriOS 3.0</title><link href="https://www.openscreencast.de/blog/arios.html" rel="alternate"></link><published>2011-07-16T03:23:00+02:00</published><updated>2011-07-16T03:23:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-07-16:/blog/arios.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: AriOS 3.0&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://arioslinux.org/" title="Arios"&gt;AriOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="glimpse"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="AriOS"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: AriOS 3.0&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://arioslinux.org/" title="Arios"&gt;AriOS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="glimpse"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="AriOS"></category></entry></feed>

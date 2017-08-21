@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/silverstripe.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2009-03-04T04:39:00+01:00</updated><entry><title>silverstripe screencasts</title><link href="https://www.openscreencast.de/blog/silverstripe_screencasts.html" rel="alternate"></link><published>2009-03-04T04:39:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-04:blog/silverstripe_screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://silverstripe.com/"&gt;Silverstripe&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - silverstripe</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/silverstripe.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2009-03-04T04:39:00+01:00</updated><entry><title>silverstripe screencasts</title><link href="https://www.openscreencast.de/blog/silverstripe_screencasts.html" rel="alternate"></link><published>2009-03-04T04:39:00+01:00</published><updated>2009-03-04T04:39:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-04:/blog/silverstripe_screencasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://silverstripe.com/"&gt;Silverstripe&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
 Source&lt;/a&gt; &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content Management
 System&lt;/a&gt; und wurde vom
 gleichnamigen Unternehmen in Neuseeland entwickelt. Silverstripe steht unter
 der &lt;a href="http://de.wikipedia.org/wiki/BSD_Lizenz"&gt;BSD-Lizenz&lt;/a&gt; und macht die
 Installation durch ein paar &lt;a href="http://www.silverstripe.com
-/screencast-tutorials-contributed/"&gt;Screencasts&lt;/a&gt; leichter.&lt;/p&gt;</summary><category term="CMS"></category><category term="News"></category><category term="screencast"></category><category term="silverstripe"></category></entry></feed>
+/screencast-tutorials-contributed/"&gt;Screencasts&lt;/a&gt; leichter.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://silverstripe.com/"&gt;Silverstripe&lt;/a&gt; ist ein &lt;a href="http://de.wikipedia.org/wiki/Open_Source"&gt;Open
+Source&lt;/a&gt; &lt;a href="http://de.wikipedia.org/wiki/Content-Management-System"&gt;Content Management
+System&lt;/a&gt; und wurde vom
+gleichnamigen Unternehmen in Neuseeland entwickelt. Silverstripe steht unter
+der &lt;a href="http://de.wikipedia.org/wiki/BSD_Lizenz"&gt;BSD-Lizenz&lt;/a&gt; und macht die
+Installation durch ein paar &lt;a href="http://www.silverstripe.com
+/screencast-tutorials-contributed/"&gt;Screencasts&lt;/a&gt; leichter.&lt;/p&gt;</content><category term="CMS"></category><category term="News"></category><category term="screencast"></category><category term="silverstripe"></category></entry></feed>

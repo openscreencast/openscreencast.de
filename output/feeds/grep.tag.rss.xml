@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/grep.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 30 Apr 2014 17:57:00 +0200</lastBuildDate><item><title>Suchen und Finden mit Ack, statt grep</title><link>https://www.openscreencast.de/blog/Suchen_und_Finden_mit_Ack_statt_grep.html</link><description>&lt;p&gt;Linux - Suchen und Finden mit Ack, statt grep&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - grep</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Wed, 30 Apr 2014 17:57:00 +0200</lastBuildDate><item><title>Suchen und Finden mit Ack, statt grep</title><link>https://www.openscreencast.de/blog/Suchen_und_Finden_mit_Ack_statt_grep.html</link><description>&lt;p&gt;Linux - Suchen und Finden mit Ack, statt grep&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle: &lt;a href="http://svij.org/blog/2014/04/27/suchen-und-finden-mit-ack-statt-
 grep/"&gt;http://svij.org/blog/2014/04/27/suchen-und-finden-mit-ack-statt-
-grep/&lt;/a&gt;&lt;br /&gt;
+grep/&lt;/a&gt;&lt;br&gt;
 Suchen und Finden mit Ack, statt grep von Sujeevan Vijayakumaran
-&lt;a href="http://svij.org/"&gt;http://svij.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://svij.org/"&gt;http://svij.org/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://beyondgrep.com/documentation/"&gt;http://beyondgrep.com/documentation/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://github.com/svijee/taskwarrior-androidapp"&gt;https://github.com/svijee/taskwarrior-androidapp&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Weitere Videos in der Linux-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 30 Apr 2014 17:57:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-30:blog/Suchen_und_Finden_mit_Ack_statt_grep.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>grep</category><category>ack</category></item></channel></rss>
+&lt;p&gt;&lt;a href="http://beyondgrep.com/documentation/"&gt;http://beyondgrep.com …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Wed, 30 Apr 2014 17:57:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-04-30:/blog/Suchen_und_Finden_mit_Ack_statt_grep.html</guid><category>CC by-sa</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>grep</category><category>ack</category></item></channel></rss>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/universalsubtitlesorg.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-08-06T06:21:00+02:00</updated><entry><title>Untertitel</title><link href="https://www.openscreencast.de/blog/untertitel.html" rel="alternate"></link><published>2011-08-06T06:21:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-06:blog/untertitel.html</id><summary type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - universalsubtitles.org</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/universalsubtitlesorg.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-08-06T06:21:00+02:00</updated><entry><title>Untertitel</title><link href="https://www.openscreencast.de/blog/untertitel.html" rel="alternate"></link><published>2011-08-06T06:21:00+02:00</published><updated>2011-08-06T06:21:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-08-06:/blog/untertitel.html</id><summary type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
+&lt;a href="http://de.wikipedia.org/wiki/Screencast" title="Screencast"&gt;Screencasts&lt;/a&gt;
+sogenannte .srt-Dateien für die Untertitelanzeige zum Download bereit.
+Wikipedia definiert den Untertitel so:
+&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="Untertitel"&gt;Untertitel&lt;/a&gt; (UT)
+bezeichnen Textzeilen, die unter oder neben Bildern stehen, um schriftliche
+Informationen zum Abgebildeten zu liefern. In einem Film oder einem
+Fernsehbild werden Untertitel …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Der Untertitel war mir schon immer wichtig. Deswegen stehen für alle
 &lt;a href="http://de.wikipedia.org/wiki/Screencast" title="Screencast"&gt;Screencasts&lt;/a&gt;
 sogenannte .srt-Dateien für die Untertitelanzeige zum Download bereit.
 Wikipedia definiert den Untertitel so:
@@ -18,4 +25,4 @@ Möglichkeit den Untertitel einzublenden. Neulich habe ich den Dienst
 &lt;a href="http://www.universalsubtitles.org/de/" title="Link zu universalsubtitles.org"&gt;http://www.universalsubtitles.org/&lt;/a&gt; durch freiwillige Besucher realisierbar.
 Alle Untertitel (deutschsprachig) von
 &lt;a href="http://www.universalsubtitles.org/de/profiles/profile/openscreencast/" title="Link zu universalsubtitles.org openscreencast"&gt;openscreencast&lt;/a&gt; habe ich dort hochgeladen
-und können nun in andere Sprachen übersetzt werden.&lt;/p&gt;</summary><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category><category term="Untertitel"></category><category term="subtitle"></category><category term="universalsubtitles.org"></category></entry></feed>
+und können nun in andere Sprachen übersetzt werden.&lt;/p&gt;</content><category term="News"></category><category term="openscreencast"></category><category term="screencast"></category><category term="Untertitel"></category><category term="subtitle"></category><category term="universalsubtitles.org"></category></entry></feed>

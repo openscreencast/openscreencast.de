@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/tomboy.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-02-15T13:42:00+01:00</updated><entry><title>Notizen für Tomboy aus Firefox heraus erzeugen</title><link href="https://www.openscreencast.de/blog/Firefox_Tomfox.html" rel="alternate"></link><published>2015-02-15T13:42:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:blog/Firefox_Tomfox.html</id><summary type="html">&lt;p&gt;Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Tomboy</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/tomboy.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-02-15T13:42:00+01:00</updated><entry><title>Notizen für Tomboy aus Firefox heraus erzeugen</title><link href="https://www.openscreencast.de/blog/Firefox_Tomfox.html" rel="alternate"></link><published>2015-02-15T13:42:00+01:00</published><updated>2015-02-15T13:42:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-15:/blog/Firefox_Tomfox.html</id><summary type="html">&lt;p&gt;Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://linuxundich.de/gnu-
 linux/notizen-fur-tomboy-aus-firefox-heraus-erzeugen/"&gt;Notizen für Tomboy aus Firefox heraus erzeugen&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
 Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
@@ -11,4 +11,16 @@ Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0
 &lt;li&gt;&lt;a href="https://wiki.gnome.org/Apps/Tomboy" title="Link zu gnome.org"&gt;Tomboy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox/" title="Link zu mozilla.org"&gt;Tomfox&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox-1/" title="Link zu mozilla.org"&gt;Tomfox+&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Tomboy"></category><category term="Firefox"></category><category term="Tomfox"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Notizen für Tomboy aus Firefox heraus erzeugen, Linux Mint 17.1&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://linuxundich.de/gnu-
+linux/notizen-fur-tomboy-aus-firefox-heraus-erzeugen/"&gt;Notizen für Tomboy aus Firefox heraus erzeugen&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wiki.gnome.org/Apps/Tomboy" title="Link zu gnome.org"&gt;Tomboy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox/" title="Link zu mozilla.org"&gt;Tomfox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/de/firefox/addon/tomfox-1/" title="Link zu mozilla.org"&gt;Tomfox+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="Tomboy"></category><category term="Firefox"></category><category term="Tomfox"></category></entry></feed>

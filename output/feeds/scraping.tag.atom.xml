@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/scraping.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-09-20T13:27:00+02:00</updated><entry><title>R - Webscraping mit rvest und dem Selector Gadget</title><link href="https://www.openscreencast.de/blog/R_Webscraping_mit_rvest_und_selector_gadget.html" rel="alternate"></link><published>2015-09-20T13:27:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:blog/R_Webscraping_mit_rvest_und_selector_gadget.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest und dem Selector Gadget, Fedora 22&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Scraping</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/scraping.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-09-20T13:27:00+02:00</updated><entry><title>R - Webscraping mit rvest und dem Selector Gadget</title><link href="https://www.openscreencast.de/blog/R_Webscraping_mit_rvest_und_selector_gadget.html" rel="alternate"></link><published>2015-09-20T13:27:00+02:00</published><updated>2015-09-20T13:27:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-20:/blog/R_Webscraping_mit_rvest_und_selector_gadget.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest und dem Selector Gadget, Fedora 22&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
 freiesmagazin.de&lt;/a&gt;
 von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
@@ -12,9 +12,22 @@ von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.
 &lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html" title="Link zu r-project.org"&gt;Selector Gadget&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category><category term="Selector Gadget"></category></entry><entry><title>R - Webscraping mit rvest</title><link href="https://www.openscreencast.de/blog/R_Webscraping_mit_rvest.html" rel="alternate"></link><published>2015-08-06T17:09:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-06:blog/R_Webscraping_mit_rvest.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest, Fedora 22&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;R - Webscraping mit rvest und dem Selector Gadget, Fedora 22&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
+freiesmagazin.de&lt;/a&gt;
+von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html" title="Link zu r-project.org"&gt;Selector Gadget&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category><category term="Selector Gadget"></category></entry><entry><title>R - Webscraping mit rvest</title><link href="https://www.openscreencast.de/blog/R_Webscraping_mit_rvest.html" rel="alternate"></link><published>2015-08-06T17:09:00+02:00</published><updated>2015-08-06T17:09:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-08-06:/blog/R_Webscraping_mit_rvest.html</id><summary type="html">&lt;p&gt;R - Webscraping mit rvest, Fedora 22&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
 freiesmagazin.de&lt;/a&gt;
 von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
@@ -25,4 +38,17 @@ von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.
 &lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland" title="Link zu wikipedia.org"&gt;WP:Liste der Groß- und Mittelstädte in Deutschland&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&amp;amp;action=history" title="Link zu wikipedia.org"&gt;Versionsgeschichte&lt;/a&gt; Lizenz: &lt;a href="http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;R - Webscraping mit rvest, Fedora 22&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;http://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://freiesmagazin.de/mobil/freiesMagazin-2015-08-bilder.html#fm_15_08_webscraping"&gt;Web Scraping mit R -
+freiesmagazin.de&lt;/a&gt;
+von Markus Herrmann und Barbara Wolf Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/"&gt;CC by-sa
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.r-project.org/" title="Link zu r-project.org/"&gt;r-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikibooks.org/wiki/GNU_R" title="Link zu de.wikibooks.org"&gt;GNU_R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cran.r-project.org/web/views/WebTechnologies.html" title="Link zu r-project.org"&gt;CRAN Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland" title="Link zu wikipedia.org"&gt;WP:Liste der Groß- und Mittelstädte in Deutschland&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&amp;amp;action=history" title="Link zu wikipedia.org"&gt;Versionsgeschichte&lt;/a&gt; Lizenz: &lt;a href="http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported"&gt;CC by-sa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="R"></category><category term="rvest"></category><category term="Scraping"></category><category term="Web"></category></entry></feed>

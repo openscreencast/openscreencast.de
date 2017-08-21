@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/which.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 30 Aug 2015 16:02:00 +0200</lastBuildDate><item><title>Linux - Programme finden - which, whereis und type</title><link>https://www.openscreencast.de/blog/Linux_whereis_which_type.html</link><description>&lt;p&gt;Linux - Programme finden - which, whereis und type, Linux Mint 17.2&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - which</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 30 Aug 2015 16:02:00 +0200</lastBuildDate><item><title>Linux - Programme finden - which, whereis und type</title><link>https://www.openscreencast.de/blog/Linux_whereis_which_type.html</link><description>&lt;p&gt;Linux - Programme finden - which, whereis und type, Linux Mint 17.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://linux-praxis.de/lpic1/lpi101/1.104.8.html"&gt;Auffinden von Systemdateien und Platzieren von Dateien an den korrekten
-Ort&lt;/a&gt;&lt;br /&gt;
-von F.Kalhammer &lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br /&gt;
+Ort&lt;/a&gt;&lt;br&gt;
+von F.Kalhammer &lt;a href="http://www.linux-praxis.de"&gt;http://www.linux-praxis.de&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:02:00 +0200</pubDate><guid>tag:www.openscreencast.de,2015-08-30:blog/Linux_whereis_which_type.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>whereis</category><category>which</category><category>type</category><category>Linux Mint</category></item></channel></rss>
+&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 30 Aug 2015 16:02:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-08-30:/blog/Linux_whereis_which_type.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>whereis</category><category>which</category><category>type</category><category>Linux Mint</category></item></channel></rss>

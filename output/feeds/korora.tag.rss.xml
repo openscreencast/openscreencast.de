@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/korora.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 15 Feb 2015 13:48:00 +0100</lastBuildDate><item><title>Korora 21 Darla ist da</title><link>https://www.openscreencast.de/blog/Korora_Darla_ist_da.html</link><description>&lt;p&gt;Korora 21 Darla ist da, Linux Mint 17.1&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - Korora</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 15 Feb 2015 13:48:00 +0100</lastBuildDate><item><title>Korora 21 Darla ist da</title><link>https://www.openscreencast.de/blog/Korora_Darla_ist_da.html</link><description>&lt;p&gt;Korora 21 Darla ist da, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="https://www.bitblokes.de/2015/02/korora-21-darla-anwenderfreundliches-
 fedora-21/"&gt;Korora 21 Darla: Anwenderfreundliches Fedora
 21&lt;/a&gt; von &lt;a href="https://www.bitblokes.de/"&gt;https://www.bitblokes.de/&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;CC by
@@ -9,9 +9,9 @@ fedora-21/"&gt;Korora 21 Darla: Anwenderfreundliches Fedora
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://kororaproject.org/" title="Link zu kororaproject.org"&gt;kororaproject.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:48:00 +0100</pubDate><guid>tag:www.openscreencast.de,2015-02-15:blog/Korora_Darla_ist_da.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Korora</category></item><item><title>Korora 20 (Peach) MATE - Demo</title><link>https://www.openscreencast.de/blog/Korora_20_Peach_MATE_Demo.html</link><description>&lt;p&gt;Korora 20 (Peach) MATE - Demo&lt;br /&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 15 Feb 2015 13:48:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2015-02-15:/blog/Korora_Darla_ist_da.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Korora</category></item><item><title>Korora 20 (Peach) MATE - Demo</title><link>https://www.openscreencast.de/blog/Korora_20_Peach_MATE_Demo.html</link><description>&lt;p&gt;Korora 20 (Peach) MATE - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://kororaproject.org/"&gt;https://kororaproject.org/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Musik:&lt;br /&gt;
-Readers! Do You Read ? by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 14 Jan 2014 23:07:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-01-14:blog/Korora_20_Peach_MATE_Demo.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Korora</category><category>MATE</category><category>Demo</category></item></channel></rss>
+&lt;p&gt;Musik:&lt;br&gt;
+Readers! Do You Read ? by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Tue, 14 Jan 2014 23:07:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-01-14:/blog/Korora_20_Peach_MATE_Demo.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>screencast</category><category>Korora</category><category>MATE</category><category>Demo</category></item></channel></rss>

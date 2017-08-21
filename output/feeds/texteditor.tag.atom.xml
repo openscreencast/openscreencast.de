@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/texteditor.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-15T01:39:00+02:00</updated><entry><title>vimcasts.org</title><link href="https://www.openscreencast.de/blog/vimcasts.html" rel="alternate"></link><published>2010-10-15T01:39:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-15:blog/vimcasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; speziell über den
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Texteditor</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/texteditor.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-15T01:39:00+02:00</updated><entry><title>vimcasts.org</title><link href="https://www.openscreencast.de/blog/vimcasts.html" rel="alternate"></link><published>2010-10-15T01:39:00+02:00</published><updated>2010-10-15T01:39:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-15:/blog/vimcasts.html</id><summary type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; speziell über den
+Texteditor &lt;a href="http://de.wikipedia.org/wiki/Vim"&gt;vim&lt;/a&gt; gibt es bei
+&lt;a href="http://vimcasts.org/"&gt;Vimcasts.org&lt;/a&gt; (Englisch). Die Videos stehen im
+&lt;a href="http://de.wikipedia.org/wiki/Quicktime"&gt;Quicktime&lt;/a&gt;- und
+&lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;Ogg&lt;/a&gt;-Format zum Download zur Verfügung.
+Seit den ersten 4 Episoden im Januar 2010 gibt es nun schon 27 Episoden die
+erklären wie vim funktioniert. Die Screencasts werden von Drew Neil produziert …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt; speziell über den
 Texteditor &lt;a href="http://de.wikipedia.org/wiki/Vim"&gt;vim&lt;/a&gt; gibt es bei
 &lt;a href="http://vimcasts.org/"&gt;Vimcasts.org&lt;/a&gt; (Englisch). Die Videos stehen im
 &lt;a href="http://de.wikipedia.org/wiki/Quicktime"&gt;Quicktime&lt;/a&gt;- und
 &lt;a href="http://de.wikipedia.org/wiki/Ogg"&gt;Ogg&lt;/a&gt;-Format zum Download zur Verfügung.
 Seit den ersten 4 Episoden im Januar 2010 gibt es nun schon 27 Episoden die
 erklären wie vim funktioniert. Die Screencasts werden von Drew Neil produziert
-und mit dem Tool screenflow erstellt.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category><category term="vim"></category></entry><entry><title>nano - Texteditor</title><link href="https://www.openscreencast.de/blog/nano_Texteditor.html" rel="alternate"></link><published>2008-11-29T20:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-29:blog/nano_Texteditor.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br /&gt;
+und mit dem Tool screenflow erstellt.&lt;/p&gt;</content><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category><category term="vim"></category></entry><entry><title>nano - Texteditor</title><link href="https://www.openscreencast.de/blog/nano_Texteditor.html" rel="alternate"></link><published>2008-11-29T20:34:00+01:00</published><updated>2008-11-29T20:34:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-11-29:/blog/nano_Texteditor.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: nano&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Nano_(Texteditor)"&gt;nano&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Texteditor"></category><category term="ubuntu"></category><category term="nano"></category></entry><entry><title>Prozesse killen</title><link href="https://www.openscreencast.de/blog/Prozesse_killen.html" rel="alternate"></link><published>2007-02-18T05:19:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-18:blog/Prozesse_killen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 8.10, GNOME 2.24&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: nano&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Nano_(Texteditor)"&gt;nano&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Texteditor"></category><category term="ubuntu"></category><category term="nano"></category></entry><entry><title>Prozesse killen</title><link href="https://www.openscreencast.de/blog/Prozesse_killen.html" rel="alternate"></link><published>2007-02-18T05:19:00+01:00</published><updated>2007-02-18T05:19:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-18:/blog/Prozesse_killen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: ps, pstree, kill, killall, xkill, logout, gedit&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -21,10 +33,22 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;li&gt;&lt;a href="http://www.linux-ag.de/linux/LHB/node96.html"&gt;ps&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.linux-user.de/ausgabe/2000/12/092-zubefehl/befehl11.html"&gt;Prozess killen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-nc-sa"></category><category term="Fedora Core"></category><category term="gedit"></category><category term="Gnome"></category><category term="gnome-system-monitor"></category><category term="kill"></category><category term="killall"></category><category term="Linux"></category><category term="logout"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pid"></category><category term="Prozess"></category><category term="ps"></category><category term="pstree"></category><category term="screencast"></category><category term="Systemüberwachung"></category><category term="Texteditor"></category><category term="xkill"></category></entry><entry><title>Emacs_Screencast</title><link href="https://www.openscreencast.de/blog/Emacs_Screencast.html" rel="alternate"></link><published>2006-12-01T02:22:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-01:blog/Emacs_Screencast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://platypope.org/yada/emacs-demo/"&gt;Hier&lt;/a&gt; ist ein Screencast über Emacs.
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: ps, pstree, kill, killall, xkill, logout, gedit&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/prozessverwaltung.html"&gt;Prozessverwaltung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-ag.de/linux/LHB/node96.html"&gt;ps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.linux-user.de/ausgabe/2000/12/092-zubefehl/befehl11.html"&gt;Prozess killen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-nc-sa"></category><category term="Fedora Core"></category><category term="gedit"></category><category term="Gnome"></category><category term="gnome-system-monitor"></category><category term="kill"></category><category term="killall"></category><category term="Linux"></category><category term="logout"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pid"></category><category term="Prozess"></category><category term="ps"></category><category term="pstree"></category><category term="screencast"></category><category term="Systemüberwachung"></category><category term="Texteditor"></category><category term="xkill"></category></entry><entry><title>Emacs_Screencast</title><link href="https://www.openscreencast.de/blog/Emacs_Screencast.html" rel="alternate"></link><published>2006-12-01T02:22:00+01:00</published><updated>2006-12-01T02:22:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-01:/blog/Emacs_Screencast.html</id><summary type="html">&lt;p&gt;&lt;a href="http://platypope.org/yada/emacs-demo/"&gt;Hier&lt;/a&gt; ist ein Screencast über Emacs.
 &lt;a href="http://de.wikipedia.org/wiki/Emacs"&gt;Emcas&lt;/a&gt; ist ein Open Source-Texteditor,
 steht unter der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;
-und ist in den bekanntesten Betriebssystemen einsetzbar.&lt;/p&gt;</summary><category term="Emacs"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category></entry><entry><title>Menus bearbeiten</title><link href="https://www.openscreencast.de/blog/Menus_bearbeiten.html" rel="alternate"></link><published>2006-11-27T02:48:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-27:blog/Menus_bearbeiten.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br /&gt;
+und ist in den bekanntesten Betriebssystemen einsetzbar.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://platypope.org/yada/emacs-demo/"&gt;Hier&lt;/a&gt; ist ein Screencast über Emacs.
+&lt;a href="http://de.wikipedia.org/wiki/Emacs"&gt;Emcas&lt;/a&gt; ist ein Open Source-Texteditor,
+steht unter der &lt;a href="http://de.wikipedia.org/wiki/GNU_General_Public_License"&gt;GPL&lt;/a&gt;
+und ist in den bekanntesten Betriebssystemen einsetzbar.&lt;/p&gt;</content><category term="Emacs"></category><category term="Englisch"></category><category term="GPL"></category><category term="News"></category><category term="screencast"></category><category term="Texteditor"></category></entry><entry><title>Menus bearbeiten</title><link href="https://www.openscreencast.de/blog/Menus_bearbeiten.html" rel="alternate"></link><published>2006-11-27T02:48:00+01:00</published><updated>2006-11-27T02:48:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-11-27:/blog/Menus_bearbeiten.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: alacarte, su, cd, ls, vi, exit&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -34,4 +58,14 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Su"&gt;su&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vi"&gt;vi&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="alacarte"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="gedit"></category><category term="Gnome"></category><category term="Linux"></category><category term="ls"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="su"></category><category term="Terminal"></category><category term="Texteditor"></category><category term="Textmodus"></category><category term="vi"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: alacarte, su, cd, ls, vi, exit&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Alacarte"&gt;alacarte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fedorawiki.de/index.php/Gnome_Men%C3%BCs_editieren"&gt;alacarte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Su"&gt;su&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Vi"&gt;vi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="alacarte"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="gedit"></category><category term="Gnome"></category><category term="Linux"></category><category term="ls"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="su"></category><category term="Terminal"></category><category term="Texteditor"></category><category term="Textmodus"></category><category term="vi"></category></entry></feed>

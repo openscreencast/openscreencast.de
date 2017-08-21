@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/menue.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-07-05T23:50:00+02:00</updated><entry><title>Unity - Menue ins Fenster verlagern</title><link href="https://www.openscreencast.de/blog/unity_menu.html" rel="alternate"></link><published>2011-07-05T23:50:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-07-05:blog/unity_menu.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Menue</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/menue.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-07-05T23:50:00+02:00</updated><entry><title>Unity - Menue ins Fenster verlagern</title><link href="https://www.openscreencast.de/blog/unity_menu.html" rel="alternate"></link><published>2011-07-05T23:50:00+02:00</published><updated>2011-07-05T23:50:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-07-05:/blog/unity_menu.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Unity" title="Unity"&gt;Unity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Unity"></category><category term="Menue"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 11.04&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Unity" title="Unity"&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="ubuntu"></category><category term="Unity"></category><category term="Menue"></category></entry></feed>

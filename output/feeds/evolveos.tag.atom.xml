@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/evolveos.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-01-27T21:24:00+01:00</updated><entry><title>Evolve OS Beta 1 - Demo</title><link href="https://www.openscreencast.de/blog/Evolve_OS_Beta_1_Demo.html" rel="alternate"></link><published>2015-01-27T21:24:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-01-27:blog/Evolve_OS_Beta_1_Demo.html</id><summary type="html">&lt;p&gt;Evolve OS Beta 1 - Demo&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - EvolveOS</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/evolveos.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-01-27T21:24:00+01:00</updated><entry><title>Evolve OS Beta 1 - Demo</title><link href="https://www.openscreencast.de/blog/Evolve_OS_Beta_1_Demo.html" rel="alternate"></link><published>2015-01-27T21:24:00+01:00</published><updated>2015-01-27T21:24:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-01-27:/blog/Evolve_OS_Beta_1_Demo.html</id><summary type="html">&lt;p&gt;Evolve OS Beta 1 - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Musik:&lt;br /&gt;
+&lt;p&gt;Musik:&lt;br&gt;
 Something Elated by Broke For
 Free&lt;a href="http://freemusicarchive.org/music/broke_for_free/something_ep
 /broke_for_free_-_something_ep_-_05_something_elated"&gt;http://freemusicarchive.org/music/broke_for_free/something_ep
-/broke_for_free_-_something_ep_-_05_something_elated&lt;/a&gt;&lt;br /&gt;
+/broke_for_free_-_something_ep_-_05_something_elated&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://evolve-os.com/"&gt;https://evolve-os.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bitblokes.de/2015/01/evolve-os-beta-1-getestet-gemischte-gefuehle/"&gt;https://www.bitblokes.de/2015/01/evolve-os-beta-1-getestet-gemischte-gefuehle/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pro-linux.de/news/1/21952/erste-betaversion-von-evolve-os.html"&gt;http://www.pro-linux.de …&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Evolve OS Beta 1 - Demo&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Musik:&lt;br&gt;
+Something Elated by Broke For
+Free&lt;a href="http://freemusicarchive.org/music/broke_for_free/something_ep
+/broke_for_free_-_something_ep_-_05_something_elated"&gt;http://freemusicarchive.org/music/broke_for_free/something_ep
+/broke_for_free_-_something_ep_-_05_something_elated&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://evolve-os.com/"&gt;https://evolve-os.com/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.bitblokes.de/2015/01/evolve-os-beta-1-getestet-gemischte-gefuehle/"&gt;https://www.bitblokes.de/2015/01/evolve-os-beta-1-getestet-gemischte-gefuehle/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.pro-linux.de/news/1/21952/erste-betaversion-von-evolve-os.html"&gt;http://www.pro-linux.de/news/1/21952/erste-betaversion-von-evolve-os.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="EvolveOS"></category></entry></feed>
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="EvolveOS"></category></entry></feed>

@@ -1,50 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/html5.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-07-28T22:15:00+02:00</updated><entry><title>popcornjs - Bilder anzeigen</title><link href="https://www.openscreencast.de/blog/popcornjs_bilder_anzeigen.html" rel="alternate"></link><published>2013-07-28T22:15:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-28:blog/popcornjs_bilder_anzeigen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - HTML5</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/html5.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-07-28T22:15:00+02:00</updated><entry><title>popcornjs - Bilder anzeigen</title><link href="https://www.openscreencast.de/blog/popcornjs_bilder_anzeigen.html" rel="alternate"></link><published>2013-07-28T22:15:00+02:00</published><updated>2013-07-28T22:15:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-28:/blog/popcornjs_bilder_anzeigen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="image"></category></entry><entry><title>HTML5 - Grundgerüst</title><link href="https://www.openscreencast.de/blog/html_grundgeruest.html" rel="alternate"></link><published>2013-07-24T21:18:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-24:blog/html_grundgeruest.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="image"></category></entry><entry><title>HTML5 - Grundgerüst</title><link href="https://www.openscreencast.de/blog/html_grundgeruest.html" rel="alternate"></link><published>2013-07-24T21:18:00+02:00</published><updated>2013-07-24T21:18:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-24:/blog/html_grundgeruest.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/HTML5" title="Link zu WP:HTML5"&gt;WP:HTML5&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="html"></category><category term="html5"></category></entry><entry><title>popcornjs - Attribution</title><link href="https://www.openscreencast.de/blog/popcornjs_attribution.html" rel="alternate"></link><published>2013-01-30T17:57:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-01-30:blog/popcornjs_attribution.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/HTML5" title="Link zu WP:HTML5"&gt;WP:HTML5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="www"></category><category term="web"></category><category term="html"></category><category term="html5"></category></entry><entry><title>popcornjs - Attribution</title><link href="https://www.openscreencast.de/blog/popcornjs_attribution.html" rel="alternate"></link><published>2013-01-30T17:57:00+01:00</published><updated>2013-01-30T17:57:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-01-30:/blog/popcornjs_attribution.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="attribution"></category></entry><entry><title>popcorn.js - timeline</title><link href="https://www.openscreencast.de/blog/popcornjs_timeline.html" rel="alternate"></link><published>2012-11-28T16:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-28:blog/popcornjs_timeline.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="timeline"></category></entry><entry><title>popcorn.js - subtitle (Untertitel)</title><link href="https://www.openscreencast.de/blog/popcornjs_subtitle.html" rel="alternate"></link><published>2012-11-23T11:10:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-23:blog/popcornjs_subtitle.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="attribution"></category></entry><entry><title>popcorn.js - timeline</title><link href="https://www.openscreencast.de/blog/popcornjs_timeline.html" rel="alternate"></link><published>2012-11-28T16:34:00+01:00</published><updated>2012-11-28T16:34:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-28:/blog/popcornjs_timeline.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="subtitle"></category></entry><entry><title>popcorn.js - wordriver</title><link href="https://www.openscreencast.de/blog/popcornjs_wordriver.html" rel="alternate"></link><published>2012-11-22T14:49:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-22:blog/popcornjs_wordriver.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="wordriver"></category></entry><entry><title>popcorn.js - Hallo Welt</title><link href="https://www.openscreencast.de/blog/popcornjs_hallowelt.html" rel="alternate"></link><published>2012-11-16T12:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-16:blog/popcornjs_hallowelt.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br /&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="timeline"></category></entry><entry><title>popcorn.js - subtitle (Untertitel)</title><link href="https://www.openscreencast.de/blog/popcornjs_subtitle.html" rel="alternate"></link><published>2012-11-23T11:10:00+01:00</published><updated>2012-11-23T11:10:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-23:/blog/popcornjs_subtitle.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category></entry><entry><title>popcorn.js - Demo</title><link href="https://www.openscreencast.de/blog/popcornjs_demo.html" rel="alternate"></link><published>2012-05-16T06:59:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-05-16:blog/popcornjs_demo.html</id><summary type="html">&lt;p&gt;popcorn.js ist ein HTML5 Media Framework. Ich habe dazu schon mehrere
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="subtitle"></category></entry><entry><title>popcorn.js - wordriver</title><link href="https://www.openscreencast.de/blog/popcornjs_wordriver.html" rel="alternate"></link><published>2012-11-22T14:49:00+01:00</published><updated>2012-11-22T14:49:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-22:/blog/popcornjs_wordriver.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category><category term="wordriver"></category></entry><entry><title>popcorn.js - Hallo Welt</title><link href="https://www.openscreencast.de/blog/popcornjs_hallowelt.html" rel="alternate"></link><published>2012-11-16T12:34:00+01:00</published><updated>2012-11-16T12:34:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-11-16:/blog/popcornjs_hallowelt.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 16&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mozilla_Foundation" title="Link zu WP:Mozilla_Foundation"&gt;WP:Mozilla Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://popcornjs.org/" title="Link zu popcornjs"&gt;popcornjs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="HTML5"></category><category term="Javascript"></category><category term="Mozilla"></category><category term="popcornjs"></category></entry><entry><title>popcorn.js - Demo</title><link href="https://www.openscreencast.de/blog/popcornjs_demo.html" rel="alternate"></link><published>2012-05-16T06:59:00+02:00</published><updated>2012-05-16T06:59:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2012-05-16:/blog/popcornjs_demo.html</id><summary type="html">&lt;p&gt;popcorn.js ist ein HTML5 Media Framework. Ich habe dazu schon mehrere
+Screencasts aufgenommen und veröffentlicht.
+&lt;a href="https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp"&gt;https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp&lt;/a&gt;
+Heute habe ich eine popcorn.js - Demo HTML-Seite erstellt. Screencast 185 wird
+dabei gezeigt. Die Plugins wordriver, subtitle und timeline werden genutzt um
+dynamische Anzeigen …&lt;/p&gt;</summary><content type="html">&lt;p&gt;popcorn.js ist ein HTML5 Media Framework. Ich habe dazu schon mehrere
 Screencasts aufgenommen und veröffentlicht.
 &lt;a href="https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp"&gt;https://www.youtube.com/playlist?list=PL395F3CF552AA3DC9&amp;amp;feature=plcp&lt;/a&gt;
 Heute habe ich eine popcorn.js - Demo HTML-Seite erstellt. Screencast 185 wird
 dabei gezeigt. Die Plugins wordriver, subtitle und timeline werden genutzt um
 dynamische Anzeigen und Zuatzinformationen zu generieren. Hier ist das
 Ergebnis:&lt;/p&gt;
-&lt;p&gt;popcorn.js - Demo &lt;a href="https://www.openscreencast.de/popcorn/"&gt;https://www.openscreencast.de/popcorn/&lt;/a&gt;&lt;/p&gt;</summary><category term="News"></category><category term="Demo"></category><category term="HTML5"></category><category term="popcorn.js"></category><category term="popcornjs"></category></entry></feed>
+&lt;p&gt;popcorn.js - Demo &lt;a href="https://www.openscreencast.de/popcorn/"&gt;https://www.openscreencast.de/popcorn/&lt;/a&gt;&lt;/p&gt;</content><category term="News"></category><category term="Demo"></category><category term="HTML5"></category><category term="popcorn.js"></category><category term="popcornjs"></category></entry></feed>

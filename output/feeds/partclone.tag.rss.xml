@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/partclone.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 01 Mar 2014 17:31:00 +0100</lastBuildDate><item><title>SD-Karte des Raspberry Pi mit partclone sichern</title><link>https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</link><description>&lt;p&gt;SD-Karte des Raspberry Pi mit partclone sichern&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - partclone</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sat, 01 Mar 2014 17:31:00 +0100</lastBuildDate><item><title>SD-Karte des Raspberry Pi mit partclone sichern</title><link>https://www.openscreencast.de/blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</link><description>&lt;p&gt;SD-Karte des Raspberry Pi mit partclone sichern&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
 partclone/"&gt;http://www.bitblokes.de/2013/03/sd-karte-des-raspberry-pi-sichern-dd-oder-
-partclone/&lt;/a&gt;&lt;br /&gt;
+partclone/&lt;/a&gt;&lt;br&gt;
 SD-Karte des Raspberry Pi sichern: dd oder partclone? von
-&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.bitblokes.de/"&gt;http://www.bitblokes.de/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.clonezilla.org/"&gt;http://www.clonezilla.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://partclone.org/"&gt;http://partclone.org/&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Mar 2014 17:31:00 +0100</pubDate><guid>tag:www.openscreencast.de,2014-03-01:blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>partclone</category></item></channel></rss>
+&lt;p&gt;&lt;a href="http://www.clonezilla.org/"&gt;http://www.clonezilla.org/&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://partclone.org/"&gt;http …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 01 Mar 2014 17:31:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-03-01:/blog/SDKarte_des_Raspberry_Pi_mit_partclone_sichern.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Raspberry Pi</category><category>partclone</category></item></channel></rss>

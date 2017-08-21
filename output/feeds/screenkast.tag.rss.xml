@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/screenkast.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 12 Oct 2006 00:19:00 +0200</lastBuildDate><item><title>ScreenKast</title><link>https://www.openscreencast.de/blog/ScreenKast.html</link><description>&lt;p&gt;&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt;, ein neues Programm
+<rss version="2.0"><channel><title>openscreencast - ScreenKast</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Thu, 12 Oct 2006 00:19:00 +0200</lastBuildDate><item><title>ScreenKast</title><link>https://www.openscreencast.de/blog/ScreenKast.html</link><description>&lt;p&gt;&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt;, ein neues Programm
 um Bildschirmaktivitäten aufzunehmen. Es ist für
 &lt;a href="http://de.wikipedia.org/wiki/Linux"&gt;Linux&lt;/a&gt; gedacht und steht unter der
 &lt;a href="http://de.wikipedia.org/wiki/Gpl"&gt;GPL&lt;/a&gt;. Kommentarboxen können nach der
@@ -7,6 +7,4 @@ Aufnahme hinzugefügt werden. Ebenso besitzt
 &lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; die Funktion die
 Aufnahme an die Webseite &lt;a href="http://www.captorials.com/"&gt;captorials.com&lt;/a&gt; zu
 schicken. Dort steht das Video dann für alle zum anschauen bereit. Video-
-Tutorials die zeigen wie man ScreenKast installiert und wie
-&lt;a href="http://sourceforge.net/projects/screenkast"&gt;ScreenKast&lt;/a&gt; eingesetzt wird
-stehen schon zur Verfügung.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 12 Oct 2006 00:19:00 +0200</pubDate><guid>tag:www.openscreencast.de,2006-10-12:blog/ScreenKast.html</guid><category>GPL</category><category>linux</category><category>News</category><category>screencast</category><category>Screencast-Tool</category><category>ScreenKast</category></item></channel></rss>
+Tutorials …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Thu, 12 Oct 2006 00:19:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2006-10-12:/blog/ScreenKast.html</guid><category>GPL</category><category>linux</category><category>News</category><category>screencast</category><category>Screencast-Tool</category><category>ScreenKast</category></item></channel></rss>

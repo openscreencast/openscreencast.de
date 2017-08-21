@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/nethogs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-03-15T14:50:00+01:00</updated><entry><title>Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse nutzen</title><link href="https://www.openscreencast.de/blog/Linux_nethogs.html" rel="alternate"></link><published>2015-03-15T14:50:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-15:blog/Linux_nethogs.html</id><summary type="html">&lt;p&gt;Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse
-nutzen, Linux Mint 17.1&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - nethogs</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/nethogs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-03-15T14:50:00+01:00</updated><entry><title>Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse nutzen</title><link href="https://www.openscreencast.de/blog/Linux_nethogs.html" rel="alternate"></link><published>2015-03-15T14:50:00+01:00</published><updated>2015-03-15T14:50:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-15:/blog/Linux_nethogs.html</id><summary type="html">&lt;p&gt;Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse
+nutzen, Linux Mint 17.1&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://nethogs.sourceforge.net/" title="Link zu nethogs.sourceforge.net"&gt;nethogs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Netzwerk-Monitoring" title="Link zu ubuntuusers.de"&gt;Netzwerk-Monitoring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="nethogs"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Linux - Mit nethogs ermitteln wie viel Bandbreite die einzelnen Prozesse
+nutzen, Linux Mint 17.1&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://nethogs.sourceforge.net/" title="Link zu nethogs.sourceforge.net"&gt;nethogs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Netzwerk-Monitoring" title="Link zu ubuntuusers.de"&gt;Netzwerk-Monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux Mint"></category><category term="nethogs"></category></entry></feed>

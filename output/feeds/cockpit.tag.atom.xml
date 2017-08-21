@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/cockpit.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-03-01T13:44:00+01:00</updated><entry><title>Das Web-Cockpit aus Fedora 21 installieren</title><link href="https://www.openscreencast.de/blog/WebCockpit_aus_Fedora21_installieren.html" rel="alternate"></link><published>2015-03-01T13:44:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:blog/WebCockpit_aus_Fedora21_installieren.html</id><summary type="html">&lt;p&gt;Das Web-Cockpit aus Fedora 21 installieren, Fedora 21 WS&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Cockpit</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/cockpit.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-03-01T13:44:00+01:00</updated><entry><title>Das Web-Cockpit aus Fedora 21 installieren</title><link href="https://www.openscreencast.de/blog/WebCockpit_aus_Fedora21_installieren.html" rel="alternate"></link><published>2015-03-01T13:44:00+01:00</published><updated>2015-03-01T13:44:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-03-01:/blog/WebCockpit_aus_Fedora21_installieren.html</id><summary type="html">&lt;p&gt;Das Web-Cockpit aus Fedora 21 installieren, Fedora 21 WS&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br /&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://linuxundich.de/gnu-linux/das-web-cockpit-aus-fedora-21
 -der-workstation-version-installieren/"&gt;Das Web-Cockpit aus Fedora 21 in der Workstation-Version
 installieren&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
@@ -11,4 +11,16 @@ Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://cockpit-project.org/" title="Link zu cockpit-project.org"&gt;cockpit-project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://fedoraproject.org/wiki/Changes/CockpitManagementConsole#How_To_Test" title="Link zu fedoraproject.org"&gt;Fedora Wiki:Cockpit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="Web-Cockpit"></category><category term="Cockpit"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Das Web-Cockpit aus Fedora 21 installieren, Fedora 21 WS&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://linuxundich.de/gnu-linux/das-web-cockpit-aus-fedora-21
+-der-workstation-version-installieren/"&gt;Das Web-Cockpit aus Fedora 21 in der Workstation-Version
+installieren&lt;/a&gt; von &lt;a href="http://linuxundich.de/"&gt;Christoph
+Langner&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://cockpit-project.org/" title="Link zu cockpit-project.org"&gt;cockpit-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fedoraproject.org/wiki/Changes/CockpitManagementConsole#How_To_Test" title="Link zu fedoraproject.org"&gt;Fedora Wiki:Cockpit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Fedora"></category><category term="Web-Cockpit"></category><category term="Cockpit"></category></entry></feed>

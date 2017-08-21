@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/slideshow-programme.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 27 Aug 2011 04:52:00 +0200</lastBuildDate><item><title>Slideshows als Screencasts</title><link>https://www.openscreencast.de/blog/slidecasting.html</link><description>&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
+<rss version="2.0"><channel><title>openscreencast - Slideshow-Programme</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sat, 27 Aug 2011 04:52:00 +0200</lastBuildDate><item><title>Slideshows als Screencasts</title><link>https://www.openscreencast.de/blog/slidecasting.html</link><description>&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
 Bildschirm zu machen um ein Video-Tutorial zu erstellen.
 &lt;a href="http://de.wikipedia.org/wiki/Slideshow" title="WP:Slideshow"&gt;Slideshow&lt;/a&gt;-Programme
 können ebenso eingesetzt werden um einfache und doch verständliche
 &lt;a href="http://de.wikipedia.org/wiki/Screencast" title="WP:Screencast"&gt;Screencasts&lt;/a&gt; zu
 erstellen. Mehrere &lt;a href="http://de.wikipedia.org/wiki/Screenshot" title="WP:Screenshot"&gt;Screenshots&lt;/a&gt; eines Arbeitsablaufs zu machen und diese zu einer Slideshow
-zusammenzufügen ist für manche vielleicht auch einfacher als sich mit
-Videobearbeitung unter &lt;a href="http://de.wikipedia.org/wiki/Linux" title="WP:Linux"&gt;Linux&lt;/a&gt;
-herumzuschlagen. Bei jedem einzelnen Arbeitsschritt wird jeweils ein
-Bildschirmfoto gemacht. Screenshots, Erklärungstexte und eine Hintergrundmusik
-ergeben dann ein Video. In der englischen Wikipedia gibt es zu dieser Form von
-Screencasting einen eigenen Begriff. Das Wort dazu heißt
-&lt;a href="http://en.wikipedia.org/wiki/Slidecasting" title="WP:Slidecasting"&gt;Slidecasting&lt;/a&gt;,
-Slidecasts. Slideshow-Programme sind meistens sehr simpel wie z.B. die
-Programme: &lt;a href="http://imagination.sourceforge.net/index.html" title="Link
-zu Imagination"&gt;Imagination&lt;/a&gt;, &lt;a href="http://www.mistelix.org/" title="Link zu mistelix"&gt;Mistelix&lt;/a&gt;,
-&lt;a href="http://www.photofilmstrip.org/" title="Link zu PhotoFilmStrip"&gt;PhotoFilmStrip&lt;/a&gt;,
-&lt;a href="http://www.videoporama.tuxfamily.org" title="Link zu Videoporama"&gt;Videoporama&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bei PhotoFilmStrip werden die Erklärungstexte durch einen
-&lt;a href="http://de.wikipedia.org/wiki/Untertitel" title="WP:Untertitel"&gt;Untertitel&lt;/a&gt; (.srt-
-Datei) realisiert. Mit allen 4 Programmen habe ich ein Video erstellt. Genutzt
-habe ich, was den Inhalt angeht, den &lt;a href="https://www.openscreencast.de/blog/gnome3_terminal_shortcut" title="Link zu
-Screencast 157"&gt;Screencast 157 - Gnome3 - Terminal mit
-Tastenkuerzel
-starten&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Hier sind die Ergebnisse:&lt;br /&gt;
-&lt;a href="https://www.openscreencast.de/archive/imagination.ogg" title="Link
-zum Video Imagination.ogg"&gt;Imagination.ogg&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.openscreencast.de/archive/mistelix.ogg" title="Link zum
-Video Mistelix.ogg"&gt;Mistelix.ogg&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.openscreencast.de/archive/photofilmstrip.ogg" title="Link zum Video Photofilmstrip.ogg"&gt;Photofilmstrip.ogg&lt;/a&gt;
-&lt;a href="https://www.openscreencast.de/archive/photofilmstrip.srt" title="Link zum Video Photofilmstrip.srt"&gt;Photofilmstrip.srt&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://www.openscreencast.de/archive/videoporama.ogg" title="Link
-zum Video Videoporama.ogg"&gt;Videoporama.ogg&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Artikel in Audio:&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://soundcloud.com/openscreencast/slideshow"&gt;Slideshows als Screencasts&lt;/a&gt;
-by &lt;a href="http://soundcloud.com/openscreencast"&gt;openscreencast&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 27 Aug 2011 04:52:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-08-27:blog/slidecasting.html</guid><category>News</category><category>Screencast-Tool</category><category>Screencasts</category><category>Slideshow</category><category>Slideshow-Programme</category></item></channel></rss>
+zusammenzufügen ist für manche vielleicht auch …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 27 Aug 2011 04:52:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2011-08-27:/blog/slidecasting.html</guid><category>News</category><category>Screencast-Tool</category><category>Screencasts</category><category>Slideshow</category><category>Slideshow-Programme</category></item></channel></rss>

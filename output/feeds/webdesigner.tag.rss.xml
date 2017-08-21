@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/webdesigner.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 26 Apr 2014 16:50:00 +0200</lastBuildDate><item><title>Google Web Designer jetzt auch für Linux erhältlich</title><link>https://www.openscreencast.de/blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html</link><description>&lt;p&gt;Google Web Designer jetzt auch für Linux erhältlich&lt;br /&gt;
+<rss version="2.0"><channel><title>openscreencast - Webdesigner</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sat, 26 Apr 2014 16:50:00 +0200</lastBuildDate><item><title>Google Web Designer jetzt auch für Linux erhältlich</title><link>https://www.openscreencast.de/blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html</link><description>&lt;p&gt;Google Web Designer jetzt auch für Linux erhältlich&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/webdesigner/"&gt;http://www.google.com/webdesigner/&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href="http://www.google.com/webdesigner/"&gt;http://www.google.com/webdesigner/&lt;/a&gt;&lt;br&gt;
 &lt;a href="https://aur.archlinux.org/packages/google-webdesigner/"&gt;https://aur.archlinux.org/packages/google-webdesigner/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/allgemein/google-web-designer-jetzt-auch-
 fuer-linux/"&gt;http://linuxundich.de/allgemein/google-web-designer-jetzt-auch-
-fuer-linux/&lt;/a&gt;&lt;br /&gt;
+fuer-linux/&lt;/a&gt;&lt;br&gt;
 Google Web Designer jetzt auch für Linux erhältlich von Christoph Langner
-&lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Weitere Videos in der Linux-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 26 Apr 2014 16:50:00 +0200</pubDate><guid>tag:www.openscreencast.de,2014-04-26:blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Web</category><category>Webdesigner</category><category>HTML</category></item></channel></rss>
+&lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http …&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sat, 26 Apr 2014 16:50:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2014-04-26:/blog/Google_Web_Designer_jetzt_auch_fuer_Linux_erhaeltlich.html</guid><category>CC by</category><category>Linux</category><category>Neueinsteiger</category><category>ohne Musik</category><category>screencast</category><category>Web</category><category>Webdesigner</category><category>HTML</category></item></channel></rss>

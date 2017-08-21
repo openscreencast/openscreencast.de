@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/autokorrektur.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-04-06T20:11:00+02:00</updated><entry><title>LibreOffice - Writer - AutoKorrektur verwenden</title><link href="https://www.openscreencast.de/blog/libreoffice_autokorrektur_verwenden.html" rel="alternate"></link><published>2013-04-06T20:11:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-04-06:blog/libreoffice_autokorrektur_verwenden.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Autokorrektur</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/autokorrektur.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-04-06T20:11:00+02:00</updated><entry><title>LibreOffice - Writer - AutoKorrektur verwenden</title><link href="https://www.openscreencast.de/blog/libreoffice_autokorrektur_verwenden.html" rel="alternate"></link><published>2013-04-06T20:11:00+02:00</published><updated>2013-04-06T20:11:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-04-06:/blog/libreoffice_autokorrektur_verwenden.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="LibreOffice"></category><category term="Gnome3"></category><category term="Autokorrektur"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 Beta&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.libreoffice.org/hilfe-kontakt/handbuecher/" title="Link zu LibreOffice"&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Libreoffice" title="LibreOffice"&gt;WP:LibreOffice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="LibreOffice"></category><category term="Gnome3"></category><category term="Autokorrektur"></category></entry></feed>

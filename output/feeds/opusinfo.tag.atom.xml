@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/opusinfo.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-11-02T21:03:00+01:00</updated><entry><title>opus - freier Audio-Codec</title><link href="https://www.openscreencast.de/blog/linux_opus.html" rel="alternate"></link><published>2013-11-02T21:03:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-02:blog/linux_opus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - opusinfo</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/opusinfo.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-11-02T21:03:00+01:00</updated><entry><title>opus - freier Audio-Codec</title><link href="https://www.openscreencast.de/blog/linux_opus.html" rel="alternate"></link><published>2013-11-02T21:03:00+01:00</published><updated>2013-11-02T21:03:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-02:/blog/linux_opus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Opus_%28Audioformat%29" title="Link zu WP:opus"&gt;WP:opus&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="opus"></category><category term="opusenc"></category><category term="opusdec"></category><category term="opusinfo"></category><category term="Audio"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Opus_%28Audioformat%29" title="Link zu WP:opus"&gt;WP:opus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="opus"></category><category term="opusenc"></category><category term="opusdec"></category><category term="opusinfo"></category><category term="Audio"></category></entry></feed>

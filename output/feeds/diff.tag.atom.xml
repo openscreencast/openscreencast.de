@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/diff.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-27T19:36:00+01:00</updated><entry><title>Linux - meld - Dateien vergleichen</title><link href="https://www.openscreencast.de/blog/linux_meld_dateien_vergleichen.html" rel="alternate"></link><published>2013-10-27T19:36:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-27:blog/linux_meld_dateien_vergleichen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - diff</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/diff.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2013-10-27T19:36:00+01:00</updated><entry><title>Linux - meld - Dateien vergleichen</title><link href="https://www.openscreencast.de/blog/linux_meld_dateien_vergleichen.html" rel="alternate"></link><published>2013-10-27T19:36:00+01:00</published><updated>2013-10-27T19:36:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-10-27:/blog/linux_meld_dateien_vergleichen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://meldmerge.org/" title="Link zu meldmerge.org"&gt;http://meldmerge.org&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="meld"></category><category term="diff"></category></entry><entry><title>diff - Dateien vergleichen</title><link href="https://www.openscreencast.de/blog/diff_dateien_vergleichen.html" rel="alternate"></link><published>2013-01-31T17:02:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-01-31:blog/diff_dateien_vergleichen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 beta&lt;br /&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://meldmerge.org/" title="Link zu meldmerge.org"&gt;http://meldmerge.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome"></category><category term="Gnome3"></category><category term="meld"></category><category term="diff"></category></entry><entry><title>diff - Dateien vergleichen</title><link href="https://www.openscreencast.de/blog/diff_dateien_vergleichen.html" rel="alternate"></link><published>2013-01-31T17:02:00+01:00</published><updated>2013-01-31T17:02:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-01-31:/blog/diff_dateien_vergleichen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 beta&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Textdateien_vergleichen" title="Textdateien_vergleichen"&gt;Textdateien_vergleichen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="diff"></category><category term="diff3"></category><category term="comm"></category><category term="cmp"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 17 beta&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/Textdateien_vergleichen" title="Textdateien_vergleichen"&gt;Textdateien_vergleichen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="CC by"></category><category term="Gnome3"></category><category term="diff"></category><category term="diff3"></category><category term="comm"></category><category term="cmp"></category></entry></feed>

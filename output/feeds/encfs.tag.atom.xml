@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/encfs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-07-25T02:08:00+02:00</updated><entry><title>Verzeichnis mit encfs verschluesseln</title><link href="https://www.openscreencast.de/blog/Verzeichnis_mit_encfs_verschluesseln.html" rel="alternate"></link><published>2007-07-25T02:08:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-07-25:blog/Verzeichnis_mit_encfs_verschluesseln.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - encfs</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/encfs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-07-25T02:08:00+02:00</updated><entry><title>Verzeichnis mit encfs verschluesseln</title><link href="https://www.openscreencast.de/blog/Verzeichnis_mit_encfs_verschluesseln.html" rel="alternate"></link><published>2007-07-25T02:08:00+02:00</published><updated>2007-07-25T02:08:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-07-25:/blog/Verzeichnis_mit_encfs_verschluesseln.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: encfs, encfsctl, man, fusermount&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -9,4 +9,14 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_in_Userspace"&gt;FUSE&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Passwort"&gt;Passwort&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.gentoo-wiki.com/Encfs"&gt;encfs anwenden&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="Anfänger"></category><category term="CC by-nc-sa"></category><category term="encfs"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Sicherheit"></category></entry></feed>
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br&gt;
+Zielgruppe: Neueinsteiger  &lt;/p&gt;
+&lt;p&gt;Kommandos: encfs, encfsctl, man, fusermount&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://arg0.net/wiki/encfs"&gt;encfs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fedorablog.de/archives/180-Dateien-verschluesseln-mit-encfs.html"&gt;encfs anwenden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Filesystem_in_Userspace"&gt;FUSE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Passwort"&gt;Passwort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.gentoo-wiki.com/Encfs"&gt;encfs anwenden&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Anfänger"></category><category term="CC by-nc-sa"></category><category term="encfs"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Sicherheit"></category></entry></feed>

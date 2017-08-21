@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/magine.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-04-29T16:09:00+02:00</updated><entry><title>Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten</title><link href="https://www.openscreencast.de/blog/OnlineTV_mit_Magine_und_Pipelight_Silverlight_unter_Linux_betrachten.html" rel="alternate"></link><published>2014-04-29T16:09:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-29:blog/OnlineTV_mit_Magine_und_Pipelight_Silverlight_unter_Linux_betrachten.html</id><summary type="html">&lt;p&gt;Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten&lt;br /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - magine</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/magine.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-04-29T16:09:00+02:00</updated><entry><title>Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten</title><link href="https://www.openscreencast.de/blog/OnlineTV_mit_Magine_und_Pipelight_Silverlight_unter_Linux_betrachten.html" rel="alternate"></link><published>2014-04-29T16:09:00+02:00</published><updated>2014-04-29T16:09:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-04-29:/blog/OnlineTV_mit_Magine_und_Pipelight_Silverlight_unter_Linux_betrachten.html</id><summary type="html">&lt;p&gt;Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/online-tv-mit-magine-und-pieplight-
 silverlight-unter-linux/"&gt;http://linuxundich.de/ubuntu/online-tv-mit-magine-und-pieplight-
-silverlight-unter-linux/&lt;/a&gt;&lt;br /&gt;
+silverlight-unter-linux/&lt;/a&gt;&lt;br&gt;
 Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten von
-Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br /&gt;
+Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://magine.com/"&gt;https://magine.com/&lt;/a&gt;&lt;br /&gt;
-&lt;a href="https://launchpad.net/pipelight"&gt;https://launchpad.net/pipelight&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://wiki.ubuntuusers.de/Baustelle/Pipelight"&gt;http://wiki.ubuntuusers.de/Baustelle/Pipelight&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href="https://magine.com/"&gt;https://magine.com …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle: &lt;a href="http://linuxundich.de/ubuntu/online-tv-mit-magine-und-pieplight-
+silverlight-unter-linux/"&gt;http://linuxundich.de/ubuntu/online-tv-mit-magine-und-pieplight-
+silverlight-unter-linux/&lt;/a&gt;&lt;br&gt;
+Online-TV mit Magine und Pipelight/Silverlight unter Linux betrachten von
+Christoph Langner &lt;a href="http://linuxundich.de/"&gt;http://linuxundich.de/&lt;/a&gt;&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://magine.com/"&gt;https://magine.com/&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://launchpad.net/pipelight"&gt;https://launchpad.net/pipelight&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://wiki.ubuntuusers.de/Baustelle/Pipelight"&gt;http://wiki.ubuntuusers.de/Baustelle/Pipelight&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://fds-team.de/cms/pipelight-installation.html"&gt;http://fds-team.de/cms/pipelight-installation.html&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Maxdome, Watchever und Amazon Instant Video mit Pipelight unter Linux:
 &lt;a href="http://youtu.be/Sxm_IIURs78"&gt;http://youtu.be/Sxm_IIURs78&lt;/a&gt;  &lt;/p&gt;
@@ -17,4 +25,4 @@ Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creat
 /wtiF-NQKA4w"&gt;http://youtu.be
 /wtiF-NQKA4w&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Weitere Videos in der Linux-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="pipelight"></category><category term="magine"></category></entry></feed>
+&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="pipelight"></category><category term="magine"></category></entry></feed>
