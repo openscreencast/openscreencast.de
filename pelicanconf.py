@@ -47,7 +47,7 @@ PELICAN_COMMENT_SYSTEM_DIR = PATH + "/comments"
 #          ('openclipart', 'http://www.openclipart.org/user-detail/redccshirt'),
 #          ('tumblr', 'http://redcctshirt.tumblr.com/'),
 #	  ('pixabay', 'http://www.pixabay.com/de/users/redcctshirt'),)
-LINKS =  (('Videotutorials', 'https://www.openscreencast.de/videotutorials/'),)
+LINKS =  (('Lernstube', 'https://www.openscreencast.de/lernstube/'),)
 
 
 # Social widget
