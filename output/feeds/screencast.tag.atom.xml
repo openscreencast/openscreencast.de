@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - screencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/screencast.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-08-21T13:52:00+02:00</updated><entry><title>feren OS 2017.08 - Demo</title><link href="https://www.openscreencast.de/blog/ferenos_demo.html" rel="alternate"></link><published>2017-08-21T13:52:00+02:00</published><updated>2017-08-21T13:52:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-08-21:/blog/ferenos_demo.html</id><summary type="html">&lt;p&gt;feren OS 2017.08 - Demo&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - screencast</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/screencast.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-11-12T19:59:00+01:00</updated><entry><title>mkdocs - eine Dokumentation im HTML-Format generieren</title><link href="https://www.openscreencast.de/blog/mkdocs_doku_gen.html" rel="alternate"></link><published>2017-11-12T19:59:00+01:00</published><updated>2017-11-12T19:59:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-11-12:/blog/mkdocs_doku_gen.html</id><summary type="html">&lt;p&gt;mkdocs - eine Dokumentation im HTML-Format generieren, Linux Mint 18.2&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/"&gt;mkdocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/user-guide/configuration/"&gt;mkdocs Conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gitbook.com/"&gt;gitbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sphinx-doc.org/en/stable/"&gt;sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rust-lang-nursery/mdBook"&gt;mdBook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.staticgen.com/"&gt;staticgen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;p&gt;mkdocs - eine Dokumentation im HTML-Format generieren, Linux Mint 18.2&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/"&gt;mkdocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/user-guide/configuration/"&gt;mkdocs Conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gitbook.com/"&gt;gitbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sphinx-doc.org/en/stable/"&gt;sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rust-lang-nursery/mdBook"&gt;mdBook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.staticgen.com/"&gt;staticgen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="CC by"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Linux"></category><category term="Python"></category><category term="mkdocs"></category></entry><entry><title>feren OS 2017.08 - Demo</title><link href="https://www.openscreencast.de/blog/ferenos_demo.html" rel="alternate"></link><published>2017-08-21T13:52:00+02:00</published><updated>2017-08-21T13:52:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-08-21:/blog/ferenos_demo.html</id><summary type="html">&lt;p&gt;feren OS 2017.08 - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;

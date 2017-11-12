@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>openscreencast - Video</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Mon, 21 Aug 2017 13:52:00 +0200</lastBuildDate><item><title>feren OS 2017.08 - Demo</title><link>https://www.openscreencast.de/blog/ferenos_demo.html</link><description>&lt;p&gt;feren OS 2017.08 - Demo&lt;br&gt;
+<rss version="2.0"><channel><title>openscreencast - Video</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Sun, 12 Nov 2017 19:59:00 +0100</lastBuildDate><item><title>mkdocs - eine Dokumentation im HTML-Format generieren</title><link>https://www.openscreencast.de/blog/mkdocs_doku_gen.html</link><description>&lt;p&gt;mkdocs - eine Dokumentation im HTML-Format generieren, Linux Mint 18.2&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/"&gt;mkdocs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mkdocs.org/user-guide/configuration/"&gt;mkdocs Conf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gitbook.com/"&gt;gitbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sphinx-doc.org/en/stable/"&gt;sphinx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rust-lang-nursery/mdBook"&gt;mdBook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.staticgen.com/"&gt;staticgen.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Sun, 12 Nov 2017 19:59:00 +0100</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2017-11-12:/blog/mkdocs_doku_gen.html</guid><category>CC by</category><category>Neueinsteiger</category><category>screencast</category><category>Linux</category><category>Python</category><category>mkdocs</category></item><item><title>feren OS 2017.08 - Demo</title><link>https://www.openscreencast.de/blog/ferenos_demo.html</link><description>&lt;p&gt;feren OS 2017.08 - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
