@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:jquery](https://de.wikipedia.org/wiki/JQuery "Link zu WP:jquery" )
+  * [WP:jquery](https://de.wikipedia.org/wiki/JQuery "Link zu WP:jquery")
 

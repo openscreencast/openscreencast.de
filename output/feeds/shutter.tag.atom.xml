@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Shutter</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/shutter.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-19T00:36:00+02:00</updated><entry><title>Shutter Screencasts</title><link href="https://www.openscreencast.de/blog/shutter.html" rel="alternate"></link><published>2010-10-19T00:36:00+02:00</published><updated>2010-10-19T00:36:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-19:/blog/shutter.html</id><summary type="html">&lt;p&gt;&lt;a href="http://shutter-project.org/"&gt;Shutter&lt;/a&gt; ist ein Tool um Bildschirmfotos
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Shutter</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/shutter.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2010-10-19T00:36:00+02:00</updated><entry><title>Shutter Screencasts</title><link href="https://www.openscreencast.de/blog/shutter.html" rel="alternate"></link><published>2010-10-19T00:36:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-10-19:/blog/shutter.html/</id><summary type="html">&lt;p&gt;&lt;a href="http://shutter-project.org/"&gt;Shutter&lt;/a&gt; ist ein Tool um Bildschirmfotos
 (Screenshots) aufzunehmen.
 &lt;a href="http://de.wikipedia.org/wiki/Shutter_%28Software%29"&gt;Shutter&lt;/a&gt; ist Open-
 Source-Software und steht unter der Lizenz
 &lt;a href="http://de.wikipedia.org/wiki/GPLv3#GPL_Version_3"&gt;GPLv3&lt;/a&gt;. Mit Shutter können
 ganze Desktops, Fenster, spezifische Bereiche, Menüs, Tooltips und Webseiten
 aufgenommen werden. Wie Shutter funktioniert zeigen auch die
-&lt;a href="http://shutter-project.org/preview/screencasts/"&gt;Screencasts&lt;/a&gt; dazu.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://shutter-project.org/"&gt;Shutter&lt;/a&gt; ist ein Tool um Bildschirmfotos
-(Screenshots) aufzunehmen.
-&lt;a href="http://de.wikipedia.org/wiki/Shutter_%28Software%29"&gt;Shutter&lt;/a&gt; ist Open-
-Source-Software und steht unter der Lizenz
-&lt;a href="http://de.wikipedia.org/wiki/GPLv3#GPL_Version_3"&gt;GPLv3&lt;/a&gt;. Mit Shutter können
-ganze Desktops, Fenster, spezifische Bereiche, Menüs, Tooltips und Webseiten
-aufgenommen werden. Wie Shutter funktioniert zeigen auch die
-&lt;a href="http://shutter-project.org/preview/screencasts/"&gt;Screencasts&lt;/a&gt; dazu.&lt;/p&gt;</content><category term="News"></category><category term="screencast"></category><category term="Shutter"></category></entry></feed>
+&lt;a href="http://shutter-project.org/preview/screencasts/"&gt;Screencasts&lt;/a&gt; dazu.&lt;/p&gt;</summary><category term="News"></category><category term="screencast"></category><category term="Shutter"></category></entry></feed>

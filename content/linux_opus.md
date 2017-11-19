@@ -20,5 +20,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:opus](https://de.wikipedia.org/wiki/Opus_%28Audioformat%29 "Link zu WP:opus" )
+  * [WP:opus](https://de.wikipedia.org/wiki/Opus_%28Audioformat%29 "Link zu WP:opus")
 

@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [split](http://de.linwiki.org/wiki/Linuxfibel_-_Nutzerkommandos_-_Textbearbeitung#split_-_Dateien_in_gleichm.C3.A4.C3.9Fige_Portionen_zerlegen "split" )
+  * [split](http://de.linwiki.org/wiki/Linuxfibel_-_Nutzerkommandos_-_Textbearbeitung#split_-_Dateien_in_gleichm.C3.A4.C3.9Fige_Portionen_zerlegen "split")
 

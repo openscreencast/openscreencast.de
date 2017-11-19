@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [http://www.bodhilinux.com](http://www.bodhilinux.com/ "Link zu bodhilinux.com" )
+  * [http://www.bodhilinux.com](http://www.bodhilinux.com/ "Link zu bodhilinux.com")
 

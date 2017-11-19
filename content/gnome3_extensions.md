@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Gnome3 - CheatSheet](http://live.gnome.org/GnomeShell/CheatSheet "Link zu gnome.org" )
-  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome" )
-  * [GNOME Shell frippery](http://intgat.tigress.co.uk/rmy/extensions/index.html "Link zu GNOME Shell frippery" )
-  * [Gnome3 Erweiterungen](http://fedorawiki.de/index.php/Gnome_3_Extensions "Link zu fedora wiki" )
+  * [Gnome3 - CheatSheet](http://live.gnome.org/GnomeShell/CheatSheet "Link zu gnome.org")
+  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome")
+  * [GNOME Shell frippery](http://intgat.tigress.co.uk/rmy/extensions/index.html "Link zu GNOME Shell frippery")
+  * [Gnome3 Erweiterungen](http://fedorawiki.de/index.php/Gnome_3_Extensions "Link zu fedora wiki")
 

@@ -18,7 +18,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice" )
-  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice" )
-  * [Excel: Datensätze säubern, vereinheitlichen und automatisch ausfüllen von Marco Maas (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/excel-datensatze-saubern-vereinheitlichen-und-automatisch-ausfullen/ "opendatacity.de" )
+  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice")
+  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice")
+  * [Excel: Datensätze säubern, vereinheitlichen und automatisch ausfüllen von Marco Maas (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/excel-datensatze-saubern-vereinheitlichen-und-automatisch-ausfullen/ "opendatacity.de")
 

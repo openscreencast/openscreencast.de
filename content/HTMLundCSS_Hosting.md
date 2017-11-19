@@ -23,14 +23,14 @@ Jakob](http://code.makery.ch/about/) Lizenz: [CC by
 
 Links:
 
-  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org" )
-  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org" )
-  * [Bitballoon](https://www.bitballoon.com/ "Link zu bitballoon.com/" )
-  * [Google Drive](https://drive.google.com/ "Link zu google.com/" )
-  * [pancake.io](https://pancake.io/ "Link zu pancake.io/" )
-  * [Droppages](http://droppages.com/ "Link zu droppages.com/" )
-  * [Github Pages](https://pages.github.com/ "Link zu github.com/" )
-  * [goo.gl](http://goo.gl/ "Link zu goo.gl/" )
-  * [bitly.com](https://bitly.com/ "Link zu bitly.com/" )
-  * [tiny.cc](http://tiny.cc/ "Link zu tiny.cc/" )
+  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org")
+  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org")
+  * [Bitballoon](https://www.bitballoon.com/ "Link zu bitballoon.com/")
+  * [Google Drive](https://drive.google.com/ "Link zu google.com/")
+  * [pancake.io](https://pancake.io/ "Link zu pancake.io/")
+  * [Droppages](http://droppages.com/ "Link zu droppages.com/")
+  * [Github Pages](https://pages.github.com/ "Link zu github.com/")
+  * [goo.gl](http://goo.gl/ "Link zu goo.gl/")
+  * [bitly.com](https://bitly.com/ "Link zu bitly.com/")
+  * [tiny.cc](http://tiny.cc/ "Link zu tiny.cc/")
 

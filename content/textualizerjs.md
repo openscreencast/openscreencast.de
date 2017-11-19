@@ -22,6 +22,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:jQuery](https://de.wikipedia.org/wiki/JQuery "Link zu WP:jQuery" )
-  * [textualizer](http://kiro.me/projects/textualizer.html "Link zu textualizer" )
+  * [WP:jQuery](https://de.wikipedia.org/wiki/JQuery "Link zu WP:jQuery")
+  * [textualizer](http://kiro.me/projects/textualizer.html "Link zu textualizer")
 

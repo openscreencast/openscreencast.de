@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:lighttpd](https://de.wikipedia.org/wiki/Lighttpd "Link zu WP:lighttpd" )
+  * [WP:lighttpd](https://de.wikipedia.org/wiki/Lighttpd "Link zu WP:lighttpd")
 

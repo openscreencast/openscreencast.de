@@ -19,7 +19,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [d3js](http://d3js.org/ "Link zu d3js.org/" )
-  * [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials "Link zu github.com" )
-  * [codecademy - d3](https://www.codecademy.com/courses/web-beginner-en-kcP9b/0/1 "Link zu codecademy.com" )
+  * [d3js](http://d3js.org/ "Link zu d3js.org/")
+  * [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials "Link zu github.com")
+  * [codecademy - d3](https://www.codecademy.com/courses/web-beginner-en-kcP9b/0/1 "Link zu codecademy.com")
 

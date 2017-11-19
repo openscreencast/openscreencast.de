@@ -18,7 +18,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [fedoramagazine - powerline](http://fedoramagazine.org/add-power-terminal-powerline/ "Link zu fedoramagazine.org" )
-  * [powerline - Dokumentation](http://powerline.readthedocs.org/en/latest/configuration.html "Link zu powerline.readthedocs.org" )
-  * [github - powerline](https://github.com/powerline/powerline "Link zu github.com" )
+  * [fedoramagazine - powerline](http://fedoramagazine.org/add-power-terminal-powerline/ "Link zu fedoramagazine.org")
+  * [powerline - Dokumentation](http://powerline.readthedocs.org/en/latest/configuration.html "Link zu powerline.readthedocs.org")
+  * [github - powerline](https://github.com/powerline/powerline "Link zu github.com")
 

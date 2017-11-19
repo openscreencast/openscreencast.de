@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Wayland</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wayland.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-02-25T19:29:00+01:00</updated><entry><title>RebeccaBlackOS 2016-02-08 (Wayland) - Demo</title><link href="https://www.openscreencast.de/blog/RebeccaBlackOS_Wayland_Demo.html" rel="alternate"></link><published>2016-02-25T19:29:00+01:00</published><updated>2016-02-25T19:29:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-02-25:/blog/RebeccaBlackOS_Wayland_Demo.html</id><summary type="html">&lt;p&gt;RebeccaBlackOS 2016-02-08 (Wayland) - Demo&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Wayland</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/wayland.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-02-25T19:29:00+01:00</updated><entry><title>RebeccaBlackOS 2016-02-08 (Wayland) - Demo</title><link href="https://www.openscreencast.de/blog/RebeccaBlackOS_Wayland_Demo.html" rel="alternate"></link><published>2016-02-25T19:29:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-02-25:/blog/RebeccaBlackOS_Wayland_Demo.html/</id><summary type="html">&lt;p&gt;RebeccaBlackOS 2016-02-08 (Wayland) - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://sourceforge.net/projects/rebeccablackos/"&gt;RebeccaBlackOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;RebeccaBlackOS 2016-02-08 (Wayland) - Demo&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://sourceforge.net/projects/rebeccablackos/"&gt;RebeccaBlackOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Wayland"></category><category term="RebeccaBlackOS"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Wayland"></category><category term="RebeccaBlackOS"></category></entry></feed>

@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox" )
-  * [Adblock Plus](https://addons.mozilla.org/de/firefox/addon/adblock-plus/ "Link zu Adblock Plus" )
-  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de" )
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox")
+  * [Adblock Plus](https://addons.mozilla.org/de/firefox/addon/adblock-plus/ "Link zu Adblock Plus")
+  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de")
 

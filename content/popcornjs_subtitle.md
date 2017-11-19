@@ -22,6 +22,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Mozilla Foundation](https://de.wikipedia.org/wiki/Mozilla_Foundation "Link zu WP:Mozilla_Foundation" )
-  * [popcornjs](http://popcornjs.org/ "Link zu popcornjs" )
+  * [WP:Mozilla Foundation](https://de.wikipedia.org/wiki/Mozilla_Foundation "Link zu WP:Mozilla_Foundation")
+  * [popcornjs](http://popcornjs.org/ "Link zu popcornjs")
 

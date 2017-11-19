@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Datenschutz</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/datenschutz.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-05-04T20:16:00+02:00</updated><entry><title>Privacy Badger - die Datenschutz-Erweiterung für Firefox</title><link href="https://www.openscreencast.de/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html" rel="alternate"></link><published>2014-05-04T20:16:00+02:00</published><updated>2014-05-04T20:16:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-04:/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html</id><summary type="html">&lt;p&gt;Privacy Badger - die Datenschutz-Erweiterung für Firefox&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Datenschutz</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/datenschutz.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-05-04T20:16:00+02:00</updated><entry><title>Privacy Badger - die Datenschutz-Erweiterung für Firefox</title><link href="https://www.openscreencast.de/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html" rel="alternate"></link><published>2014-05-04T20:16:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-04:/blog/Privacy_Badger_die_Datenschutz_Erweiterung_fuer_Firefox.html/</id><summary type="html">&lt;p&gt;Privacy Badger - die Datenschutz-Erweiterung für Firefox&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.eff.org/privacybadger"&gt;https://www.eff.org/privacybadger&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;br&gt;
@@ -7,19 +7,4 @@ Privacy Badger - A project of the Electronic Frontier Foundation&lt;br&gt;
 &lt;a href="https://github.com/EFForg/"&gt;https://github.com/EFForg/&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://de.wikipedia.org/wiki/Web_Analytics"&gt;http://de.wikipedia.org/wiki/Web_Analytics&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Firefox-Logo in Thumbnail:&lt;br&gt;
-&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Privacy Badger - die Datenschutz-Erweiterung für Firefox&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.eff.org/privacybadger"&gt;https://www.eff.org/privacybadger&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;&lt;br&gt;
-Privacy Badger - A project of the Electronic Frontier Foundation&lt;br&gt;
-&lt;a href="https://github.com/EFForg/"&gt;https://github.com/EFForg/&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://de.wikipedia.org/wiki/Web_Analytics"&gt;http://de.wikipedia.org/wiki/Web_Analytics&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Firefox-Logo in Thumbnail:&lt;br&gt;
-&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de&lt;/a&gt;&lt;br&gt;
-Urheber: Sean Martell for Mozilla, Original uploader was Supuhstar&lt;br&gt;
-Lizenz: Mozilla Public License Version 2, &lt;a href="https://www.mozilla.org/MPL/1.1/"&gt;MPL
-1.1&lt;/a&gt;, &lt;a href="https://creativecommons.org/licenses/by/3.0/deed.de"&gt;CC by
-3.0&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Thumbnail-Lizenz: Mozilla Public License Version 2  &lt;/p&gt;
-&lt;p&gt;Weitere Videos in der Firefox-Playlist:
-&lt;a href="https://www.youtube.com/playlist?list=PL6DC166439CBC258F"&gt;https://www.youtube.com/playlist?list=PL6DC166439CBC258F&lt;/a&gt;  &lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Datenschutz"></category><category term="Privacy"></category><category term="Firefox"></category><category term="Web"></category><category term="Privacy Badger"></category></entry></feed>
+&lt;a href="https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg?uselang=de"&gt;https://commons …&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Datenschutz"></category><category term="Privacy"></category><category term="Firefox"></category><category term="Web"></category><category term="Privacy Badger"></category></entry></feed>

@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [webcamstudio](https://code.google.com/p/webcamstudio/ "Link zu webcamstudio" )
+  * [webcamstudio](https://code.google.com/p/webcamstudio/ "Link zu webcamstudio")
 

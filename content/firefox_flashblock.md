@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox" )
-  * [WP:Flash_Video](http://de.wikipedia.org/wiki/Flash_Video "Link zu Wikipedia Flash_Video" )
-  * [Flashblock](https://addons.mozilla.org/de/firefox/addon/flashblock/ "Link zu Flashblock" )
-  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de" )
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox")
+  * [WP:Flash_Video](http://de.wikipedia.org/wiki/Flash_Video "Link zu Wikipedia Flash_Video")
+  * [Flashblock](https://addons.mozilla.org/de/firefox/addon/flashblock/ "Link zu Flashblock")
+  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de")
 

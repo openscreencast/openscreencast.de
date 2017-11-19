@@ -20,7 +20,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [minitube](http://flavio.tordini.org/minitube "Link zu minitube" )
-  * [nomnom](http://nomnom.sourceforge.net/ "Link zu nomnom" )
-  * [youtube-dl](http://rg3.github.io/youtube-dl/ "Link zu youtube-dl" )
+  * [minitube](http://flavio.tordini.org/minitube "Link zu minitube")
+  * [nomnom](http://nomnom.sourceforge.net/ "Link zu nomnom")
+  * [youtube-dl](http://rg3.github.io/youtube-dl/ "Link zu youtube-dl")
 

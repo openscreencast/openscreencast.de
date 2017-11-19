@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome" )
+  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome")
 

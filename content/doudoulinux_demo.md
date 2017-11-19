@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [doudoulinux](http://www.doudoulinux.org/web/deutsch/ "Link zu doudoulinux" )
+  * [doudoulinux](http://www.doudoulinux.org/web/deutsch/ "Link zu doudoulinux")
 

@@ -20,6 +20,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [r-project](http://www.r-project.org/ "Link zu r-project.org/" )
-  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org" )
+  * [r-project](http://www.r-project.org/ "Link zu r-project.org/")
+  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org")
 

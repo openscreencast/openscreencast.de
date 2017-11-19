@@ -23,5 +23,5 @@ http://creativecommons.org/licenses/by/3.0/
 
 Links:
 
-  * [WP:Javascript](https://de.wikipedia.org/wiki/JavaScript "Link zu wikipedia.org" )
+  * [WP:Javascript](https://de.wikipedia.org/wiki/JavaScript "Link zu wikipedia.org")
 

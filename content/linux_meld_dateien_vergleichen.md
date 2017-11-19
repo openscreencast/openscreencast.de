@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [http://meldmerge.org](http://meldmerge.org/ "Link zu meldmerge.org" )
+  * [http://meldmerge.org](http://meldmerge.org/ "Link zu meldmerge.org")
 

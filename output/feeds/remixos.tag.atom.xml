@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - RemixOS</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/remixos.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-01-13T17:05:00+01:00</updated><entry><title>Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)</title><link href="https://www.openscreencast.de/blog/RemixOSAlpha_Demo.html" rel="alternate"></link><published>2016-01-13T17:05:00+01:00</published><updated>2016-01-13T17:05:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-01-13:/blog/RemixOSAlpha_Demo.html</id><summary type="html">&lt;p&gt;Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - RemixOS</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/remixos.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-01-13T17:05:00+01:00</updated><entry><title>Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)</title><link href="https://www.openscreencast.de/blog/RemixOSAlpha_Demo.html" rel="alternate"></link><published>2016-01-13T17:05:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-01-13:/blog/RemixOSAlpha_Demo.html/</id><summary type="html">&lt;p&gt;Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.jide.com/en/remixos-for-pc"&gt;Remix OS für den PC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Remix OS 2.0 Alpha - Demo (Android 5.1.1 auf dem PC, Guest Mode)&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.jide.com/en/remixos-for-pc"&gt;Remix OS für den PC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Android"></category><category term="RemixOS"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Android"></category><category term="RemixOS"></category></entry></feed>

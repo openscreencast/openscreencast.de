@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [HTTPS Everywhere](https://www.eff.org/https-everywhere/ "Link zu eff.org" )
-  * [WP:https](https://secure.wikimedia.org/wikipedia/de/wiki/Https "Link zu Wikipedia" )
+  * [HTTPS Everywhere](https://www.eff.org/https-everywhere/ "Link zu eff.org")
+  * [WP:https](https://secure.wikimedia.org/wikipedia/de/wiki/Https "Link zu Wikipedia")
 

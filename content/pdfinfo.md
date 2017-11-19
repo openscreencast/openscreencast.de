@@ -24,5 +24,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [pdf](http://wiki.ubuntuusers.de/PDF "Link zu pdf" )
+  * [pdf](http://wiki.ubuntuusers.de/PDF "Link zu pdf")
 

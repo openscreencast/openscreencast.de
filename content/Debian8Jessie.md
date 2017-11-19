@@ -18,10 +18,10 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [WP:Debian](http://de.wikipedia.org/wiki/Debian "Link zu wikipedia.org" )
-  * [Sources](https://sources.debian.net/ "Link zu debian.net" )
-  * [Codesearch](https://codesearch.debian.net/ "Link zu debian.net" )
-  * [Tracker](https://tracker.debian.org/ "Link zu debian.org" )
-  * [Live](http://live.debian.net/ "Link zu debian.net" )
-  * [Installationsanleitung](https://www.debian.org/releases/jessie/installmanual "Link zu debian.org" )
+  * [WP:Debian](http://de.wikipedia.org/wiki/Debian "Link zu wikipedia.org")
+  * [Sources](https://sources.debian.net/ "Link zu debian.net")
+  * [Codesearch](https://codesearch.debian.net/ "Link zu debian.net")
+  * [Tracker](https://tracker.debian.org/ "Link zu debian.org")
+  * [Live](http://live.debian.net/ "Link zu debian.net")
+  * [Installationsanleitung](https://www.debian.org/releases/jessie/installmanual "Link zu debian.org")
 

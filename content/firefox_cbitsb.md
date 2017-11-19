@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox" )
-  * [WP:Cookie](http://de.wikipedia.org/wiki/Cookie "Link zu Wikipedia Cookie" )
-  * [Cookie Button in the status bar](https://addons.mozilla.org/de/firefox/addon/cookie-button-in-the-status-ba/ "Link zu Cbitsb" )
-  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de" )
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox")
+  * [WP:Cookie](http://de.wikipedia.org/wiki/Cookie "Link zu Wikipedia Cookie")
+  * [Cookie Button in the status bar](https://addons.mozilla.org/de/firefox/addon/cookie-button-in-the-status-ba/ "Link zu Cbitsb")
+  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de")
 

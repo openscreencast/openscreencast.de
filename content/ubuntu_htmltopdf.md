@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/ "wkhtmltopdf" )
+  * [wkhtmltopdf](http://code.google.com/p/wkhtmltopdf/ "wkhtmltopdf")
 

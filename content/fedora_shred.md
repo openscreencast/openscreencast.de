@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [shred](http://wiki.ubuntuusers.de/Shell/shred "Link zu shred" )
-  * [wipe](http://wiki.ubuntuusers.de/wipe "Link zu wipe" )
+  * [shred](http://wiki.ubuntuusers.de/Shell/shred "Link zu shred")
+  * [wipe](http://wiki.ubuntuusers.de/wipe "Link zu wipe")
 

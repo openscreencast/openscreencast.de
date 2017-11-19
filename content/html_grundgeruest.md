@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:HTML5](https://de.wikipedia.org/wiki/HTML5 "Link zu WP:HTML5" )
+  * [WP:HTML5](https://de.wikipedia.org/wiki/HTML5 "Link zu WP:HTML5")
 

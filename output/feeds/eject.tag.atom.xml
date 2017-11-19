@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - eject</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/eject.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-07-11T02:40:00+02:00</updated><entry><title>Audio-CD abspielen</title><link href="https://www.openscreencast.de/blog/Audio_CD_abspielen.html" rel="alternate"></link><published>2006-07-11T02:40:00+02:00</published><updated>2006-07-11T02:40:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Audio_CD_abspielen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - eject</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/eject.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-07-11T02:40:00+02:00</updated><entry><title>Audio-CD abspielen</title><link href="https://www.openscreencast.de/blog/Audio_CD_abspielen.html" rel="alternate"></link><published>2006-07-11T02:40:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Audio_CD_abspielen.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Vorkommende Kommandos: eject, totem, sound-juicer, gnome-cd, rhythmbox, gnome-
 volume-control, gnome-volume-properties&lt;/p&gt;
@@ -13,18 +13,4 @@ volume-control, gnome-volume-properties&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Totem_%28media_player%29"&gt;Totem&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf-editor"&gt;gconf-editor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Vorkommende Kommandos: eject, totem, sound-juicer, gnome-cd, rhythmbox, gnome-
-volume-control, gnome-volume-properties&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Audio-CD"&gt;Audio-CD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Lautst%C3%A4rke"&gt;Lautstärke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/CD-Player"&gt;CD-Player&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Rhythmbox"&gt;Rhythmbox&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Sound_Juicer"&gt;Sound Juicer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Totem_%28media_player%29"&gt;Totem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gconf-editor"&gt;gconf-editor&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Audio-CD"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="Desktop"></category><category term="eject"></category><category term="Fedora Core"></category><category term="gconf"></category><category term="gconf-editor"></category><category term="Gnome"></category><category term="gnome-cd"></category><category term="gnome-volume-control"></category><category term="gnome-volume-properties"></category><category term="Linux"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="rhythmbox"></category><category term="screencast"></category><category term="Sound Juicer"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="totem"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="Audio-CD"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="Desktop"></category><category term="eject"></category><category term="Fedora Core"></category><category term="gconf"></category><category term="gconf-editor"></category><category term="Gnome"></category><category term="gnome-cd"></category><category term="gnome-volume-control"></category><category term="gnome-volume-properties"></category><category term="Linux"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="rhythmbox"></category><category term="screencast"></category><category term="Sound Juicer"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="totem"></category></entry></feed>

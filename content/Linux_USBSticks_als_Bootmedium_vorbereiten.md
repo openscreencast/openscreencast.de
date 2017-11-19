@@ -18,7 +18,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)](https://privacy-handbuch.de/ "Link zu privacy-handbuch.de" )
-  * [Easy Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ "Link zu pendrivelinux.com" )
-  * [Yumi Multiboot USB Creator](http://www.pendrivelinux.com/yumi-multiboot-usb-creator/ "Link zu pendrivelinux.com" )
+  * [https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)](https://privacy-handbuch.de/ "Link zu privacy-handbuch.de")
+  * [Easy Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/ "Link zu pendrivelinux.com")
+  * [Yumi Multiboot USB Creator](http://www.pendrivelinux.com/yumi-multiboot-usb-creator/ "Link zu pendrivelinux.com")
 

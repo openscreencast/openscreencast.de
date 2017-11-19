@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - recordmydesktop</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/recordmydesktop.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-07-11T22:29:00+02:00</updated><entry><title>recordmydesktop</title><link href="https://www.openscreencast.de/blog/recordmydesktop.html" rel="alternate"></link><published>2007-07-11T22:29:00+02:00</published><updated>2007-07-11T22:29:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-07-11:/blog/recordmydesktop.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - recordmydesktop</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/recordmydesktop.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2007-07-11T22:29:00+02:00</updated><entry><title>recordmydesktop</title><link href="https://www.openscreencast.de/blog/recordmydesktop.html" rel="alternate"></link><published>2007-07-11T22:29:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-07-11:/blog/recordmydesktop.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: recordmydesktop, ls, totem&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -11,35 +11,10 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Mit Musik ist's besser (07/15/2007 - 10:49)&lt;br&gt;
 ... einfach, weil diese stupide Erklärerei a bisserl aufgelockert wird. Freut
 mich, dass Ihr experimentiert! Allerdings finde ich auch, dass bei Euern
-Dateigrössen die Tatsache, dass …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora 7, GNOME 2.18&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: recordmydesktop, ls, totem&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://recordmydesktop.sourceforge.net/"&gt;recordmydesktop&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kommentare:&lt;/p&gt;
-&lt;p&gt;Mit Musik ist's besser (07/15/2007 - 10:49)&lt;br&gt;
-... einfach, weil diese stupide Erklärerei a bisserl aufgelockert wird. Freut
-mich, dass Ihr experimentiert! Allerdings finde ich auch, dass bei Euern
-Dateigrössen die Tatsache, dass da ein Screencast einmal mit und einmal ohne
-Musik bereitgestellt wird, sehr viel deutlicher hervorgehoben werden sollte.
-Ich würde sogar noch weiter gehen und fragen, ob dieser Unterschied einen
-neuen Eintrag rechtfertigt?&lt;br&gt;
-Aber ich freue mich als interessierter Besucher Eurer Site wirklich, dass da
-z. B. mit Musik Leben in die Bude kommt - weiter so!&lt;br&gt;
-LG,frosch&lt;/p&gt;</content><category term="CC by-nc-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="ls"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pirut"></category><category term="recordmydesktop"></category><category term="screencast"></category></entry><entry><title>ScreencastTools im Vergleich</title><link href="https://www.openscreencast.de/blog/ScreencastTools_im_Vergleich.html" rel="alternate"></link><published>2007-02-07T02:17:00+01:00</published><updated>2007-02-07T02:17:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-07:/blog/ScreencastTools_im_Vergleich.html</id><summary type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
+Dateigrössen die Tatsache, dass …&lt;/p&gt;</summary><category term="CC by-nc-sa"></category><category term="Fedora"></category><category term="Gnome"></category><category term="Linux"></category><category term="ls"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="pirut"></category><category term="recordmydesktop"></category><category term="screencast"></category></entry><entry><title>ScreencastTools im Vergleich</title><link href="https://www.openscreencast.de/blog/ScreencastTools_im_Vergleich.html" rel="alternate"></link><published>2007-02-07T02:17:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-02-07:/blog/ScreencastTools_im_Vergleich.html/</id><summary type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
 Übersicht einiger Screencast-Tools. Die Eigenschaften der Screencast-Tools
 byzanz, Istanbul, cankiri, ffmpeg, recordMyDesktop, Wink und XVidCap werden in
 einer Tabelle verglichen. Außerdem wurden die wichtigsten Fakten jedes
 Programmes in einigen Sätzen festgehalten. Wer kurz davor ist ein
 &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; aufzunehmen, er aber
-noch nicht …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Im Wiki von &lt;a href="http://wiki.ubuntuusers.de"&gt;ubuntuusers&lt;/a&gt; gibt es eine schöne
-Übersicht einiger Screencast-Tools. Die Eigenschaften der Screencast-Tools
-byzanz, Istanbul, cankiri, ffmpeg, recordMyDesktop, Wink und XVidCap werden in
-einer Tabelle verglichen. Außerdem wurden die wichtigsten Fakten jedes
-Programmes in einigen Sätzen festgehalten. Wer kurz davor ist ein
-&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencast&lt;/a&gt; aufzunehmen, er aber
-noch nicht weiß welches Tool er dafür brauch, ist
-&lt;a href="http://wiki.ubuntuusers.de/Screencasts"&gt;hier&lt;/a&gt; an der richtigen Adresse.&lt;/p&gt;</content><category term="byzanz"></category><category term="cankiri"></category><category term="ffmpeg"></category><category term="istanbul"></category><category term="linux"></category><category term="News"></category><category term="recordmydesktop"></category><category term="Screencast-Tool"></category><category term="Wink"></category><category term="XVidCap"></category></entry></feed>
+noch nicht …&lt;/p&gt;</summary><category term="byzanz"></category><category term="cankiri"></category><category term="ffmpeg"></category><category term="istanbul"></category><category term="linux"></category><category term="News"></category><category term="recordmydesktop"></category><category term="Screencast-Tool"></category><category term="Wink"></category><category term="XVidCap"></category></entry></feed>

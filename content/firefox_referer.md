@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Referrer](http://de.wikipedia.org/wiki/Referrer "Referrer" )
-  * [RefControl](https://addons.mozilla.org/de/firefox/addon/refcontrol/ "Link zu RefControl" )
+  * [WP:Referrer](http://de.wikipedia.org/wiki/Referrer "Referrer")
+  * [RefControl](https://addons.mozilla.org/de/firefox/addon/refcontrol/ "Link zu RefControl")
 

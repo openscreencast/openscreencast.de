@@ -24,6 +24,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Ruby](http://de.wikipedia.org/wiki/Ruby_\(Programmiersprache\) "Link zu WP:Ruby" )
-  * [tryruby.org](http://tryruby.org/ "Link zu tryruby" )
+  * [WP:Ruby](http://de.wikipedia.org/wiki/Ruby_\(Programmiersprache\) "Link zu WP:Ruby")
+  * [tryruby.org](http://tryruby.org/ "Link zu tryruby")
 

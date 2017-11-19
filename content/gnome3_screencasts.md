@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Screencast](http://de.wikipedia.org/wiki/Screencast "Link zu Wikipedia Screencast" )
-  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome" )
+  * [WP:Screencast](http://de.wikipedia.org/wiki/Screencast "Link zu Wikipedia Screencast")
+  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome")
 

@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Fedora](http://fedoraproject.org/de/ "Fedora" )
+  * [Fedora](http://fedoraproject.org/de/ "Fedora")
 

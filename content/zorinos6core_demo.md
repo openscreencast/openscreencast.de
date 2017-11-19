@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Zorin OS](http://zorin-os.com/ "Link zu Zorin OS" )
+  * [Zorin OS](http://zorin-os.com/ "Link zu Zorin OS")
 

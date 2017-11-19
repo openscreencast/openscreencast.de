@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Virtualdub</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/virtualdub.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-12-13T23:34:00+01:00</updated><entry><title>Screencasts über Firefox und Virtualdub</title><link href="https://www.openscreencast.de/blog/Screencasts_ueber_Firefox_und_Virtualdub.html" rel="alternate"></link><published>2006-12-13T23:34:00+01:00</published><updated>2006-12-13T23:34:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-13:/blog/Screencasts_ueber_Firefox_und_Virtualdub.html</id><summary type="html">&lt;p&gt;Hier ein paar Links zu kleinen Videos (in Englisch) über den Internet-Browser
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Virtualdub</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/virtualdub.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-12-13T23:34:00+01:00</updated><entry><title>Screencasts über Firefox und Virtualdub</title><link href="https://www.openscreencast.de/blog/Screencasts_ueber_Firefox_und_Virtualdub.html" rel="alternate"></link><published>2006-12-13T23:34:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-12-13:/blog/Screencasts_ueber_Firefox_und_Virtualdub.html/</id><summary type="html">&lt;p&gt;Hier ein paar Links zu kleinen Videos (in Englisch) über den Internet-Browser
 &lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und über das freie Video-
 Aufnahme- und Video-Bearbeitungsprogramm
 &lt;a href="http://de.wikipedia.org/wiki/Virtualdub"&gt;Virtualdub&lt;/a&gt; für Windows.&lt;/p&gt;
@@ -10,15 +10,4 @@ Extensions&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=EVI1E8H5K2"&gt;Remove ads in
 Firefox&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=BVN1L4T5Y7"&gt;How To Compress A Video
-File&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hier ein paar Links zu kleinen Videos (in Englisch) über den Internet-Browser
-&lt;a href="http://de.wikipedia.org/wiki/Firefox"&gt;Firefox&lt;/a&gt; und über das freie Video-
-Aufnahme- und Video-Bearbeitungsprogramm
-&lt;a href="http://de.wikipedia.org/wiki/Virtualdub"&gt;Virtualdub&lt;/a&gt; für Windows.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=QVI1W8M6F1"&gt;Benefits of
-Firefox&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=LVY1Q8O6F0"&gt;Firefox
-Extensions&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=EVI1E8H5K2"&gt;Remove ads in
-Firefox&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://visuarios.com/controller.php?p_action=view_detail&amp;amp;video_id=BVN1L4T5Y7"&gt;How To Compress A Video
-File&lt;/a&gt;&lt;/p&gt;</content><category term="Englisch"></category><category term="Firefox"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Video"></category><category term="Virtualdub"></category></entry></feed>
+File&lt;/a&gt;&lt;/p&gt;</summary><category term="Englisch"></category><category term="Firefox"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Video"></category><category term="Virtualdub"></category></entry></feed>

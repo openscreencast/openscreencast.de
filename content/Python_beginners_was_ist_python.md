@@ -24,6 +24,6 @@ http://creativecommons.org/licenses/by-sa/3.0/
 Links:
 
   * <https://github.com/OpenTechSchool/python-beginners>
-  * [(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)](https://github.com/OpenTechSchool/python-beginners/graphs/contributors "Link zu github.com" )
-  * Bild: [https://thenounproject.com/search/?q=snake&amp;i;=24037](https://thenounproject.com/search/?q=snake&i=24037 "Link zu thenounproject.com" ) von [Ola Möller](https://thenounproject.com/olamoller "Link zu thenounproject.com" ) (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)
+  * [(github: lehmannro Ivoz foonicorn projectgus stevo550 SonOfLilit ligthyear benoitbleuze alper pletcher leethargo keimlink haikoschol staeff sorrymak oksome)](https://github.com/OpenTechSchool/python-beginners/graphs/contributors "Link zu github.com")
+  * Bild: [https://thenounproject.com/search/?q=snake&i;=24037](https://thenounproject.com/search/?q=snake&i=24037 "Link zu thenounproject.com") von [Ola Möller](https://thenounproject.com/olamoller "Link zu thenounproject.com") (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)
 

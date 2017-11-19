@@ -19,8 +19,8 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 
 Links:
 
-  * [KaOS](http://kaosx.us/ "Link zu kaosx.us" )
-  * [Netrunner](http://www.netrunner.com/ "Link zu netrunner.com" )
-  * [KDE Plasma 5](http://de.wikipedia.org/wiki/KDE_Plasma_5 "Link wikipedia.org" )
-  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: CC by 3.0
+  * [KaOS](http://kaosx.us/ "Link zu kaosx.us")
+  * [Netrunner](http://www.netrunner.com/ "Link zu netrunner.com")
+  * [KDE Plasma 5](http://de.wikipedia.org/wiki/KDE_Plasma_5 "Link wikipedia.org")
+  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: CC by 3.0
 

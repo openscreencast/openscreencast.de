@@ -18,9 +18,9 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice" )
-  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice" )
-  * [Postfilialen in Berlin auf Karte eintragen: Google Fusion Tables Tutorial von Lorenz Matzat (CC by-sa 3.0)](http://datenjournalist.de/postfilialen-in-berlin-auf-karte-eintragen-google-fusion-table-tutorial/ "datenjournalist.de" )
-  * [http://daten.berlin.de/datensaetze/wlan-standorte-berlin (CC by)](http://daten.berlin.de/datensaetze/wlan-standorte-berlin/ "daten.berlin.de" )
+  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice")
+  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice")
+  * [Postfilialen in Berlin auf Karte eintragen: Google Fusion Tables Tutorial von Lorenz Matzat (CC by-sa 3.0)](http://datenjournalist.de/postfilialen-in-berlin-auf-karte-eintragen-google-fusion-table-tutorial/ "datenjournalist.de")
+  * [http://daten.berlin.de/datensaetze/wlan-standorte-berlin (CC by)](http://daten.berlin.de/datensaetze/wlan-standorte-berlin/ "daten.berlin.de")
   * <https://tables.googlelabs.com/>
 

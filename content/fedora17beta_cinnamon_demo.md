@@ -21,6 +21,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Fedora](http://de.wikipedia.org/wiki/Fedora_\(Linux-Distribution\) "Link zu WP:Fedora" )
-  * [WP:Cinnamon](http://de.wikipedia.org/wiki/Cinnamon_\(Desktop\) "Link zu WP:Cinnamon" )
+  * [WP:Fedora](http://de.wikipedia.org/wiki/Fedora_\(Linux-Distribution\) "Link zu WP:Fedora")
+  * [WP:Cinnamon](http://de.wikipedia.org/wiki/Cinnamon_\(Desktop\) "Link zu WP:Cinnamon")
 

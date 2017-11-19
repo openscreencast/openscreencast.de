@@ -19,9 +19,9 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [closure-compiler](https://developers.google.com/closure/compiler/ "Link zu closure-compiler/" )
-  * [WP:Bootstrap](http://de.wikipedia.org/wiki/Bootstrap_%28Framework%29 "Link zu wikipedia.org" )
-  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org" )
-  * [WP:Javascript](http://de.wikipedia.org/wiki/JavaScript "Link zu wikipedia.org" )
-  * [WP:Datenkompression](http://de.wikipedia.org/wiki/Datenkompression "Link zu wikipedia.org" )
+  * [closure-compiler](https://developers.google.com/closure/compiler/ "Link zu closure-compiler/")
+  * [WP:Bootstrap](http://de.wikipedia.org/wiki/Bootstrap_%28Framework%29 "Link zu wikipedia.org")
+  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org")
+  * [WP:Javascript](http://de.wikipedia.org/wiki/JavaScript "Link zu wikipedia.org")
+  * [WP:Datenkompression](http://de.wikipedia.org/wiki/Datenkompression "Link zu wikipedia.org")
 

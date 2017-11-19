@@ -26,5 +26,5 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [ncdu](http://dev.yorhel.nl/ncdu "Link zu ncdu" )
+  * [ncdu](http://dev.yorhel.nl/ncdu "Link zu ncdu")
 

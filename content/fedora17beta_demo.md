@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Fedora](http://de.wikipedia.org/wiki/Fedora_\(Linux-Distribution\) "Link zu WP:Fedora" )
+  * [WP:Fedora](http://de.wikipedia.org/wiki/Fedora_\(Linux-Distribution\) "Link zu WP:Fedora")
 

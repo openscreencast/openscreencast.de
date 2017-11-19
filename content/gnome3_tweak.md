@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [GnomeTweakTool](http://live.gnome.org/GnomeTweakTool "Link zu gnome.org" )
-  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome" )
+  * [GnomeTweakTool](http://live.gnome.org/GnomeTweakTool "Link zu gnome.org")
+  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome")
 

@@ -22,6 +22,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [MyPaint](http://mypaint.intilinux.com/ "Link zu MyPaint" )
-  * [freiesmagazin 03/2012](http://www.freiesmagazin.de/mobil/freiesMagazin-2012-03.html#12_03_mypaint "Link zu freiesmagazin" )
+  * [MyPaint](http://mypaint.intilinux.com/ "Link zu MyPaint")
+  * [freiesmagazin 03/2012](http://www.freiesmagazin.de/mobil/freiesMagazin-2012-03.html#12_03_mypaint "Link zu freiesmagazin")
 

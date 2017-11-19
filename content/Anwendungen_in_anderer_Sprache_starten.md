@@ -24,5 +24,5 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [WP:locale](http://de.wikipedia.org/wiki/Locale "Link zu wikipedia.org/" )
+  * [WP:locale](http://de.wikipedia.org/wiki/Locale "Link zu wikipedia.org/")
 

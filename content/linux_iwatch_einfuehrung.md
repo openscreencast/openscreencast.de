@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Dateiüberprüfung mit iWatch von Hans-Joachim Baader](http://www.pro-linux.de/artikel/2/1615/dateiueberpruefung-mit-iwatch.html "Link zu pro-linux" )
+  * [Dateiüberprüfung mit iWatch von Hans-Joachim Baader](http://www.pro-linux.de/artikel/2/1615/dateiueberpruefung-mit-iwatch.html "Link zu pro-linux")
 

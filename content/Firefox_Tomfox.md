@@ -24,7 +24,7 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [Tomboy](https://wiki.gnome.org/Apps/Tomboy "Link zu gnome.org" )
-  * [Tomfox](https://addons.mozilla.org/de/firefox/addon/tomfox/ "Link zu mozilla.org" )
-  * [Tomfox+](https://addons.mozilla.org/de/firefox/addon/tomfox-1/ "Link zu mozilla.org" )
+  * [Tomboy](https://wiki.gnome.org/Apps/Tomboy "Link zu gnome.org")
+  * [Tomfox](https://addons.mozilla.org/de/firefox/addon/tomfox/ "Link zu mozilla.org")
+  * [Tomfox+](https://addons.mozilla.org/de/firefox/addon/tomfox-1/ "Link zu mozilla.org")
 

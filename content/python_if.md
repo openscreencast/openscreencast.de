@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [freiesmagazin.de 11/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de" )
-  * [WP:if](http://de.wikipedia.org/wiki/Bedingte_Anweisung_und_Verzweigung "Link zu wikipedia.de if" )
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [freiesmagazin.de 11/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de")
+  * [WP:if](http://de.wikipedia.org/wiki/Bedingte_Anweisung_und_Verzweigung "Link zu wikipedia.de if")
 

@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [WP:OpenCV](http://de.wikipedia.org/wiki/OpenCV "Link zu WP" )
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [WP:OpenCV](http://de.wikipedia.org/wiki/OpenCV "Link zu WP")
 

@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [freiesmagazin.de 07/2011](http://www.freiesmagazin.de/freiesMagazin-2011-07 "Link zu freiesmagazin.de" )
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [freiesmagazin.de 07/2011](http://www.freiesmagazin.de/freiesMagazin-2011-07 "Link zu freiesmagazin.de")
 

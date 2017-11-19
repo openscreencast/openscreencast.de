@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [freiesmagazin.de 08/2012](http://www.freiesmagazin.de/freiesMagazin-2012-08 "Link zu freiesmagazin.de" )
+  * [freiesmagazin.de 08/2012](http://www.freiesmagazin.de/freiesMagazin-2012-08 "Link zu freiesmagazin.de")
 

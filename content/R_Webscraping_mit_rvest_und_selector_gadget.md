@@ -23,8 +23,8 @@ von Markus Herrmann und Barbara Wolf Lizenz: [CC by-sa
 
 Links:
 
-  * [r-project](http://www.r-project.org/ "Link zu r-project.org/" )
-  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org" )
-  * [CRAN Web](http://cran.r-project.org/web/views/WebTechnologies.html "Link zu r-project.org" )
-  * [Selector Gadget](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html "Link zu r-project.org" )
+  * [r-project](http://www.r-project.org/ "Link zu r-project.org/")
+  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org")
+  * [CRAN Web](http://cran.r-project.org/web/views/WebTechnologies.html "Link zu r-project.org")
+  * [Selector Gadget](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html "Link zu r-project.org")
 

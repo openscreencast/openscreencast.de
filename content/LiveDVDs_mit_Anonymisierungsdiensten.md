@@ -18,9 +18,9 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)](https://privacy-handbuch.de/ "Link zu privacy-handbuch.de" )
-  * [Jondo-LiveDVD](https://www.anonym-surfen.de/help/jondo-live-cd.html "Link zu anonym-surfen.de" )
-  * [Tails](https://tails.boum.org/ "Link zu tails.boum.org" )
-  * [Bankix](http://www.heise.de/ct/projekte/Sicheres-Online-Banking-mit-Bankix-284099.html "Link zu heise.de" )
-  * [UPR](https://www.privacy-cd.org/de "Link zu privacy-cd.org/de" )
+  * [https://privacy-handbuch.de/ Privacy-Handbuch (Public Domain)](https://privacy-handbuch.de/ "Link zu privacy-handbuch.de")
+  * [Jondo-LiveDVD](https://www.anonym-surfen.de/help/jondo-live-cd.html "Link zu anonym-surfen.de")
+  * [Tails](https://tails.boum.org/ "Link zu tails.boum.org")
+  * [Bankix](http://www.heise.de/ct/projekte/Sicheres-Online-Banking-mit-Bankix-284099.html "Link zu heise.de")
+  * [UPR](https://www.privacy-cd.org/de "Link zu privacy-cd.org/de")
 

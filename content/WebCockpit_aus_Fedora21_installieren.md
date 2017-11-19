@@ -25,6 +25,6 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [cockpit-project](http://cockpit-project.org/ "Link zu cockpit-project.org" )
-  * [Fedora Wiki:Cockpit](http://fedoraproject.org/wiki/Changes/CockpitManagementConsole#How_To_Test "Link zu fedoraproject.org" )
+  * [cockpit-project](http://cockpit-project.org/ "Link zu cockpit-project.org")
+  * [Fedora Wiki:Cockpit](http://fedoraproject.org/wiki/Changes/CockpitManagementConsole#How_To_Test "Link zu fedoraproject.org")
 

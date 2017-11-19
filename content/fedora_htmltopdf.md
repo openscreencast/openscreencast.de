@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Fedora](http://fedoraproject.org/de/ "Link zu fedoraproject.org" )
-  * [htmldoc](http://www.htmldoc.org/ "Link zu htmldoc.org" )
+  * [Fedora](http://fedoraproject.org/de/ "Link zu fedoraproject.org")
+  * [htmldoc](http://www.htmldoc.org/ "Link zu htmldoc.org")
 

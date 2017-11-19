@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox" )
-  * [Remove It Permanently](https://addons.mozilla.org/de/firefox/addon/remove-it-permanently/ "Link zu addon rip" )
-  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de" )
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox")
+  * [Remove It Permanently](https://addons.mozilla.org/de/firefox/addon/remove-it-permanently/ "Link zu addon rip")
+  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de")
 

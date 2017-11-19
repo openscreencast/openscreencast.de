@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [bleachbit](http://bleachbit.sourceforge.net/ "Link zu bleachbit" )
+  * [bleachbit](http://bleachbit.sourceforge.net/ "Link zu bleachbit")
 

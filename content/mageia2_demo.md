@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Mageia](https://de.wikipedia.org/wiki/Mageia "Link zu WP:Mageia" )
+  * [WP:Mageia](https://de.wikipedia.org/wiki/Mageia "Link zu WP:Mageia")
 

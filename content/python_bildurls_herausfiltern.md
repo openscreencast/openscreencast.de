@@ -19,10 +19,10 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [HTML - img](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/Grafiken "Link zu selfhtml.org" )
-  * [WP:regex](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck "Link zu wikipedia.org" )
-  * [Python - re](https://docs.python.org/3/library/re.html "Link zu python.org" )
-  * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/ "Link zu crummy.com" )
-  * [scrapy](https://scrapy.org/ "Link zu scrapy.org" )
-  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu de.wikipedia.org" )
+  * [HTML - img](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/Grafiken "Link zu selfhtml.org")
+  * [WP:regex](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck "Link zu wikipedia.org")
+  * [Python - re](https://docs.python.org/3/library/re.html "Link zu python.org")
+  * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/ "Link zu crummy.com")
+  * [scrapy](https://scrapy.org/ "Link zu scrapy.org")
+  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu de.wikipedia.org")
 

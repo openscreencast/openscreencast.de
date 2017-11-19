@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - play</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/play.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-07-11T02:54:00+02:00</updated><entry><title>Audio-CD auslesen (Textmodus)</title><link href="https://www.openscreencast.de/blog/Audio_CD_auslesen_Textmodus.html" rel="alternate"></link><published>2006-07-11T02:54:00+02:00</published><updated>2006-07-11T02:54:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Audio_CD_auslesen_Textmodus.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - play</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/play.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2006-07-11T02:54:00+02:00</updated><entry><title>Audio-CD auslesen (Textmodus)</title><link href="https://www.openscreencast.de/blog/Audio_CD_auslesen_Textmodus.html" rel="alternate"></link><published>2006-07-11T02:54:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Audio_CD_auslesen_Textmodus.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Vorkommende Kommandos: cdparanoia, cdda2wav, play&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -10,15 +10,4 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/grabber_encoder02.html"&gt;Audio-CD auslesen&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.linux-magazin.de/Artikel/ausgabe/1999/07/Cdda2wav/cdda2wav.html"&gt;cdda2wav&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cdparanoia"&gt;cdparanoia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Vorkommende Kommandos: cdparanoia, cdda2wav, play&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Audio-CD"&gt;Audio-CD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Rippen"&gt;Rippen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Wav"&gt;wav&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.selflinux.org/selflinux/html/grabber_encoder02.html"&gt;Audio-CD auslesen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.linux-magazin.de/Artikel/ausgabe/1999/07/Cdda2wav/cdda2wav.html"&gt;cdda2wav&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cdparanoia"&gt;cdparanoia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Audio-CD"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="cdda2wav"></category><category term="cdparanoia"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="info"></category><category term="Linux"></category><category term="man"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="play"></category><category term="Rippen"></category><category term="screencast"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="wav"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="Audio-CD"></category><category term="CC by-nc-sa"></category><category term="cd"></category><category term="cdda2wav"></category><category term="cdparanoia"></category><category term="Fedora Core"></category><category term="Gnome"></category><category term="info"></category><category term="Linux"></category><category term="man"></category><category term="Multimedia"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="play"></category><category term="Rippen"></category><category term="screencast"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="wav"></category></entry></feed>

@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [pwgen](http://wiki.ubuntuusers.de/Shell/pwgen "Link zu pwgen" )
-  * [apg](http://linux.die.net/man/1/apg "Link zu apg" )
+  * [pwgen](http://wiki.ubuntuusers.de/Shell/pwgen "Link zu pwgen")
+  * [apg](http://linux.die.net/man/1/apg "Link zu apg")
 

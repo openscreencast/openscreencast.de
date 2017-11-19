@@ -23,7 +23,7 @@ Jakob](http://code.makery.ch/about/) Lizenz: [CC by
 
 Links:
 
-  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org" )
-  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org" )
-  * [WP:HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren "Link zu wikipedia.org" )
+  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org")
+  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org")
+  * [WP:HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren "Link zu wikipedia.org")
 

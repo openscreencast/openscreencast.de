@@ -24,7 +24,7 @@ bartvde)](https://github.com/openlayers/ol3/blob/master/doc/quickstart.hbs)
 
 Links:
 
-  * [http://openlayers.org](http://openlayers.org/ "Link zu openlayers.org/" )
-  * [ol.source](http://openlayers.org/en/v3.8.2/apidoc/ol.source.html "Link zu openlayers.org/" )
-  * [ol.source.MapQuest](http://openlayers.org/en/v3.8.2/apidoc/ol.source.MapQuest.html "Link zu openlayers.org/" )
+  * [http://openlayers.org](http://openlayers.org/ "Link zu openlayers.org/")
+  * [ol.source](http://openlayers.org/en/v3.8.2/apidoc/ol.source.html "Link zu openlayers.org/")
+  * [ol.source.MapQuest](http://openlayers.org/en/v3.8.2/apidoc/ol.source.MapQuest.html "Link zu openlayers.org/")
 

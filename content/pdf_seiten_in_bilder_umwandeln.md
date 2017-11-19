@@ -22,6 +22,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:pdf](https://de.wikipedia.org/wiki/Portable_Document_Format "Link zu WP:pdf" )
-  * [PDF](http://wiki.ubuntuusers.de/PDF "Link zu PDF" )
+  * [WP:pdf](https://de.wikipedia.org/wiki/Portable_Document_Format "Link zu WP:pdf")
+  * [PDF](http://wiki.ubuntuusers.de/PDF "Link zu PDF")
 

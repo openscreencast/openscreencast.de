@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:CouchDB](https://de.wikipedia.org/wiki/CouchDB "Link zu WP:couchdb" )
+  * [WP:CouchDB](https://de.wikipedia.org/wiki/CouchDB "Link zu WP:couchdb")
 

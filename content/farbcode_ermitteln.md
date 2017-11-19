@@ -21,6 +21,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Gimp](https://de.wikipedia.org/wiki/Gimp "Link zu WP:Gimp" )
-  * [WP:Inkscape](https://de.wikipedia.org/wiki/Inkscape "Link zu WP:Inkscape" )
+  * [WP:Gimp](https://de.wikipedia.org/wiki/Gimp "Link zu WP:Gimp")
+  * [WP:Inkscape](https://de.wikipedia.org/wiki/Inkscape "Link zu WP:Inkscape")
 

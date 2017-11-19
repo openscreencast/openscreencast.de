@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [freiesMagazin-2013-02](http://www.freiesmagazin.de/freiesMagazin-2013-02 "Link zu freiesmagazin.de" )
-  * [awesome](http://awesome.naquadah.org/ "Link zu awesome" )
+  * [freiesMagazin-2013-02](http://www.freiesmagazin.de/freiesMagazin-2013-02 "Link zu freiesmagazin.de")
+  * [awesome](http://awesome.naquadah.org/ "Link zu awesome")
 

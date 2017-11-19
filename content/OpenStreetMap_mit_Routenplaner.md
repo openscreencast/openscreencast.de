@@ -23,8 +23,8 @@ Lizenz: [CC by 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Links:
 
-  * [OSM](http://www.openstreetmap.org/ "Link zu openstreetmap.org" )
-  * [OSRM](http://map.project-osrm.org/ "Link zu map.project-osrm.org/" )
-  * [Mapquest](http://open.mapquest.de/ "Link zu open.mapquest.de/" )
-  * [Cyclestreets](http://www.cyclestreets.net/ "Link zu cyclestreets.net" )
+  * [OSM](http://www.openstreetmap.org/ "Link zu openstreetmap.org")
+  * [OSRM](http://map.project-osrm.org/ "Link zu map.project-osrm.org/")
+  * [Mapquest](http://open.mapquest.de/ "Link zu open.mapquest.de/")
+  * [Cyclestreets](http://www.cyclestreets.net/ "Link zu cyclestreets.net")
 

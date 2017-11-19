@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [http://manjaro.org](http://manjaro.org/ "Link zu manjaro.org" )
+  * [http://manjaro.org](http://manjaro.org/ "Link zu manjaro.org")
 

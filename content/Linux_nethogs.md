@@ -19,6 +19,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [nethogs](http://nethogs.sourceforge.net/ "Link zu nethogs.sourceforge.net" )
-  * [Netzwerk-Monitoring](http://wiki.ubuntuusers.de/Netzwerk-Monitoring "Link zu ubuntuusers.de" )
+  * [nethogs](http://nethogs.sourceforge.net/ "Link zu nethogs.sourceforge.net")
+  * [Netzwerk-Monitoring](http://wiki.ubuntuusers.de/Netzwerk-Monitoring "Link zu ubuntuusers.de")
 

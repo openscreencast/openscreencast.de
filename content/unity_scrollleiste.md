@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Unity](http://wiki.ubuntuusers.de/Unity "Unity" )
+  * [Unity](http://wiki.ubuntuusers.de/Unity "Unity")
 

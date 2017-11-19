@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Kazam</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kazam.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-01-01T02:27:00+01:00</updated><entry><title>Kazam Screencaster</title><link href="https://www.openscreencast.de/blog/kazam.html" rel="alternate"></link><published>2011-01-01T02:27:00+01:00</published><updated>2011-01-01T02:27:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-01:/blog/kazam.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32, Kazam 0.11&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Kazam</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kazam.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2011-01-01T02:27:00+01:00</updated><entry><title>Kazam Screencaster</title><link href="https://www.openscreencast.de/blog/kazam.html" rel="alternate"></link><published>2011-01-01T02:27:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-01:/blog/kazam.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32, Kazam 0.11&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://launchpad.net/kazam"&gt;Kazam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, Gnome 2.32, Kazam 0.11&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://launchpad.net/kazam"&gt;Kazam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kazam"></category><category term="Screencasttool"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="Gnome"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kazam"></category><category term="Screencasttool"></category></entry></feed>

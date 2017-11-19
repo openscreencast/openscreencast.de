@@ -18,6 +18,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [docker](https://www.docker.com/ "Link zu docker.com/" )
-  * [WP:docker](https://de.wikipedia.org/wiki/Docker_%28Software%29 "Link zu wikipedia.org" )
+  * [docker](https://www.docker.com/ "Link zu docker.com/")
+  * [WP:docker](https://de.wikipedia.org/wiki/Docker_%28Software%29 "Link zu wikipedia.org")
 

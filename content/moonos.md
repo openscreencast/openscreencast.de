@@ -20,5 +20,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [moonOS](http://moonos.org/ "Link zu moonOS" )
+  * [moonOS](http://moonos.org/ "Link zu moonOS")
 

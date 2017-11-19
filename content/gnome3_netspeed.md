@@ -22,7 +22,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Gnome3 - CheatSheet](http://live.gnome.org/GnomeShell/CheatSheet "Link zu gnome.org" )
-  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome" )
-  * [extensions.gnome.org](http://extensions.gnome.org "Link zu extensions von gnome3" )
+  * [Gnome3 - CheatSheet](http://live.gnome.org/GnomeShell/CheatSheet "Link zu gnome.org")
+  * [WP:Gnome](http://de.wikipedia.org/wiki/Gnome "Link zu Wikipedia Gnome")
+  * [extensions.gnome.org](http://extensions.gnome.org "Link zu extensions von gnome3")
 

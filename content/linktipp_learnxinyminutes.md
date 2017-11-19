@@ -18,6 +18,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [http://learnxinyminutes.com](http://learnxinyminutes.com/ "Link zu learnxinyminutes.com" )
+  * [http://learnxinyminutes.com](http://learnxinyminutes.com/ "Link zu learnxinyminutes.com")
   * <https://github.com/adambard/learnxinyminutes-docs>
 

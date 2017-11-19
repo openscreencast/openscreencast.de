@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [taskwarrior.org](http://taskwarrior.org/ "Link zu taskwarrior" )
-  * [freiesMagazin-2012-10](http://www.freiesmagazin.de/freiesMagazin-2012-10 "Link zu freiesmagazin.de" )
+  * [taskwarrior.org](http://taskwarrior.org/ "Link zu taskwarrior")
+  * [freiesMagazin-2012-10](http://www.freiesmagazin.de/freiesMagazin-2012-10 "Link zu freiesmagazin.de")
 

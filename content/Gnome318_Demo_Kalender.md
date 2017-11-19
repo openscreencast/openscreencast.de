@@ -19,5 +19,5 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Gnome 3.18](https://help.gnome.org/misc/release-notes/3.18/ "Link zu gnome.org" )
+  * [Gnome 3.18](https://help.gnome.org/misc/release-notes/3.18/ "Link zu gnome.org")
 

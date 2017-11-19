@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [MAT](https://mat.boum.org/ "Link zu mat" )
+  * [MAT](https://mat.boum.org/ "Link zu mat")
 

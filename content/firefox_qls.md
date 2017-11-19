@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Quick Locale Switcher](https://addons.mozilla.org/de/firefox/addon/quick-locale-switcher/ "Link zu Quick Locale Switcher" )
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia" )
+  * [Quick Locale Switcher](https://addons.mozilla.org/de/firefox/addon/quick-locale-switcher/ "Link zu Quick Locale Switcher")
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia")
 

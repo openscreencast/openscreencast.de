@@ -18,8 +18,8 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 
 Links:
 
-  * [Vivaldi Blog](https://vivaldi.net/blogs/teamblog/ "Link zu vivaldi.net" )
-  * [Vivaldi Browser](https://vivaldi.com/ "Link zu vivaldi.com/" )
-  * [WP:Vivaldi Browser](http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29 "Link zu wikipedia.org" )
-  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: CC by 3.0
+  * [Vivaldi Blog](https://vivaldi.net/blogs/teamblog/ "Link zu vivaldi.net")
+  * [Vivaldi Browser](https://vivaldi.com/ "Link zu vivaldi.com/")
+  * [WP:Vivaldi Browser](http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29 "Link zu wikipedia.org")
+  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: CC by 3.0
 

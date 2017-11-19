@@ -20,6 +20,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [freiesMagazin-2012-09 redis](http://www.freiesmagazin.de/mobil/freiesMagazin-2012-09.html#12_09_redis "Link zu freiesMagazin-2012-09" )
+  * [freiesMagazin-2012-09 redis](http://www.freiesmagazin.de/mobil/freiesMagazin-2012-09.html#12_09_redis "Link zu freiesMagazin-2012-09")
   * <http://www.redis.io/>
 

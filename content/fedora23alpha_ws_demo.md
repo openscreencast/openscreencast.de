@@ -18,5 +18,5 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * Musik: Divider von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [Creative Commons by 4.0](http://creativecommons.org/licenses/by/4.0/ "Link zu creativecommons.org" )
+  * Musik: Divider von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: [Creative Commons by 4.0](http://creativecommons.org/licenses/by/4.0/ "Link zu creativecommons.org")
 

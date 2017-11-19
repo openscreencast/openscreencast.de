@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox" )
-  * [WP:Javascript](http://de.wikipedia.org/wiki/JavaScript "Link zu Wikipedia Javascript" )
-  * [WP:NoScript](http://de.wikipedia.org/wiki/NoScript "Link zu Wikipedia NoScript" )
-  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de" )
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia Firefox")
+  * [WP:Javascript](http://de.wikipedia.org/wiki/JavaScript "Link zu Wikipedia Javascript")
+  * [WP:NoScript](http://de.wikipedia.org/wiki/NoScript "Link zu Wikipedia NoScript")
+  * [freiesmagazin 03/2011](http://www.freiesmagazin.de/freiesMagazin-2011-03 "Link zu freiesmagazin.de")
 

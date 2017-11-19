@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Google_Spreadsheet](https://de.wikipedia.org/wiki/Google_Spreadsheet "Link zu WP" )
+  * [WP:Google_Spreadsheet](https://de.wikipedia.org/wiki/Google_Spreadsheet "Link zu WP")
 

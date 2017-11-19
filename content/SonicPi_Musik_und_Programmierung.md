@@ -19,8 +19,8 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Sonic Pi](http://sonic-pi.net/ "Link zu sonic-pi.net" )
-  * [github:sonic-pi](https://github.com/samaaron/sonic-pi "Link zu github.com" )
-  * [sonicpiliveandcoding.com](http://www.sonicpiliveandcoding.com/ "Link zu www.sonicpiliveandcoding.com" )
-  * [WP:SonicPi](http://en.wikipedia.org/wiki/Sonic_Pi "Link zu en.wikipedia.org" )
+  * [Sonic Pi](http://sonic-pi.net/ "Link zu sonic-pi.net")
+  * [github:sonic-pi](https://github.com/samaaron/sonic-pi "Link zu github.com")
+  * [sonicpiliveandcoding.com](http://www.sonicpiliveandcoding.com/ "Link zu www.sonicpiliveandcoding.com")
+  * [WP:SonicPi](http://en.wikipedia.org/wiki/Sonic_Pi "Link zu en.wikipedia.org")
 

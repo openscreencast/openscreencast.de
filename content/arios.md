@@ -20,5 +20,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [AriOS](http://arioslinux.org/ "Arios" )
+  * [AriOS](http://arioslinux.org/ "Arios")
 

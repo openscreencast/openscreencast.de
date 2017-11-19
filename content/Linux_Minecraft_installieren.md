@@ -18,10 +18,10 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [WP:Minecraft](https://de.wikipedia.org/wiki/Minecraft "Link zu wikipedia.org" )
-  * [Minecraft](https://minecraft.net/de-de/ "Link zu minecraft.net" )
-  * [wiki.ubuntuusers.de - Minecraft](https://wiki.ubuntuusers.de/Spiele/Minecraft/ "Link zu wiki.ubuntuusers.de" )
-  * [Linux Mint - Minecraft per PPA installieren](https://linuxwelt.blogspot.de/2014/05/minecraft-installieren-linux-mint-17.html "Link zu linuxwelt.blogspot.de" )
-  * [Fedora - Minecraft installieren](https://fedoramagazine.org/play-minecraft-fedora/ "Link zu fedoramagazine.org" )
-  * [Minecraft Pi Edition](https://minecraft.net/en-us/edition/pi/ "Link zu minecraft.net" )
+  * [WP:Minecraft](https://de.wikipedia.org/wiki/Minecraft "Link zu wikipedia.org")
+  * [Minecraft](https://minecraft.net/de-de/ "Link zu minecraft.net")
+  * [wiki.ubuntuusers.de - Minecraft](https://wiki.ubuntuusers.de/Spiele/Minecraft/ "Link zu wiki.ubuntuusers.de")
+  * [Linux Mint - Minecraft per PPA installieren](https://linuxwelt.blogspot.de/2014/05/minecraft-installieren-linux-mint-17.html "Link zu linuxwelt.blogspot.de")
+  * [Fedora - Minecraft installieren](https://fedoramagazine.org/play-minecraft-fedora/ "Link zu fedoramagazine.org")
+  * [Minecraft Pi Edition](https://minecraft.net/en-us/edition/pi/ "Link zu minecraft.net")
 

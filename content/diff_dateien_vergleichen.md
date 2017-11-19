@@ -24,5 +24,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Textdateien_vergleichen](http://wiki.ubuntuusers.de/Textdateien_vergleichen "Textdateien_vergleichen" )
+  * [Textdateien_vergleichen](http://wiki.ubuntuusers.de/Textdateien_vergleichen "Textdateien_vergleichen")
 

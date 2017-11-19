@@ -26,5 +26,5 @@ Sean Hammond
 Links:
 
   * <https://www.djangoproject.com/>
-  * Bild: [https://thenounproject.com/search/?q=snake&amp;i;=24037](https://thenounproject.com/search/?q=snake&i=24037 "Link zu thenounproject.com" ) von [Ola Möller](https://thenounproject.com/olamoller "Link zu thenounproject.com" ) (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)
+  * Bild: [https://thenounproject.com/search/?q=snake&i;=24037](https://thenounproject.com/search/?q=snake&i=24037 "Link zu thenounproject.com") von [Ola Möller](https://thenounproject.com/olamoller "Link zu thenounproject.com") (Lizenz: http://creativecommons.org/licenses/by/3.0/us/)
 

@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [bash](http://wiki.ubuntuusers.de/Bash "Link zu bash" )
+  * [bash](http://wiki.ubuntuusers.de/Bash "Link zu bash")
 

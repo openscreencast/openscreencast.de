@@ -24,6 +24,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice" )
-  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice" )
+  * [LibreOffice](http://de.libreoffice.org/hilfe-kontakt/handbuecher/ "Link zu LibreOffice")
+  * [WP:LibreOffice](http://de.wikipedia.org/wiki/Libreoffice "LibreOffice")
 

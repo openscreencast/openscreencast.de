@@ -23,8 +23,8 @@ Jakob](http://code.makery.ch/about/) Lizenz: [CC by
 
 Links:
 
-  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org" )
-  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org" )
+  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org")
+  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org")
   * <http://html-color-codes.info/>
   * <http://www.colorpicker.com/>
   * <http://www.colourlovers.com/palettes>

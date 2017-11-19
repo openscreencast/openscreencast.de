@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Vimeo](https://de.wikipedia.org/wiki/Vimeo "Link zu WP:Vimeo" )
+  * [WP:Vimeo](https://de.wikipedia.org/wiki/Vimeo "Link zu WP:Vimeo")
   * <http://developer.vimeo.com/apis/simple>
 

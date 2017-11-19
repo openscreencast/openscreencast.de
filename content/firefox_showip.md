@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [ShowIP](https://addons.mozilla.org/de/firefox/addon/showip/ "Link zu ShowIP" )
-  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia" )
+  * [ShowIP](https://addons.mozilla.org/de/firefox/addon/showip/ "Link zu ShowIP")
+  * [WP:Firefox](http://de.wikipedia.org/wiki/Firefox "Link zu Wikipedia")
 

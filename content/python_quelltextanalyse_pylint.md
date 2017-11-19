@@ -19,12 +19,12 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [pylint](http://www.pylint.org/ "Link zu pylint.org" )
-  * [Python PEP8](https://www.python.org/dev/peps/pep-0008/ "Link zu python.org" )
-  * [Pychecker](http://pychecker.sourceforge.net/ "Link zu sourceforge.net" )
-  * [Flake8](https://pypi.python.org/pypi/flake8 "Link zu python.org" )
-  * [Frosted](https://pypi.python.org/pypi/frosted/ "Link zu python.org" )
-  * [Ubuntuusers:Pep8](http://wiki.ubuntuusers.de/pep8 "Link zu ubuntuusers.de" )
-  * [Pep8](https://pypi.python.org/pypi/pep8 "Link zu python.org" )
-  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu wikipedia.org" )
+  * [pylint](http://www.pylint.org/ "Link zu pylint.org")
+  * [Python PEP8](https://www.python.org/dev/peps/pep-0008/ "Link zu python.org")
+  * [Pychecker](http://pychecker.sourceforge.net/ "Link zu sourceforge.net")
+  * [Flake8](https://pypi.python.org/pypi/flake8 "Link zu python.org")
+  * [Frosted](https://pypi.python.org/pypi/frosted/ "Link zu python.org")
+  * [Ubuntuusers:Pep8](http://wiki.ubuntuusers.de/pep8 "Link zu ubuntuusers.de")
+  * [Pep8](https://pypi.python.org/pypi/pep8 "Link zu python.org")
+  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu wikipedia.org")
 

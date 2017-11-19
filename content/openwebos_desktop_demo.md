@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:webos](https://de.wikipedia.org/wiki/HP_webOS "Link zu WP:webos" )
+  * [WP:webos](https://de.wikipedia.org/wiki/HP_webOS "Link zu WP:webos")
 

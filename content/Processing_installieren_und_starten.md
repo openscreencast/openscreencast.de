@@ -18,12 +18,12 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [https://processing.org](https://processing.org/ "Link zu processing.org/" )
-  * [http://p5js.org](http://p5js.org/ "Link zu p5js.org" )
-  * [http://processingjs.org](http://processingjs.org/ "Link zu processingjs.org" )
-  * [http://sketchpad.cc](http://sketchpad.cc/ "Link zu sketchpad.cc" )
+  * [https://processing.org](https://processing.org/ "Link zu processing.org/")
+  * [http://p5js.org](http://p5js.org/ "Link zu p5js.org")
+  * [http://processingjs.org](http://processingjs.org/ "Link zu processingjs.org")
+  * [http://sketchpad.cc](http://sketchpad.cc/ "Link zu sketchpad.cc")
   * <https://processing.org/tutorials/>
-  * [https://lernprocessing.wordpress.com](https://lernprocessing.wordpress.com/ "Link zu lernprocessing.wordpress.com" )
-  * [http://funprogramming.org](http://funprogramming.org/ "Link zu funprogramming.org" )
-  * [Thumbnail: Urheber: Woodmath](https://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg?uselang=de "Link zu commons.wikimedia.org" ) Lizenz: [CC by](http://creativecommons.org/licenses/by/3.0/)
+  * [https://lernprocessing.wordpress.com](https://lernprocessing.wordpress.com/ "Link zu lernprocessing.wordpress.com")
+  * [http://funprogramming.org](http://funprogramming.org/ "Link zu funprogramming.org")
+  * [Thumbnail: Urheber: Woodmath](https://commons.wikimedia.org/wiki/File:Processing_Logo_Clipped.svg?uselang=de "Link zu commons.wikimedia.org") Lizenz: [CC by](http://creativecommons.org/licenses/by/3.0/)
 

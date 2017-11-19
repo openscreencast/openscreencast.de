@@ -18,7 +18,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Xubuntu](http://xubuntu.org/ "Link zu xubuntu.org" )
-  * [WP:Xubuntu](http://de.wikipedia.org/wiki/Xubuntu "Link zu wikipedia.org" )
-  * Musik: Its Always Too Late to Start Over von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
+  * [Xubuntu](http://xubuntu.org/ "Link zu xubuntu.org")
+  * [WP:Xubuntu](http://de.wikipedia.org/wiki/Xubuntu "Link zu wikipedia.org")
+  * Musik: Its Always Too Late to Start Over von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 

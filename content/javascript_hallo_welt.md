@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Javascript](https://de.wikipedia.org/wiki/Javascript "Link zu WP:Javascript" )
+  * [WP:Javascript](https://de.wikipedia.org/wiki/Javascript "Link zu WP:Javascript")
 

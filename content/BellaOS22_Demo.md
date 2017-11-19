@@ -18,6 +18,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [BellaOS](http://www.bellaos.org/ "Link zu bellaos.org" )
-  * Musik: Candlepower von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
+  * [BellaOS](http://www.bellaos.org/ "Link zu bellaos.org")
+  * Musik: Candlepower von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 

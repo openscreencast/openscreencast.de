@@ -18,8 +18,8 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Python - Dokumentation](http://docs.python-guide.org/en/latest/writing/documentation/ "Link zu python-guide.org" )
-  * [WP:docstring](https://en.wikipedia.org/wiki/Docstring "Link zu wikipedia.org" )
-  * [Python - DocumentationTools](https://wiki.python.org/moin/DocumentationTools "Link zu python.org" )
-  * [Python](https://python.swaroopch.com/ "Link zu swaroopch.com/" )
+  * [Python - Dokumentation](http://docs.python-guide.org/en/latest/writing/documentation/ "Link zu python-guide.org")
+  * [WP:docstring](https://en.wikipedia.org/wiki/Docstring "Link zu wikipedia.org")
+  * [Python - DocumentationTools](https://wiki.python.org/moin/DocumentationTools "Link zu python.org")
+  * [Python](https://python.swaroopch.com/ "Link zu swaroopch.com/")
 

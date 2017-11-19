@@ -24,8 +24,8 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [links2](http://wiki.ubuntuusers.de/links2 "Link zu ubuntuusers.de" )
-  * [w3m](http://wiki.ubuntuusers.de/w3m "Link zu ubuntuusers.de" )
-  * [Lynx](http://wiki.ubuntuusers.de/Lynx "Link zu ubuntuusers.de" )
-  * [elinks](http://wiki.ubuntuusers.de/ELinks "Link zu ubuntuusers.de" )
+  * [links2](http://wiki.ubuntuusers.de/links2 "Link zu ubuntuusers.de")
+  * [w3m](http://wiki.ubuntuusers.de/w3m "Link zu ubuntuusers.de")
+  * [Lynx](http://wiki.ubuntuusers.de/Lynx "Link zu ubuntuusers.de")
+  * [elinks](http://wiki.ubuntuusers.de/ELinks "Link zu ubuntuusers.de")
 

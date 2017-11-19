@@ -21,6 +21,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [http://www.freiesmagazin.de/yalm Oktober 2009](http://www.freiesmagazin.de/yalm "Link zu freiesmagazin.de yalm" )
+  * [http://www.freiesmagazin.de/yalm Oktober 2009](http://www.freiesmagazin.de/yalm "Link zu freiesmagazin.de yalm")
   * <http://matplotlib.org/>
 

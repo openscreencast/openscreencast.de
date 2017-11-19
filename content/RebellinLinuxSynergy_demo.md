@@ -19,6 +19,6 @@ Lizenz: <http://creativecommons.org/licenses/by/3.0/>
 
 Links:
 
-  * [https://therebellin.com](https://therebellin.com/ "Link zu therebellin.com" )
-  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: CC by 3.0
+  * [https://therebellin.com](https://therebellin.com/ "Link zu therebellin.com")
+  * Musik: We Always Thought the Future Would Be Kind of Fun von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: CC by 3.0
 

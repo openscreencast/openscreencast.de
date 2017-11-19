@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Linux Mint](https://de.wikipedia.org/wiki/Linux_Mint "Link zu WP:Linux Mint" )
+  * [WP:Linux Mint](https://de.wikipedia.org/wiki/Linux_Mint "Link zu WP:Linux Mint")
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - cronjobs</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/cronjobs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-05-21T20:24:00+02:00</updated><entry><title>Crontab-Generator hilft beim Erstellen von Cronjobs</title><link href="https://www.openscreencast.de/blog/CrontabGenerator_hilft_beim_Erstellen_von_Cronjobs.html" rel="alternate"></link><published>2014-05-21T20:24:00+02:00</published><updated>2014-05-21T20:24:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-21:/blog/CrontabGenerator_hilft_beim_Erstellen_von_Cronjobs.html</id><summary type="html">&lt;p&gt;Crontab-Generator hilft beim Erstellen von Cronjobs&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - cronjobs</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/cronjobs.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-05-21T20:24:00+02:00</updated><entry><title>Crontab-Generator hilft beim Erstellen von Cronjobs</title><link href="https://www.openscreencast.de/blog/CrontabGenerator_hilft_beim_Erstellen_von_Cronjobs.html" rel="alternate"></link><published>2014-05-21T20:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-05-21:/blog/CrontabGenerator_hilft_beim_Erstellen_von_Cronjobs.html/</id><summary type="html">&lt;p&gt;Crontab-Generator hilft beim Erstellen von Cronjobs&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;a href="http://wiki.ubuntuusers.de/Cron"&gt;http://wiki.ubuntuusers.de/Cron&lt;/a&gt;#Cronjobs-manuell-einrichten&lt;br&gt;
 &lt;a href="http://www.crontab-generator.org/"&gt;http://www.crontab-generator.org/&lt;/a&gt;&lt;br&gt;
@@ -9,17 +9,4 @@ Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creat
 cronjobs/"&gt;http://linuxundich.de/ubuntu/der-crontab-generator-hilft-beim-erstellen-von-
 cronjobs/&lt;/a&gt;&lt;br&gt;
 Linktipp: Der Crontab-Generator hilft beim Erstellen von Cronjobs von
-Christoph Langner &lt;a href="http://linuxundich.de"&gt;http://linuxundich …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Crontab-Generator hilft beim Erstellen von Cronjobs&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="http://wiki.ubuntuusers.de/Cron"&gt;http://wiki.ubuntuusers.de/Cron&lt;/a&gt;#Cronjobs-manuell-einrichten&lt;br&gt;
-&lt;a href="http://www.crontab-generator.org/"&gt;http://www.crontab-generator.org/&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://de.wikipedia.org/wiki/Crontab"&gt;http://de.wikipedia.org/wiki/Crontab&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br&gt;
-&lt;a href="http://linuxundich.de/ubuntu/der-crontab-generator-hilft-beim-erstellen-von-
-cronjobs/"&gt;http://linuxundich.de/ubuntu/der-crontab-generator-hilft-beim-erstellen-von-
-cronjobs/&lt;/a&gt;&lt;br&gt;
-Linktipp: Der Crontab-Generator hilft beim Erstellen von Cronjobs von
-Christoph Langner &lt;a href="http://linuxundich.de"&gt;http://linuxundich.de&lt;/a&gt;&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Weitere Videos in der Linux-Playlist:&lt;br&gt;
-&lt;a href="https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6"&gt;https://www.youtube.com/playlist?list=PLE479F73BD1D6C3A6&lt;/a&gt;  &lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="crontab"></category><category term="cronjobs"></category></entry></feed>
+Christoph Langner &lt;a href="http://linuxundich.de"&gt;http://linuxundich …&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="crontab"></category><category term="cronjobs"></category></entry></feed>

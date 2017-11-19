@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [freiesMagazin-2013-01](http://www.freiesmagazin.de/freiesMagazin-2013-01 "Link zu freiesmagazin.de" )
+  * [freiesMagazin-2013-01](http://www.freiesmagazin.de/freiesMagazin-2013-01 "Link zu freiesmagazin.de")
   * <http://blockdiag.com/en/>
 

@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [unp](http://wiki.ubuntuusers.de/unp "Link zu unp" )
+  * [unp](http://wiki.ubuntuusers.de/unp "Link zu unp")
 

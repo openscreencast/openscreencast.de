@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Unicode](http://de.wikipedia.org/wiki/Unicode "Link zu Wikipedia Unicode" )
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [freiesmagazin 10/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de" )
+  * [WP:Unicode](http://de.wikipedia.org/wiki/Unicode "Link zu Wikipedia Unicode")
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [freiesmagazin 10/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de")
 

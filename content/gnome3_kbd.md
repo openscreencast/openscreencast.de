@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [eekboard](https://fedorahosted.org/eekboard/ "Link zu eekboard" )
-  * [florence](http://florence.sourceforge.net/english.html "Link zu florence" )
-  * [fvkbd](https://gitorious.org/fvkbd "Link zu fvkbd" )
+  * [eekboard](https://fedorahosted.org/eekboard/ "Link zu eekboard")
+  * [florence](http://florence.sourceforge.net/english.html "Link zu florence")
+  * [fvkbd](https://gitorious.org/fvkbd "Link zu fvkbd")
 

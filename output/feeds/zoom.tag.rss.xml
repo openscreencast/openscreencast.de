@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>openscreencast - Zoom</title><link>https://www.openscreencast.de/</link><description></description><lastBuildDate>Mon, 12 Sep 2011 00:48:00 +0200</lastBuildDate><item><title>Gnome3 - Zoomen</title><link>https://www.openscreencast.de/blog/gnome3_zoomen.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - Zoom</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/zoom.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 12 Sep 2011 00:48:00 +0200</lastBuildDate><item><title>Gnome3 - Zoomen</title><link>https://www.openscreencast.de/blog/gnome3_zoomen.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora 15&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
@@ -11,4 +11,4 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 Gut gemacht. Die Hintergrundmusik finde ich etwas fragwürdig ;-) aber zum
 Thema hat's mir als Gnome-3-Einsteiger weitergeholfen. Vermisse noch
 schmerzlich die alte Compiz Super+Mausrad-Zoom-Funktion&lt;br&gt;
-avacpio&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 12 Sep 2011 00:48:00 +0200</pubDate><guid isPermaLink="false">tag:www.openscreencast.de,2011-09-12:/blog/gnome3_zoomen.html</guid><category>CC by-sa</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>a11y</category><category>magnifier</category><category>Zoom</category><category>Zoomen</category></item></channel></rss>
+avacpio&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heiko</dc:creator><pubDate>Mon, 12 Sep 2011 00:48:00 +0200</pubDate><guid>tag:www.openscreencast.de,2011-09-12:/blog/gnome3_zoomen.html/</guid><category>CC by-sa</category><category>Fedora</category><category>Gnome</category><category>Linux</category><category>Neueinsteiger</category><category>Ogg Theora</category><category>ohne Musik</category><category>screencast</category><category>gnome3</category><category>a11y</category><category>magnifier</category><category>Zoom</category><category>Zoomen</category></item></channel></rss>

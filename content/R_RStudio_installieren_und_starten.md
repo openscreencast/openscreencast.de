@@ -19,11 +19,11 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [RStudio](http://www.rstudio.com/ "Link zu rstudio" )
-  * [statistiklabor](http://www.statistiklabor.de/ "Link zu statistiklabor" )
-  * [RKWard](https://rkward.kde.org/ "Link zu rkward.kde.org/" )
-  * [R-Commander](http://www.rcommander.com/ "Link zu rcommander.com/" )
-  * [relax](http://cran.r-project.org/web/packages/relax/index.html "Link zu relax" )
-  * [r-project](http://www.r-project.org/ "Link zu r-project.org/" )
-  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org" )
+  * [RStudio](http://www.rstudio.com/ "Link zu rstudio")
+  * [statistiklabor](http://www.statistiklabor.de/ "Link zu statistiklabor")
+  * [RKWard](https://rkward.kde.org/ "Link zu rkward.kde.org/")
+  * [R-Commander](http://www.rcommander.com/ "Link zu rcommander.com/")
+  * [relax](http://cran.r-project.org/web/packages/relax/index.html "Link zu relax")
+  * [r-project](http://www.r-project.org/ "Link zu r-project.org/")
+  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org")
 

@@ -24,5 +24,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [SimpleHTTPServer](http://wiki.ubuntuusers.de/Instant_Webserver "SimpleHTTPServer" )
+  * [SimpleHTTPServer](http://wiki.ubuntuusers.de/Instant_Webserver "SimpleHTTPServer")
 

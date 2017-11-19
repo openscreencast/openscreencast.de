@@ -23,8 +23,8 @@ von Markus Herrmann und Barbara Wolf Lizenz: [CC by-sa
 
 Links:
 
-  * [r-project](http://www.r-project.org/ "Link zu r-project.org/" )
-  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org" )
-  * [CRAN Web](http://cran.r-project.org/web/views/WebTechnologies.html "Link zu r-project.org" )
-  * [WP:Liste der Groß- und Mittelstädte in Deutschland](http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland "Link zu wikipedia.org" ), [Versionsgeschichte](http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&action=history "Link zu wikipedia.org" ) Lizenz: [CC by-sa](http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported)
+  * [r-project](http://www.r-project.org/ "Link zu r-project.org/")
+  * [GNU_R](http://de.wikibooks.org/wiki/GNU_R "Link zu de.wikibooks.org")
+  * [CRAN Web](http://cran.r-project.org/web/views/WebTechnologies.html "Link zu r-project.org")
+  * [WP:Liste der Groß- und Mittelstädte in Deutschland](http://de.wikipedia.org/wiki/Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland "Link zu wikipedia.org"), [Versionsgeschichte](http://de.wikipedia.org/w/index.php?title=Liste_der_Gro%C3%9F-_und_Mittelst%C3%A4dte_in_Deutschland&action=history "Link zu wikipedia.org") Lizenz: [CC by-sa](http://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Creative_Commons_Attribution-ShareAlike_3.0_Unported)
 

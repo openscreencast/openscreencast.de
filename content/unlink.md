@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [unlink](http://wiki.ubuntuusers.de/unlink "unlink" )
+  * [unlink](http://wiki.ubuntuusers.de/unlink "unlink")
 

@@ -18,6 +18,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Semplice Linux](http://semplice-linux.org/ "Link zu semplice-linux.org" )
-  * Musik: Divider von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com" ) Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
+  * [Semplice Linux](http://semplice-linux.org/ "Link zu semplice-linux.org")
+  * Musik: Divider von [Chris Zabriskie](http://chriszabriskie.com/ "Link zu chriszabriskie.com") Lizenz: [CC by 4.0](http://creativecommons.org/licenses/by/4.0/)
 

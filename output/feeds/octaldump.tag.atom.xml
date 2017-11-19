@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - octaldump</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/octaldump.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-02-18T14:49:00+01:00</updated><entry><title>Linux - od (octal dump)</title><link href="https://www.openscreencast.de/blog/Linux_od_octal_dump.html" rel="alternate"></link><published>2014-02-18T14:49:00+01:00</published><updated>2014-02-18T14:49:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-02-18:/blog/Linux_od_octal_dump.html</id><summary type="html">&lt;p&gt;Linux - od (octal dump)&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - octaldump</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/octaldump.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2014-02-18T14:49:00+01:00</updated><entry><title>Linux - od (octal dump)</title><link href="https://www.openscreencast.de/blog/Linux_od_octal_dump.html" rel="alternate"></link><published>2014-02-18T14:49:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2014-02-18:/blog/Linux_od_octal_dump.html/</id><summary type="html">&lt;p&gt;Linux - od (octal dump)&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html"&gt;http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html&lt;/a&gt;&lt;br&gt;
@@ -8,14 +8,4 @@ praxis.de"&gt;http://www.linux-
 praxis.de&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
 &lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Text-Lizenz …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Linux - od (octal dump)&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Textquelle:&lt;br&gt;
-&lt;a href="http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html"&gt;http://www.linux-praxis.de/lpic1/lpi101/1.103.2.html&lt;/a&gt;&lt;br&gt;
-Texte mittels Filterprogrammen bearbeiten von F.Kalhammer &lt;a href="http://www.linux-
-praxis.de"&gt;http://www.linux-
-praxis.de&lt;/a&gt;&lt;br&gt;
-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Text-Lizenz: &lt;a href="http://www.gnu.org/copyleft/fdl.html"&gt;http://www.gnu.org/copyleft/fdl.html&lt;/a&gt;
-&lt;a href="https://de.wikipedia.org/wiki/Gfdl"&gt;https://de.wikipedia.org/wiki/Gfdl&lt;/a&gt;&lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="od"></category><category term="octaldump"></category></entry></feed>
+&lt;p&gt;Text-Lizenz …&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="od"></category><category term="octaldump"></category></entry></feed>

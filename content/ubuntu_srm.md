@@ -23,7 +23,7 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [shred](http://wiki.ubuntuusers.de/Shell/shred "Link zu wiki.ubuntuusers.de" )
-  * [wipe](http://wiki.ubuntuusers.de/wipe "Link zu wiki.ubuntuusers.de" )
-  * [secure-delete](http://ubuntujunkie.tumblr.com/post/1392503683/sicher-loschen-ram-dateien-swap-und-freien "Link zu ubuntujunkie.tumblr.com" )
+  * [shred](http://wiki.ubuntuusers.de/Shell/shred "Link zu wiki.ubuntuusers.de")
+  * [wipe](http://wiki.ubuntuusers.de/wipe "Link zu wiki.ubuntuusers.de")
+  * [secure-delete](http://ubuntujunkie.tumblr.com/post/1392503683/sicher-loschen-ram-dateien-swap-und-freien "Link zu ubuntujunkie.tumblr.com")
 

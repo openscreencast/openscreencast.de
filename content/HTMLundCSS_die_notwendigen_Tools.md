@@ -23,10 +23,10 @@ Jakob](http://code.makery.ch/about/) Lizenz: [CC by
 
 Links:
 
-  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org" )
-  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org" )
-  * [WP:HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren "Link zu wikipedia.org" )
-  * [Brackets](http://brackets.io/ "Link zu brackets.io/" )
-  * [Atom](https://atom.io/ "Link zu atom.io" )
-  * [Coder](http://googlecreativelab.github.io/coder/ "Link zu googlecreativelab.github.io" )
+  * [WP:HTML](http://de.wikipedia.org/wiki/Hypertext_Markup_Language "Link zu wikipedia.org")
+  * [WP:CSS](http://de.wikipedia.org/wiki/Cascading_Style_Sheets "Link zu wikipedia.org")
+  * [WP:HTML-Editoren](http://de.wikipedia.org/wiki/Liste_von_HTML-Editoren "Link zu wikipedia.org")
+  * [Brackets](http://brackets.io/ "Link zu brackets.io/")
+  * [Atom](https://atom.io/ "Link zu atom.io")
+  * [Coder](http://googlecreativelab.github.io/coder/ "Link zu googlecreativelab.github.io")
 

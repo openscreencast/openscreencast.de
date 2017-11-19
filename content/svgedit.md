@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [svg-edit](http://code.google.com/p/svg-edit/ "Link zu svg-edit" )
-  * [WP:svg](http://de.wikipedia.org/wiki/Svg "Link zu Wikipedia svg" )
+  * [svg-edit](http://code.google.com/p/svg-edit/ "Link zu svg-edit")
+  * [WP:svg](http://de.wikipedia.org/wiki/Svg "Link zu Wikipedia svg")
 

@@ -24,6 +24,6 @@ Langner](http://linuxundich.de/) Lizenz: [CC by
 
 Links:
 
-  * [Imgur - Splashscreens](http://imgur.com/a/7xcpb "Link zu imgur.com" )
-  * [http://gnome-look.org](http://gnome-look.org/ "Link zu gnome-look.org" )
+  * [Imgur - Splashscreens](http://imgur.com/a/7xcpb "Link zu imgur.com")
+  * [http://gnome-look.org](http://gnome-look.org/ "Link zu gnome-look.org")
 

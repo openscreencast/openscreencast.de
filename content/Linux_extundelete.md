@@ -18,7 +18,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [WP:Löschen](http://de.wikipedia.org/wiki/L%C3%B6schen_%28Datei%29 "Link zu wikipedia.org/" )
-  * [extundelete](http://sourceforge.net/projects/extundelete/ "Link zu sourceforge.net/" )
-  * [ext4magic](http://sourceforge.net/projects/ext4magic/ "Link zu sourceforge.net/" )
+  * [WP:Löschen](http://de.wikipedia.org/wiki/L%C3%B6schen_%28Datei%29 "Link zu wikipedia.org/")
+  * [extundelete](http://sourceforge.net/projects/extundelete/ "Link zu sourceforge.net/")
+  * [ext4magic](http://sourceforge.net/projects/ext4magic/ "Link zu sourceforge.net/")
 

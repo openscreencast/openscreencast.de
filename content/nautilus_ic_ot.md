@@ -23,5 +23,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:nautilus](http://de.wikipedia.org/wiki/Nautilus_%28Dateimanager%29 "Link zu wikipedia" )
+  * [WP:nautilus](http://de.wikipedia.org/wiki/Nautilus_%28Dateimanager%29 "Link zu wikipedia")
 

@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Ubuntu](http://de.wikipedia.org/wiki/Ubuntu "Link zu WP:Ubuntu" )
+  * [WP:Ubuntu](http://de.wikipedia.org/wiki/Ubuntu "Link zu WP:Ubuntu")
 

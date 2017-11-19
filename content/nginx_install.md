@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:nginx](https://de.wikipedia.org/wiki/Nginx "Link zu WP:nginx" )
+  * [WP:nginx](https://de.wikipedia.org/wiki/Nginx "Link zu WP:nginx")
 

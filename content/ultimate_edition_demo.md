@@ -21,5 +21,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [Ultimate Edition](http://ultimateedition.info/ "Link zu Ultimate Edition" )
+  * [Ultimate Edition](http://ultimateedition.info/ "Link zu Ultimate Edition")
 

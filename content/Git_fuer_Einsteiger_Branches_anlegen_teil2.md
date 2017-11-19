@@ -23,5 +23,5 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 Links:
 
-  * [WP:Git](http://de.wikipedia.org/wiki/Git "Link zu wikipedia.org/" )
+  * [WP:Git](http://de.wikipedia.org/wiki/Git "Link zu wikipedia.org/")
 

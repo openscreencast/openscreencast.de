@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:sed](http://de.wikipedia.org/wiki/Sed_%28Unix%29 "sed" )
-  * [Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/ "opendatacity.de" )
+  * [WP:sed](http://de.wikipedia.org/wiki/Sed_%28Unix%29 "sed")
+  * [Tutorial: Erste Schritte mit regulären Ausdrücken von Michael Kreil (CC by 3.0 - http://creativecommons.org/licenses/by/3.0/)](http://www.opendatacity.de/tutorial-erste-schritte-mit-regularen-ausdrucken/ "opendatacity.de")
 

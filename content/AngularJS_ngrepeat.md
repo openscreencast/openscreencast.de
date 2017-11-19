@@ -18,7 +18,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [angularjs](https://angularjs.org/ "Link zu angularjs.org" )
-  * [WP:angularjs](http://de.wikipedia.org/wiki/AngularJS "Link zu wikipedia.org" )
-  * [ng-repeat](https://docs.angularjs.org/api/ng/directive/ngRepeat "Link zu docs.angularjs.org/" )
+  * [angularjs](https://angularjs.org/ "Link zu angularjs.org")
+  * [WP:angularjs](http://de.wikipedia.org/wiki/AngularJS "Link zu wikipedia.org")
+  * [ng-repeat](https://docs.angularjs.org/api/ng/directive/ngRepeat "Link zu docs.angularjs.org/")
 

@@ -23,7 +23,7 @@ Lizenz: [CC by 3.0](http://creativecommons.org/licenses/by/3.0/)
 
 Links:
 
-  * [Vivaldi Blog](https://vivaldi.net/blogs/teamblog/ "Link zu vivaldi.net" )
-  * [Vivaldi Browser](https://vivaldi.com/ "Link zu vivaldi.com/" )
-  * [WP:Vivaldi Browser](http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29 "Link zu wikipedia.org" )
+  * [Vivaldi Blog](https://vivaldi.net/blogs/teamblog/ "Link zu vivaldi.net")
+  * [Vivaldi Browser](https://vivaldi.com/ "Link zu vivaldi.com/")
+  * [WP:Vivaldi Browser](http://en.wikipedia.org/wiki/Vivaldi_%28web_browser%29 "Link zu wikipedia.org")
 

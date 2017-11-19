@@ -23,6 +23,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:SELinux](http://de.wikipedia.org/wiki/SELinux "SELinux" )
-  * [WP:Sandbox](http://de.wikipedia.org/wiki/Sandbox "Sandbox" )
+  * [WP:SELinux](http://de.wikipedia.org/wiki/SELinux "SELinux")
+  * [WP:Sandbox](http://de.wikipedia.org/wiki/Sandbox "Sandbox")
 

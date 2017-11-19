@@ -20,7 +20,7 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 Links:
 
   * <http://regexcrossword.com/>
-  * [WP:RegEx](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck "Link zu Wikipedia" )
-  * [RegEx Tutorial](https://www.danielfett.de/internet-und-opensource,artikel,regulaere-ausdruecke "Link zu danielfett.de" )
-  * [Reguläre Ausdrücke mit Regex Cross­word lernen von Christoph Langner (CC by 4.0)](http://linuxundich.de/gnu-linux/regulare-ausdruecke-lernen-regex-crossword/ "Link zu linuxundich.de" )
+  * [WP:RegEx](https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck "Link zu Wikipedia")
+  * [RegEx Tutorial](https://www.danielfett.de/internet-und-opensource,artikel,regulaere-ausdruecke "Link zu danielfett.de")
+  * [Reguläre Ausdrücke mit Regex Cross­word lernen von Christoph Langner (CC by 4.0)](http://linuxundich.de/gnu-linux/regulare-ausdruecke-lernen-regex-crossword/ "Link zu linuxundich.de")
 

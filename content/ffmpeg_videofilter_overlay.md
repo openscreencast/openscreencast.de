@@ -22,5 +22,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:ffmpeg](https://de.wikipedia.org/wiki/Ffmpeg "Link zu WP:ffmpeg" )
+  * [WP:ffmpeg](https://de.wikipedia.org/wiki/Ffmpeg "Link zu WP:ffmpeg")
 

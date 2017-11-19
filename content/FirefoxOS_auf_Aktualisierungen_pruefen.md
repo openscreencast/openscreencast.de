@@ -19,5 +19,5 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [WP:FirefoxOS](http://de.wikipedia.org/wiki/Firefox_OS "Link zu wikipedia.org" )
+  * [WP:FirefoxOS](http://de.wikipedia.org/wiki/Firefox_OS "Link zu wikipedia.org")
 

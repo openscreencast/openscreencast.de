@@ -19,6 +19,6 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [Modul webbrowser](https://docs.python.org/2/library/webbrowser.html "Link zu python.org" )
-  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu wikipedia.org" )
+  * [Modul webbrowser](https://docs.python.org/2/library/webbrowser.html "Link zu python.org")
+  * [WP:Python](http://de.wikipedia.org/wiki/Python_%28Programmiersprache%29 "Link zu wikipedia.org")
 

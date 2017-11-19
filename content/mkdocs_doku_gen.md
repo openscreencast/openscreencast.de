@@ -10,7 +10,7 @@ License: http://creativecommons.org/licenses/by/4.0/
 Youtube: fw4yUkBUMQU
 Vimeo: 242468898
 Tumblr: http://openscreencast.tumblr.com/post/167418973855/mkdocs-eine-dokumentation-im-html-format
-Diaspora: https://pod.geraspora.de/posts/f37b5b90aa0701351c33101b0e8ace24
+Diaspora: https://pod.geraspora.de/posts/7124169
 Oggfile: http://www.librecontent.de/openscreencast/videos/openscreencast_videos_web/mkdocs.ogg
 
 mkdocs - eine Dokumentation im HTML-Format generieren, Linux Mint 18.2  

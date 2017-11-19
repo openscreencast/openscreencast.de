@@ -24,5 +24,5 @@ fedora-21/) von <https://www.bitblokes.de/> Lizenz: [CC by
 
 Links:
 
-  * [kororaproject.org](https://kororaproject.org/ "Link zu kororaproject.org" )
+  * [kororaproject.org](https://kororaproject.org/ "Link zu kororaproject.org")
 

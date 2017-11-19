@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:Zeichenkette](http://de.wikipedia.org/wiki/Zeichenkette "Link zu Wikipedia Unicode" )
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [fullcirclemagazine.org](http://fullcirclemagazine.org/python-special-edition-1/ "Link zu fullcirclemagazine.org" )
+  * [WP:Zeichenkette](http://de.wikipedia.org/wiki/Zeichenkette "Link zu Wikipedia Unicode")
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [fullcirclemagazine.org](http://fullcirclemagazine.org/python-special-edition-1/ "Link zu fullcirclemagazine.org")
 

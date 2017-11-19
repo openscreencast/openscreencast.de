@@ -21,5 +21,5 @@ Links:
 
   * [terminix](https://gnunn1.github.io/terminix-web/)
   * [github terminix](https://github.com/gnunn1/terminix)
-  * Textquelle: [Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&amp;Drop; und Transparenz](https://linuxundich.de/gnu-linux/terminix-gtk3-terminal-mit-tiling-funktion-dragdrop-und-transparenz/) von [Christoph Langner](http://linuxundich.de/), Lizenz: [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
+  * Textquelle: [Terminix, GTK3-Terminal mit Tiling-Funktion, Drag&Drop; und Transparenz](https://linuxundich.de/gnu-linux/terminix-gtk3-terminal-mit-tiling-funktion-dragdrop-und-transparenz/) von [Christoph Langner](http://linuxundich.de/), Lizenz: [CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0/)
 

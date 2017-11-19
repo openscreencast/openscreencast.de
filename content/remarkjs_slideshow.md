@@ -18,10 +18,10 @@ Lizenz: <http://creativecommons.org/licenses/by/4.0/>
 
 Links:
 
-  * [remark.js](http://remarkjs.com/ "Link zu remarkjs.com/" )
-  * [WP:Markdown](http://de.wikipedia.org/wiki/Markdown "Link zu wikipedia.org" )
-  * [Markdown.de](http://markdown.de/syntax/ "Link zu markdown.de" )
-  * [deck.js](http://imakewebthings.com/deck.js/ "Link zu imakewebthings.com/deck.js/" )
-  * [reveal.js](http://lab.hakim.se/reveal-js/#/ "Link zu lab.hakim.se/reveal-js/" )
-  * [impress.js](http://bartaz.github.io/impress.js/#/bored "Link zu bartaz.github.io/impress.js/" )
+  * [remark.js](http://remarkjs.com/ "Link zu remarkjs.com/")
+  * [WP:Markdown](http://de.wikipedia.org/wiki/Markdown "Link zu wikipedia.org")
+  * [Markdown.de](http://markdown.de/syntax/ "Link zu markdown.de")
+  * [deck.js](http://imakewebthings.com/deck.js/ "Link zu imakewebthings.com/deck.js/")
+  * [reveal.js](http://lab.hakim.se/reveal-js/#/ "Link zu lab.hakim.se/reveal-js/")
+  * [impress.js](http://bartaz.github.io/impress.js/#/bored "Link zu bartaz.github.io/impress.js/")
 

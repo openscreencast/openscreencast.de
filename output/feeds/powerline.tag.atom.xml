@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - powerline</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/powerline.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-09-06T15:37:00+02:00</updated><entry><title>Fedora - powerline - die Eingabeaufforderung verändern</title><link href="https://www.openscreencast.de/blog/Fedora_powerline.html" rel="alternate"></link><published>2015-09-06T15:37:00+02:00</published><updated>2015-09-06T15:37:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-06:/blog/Fedora_powerline.html</id><summary type="html">&lt;p&gt;Fedora - powerline - die Eingabeaufforderung verändern, Fedora 22&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - powerline</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/powerline.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2015-09-06T15:37:00+02:00</updated><entry><title>Fedora - powerline - die Eingabeaufforderung verändern</title><link href="https://www.openscreencast.de/blog/Fedora_powerline.html" rel="alternate"></link><published>2015-09-06T15:37:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-09-06:/blog/Fedora_powerline.html/</id><summary type="html">&lt;p&gt;Fedora - powerline - die Eingabeaufforderung verändern, Fedora 22&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://fedoramagazine.org/add-power-terminal-powerline/" title="Link zu fedoramagazine.org"&gt;fedoramagazine - powerline&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://powerline.readthedocs.org/en/latest/configuration.html" title="Link zu powerline.readthedocs.org"&gt;powerline - Dokumentation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/powerline/powerline" title="Link zu github.com"&gt;github - powerline&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Fedora - powerline - die Eingabeaufforderung verändern, Fedora 22&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://fedoramagazine.org/add-power-terminal-powerline/" title="Link zu fedoramagazine.org"&gt;fedoramagazine - powerline&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://powerline.readthedocs.org/en/latest/configuration.html" title="Link zu powerline.readthedocs.org"&gt;powerline - Dokumentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/powerline/powerline" title="Link zu github.com"&gt;github - powerline&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="powerline"></category><category term="Fedora"></category></entry></feed>
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="powerline"></category><category term="Fedora"></category></entry></feed>

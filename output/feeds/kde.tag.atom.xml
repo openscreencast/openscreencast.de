@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - KDE</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kde.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-10-29T15:24:00+02:00</updated><entry><title>Maui 2 (Linux) - Demo</title><link href="https://www.openscreencast.de/blog/maui_2_linux_demo.html" rel="alternate"></link><published>2016-10-29T15:24:00+02:00</published><updated>2016-10-29T15:24:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-10-29:/blog/maui_2_linux_demo.html</id><summary type="html">&lt;p&gt;Maui 2 (Linux) - Demo&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - KDE</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/kde.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2016-10-29T15:24:00+02:00</updated><entry><title>Maui 2 (Linux) - Demo</title><link href="https://www.openscreencast.de/blog/maui_2_linux_demo.html" rel="alternate"></link><published>2016-10-29T15:24:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2016-10-29:/blog/maui_2_linux_demo.html/</id><summary type="html">&lt;p&gt;Maui 2 (Linux) - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://mauilinux.org/"&gt;Maui&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Maui 2 (Linux) - Demo&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://mauilinux.org/"&gt;Maui&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Maui"></category><category term="KDE"></category><category term="Plasma"></category></entry><entry><title>KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)</title><link href="https://www.openscreencast.de/blog/KDEPlasma_Demo_mit_KaOS_Netrunner.html" rel="alternate"></link><published>2015-02-22T19:44:00+01:00</published><updated>2015-02-22T19:44:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:/blog/KDEPlasma_Demo_mit_KaOS_Netrunner.html</id><summary type="html">&lt;p&gt;KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="Maui"></category><category term="KDE"></category><category term="Plasma"></category></entry><entry><title>KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)</title><link href="https://www.openscreencast.de/blog/KDEPlasma_Demo_mit_KaOS_Netrunner.html" rel="alternate"></link><published>2015-02-22T19:44:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2015-02-22:/blog/KDEPlasma_Demo_mit_KaOS_Netrunner.html/</id><summary type="html">&lt;p&gt;KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
@@ -17,193 +12,96 @@ Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creat
 &lt;li&gt;&lt;a href="http://www.netrunner.com/" title="Link zu netrunner.com"&gt;Netrunner&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/KDE_Plasma_5" title="Link wikipedia.org"&gt;KDE Plasma 5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Musik: We Always Thought the Future Would Be Kind of Fun von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: CC by 3.0&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;KDE Plasma 5.2 - Demo (mit KaOS und Netrunner 15)&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://kaosx.us/" title="Link zu kaosx.us"&gt;KaOS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.netrunner.com/" title="Link zu netrunner.com"&gt;Netrunner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/KDE_Plasma_5" title="Link wikipedia.org"&gt;KDE Plasma 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Musik: We Always Thought the Future Would Be Kind of Fun von &lt;a href="http://chriszabriskie.com/" title="Link zu chriszabriskie.com"&gt;Chris Zabriskie&lt;/a&gt; Lizenz: CC by 3.0&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="KDE"></category><category term="Plasma"></category><category term="KaOS"></category><category term="Netrunner"></category></entry><entry><title>SolydK 201311 - Demo</title><link href="https://www.openscreencast.de/blog/SolydK_201311_Demo.html" rel="alternate"></link><published>2013-11-29T07:07:00+01:00</published><updated>2013-11-29T07:07:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-29:/blog/SolydK_201311_Demo.html</id><summary type="html">&lt;p&gt;SolydK 201311 - Demo&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="KDE"></category><category term="Plasma"></category><category term="KaOS"></category><category term="Netrunner"></category></entry><entry><title>SolydK 201311 - Demo</title><link href="https://www.openscreencast.de/blog/SolydK_201311_Demo.html" rel="alternate"></link><published>2013-11-29T07:07:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-11-29:/blog/SolydK_201311_Demo.html/</id><summary type="html">&lt;p&gt;SolydK 201311 - Demo&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Musik:&lt;br&gt;
 Candlepower by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/SolydXK"&gt;https://de.wikipedia.org/wiki/SolydXK&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;SolydK 201311 - Demo&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;Musik:&lt;br&gt;
-Candlepower by Chris Zabriskie &lt;a href="http://chriszabriskie.com/"&gt;http://chriszabriskie.com/&lt;/a&gt;&lt;br&gt;
-Lizenz: &lt;a href="http://creativecommons.org/licenses/by/3.0/"&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/SolydXK"&gt;https://de.wikipedia.org/wiki/SolydXK&lt;/a&gt;&lt;/p&gt;</content><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="SolydK"></category><category term="KDE"></category><category term="KDE SC"></category></entry><entry><title>Mageia 2 - Demo</title><link href="https://www.openscreencast.de/blog/mageia2_demo.html" rel="alternate"></link><published>2013-07-18T19:37:00+02:00</published><updated>2013-07-18T19:37:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-18:/blog/mageia2_demo.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Mageia 2&lt;br&gt;
+&lt;p&gt;&lt;a href="https://de.wikipedia.org/wiki/SolydXK"&gt;https://de.wikipedia.org/wiki/SolydXK&lt;/a&gt;&lt;/p&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Demo"></category><category term="SolydK"></category><category term="KDE"></category><category term="KDE SC"></category></entry><entry><title>Mageia 2 - Demo</title><link href="https://www.openscreencast.de/blog/mageia2_demo.html" rel="alternate"></link><published>2013-07-18T19:37:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2013-07-18:/blog/mageia2_demo.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Mageia 2&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mageia" title="Link zu WP:Mageia"&gt;WP:Mageia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Mageia 2&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Mageia" title="Link zu WP:Mageia"&gt;WP:Mageia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="Mageia"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="glimpse"></category><category term="demo"></category></entry><entry><title>Kinfocenter - Informationen zur Hardware</title><link href="https://www.openscreencast.de/blog/kinfocenter.html" rel="alternate"></link><published>2011-03-12T02:20:00+01:00</published><updated>2011-03-12T02:20:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-03-12:/blog/kinfocenter.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC&lt;br&gt;
+&lt;/ul&gt;</summary><category term="Mageia"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="CC by"></category><category term="glimpse"></category><category term="demo"></category></entry><entry><title>Kinfocenter - Informationen zur Hardware</title><link href="https://www.openscreencast.de/blog/kinfocenter.html" rel="alternate"></link><published>2011-03-12T02:20:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-03-12:/blog/kinfocenter.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Kinfocenter"&gt;Kinfocenter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/System/Kinfocenter"&gt;Kinfocenter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="kinfocenter"></category></entry><entry><title>KRunner (Teil 2)</title><link href="https://www.openscreencast.de/blog/krunner2.html" rel="alternate"></link><published>2011-01-27T00:59:00+01:00</published><updated>2011-01-27T00:59:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-27:/blog/krunner2.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="kinfocenter"></category></entry><entry><title>KRunner (Teil 2)</title><link href="https://www.openscreencast.de/blog/krunner2.html" rel="alternate"></link><published>2011-01-27T00:59:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-27:/blog/krunner2.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>KRunner (Teil 1)</title><link href="https://www.openscreencast.de/blog/krunner.html" rel="alternate"></link><published>2011-01-23T04:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-23:/blog/krunner.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>KRunner (Teil 1)</title><link href="https://www.openscreencast.de/blog/krunner.html" rel="alternate"></link><published>2011-01-23T04:35:00+01:00</published><updated>2011-01-23T04:35:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2011-01-23:/blog/krunner.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Allgemein/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KRunner"&gt;KRunner&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>Filelight - Festplattenbelegung analysieren</title><link href="https://www.openscreencast.de/blog/filelight.html" rel="alternate"></link><published>2010-12-15T06:23:00+01:00</published><updated>2010-12-15T06:23:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-12-15:/blog/filelight.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC 4.5.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category><category term="KRunner"></category></entry><entry><title>Filelight - Festplattenbelegung analysieren</title><link href="https://www.openscreencast.de/blog/filelight.html" rel="alternate"></link><published>2010-12-15T06:23:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2010-12-15:/blog/filelight.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC 4.5.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Filelight"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.methylblue.com/filelight/"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 10.10, KDE SC 4.5.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Filelight"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.methylblue.com/filelight/"&gt;Filelight&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category></entry><entry><title>PCLinuxOS 2009.1 Installation</title><link href="https://www.openscreencast.de/blog/pclinuxos20091_install.html" rel="alternate"></link><published>2009-03-25T04:25:00+01:00</published><updated>2009-03-25T04:25:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-25:/blog/pclinuxos20091_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="KDE SC"></category></entry><entry><title>PCLinuxOS 2009.1 Installation</title><link href="https://www.openscreencast.de/blog/pclinuxos20091_install.html" rel="alternate"></link><published>2009-03-25T04:25:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-25:/blog/pclinuxos20091_install.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.pclinuxos.com/"&gt;PCLinuxOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="PCLinuxOS"></category></entry><entry><title>PCLinuxOS 2009.1</title><link href="https://www.openscreencast.de/blog/pclinuxos20091.html" rel="alternate"></link><published>2009-03-20T04:18:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-20:/blog/pclinuxos20091.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.pclinuxos.com/"&gt;PCLinuxOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="PCLinuxOS"></category></entry><entry><title>PCLinuxOS 2009.1</title><link href="https://www.openscreencast.de/blog/pclinuxos20091.html" rel="alternate"></link><published>2009-03-20T04:18:00+01:00</published><updated>2009-03-20T04:18:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-20:/blog/pclinuxos20091.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.pclinuxos.com/"&gt;PCLinuxOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: PCLinuxOS 2009.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.pclinuxos.com/"&gt;PCLinuxOS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="PCLinuxOS"></category></entry><entry><title>Sweeper</title><link href="https://www.openscreencast.de/blog/sweeper.html" rel="alternate"></link><published>2009-03-14T18:50:00+01:00</published><updated>2009-03-14T18:50:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-14:/blog/sweeper.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="PCLinuxOS"></category></entry><entry><title>Sweeper</title><link href="https://www.openscreencast.de/blog/sweeper.html" rel="alternate"></link><published>2009-03-14T18:50:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-14:/blog/sweeper.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: apt-get, sudo&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Sweeper"&gt;Sweeper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: apt-get, sudo&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.kubuntu-de.org/Kubuntu_benutzen/Dienstprogramme/Sweeper"&gt;Sweeper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="sweeper"></category></entry><entry><title>Kwin - Videoaufnahme</title><link href="https://www.openscreencast.de/blog/kwin_videoaufnahme.html" rel="alternate"></link><published>2009-03-11T04:24:00+01:00</published><updated>2009-03-11T04:24:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-11:/blog/kwin_videoaufnahme.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="sweeper"></category></entry><entry><title>Kwin - Videoaufnahme</title><link href="https://www.openscreencast.de/blog/kwin_videoaufnahme.html" rel="alternate"></link><published>2009-03-11T04:24:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-03-11:/blog/kwin_videoaufnahme.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: cd, cpsrecode, ffmpeg2theora, apt-get, sudo&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KWin/Arbeitsfl%C3%A4cheneffekte"&gt;KWin-Effekte&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10, KDE 4.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: cd, cpsrecode, ffmpeg2theora, apt-get, sudo&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://wiki.ubuntuusers.de/KWin/Arbeitsfl%C3%A4cheneffekte"&gt;KWin-Effekte&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="Kwin"></category><category term="ffmpeg2theora"></category><category term="capseo"></category><category term="cpsrecode"></category></entry><entry><title>Kubuntu 8.10 Installation</title><link href="https://www.openscreencast.de/blog/kubuntu810_install.html" rel="alternate"></link><published>2009-02-20T05:24:00+01:00</published><updated>2009-02-20T05:24:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-20:/blog/kubuntu810_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="ohne Musik"></category><category term="screencast"></category><category term="Kubuntu"></category><category term="Kwin"></category><category term="ffmpeg2theora"></category><category term="capseo"></category><category term="cpsrecode"></category></entry><entry><title>Kubuntu 8.10 Installation</title><link href="https://www.openscreencast.de/blog/kubuntu810_install.html" rel="alternate"></link><published>2009-02-20T05:24:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-20:/blog/kubuntu810_install.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.kubuntu.org/"&gt;Kubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kubuntu"></category></entry><entry><title>Kubuntu 8.10</title><link href="https://www.openscreencast.de/blog/kubuntu810.html" rel="alternate"></link><published>2009-02-17T02:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-17:/blog/kubuntu810.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.kubuntu.org/"&gt;Kubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kubuntu"></category></entry><entry><title>Kubuntu 8.10</title><link href="https://www.openscreencast.de/blog/kubuntu810.html" rel="alternate"></link><published>2009-02-17T02:30:00+01:00</published><updated>2009-02-17T02:30:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-17:/blog/kubuntu810.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.kubuntu.org/"&gt;Kubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Kubuntu 8.10&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.kubuntu.org/"&gt;Kubuntu&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kubuntu"></category></entry><entry><title>KWin 4.2 - Screencasts</title><link href="https://www.openscreencast.de/blog/KWin_screencasts.html" rel="alternate"></link><published>2009-02-07T20:40:00+01:00</published><updated>2009-02-07T20:40:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-07:/blog/KWin_screencasts.html</id><summary type="html">&lt;p&gt;Beim Bericht &lt;a href="http://www
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="Kubuntu"></category></entry><entry><title>KWin 4.2 - Screencasts</title><link href="https://www.openscreencast.de/blog/KWin_screencasts.html" rel="alternate"></link><published>2009-02-07T20:40:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2009-02-07:/blog/KWin_screencasts.html/</id><summary type="html">&lt;p&gt;Beim Bericht &lt;a href="http://www
 .pro-linux.de/berichte/kwin42.html"&gt;Kwin 4.2 - Neues aus dem Land der wabernden Fenster&lt;/a&gt;, bei &lt;a href="http://www.pro-
 linux.de/"&gt;pro-linux.de&lt;/a&gt;, der übrigends im Magazin &lt;a href="http://www.freiesmagazin.de/20090201-februarausgabe-erschienen"&gt;freiesMagazin
 02/2009&lt;/a&gt;
 erschienen ist, bin ich auf mehrere Screencasts gestossen, wo man die Künste
 von Kwin 4.2 bewundern kann.&lt;br&gt;
 &lt;a href="http://www.undefinedfire.com/kde/41-42-kwin/"&gt;http://www.undefinedfire.com/kde/41-42-kwin/&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://blip.tv/file/1581753/"&gt;http://blip.tv/file …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Beim Bericht &lt;a href="http://www
-.pro-linux.de/berichte/kwin42.html"&gt;Kwin 4.2 - Neues aus dem Land der wabernden Fenster&lt;/a&gt;, bei &lt;a href="http://www.pro-
-linux.de/"&gt;pro-linux.de&lt;/a&gt;, der übrigends im Magazin &lt;a href="http://www.freiesmagazin.de/20090201-februarausgabe-erschienen"&gt;freiesMagazin
-02/2009&lt;/a&gt;
-erschienen ist, bin ich auf mehrere Screencasts gestossen, wo man die Künste
-von Kwin 4.2 bewundern kann.&lt;br&gt;
-&lt;a href="http://www.undefinedfire.com/kde/41-42-kwin/"&gt;http://www.undefinedfire.com/kde/41-42-kwin/&lt;/a&gt;&lt;br&gt;
-&lt;a href="http://blip.tv/file/1581753/"&gt;http://blip.tv/file/1581753/&lt;/a&gt;&lt;/p&gt;</content><category term="KDE"></category><category term="News"></category><category term="screencast"></category><category term="KWin"></category></entry><entry><title>opensuse 11.1rc1 - Installation</title><link href="https://www.openscreencast.de/blog/opensuse111rc1_install.html" rel="alternate"></link><published>2008-12-07T02:30:00+01:00</published><updated>2008-12-07T02:30:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-07:/blog/opensuse111rc1_install.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
+&lt;a href="http://blip.tv/file/1581753/"&gt;http://blip.tv/file …&lt;/a&gt;&lt;/p&gt;</summary><category term="KDE"></category><category term="News"></category><category term="screencast"></category><category term="KWin"></category></entry><entry><title>opensuse 11.1rc1 - Installation</title><link href="https://www.openscreencast.de/blog/opensuse111rc1_install.html" rel="alternate"></link><published>2008-12-07T02:30:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-07:/blog/opensuse111rc1_install.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.opensuse.org/"&gt;openSUSE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://de.opensuse.org/"&gt;openSUSE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="openSUSE"></category></entry><entry><title>opensuse 11.1rc1</title><link href="https://www.openscreencast.de/blog/opensuse111rc1.html" rel="alternate"></link><published>2008-12-05T06:35:00+01:00</published><updated>2008-12-05T06:35:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-05:/blog/opensuse111rc1.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="openSUSE"></category></entry><entry><title>opensuse 11.1rc1</title><link href="https://www.openscreencast.de/blog/opensuse111rc1.html" rel="alternate"></link><published>2008-12-05T06:35:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-12-05:/blog/opensuse111rc1.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: uname&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://de.opensuse.org/"&gt;openSUSE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: openSUSE 11.1 RC1, KDE 4.1&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Kommandos: uname&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://de.opensuse.org/"&gt;openSUSE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="openSUSE"></category></entry><entry><title>KDE4 Zauber</title><link href="https://www.openscreencast.de/blog/KDE4_Zauber.html" rel="alternate"></link><published>2008-01-03T20:52:00+01:00</published><updated>2008-01-03T20:52:00+01:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-01-03:/blog/KDE4_Zauber.html</id><summary type="html">&lt;p&gt;Ein kleiner &lt;a href="http://francis.giannaros.org/blog/2007/12/03/kde4
--desktop-effects-kwin-composite-video-tour/"&gt;Einblick &lt;/a&gt; in die Zauberkünste von KDE4.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ein kleiner &lt;a href="http://francis.giannaros.org/blog/2007/12/03/kde4
--desktop-effects-kwin-composite-video-tour/"&gt;Einblick &lt;/a&gt; in die Zauberkünste von KDE4.&lt;/p&gt;</content><category term="KDE"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Kdenlive Screencasts</title><link href="https://www.openscreencast.de/blog/Kdenlive_Screencasts.html" rel="alternate"></link><published>2007-08-30T01:02:00+02:00</published><updated>2007-08-30T01:02:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-30:/blog/Kdenlive_Screencasts.html</id><summary type="html">&lt;p&gt;Auch &lt;a href="http://de.wikipedia.org/wiki/Kdenlive"&gt;Kdenlive&lt;/a&gt;, der Nicht-Lineare Open
+&lt;/ul&gt;</summary><category term="CC by-sa"></category><category term="glimpse"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="openSUSE"></category></entry><entry><title>KDE4 Zauber</title><link href="https://www.openscreencast.de/blog/KDE4_Zauber.html" rel="alternate"></link><published>2008-01-03T20:52:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2008-01-03:/blog/KDE4_Zauber.html/</id><summary type="html">&lt;p&gt;Ein kleiner &lt;a href="http://francis.giannaros.org/blog/2007/12/03/kde4
+-desktop-effects-kwin-composite-video-tour/"&gt;Einblick &lt;/a&gt; in die Zauberkünste von KDE4.&lt;/p&gt;</summary><category term="KDE"></category><category term="News"></category><category term="screencast"></category></entry><entry><title>Kdenlive Screencasts</title><link href="https://www.openscreencast.de/blog/Kdenlive_Screencasts.html" rel="alternate"></link><published>2007-08-30T01:02:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2007-08-30:/blog/Kdenlive_Screencasts.html/</id><summary type="html">&lt;p&gt;Auch &lt;a href="http://de.wikipedia.org/wiki/Kdenlive"&gt;Kdenlive&lt;/a&gt;, der Nicht-Lineare Open
 Source Video-Editor für &lt;a href="http://de.wikipedia.org/wiki/Kde"&gt;KDE&lt;/a&gt;, hat schon
 &lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt;. Zum Download stehen
 die englischen Video-Tutorials im Format &lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Ogg
 Theora&lt;/a&gt; auf der Seite
-&lt;a href="http://www.kdenlive.org/tutorials/"&gt;http://www.kdenlive.org/tutorials/&lt;/a&gt; bereit.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Auch &lt;a href="http://de.wikipedia.org/wiki/Kdenlive"&gt;Kdenlive&lt;/a&gt;, der Nicht-Lineare Open
-Source Video-Editor für &lt;a href="http://de.wikipedia.org/wiki/Kde"&gt;KDE&lt;/a&gt;, hat schon
-&lt;a href="http://de.wikipedia.org/wiki/Screencast"&gt;Screencasts&lt;/a&gt;. Zum Download stehen
-die englischen Video-Tutorials im Format &lt;a href="http://de.wikipedia.org/wiki/Theora"&gt;Ogg
-Theora&lt;/a&gt; auf der Seite
-&lt;a href="http://www.kdenlive.org/tutorials/"&gt;http://www.kdenlive.org/tutorials/&lt;/a&gt; bereit.&lt;/p&gt;</content><category term="Englisch"></category><category term="GPL"></category><category term="KDE"></category><category term="Kdenlive"></category><category term="linux"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>Bildschirmfotos erstellen</title><link href="https://www.openscreencast.de/blog/Bildschirmfotos_erstellen.html" rel="alternate"></link><published>2006-07-11T02:13:00+02:00</published><updated>2006-07-11T02:13:00+02:00</updated><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Bildschirmfotos_erstellen.html</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
+&lt;a href="http://www.kdenlive.org/tutorials/"&gt;http://www.kdenlive.org/tutorials/&lt;/a&gt; bereit.&lt;/p&gt;</summary><category term="Englisch"></category><category term="GPL"></category><category term="KDE"></category><category term="Kdenlive"></category><category term="linux"></category><category term="Multimedia"></category><category term="News"></category><category term="screencast"></category><category term="Videobearbeitung"></category><category term="Videoeditor"></category></entry><entry><title>Bildschirmfotos erstellen</title><link href="https://www.openscreencast.de/blog/Bildschirmfotos_erstellen.html" rel="alternate"></link><published>2006-07-11T02:13:00+02:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2006-07-11:/blog/Bildschirmfotos_erstellen.html/</id><summary type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Vorkommende Kommandos: gnome-screenshot, xwd, convert, import, cat, script&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;
@@ -221,24 +119,4 @@ Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommentare:&lt;/p&gt;
 &lt;p&gt;Feedback (03/13/2009 - 18:43)&lt;br&gt;
 Vielen Dank. Selten so einen fundierten Screencast gesehen: Genau was ich
-gesuchte mit angenehmer stimme …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ausgangspunkt: Fedora Core 5, GNOME 2.14&lt;br&gt;
-Zielgruppe: Neueinsteiger  &lt;/p&gt;
-&lt;p&gt;Vorkommende Kommandos: gnome-screenshot, xwd, convert, import, cat, script&lt;/p&gt;
-&lt;p&gt;Links:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.linuxwiki.de/BildschirmFoto?highlight=%28Bildschirmfoto%29"&gt;Bildschirmfotos erstellen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Bildschirmfoto"&gt;Bildschirmfoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GIMP"&gt;Gimp&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/GNOME"&gt;Gnome&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Terminalemulation"&gt;Terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Desktop_%28EDV%29"&gt;Desktop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Xwd"&gt;xwd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Png"&gt;png&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Kde"&gt;KDE&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Kommentare:&lt;/p&gt;
-&lt;p&gt;Feedback (03/13/2009 - 18:43)&lt;br&gt;
-Vielen Dank. Selten so einen fundierten Screencast gesehen: Genau was ich
-gesuchte mit angenehmer stimme ohne diese "Schmatzer".Jetzt bin ich informiert
-und kann mein Screenshot-Problem endlich lösenn ;-)&lt;br&gt;
-Danke.&lt;/p&gt;</content><category term="Bildschirmfoto"></category><category term="cat"></category><category term="CC by-nc-sa"></category><category term="convert"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Gimp"></category><category term="Gnome"></category><category term="gnome-screenshot"></category><category term="import"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="script"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="xwd"></category></entry></feed>
+gesuchte mit angenehmer stimme …&lt;/p&gt;</summary><category term="Bildschirmfoto"></category><category term="cat"></category><category term="CC by-nc-sa"></category><category term="convert"></category><category term="Desktop"></category><category term="Fedora Core"></category><category term="Gimp"></category><category term="Gnome"></category><category term="gnome-screenshot"></category><category term="import"></category><category term="KDE"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="Ogg Theora"></category><category term="screencast"></category><category term="script"></category><category term="Terminal"></category><category term="Textmodus"></category><category term="xwd"></category></entry></feed>

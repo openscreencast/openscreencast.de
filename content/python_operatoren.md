@@ -23,8 +23,8 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [python.de](http://www.python.de "Link zu Python.de" )
-  * [python.org](http://www.python.org "Link zu Python.org" )
-  * [freiesmagazin.de 11/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de" )
-  * [A Byte of Python](http://abop-german.berlios.de/read/operators.html "Link zu berlios.de" )
+  * [python.de](http://www.python.de "Link zu Python.de")
+  * [python.org](http://www.python.org "Link zu Python.org")
+  * [freiesmagazin.de 11/2010](http://www.freiesmagazin.de/freiesMagazin-2010-11 "Link zu freiesmagazin.de")
+  * [A Byte of Python](http://abop-german.berlios.de/read/operators.html "Link zu berlios.de")
 

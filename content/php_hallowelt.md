@@ -18,6 +18,6 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:php](https://de.wikipedia.org/wiki/Php "Link zu WP:php" )
-  * [freiesMagazin-2011-10](http://www.freiesmagazin.de/freiesMagazin-2011-10 "Link zu freiesmagazin.de" )
+  * [WP:php](https://de.wikipedia.org/wiki/Php "Link zu WP:php")
+  * [freiesMagazin-2011-10](http://www.freiesmagazin.de/freiesMagazin-2011-10 "Link zu freiesmagazin.de")
 

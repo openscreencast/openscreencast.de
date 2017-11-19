@@ -18,5 +18,5 @@ Zielgruppe: Neueinsteiger
 
 Links:
 
-  * [WP:youtube](https://de.wikipedia.org/wiki/Youtube "Link zu WP:youtube" )
+  * [WP:youtube](https://de.wikipedia.org/wiki/Youtube "Link zu WP:youtube")
 
