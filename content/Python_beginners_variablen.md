@@ -5,7 +5,7 @@ Category: Video
 Tags: CC by-sa,Linux,Neueinsteiger,screencast,Linux Mint,Python,turtle
 Slug: Python_beginners_variablen
 Album: https://www.openscreencast.de
-Duration: 225000
+Duration: 240000
 License: http://creativecommons.org/licenses/by-sa/3.0/
 Vimeo: 243531746
 Tumblr: http://openscreencast.tumblr.com/post/167664220590/python-f&uuml;r-anf&auml;nger-variablen-lizenz

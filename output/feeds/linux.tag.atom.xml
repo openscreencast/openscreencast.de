@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Linux</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/linux.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-11-19T18:10:00+01:00</updated><entry><title>Python für Anfänger - Variablen</title><link href="https://www.openscreencast.de/blog/Python_beginners_variablen.html" rel="alternate"></link><published>2017-11-19T18:10:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-11-19:/blog/Python_beginners_variablen.html/</id><summary type="html">&lt;p&gt;Python für Anfänger - Variablen, Linux Mint 18.2&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - Linux</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/linux.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-11-25T17:10:00+01:00</updated><entry><title>HTML und CSS - CSS-Regeln</title><link href="https://www.openscreencast.de/blog/HTMLundCSS_CSSRegeln.html" rel="alternate"></link><published>2017-11-25T17:10:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-11-25:/blog/HTMLundCSS_CSSRegeln.html/</id><summary type="html">&lt;p&gt;HTML und CSS - CSS-Regeln, Linux Mint 18.2&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;Textquelle:&lt;br&gt;
+&lt;a href="http://code.makery.ch/library/html-css/de/"&gt;HTML und CSS Tutorial&lt;/a&gt; von &lt;a href="http://code.makery.ch/about/"&gt;Marco
+Jakob&lt;/a&gt; Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;CC by
+4.0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Hypertext_Markup_Language" title="Link zu wikipedia.org"&gt;WP:HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://de.wikipedia.org/wiki/Cascading_Style_Sheets" title="Link zu wikipedia.org"&gt;WP:CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Web"></category><category term="www"></category><category term="HTML"></category><category term="CSS"></category></entry><entry><title>Python für Anfänger - Variablen</title><link href="https://www.openscreencast.de/blog/Python_beginners_variablen.html" rel="alternate"></link><published>2017-11-19T18:10:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-11-19:/blog/Python_beginners_variablen.html/</id><summary type="html">&lt;p&gt;Python für Anfänger - Variablen, Linux Mint 18.2&lt;br&gt;
 Lizenz: &lt;a href="http://creativecommons.org/licenses/by-sa/3.0/"&gt;http://creativecommons.org/licenses/by-sa/3.0/&lt;/a&gt;  &lt;/p&gt;
 &lt;p&gt;Textquelle:&lt;br&gt;
 &lt;a href="http://opentechschool.github.io/python-
