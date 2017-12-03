@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>openscreencast - glances</title><link href="https://www.openscreencast.de/" rel="alternate"></link><link href="https://www.openscreencast.de/feeds/glances.tag.atom.xml" rel="self"></link><id>https://www.openscreencast.de/</id><updated>2017-12-03T18:00:00+01:00</updated><entry><title>glances - Systeminformationen auf einen Blick</title><link href="https://www.openscreencast.de/blog/Linux_glances.html" rel="alternate"></link><published>2017-12-03T18:00:00+01:00</published><author><name>Heiko</name></author><id>tag:www.openscreencast.de,2017-12-03:/blog/Linux_glances.html/</id><summary type="html">&lt;p&gt;glances - Systeminformationen auf einen Blick, Linux Mint 18.2&lt;br&gt;
+Lizenz: &lt;a href="http://creativecommons.org/licenses/by/4.0/"&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nicolargo.github.io/glances/" title="Link zu glances"&gt;glances&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://glances.readthedocs.io/en/latest/" title="Link zu glances DOKU"&gt;glances Doku&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="CC by"></category><category term="Linux"></category><category term="Neueinsteiger"></category><category term="screencast"></category><category term="Monitoring"></category><category term="glances"></category></entry></feed>
