@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - uname</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/uname.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 30 Mar 2007 01:42:00 +0200</lastBuildDate><item><title>Ubuntu 704 Beta Feisty Fawn</title><link>https://www.openscreencast.de/blog/Ubuntu_704_Beta_Feisty_Fawn.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 7.04 Beta Feisty Fawn, GNOME 2.18&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - uname</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/uname.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 30 Mar 2007 01:42:00 +0200</lastBuildDate><item><title>Ubuntu 704 Beta Feisty Fawn</title><link>https://www.openscreencast.de/blog/Ubuntu_704_Beta_Feisty_Fawn.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 7.04 Beta Feisty Fawn, GNOME 2.18&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: uname&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;

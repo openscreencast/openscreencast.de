@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - skreener</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/skreener.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 13 Jan 2010 17:35:00 +0100</lastBuildDate><item><title>skreener</title><link>https://www.openscreencast.de/blog/skreener.html</link><description>&lt;p&gt;Neu ist das Screencast-Tool &lt;a href="http://code.google.com/p/skreener/"&gt;skreener&lt;/a&gt;.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - skreener</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/skreener.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 13 Jan 2010 17:35:00 +0100</lastBuildDate><item><title>skreener</title><link>https://www.openscreencast.de/blog/skreener.html</link><description>&lt;p&gt;Neu ist das Screencast-Tool &lt;a href="http://code.google.com/p/skreener/"&gt;skreener&lt;/a&gt;.
 Skreener ist ähnlich wie Wink. Screencasts, die aufgezeichneten Aktionen auf
 dem Bildschirm, werden als Animation im SVG-Format gespeichert. (Einzelne
 Screenshots werden im .png-Format gespeichert. In der .svg-Datei wird bestimmt

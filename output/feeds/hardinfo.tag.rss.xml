@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - hardinfo</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/hardinfo.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 05 Sep 2010 03:56:00 +0200</lastBuildDate><item><title>Hardware-Informationen (Desktop)</title><link>https://www.openscreencast.de/blog/hardwareinfo.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.04, GNOME 2.30&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - hardinfo</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/hardinfo.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 05 Sep 2010 03:56:00 +0200</lastBuildDate><item><title>Hardware-Informationen (Desktop)</title><link>https://www.openscreencast.de/blog/hardwareinfo.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.04, GNOME 2.30&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: apt-get, hardinfo, sysinfo, gnome-device-manager&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;

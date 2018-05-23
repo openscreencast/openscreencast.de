@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - Screencasts</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/screencasts.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 27 Aug 2011 04:52:00 +0200</lastBuildDate><item><title>Slideshows als Screencasts</title><link>https://www.openscreencast.de/blog/slidecasting.html</link><description>&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - Screencasts</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/screencasts.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 27 Aug 2011 04:52:00 +0200</lastBuildDate><item><title>Slideshows als Screencasts</title><link>https://www.openscreencast.de/blog/slidecasting.html</link><description>&lt;p&gt;Es ist nicht immer notwendig Videoaufnahmen von den Geschehnissen auf dem
 Bildschirm zu machen um ein Video-Tutorial zu erstellen.
 &lt;a href="http://de.wikipedia.org/wiki/Slideshow" title="WP:Slideshow"&gt;Slideshow&lt;/a&gt;-Programme
 können ebenso eingesetzt werden um einfache und doch verständliche

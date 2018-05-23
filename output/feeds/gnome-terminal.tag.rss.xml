@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - gnome-terminal</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/gnome-terminal.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 01 Nov 2010 00:38:00 +0100</lastBuildDate><item><title>uniq - benachbarte identische Zeilen ausblenden</title><link>https://www.openscreencast.de/blog/uniq.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, GNOME 2.32&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - gnome-terminal</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/gnome-terminal.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 01 Nov 2010 00:38:00 +0100</lastBuildDate><item><title>uniq - benachbarte identische Zeilen ausblenden</title><link>https://www.openscreencast.de/blog/uniq.html</link><description>&lt;p&gt;Ausgangspunkt: Ubuntu 10.10, GNOME 2.32&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: cat, sort, uniq&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;

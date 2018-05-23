@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - pessulus</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/pessulus.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 19 Mar 2007 00:01:00 +0100</lastBuildDate><item><title>pessulus</title><link>https://www.openscreencast.de/blog/pessulus.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - pessulus</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/pessulus.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 19 Mar 2007 00:01:00 +0100</lastBuildDate><item><title>pessulus</title><link>https://www.openscreencast.de/blog/pessulus.html</link><description>&lt;p&gt;Ausgangspunkt: Fedora Core 6, GNOME 2.16&lt;br&gt;
 Zielgruppe: Neueinsteiger  &lt;/p&gt;
 &lt;p&gt;Kommandos: pessulus&lt;/p&gt;
 &lt;p&gt;Links:&lt;/p&gt;

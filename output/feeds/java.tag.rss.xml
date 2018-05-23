@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>openscreencast - Java</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/java.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 28 Sep 2010 00:38:00 +0200</lastBuildDate><item><title>Krut</title><link>https://www.openscreencast.de/blog/krut.html</link><description>&lt;p&gt;&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; ist ein Screencast-Tool. Krut wurde in
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>openscreencast - Java</title><link>https://www.openscreencast.de/</link><description></description><atom:link href="https://www.openscreencast.de/feeds/java.tag.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 28 Sep 2010 00:38:00 +0200</lastBuildDate><item><title>Krut</title><link>https://www.openscreencast.de/blog/krut.html</link><description>&lt;p&gt;&lt;a href="http://krut.sourceforge.net/"&gt;Krut&lt;/a&gt; ist ein Screencast-Tool. Krut wurde in
 der Programmiersprache
 &lt;a href="http://de.wikipedia.org/wiki/Java_%28Programmiersprache%29"&gt;Java&lt;/a&gt; geschrieben
 und erstellt Video-Tutorials. Die Videos werden im &lt;a href="http://de.wikipedia.org/wiki/QuickTime"&gt;mov-
