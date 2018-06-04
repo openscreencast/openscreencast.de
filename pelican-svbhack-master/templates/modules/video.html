@@ -1,8 +1,11 @@
 {% if article.youtube %}
 
+<div width="880" height="495">
 <p>
-<iframe width="880" height="495" src="https://www.youtube-nocookie.com/embed/{{ article.youtube }}" frameborder="0" allowfullscreen></iframe>
+<!-- <iframe width="880" height="495" src="https://www.youtube-nocookie.com/embed/{{ article.youtube }}" frameborder="0" allowfullscreen></iframe> -->
+<embetty-video width="880" height="495" type="youtube" video-id="{{ article.youtube }}"></embetty-video>
 </p>
+</div>
 
 <p>
 {% if article.duration %}
@@ -90,14 +93,22 @@
 
 {% elif article.vimeo %}	
 
+<div width="880" height="495">
 <p>
-<iframe src="https://player.vimeo.com/video/{{ article.vimeo }}" width="880" height="495" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/{{ article.vimeo }}" width="880" height="495" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+<embetty-video width="880" height="495" type="vimeo" video-id="{{ article.vimeo }}"></embetty-video>
 </p>
+</div>
 
 <p>
 {% if article.duration %}
+{% if ((article.duration|int % 60000) / 1000)|round|int > 9 %}
 <i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% else %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:0{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
 {% endif %}
+{% endif %}
+
 
 {% if article.license %}
 	{% if article.license == "http://creativecommons.org/licenses/by/3.0/" %}
@@ -183,8 +194,13 @@
 
 <p>
 {% if article.duration %}
+{% if ((article.duration|int % 60000) / 1000)|round|int > 9 %}
 <i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
+{% else %}
+<i class="fa fa-clock-o"></i> {{ article.duration|int // 60000 }}:0{{ ((article.duration|int % 60000) / 1000)|round|int }} min |
 {% endif %}
+{% endif %}
+
 
 {% if article.license %}
 	{% if article.license == "http://creativecommons.org/licenses/by/3.0/" %}

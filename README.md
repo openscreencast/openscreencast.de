@@ -5,7 +5,7 @@ Die content/*.md-Dateien stehen, wenn es keine andere Angabe gibt, unter der [Cr
 
 Software der Webseite: http://blog.getpelican.com/ [github](https://github.com/getpelican/pelican) [Lizenz](https://github.com/getpelican/pelican/blob/master/LICENSE)
 
-Basis-Theme der Webseite: https://github.com/giulivo/pelican-svbhack Released under [MIT License](https://github.com/gfidente/pelican-svbhack/blob/master/LICENSE), pelican-svbhack is authored by [Giulio Fidente](https://github.com/gfidente). (modifiziert von openscreencast.de Lizenz: MIT License]
+Basis-Theme der Webseite: https://github.com/giulivo/pelican-svbhack Released under [MIT License](https://github.com/gfidente/pelican-svbhack/blob/master/LICENSE), pelican-svbhack is authored by [Giulio Fidente](https://github.com/gfidente). (modifiziert von openscreencast.de Lizenz: MIT License)
 
 Plugins: [Pelican Comment System](https://github.com/getpelican/pelican-plugins/tree/master/pelican_comment_system) by [Bernhard Scheirle](https://bernhard.scheirle.de/) ([github](https://github.com/Scheirle)) 
 

@@ -62,10 +62,12 @@ stehen unter der [Creative Commons by 4.0 Lizenz](http://creativecommons.org/lic
 
 [GPG PubKey](http://www.openscreencast.de/gpg-key.asc)
 
-Theme der Webseite: <https://github.com/giulivo/pelican-svbhack> Released under MIT License, 
-pelican-svbhack is authored by [Giulio Fidente](https://github.com/gfidente).    
+Theme der Webseite: <https://github.com/giulivo/pelican-svbhack> Released under [MIT License](https://github.com/gfidente/pelican-svbhack/blob/master/LICENSE), 
+pelican-svbhack is authored by [Giulio Fidente](https://github.com/gfidente), (modifiziert von openscreencast.de ([github](https://github.com/openscreencast/openscreencast.de)) Lizenz: MIT License).    
 Software der Webseite: http://blog.getpelican.com/ [github](https://github.com/getpelican/pelican) [Lizenz](https://github.com/getpelican/pelican/blob/master/LICENSE), http://fontawesome.io/ [github](https://github.com/FortAwesome/Font-Awesome) by [Dave Gandy](https://twitter.com/davegandy) [Lizenz](http://fontawesome.io/license/), http://lesscss.org/ [github](https://github.com/less/less.js) by [Alexis Sellier](http://cloudhead.io/)  [Lizenz](https://github.com/less/less.js/blob/3.x/LICENSE)    
-Plugins: [Pelican Comment System](https://github.com/getpelican/pelican-plugins/tree/master/pelican_comment_system) by [Bernhard Scheirle](https://bernhard.scheirle.de/) ([github](https://github.com/Scheirle)) 
+Plugins: [Pelican Comment System](https://github.com/getpelican/pelican-plugins/tree/master/pelican_comment_system) by [Bernhard Scheirle](https://bernhard.scheirle.de/) ([github](https://github.com/Scheirle))    
+[Embetty](https://github.com/heiseonline/embetty) by [heiseonline](https://github.com/heiseonline), [MIT License](https://github.com/heiseonline/embetty/blob/develop/LICENSE)
+
 
 **Datenschutzerklärung**
 
